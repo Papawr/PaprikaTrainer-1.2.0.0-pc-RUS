@@ -1,0 +1,49 @@
+Sat Oct  9 20:19:47 2021
+Windows-10-10.0.19041
+Ren'Py 7.4.8.1895
+ 
+
+Bootstrap to the start of init.init took 0.27s
+Early init took 0.01s
+Loader init took 0.57s
+Loading error handling took 0.38s
+Loading script took 6.77s
+Loading save slot metadata. took 0.06s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Set script version to: (7, 4, 6)
+Running init code took 0.72s
+Loading analysis data took 1.00s
+Analyze and compile ATL took 0.12s
+Index archives took 0.00s
+Dump and make backups. took 0.32s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.32s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: "Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.01s
+Cleaning stores took 0.00s
+Init translation took 0.40s
+Build styles took 0.01s
+Load screen analysis took 0.02s
+Analyze screens took 0.29s
+Save screen analysis took 1.36s
+Prepare screens took 1.79s
+Save pyanalysis. took 2.62s
+Save bytecode. took 0.66s
+Running _start took 0.01s
+Performance test:
+Interface start took 0.61s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1800, 1200)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'Intel'
+Renderer: 'Intel(R) HD Graphics 615'
+Version: '4.6.0 - Build 26.20.100.7637'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
+Maximum texture size: 4096x4096
