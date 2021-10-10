@@ -4,5 +4,4 @@ translate russia strings:
 
     # game/options.rpy:15
     old "Paprika Trainer"
-    new ""
-
+    new "Paprika Trainer"
