@@ -4,631 +4,630 @@
 translate russia introGame_886f5bbc:
 
     # "Are you sure you want to skip ahead? The intro teaches you some important game mechanics."
-    ""
+    "Вы уверены, что хотите пропустить интро? Оно обучит вас важным игровым механикам"
 
 # game/intro.rpy:66
 translate russia beginIntro_50b5774c:
 
     # LOCATION "Beverly Hills, USA - Somewhere underground..."
-    LOCATION ""
+    LOCATION "Беверли-Хиллз, США - Где-то под землей..."
 
 # game/intro.rpy:71
 translate russia beginIntro_bedf103c:
 
     # yInmate "........................."
-    yInmate ""
+    yInmate "........................."
 
 # game/intro.rpy:72
 translate russia beginIntro_07ead28c:
 
     # yInmate "The World Organization Of Human Protection, better known as WOOHP...."
-    yInmate ""
+    yInmate "Всемирная организация по защите человека, более известная как «WOOHP»...."
 
 # game/intro.rpy:73
 translate russia beginIntro_06f6ee09:
 
     # yInmate "It's fine they said... It's better than spending time in prison they said..."
-    yInmate ""
+    yInmate "Все будет в порядке говорили они... Это лучше, чем проводить время в тюрьме, говорили они...."
 
 # game/intro.rpy:74
 translate russia beginIntro_8c13e9b9:
 
     # yInmate "The WOOHP Asylum for the Criminally Insane is a {i}much{/i} better alternative they said..."
-    yInmate ""
+    yInmate "Психиатрическая больница «WOOHP», для душевнобольных преступников это {i}наилучшая{/i} альтернатива, говорили они..."
 
 # game/intro.rpy:75
 translate russia beginIntro_71ee0bc2:
 
     # yInmate "So they put me in a hole in the ground and threw away the key..."
-    yInmate ""
+    yInmate "И именно по этому они запихнули меня в эту дыру под землей, и выкинули от нее ключ..."
 
 # game/intro.rpy:76
 translate russia beginIntro_0d17423e:
 
     # yInmate "I'm not insane! I just had a few very unfortunes events!"
-    yInmate ""
+    yInmate "Я не сумасшедший! У меня просто было несколько очень неудачных событий!"
 
 # game/intro.rpy:77
 translate russia beginIntro_ced5018e:
 
     # "Guard" "FRONT AND CENTER INMATE!"
-    "Guard" ""
+    "Охранник" "ЦЕНТРАЛЬНЫЙ, ПЕРЕДНИЙ ЗАКЛЮЧЕННЫЙ!"
 
 # game/intro.rpy:78
 translate russia beginIntro_3ad74576:
 
     # yInmate "Gah!"
-    yInmate ""
+    yInmate "Ааа!"
 
 # game/intro.rpy:86
 translate russia beginIntro_723ebf6a:
 
     # "Guard" "WHAT ARE YOU MUTTERING TO YOURSELF ABOUT?! THAT'S SOMETHING AN INSANE PERSON WOULD DO!"
-    "Guard" ""
+    "Охранник" "О ЧЕМ ЭТО ТЫ ТАМ БОРМОЧЕШЬ?! ЭТО КАК РАЗ ТО, ЧЕМ И ЗАНИМАЮТСЯ ПСИХИ!"
 
 # game/intro.rpy:87
 translate russia beginIntro_0eb29cda:
 
     # yInmate "......................"
-    yInmate ""
+    yInmate "......................"
 
 # game/intro.rpy:88
 translate russia beginIntro_0349eca0:
 
     # yInmate "Okay fair enough."
-    yInmate ""
+    yInmate "Довольно, справедливое замечание."
 
 # game/intro.rpy:89
 translate russia beginIntro_0e89f2e8:
 
     # "Guard" "YOU'RE ON CLEANUP DUTY TODAY! THE CLEANING STAFF HASN'T SHOWED UP SO NOW I'M MAKING YOU DO IT!"
-    "Guard" ""
+    "Охранник" "СЕГОДНЯ ТЫ ЗА УБОРЩИКА! РАБОЧИЙ ПЕРСОНАЛ НЕ ПРИШЕЛ НА РАБОТУ, ТАК ЧТО СЕГОДНЯ ТЫ ВОЗЬМЕШЬСЯ ЗА НЕЕ!"
 
 # game/intro.rpy:90
 translate russia beginIntro_4d91bbac:
 
     # yInmate "Isn't that abusing your p-...?"
-    yInmate ""
+    yInmate "Разве это не злоупотребление вашими пол-...?"
 
 # game/intro.rpy:91
 translate russia beginIntro_aced5560:
 
     # "Guard" "ABUSING MY POWER! EXACTLY!"
-    "Guard" ""
+    "Охранник" "ЗЛОУПОТРЕБЛЕНИЕ МОИМИ ПОЛНОМОЧИЯМИ! В ТОЧКУ!"
 
 # game/intro.rpy:92
 translate russia beginIntro_428575fc:
 
     # "Guard" "YOUR ORDERS ARE SIMPLE!{w} KEEP MOPPING THAT FLOOR UNTIL IT SPARKLES. I WANT TO SEE MY FACE IN THAT FLOOR!"
-    "Guard" ""
+    "Охранник" "У ТЕБЯ ОЧЕНЬ ПРОСТАЯ ЗАДАЧА!{w} НАТРИ ЭТОТ ПОЛ ДО БЛЕСКА, ХОЧУ ЧТОБЫ В НЕМ ОТРАЖАЛОСЬ МОЕ ЛИЦО!"
 
 # game/intro.rpy:93
 translate russia beginIntro_7b0df5a4:
 
     # "Guard" "I WANT IT BETTER THAN CLEAN! I WANT IT TO BE HANDSOME!"
-    "Guard" ""
+    "Охранник" "Я ХОЧУ ЧТОБЫ ОН БЫЛ НЕ ПРОСТО ЧИСТЫМ! А ЧТОБЫ ОН БЫЛ АПУПИТЕЛЬНО ЧИСТЫМ!"
 
 # game/intro.rpy:94
 translate russia beginIntro_d5d362de:
 
     # yInmate "Er...."
-    yInmate ""
+    yInmate "Еммм...."
 
 # game/intro.rpy:95
 translate russia beginIntro_e143c089:
 
     # "Guard" "I WANT THIS PLACE TO LOOK SO HANDSOME, THAT WHEN I WALK IN HERE AND SEE MY OWN REFLECTION, I THINK A HANDSOME INTRUDER HAS INVADED THIS FACILITY!"
-    "Guard" ""
+    "Охранник" "Я ХОЧУ ЧТОБЫ ЭТО МЕСТО ВЫГЛЯДЕЛО НАСТОЛЬКО АФФИГИТЕЛЬНО, ЧТО КОГДА Я СЮДА ВХОЖУ И ВИЖУ СВОЕ ОТРАЖЕНИЕ, Я ДУМАЛ ТОЛЬКО ОБ ЭТОМ КРАСИВОМ НЕЗВАНОМ ГОСТЕ, ЧТО ВОРВАЛСЯ СУДА!"
 
 # game/intro.rpy:96
 translate russia beginIntro_40aada53:
 
     # "Guard" "I WANT TO TAKE MY DATE TO THIS ASYLUM AND HAVE HER DUMP ME FOR MY REFLECTION, THAT'S HOW CLEAN I WANT THIS FLOOR TO BE!{w} DO I MAKE MYSELF CLEAR?!"
-    "Guard" ""
+    "Охранник" "Я ХОЧУ ЧТОБЫ ДЕВУШКА, КОТОРУЮ Я ПРИВЕДУ СЮДА НА СВИДАНИЕ, НЕ СМОГЛА ОТЛИЧИТЬ МЕНЯ ОТ МОЕГО ОТРАЖЕНИЯ В ЭТОМ ПОЛУ! {w} Я ЯСНО ВЫРАЖАЮСЬ?!"
 
 # game/intro.rpy:97
 translate russia beginIntro_63ae66cc:
 
     # yInmate "You'd take your date to an asylum?"
-    yInmate ""
+    yInmate "Вы собираетесь привезти девушку на свидание в психушку?"
 
 # game/intro.rpy:98
 translate russia beginIntro_cdd6a058:
 
     # "Guard" "THAT'S ENOUGH OUT OF YOU WISEGUY! HERE'S A BUCKET AND A MOP!"
-    "Guard" ""
+    "Охранник" "ВСЕ С ТЕБЯ ДОСТАТОЧНО, УМНИК! ВОТ ВЕДРО И ШВАБРА!"
 
 # game/intro.rpy:99
 translate russia beginIntro_5bfc9976:
 
     # "Guard" "NOW GET MOPPING!"
-    "Guard" ""
+    "Охранник" "А ТЕПЕРЬ ЗА РАБОТУ!"
 
 # game/intro.rpy:102
 translate russia beginIntro_c8e05118:
 
     # yInmate "YES SIR, ON IT SIR!"
-    yInmate ""
+    yInmate "ТАК ТОЧНО!, ПРИНИМАЮСЬ ЗА РАБОТУ!"
 
 # game/intro.rpy:103
 translate russia beginIntro_0efb1f8a:
 
     # "Guard" "STOP THAT SHOUTING, THIS IS AN ASYLUM, DON'T YOU KNOW?!"
-    "Guard" ""
+    "Охранник" "Хватит кричать, это же психиатрическая больница, забыл что ли?!"
 
 # game/intro.rpy:104
 translate russia beginIntro_9f82ec38:
 
     # yInmate "....................."
-    yInmate ""
+    yInmate "....................."
 
 # game/intro.rpy:106
 translate russia beginIntro_2b2bd210:
 
     # yInmate "I'm pretty sure you're legally required to pay me for this~..."
-    yInmate ""
+    yInmate "По закону вы должны будете заплатить мне за работу~..."
 
 # game/intro.rpy:107
 translate russia beginIntro_4ec79ff8:
 
     # "Guard" "HOT-DOG! YOU'RE RIGHT!{w} HERE'S A DOLLAR!"
-    "Guard" ""
+    "Охранник" "ЁШКИ-МАТРЕКИ! ДА ТЫ ПРАВ!{w} ВОТ ТЕБЕ ДОЛЛАР!"
 
 # game/intro.rpy:111
 translate russia beginIntro_435f7b80:
 
     # yInmate "Thanks~..."
-    yInmate ""
+    yInmate "Спасибо~..."
 
 # game/intro.rpy:113
 translate russia beginIntro_3ef2e238:
 
     # yInmate "Did you know that the national anthem wasn't really written by Francis Scott Key?"
-    yInmate ""
+    yInmate "Знаете ли вы, что национальный гимн на самом деле был написан не Фрэнсисом Скоттом Ки??"
 
 # game/intro.rpy:114
 translate russia beginIntro_cebdf634:
 
     # yInmate "There's compelling evidence that show that a giant panda named Sir Jamie Fitzgerald-...."
-    yInmate ""
+    yInmate "Есть убедительные доказательства того, что гигантская панда по имени сэр Джейми Фицджеральд-...."
 
 # game/intro.rpy:115
 translate russia beginIntro_c59f96e4:
 
     # yInmate "(Oh my God!{w} I really am insane!)"
-    yInmate ""
+    yInmate "(Боже мой!{w} Я реално съехал с катушек!)"
 
 # game/intro.rpy:116
 translate russia beginIntro_17937457:
 
     # "Guard" "THAT'S ENOUGH OUT OF YOU INMATE! {w}EVERYONE KNOWS SIR JAMIE FITZGERALD WAS THE REAL AUTHOR OF THE ANTHEM!"
-    "Guard" ""
+    "Охранник" "ДОСТАТОЧНО! {w}ВСЕ ЗНАЮТ, ЧТО СЭР ДЖЕЙМИ ФИЦДЖЕРАЛЬД БЫЛ НАСТОЯЩИМ АВТОРОМ!"
 
 # game/intro.rpy:117
 translate russia beginIntro_fa1ee728:
 
     # "Guard" "NOW GET TO MOPPING!"
-    "Guard" ""
+    "Охранник" "А ТЕПЕРЬ ЗА РАБОТУ!"
 
 # game/intro.rpy:118
 translate russia beginIntro_f6c255d7:
 
     # yInmate "................."
-    yInmate ""
+    yInmate "................."
 
 # game/intro.rpy:119
 translate russia beginIntro_04805493:
 
     # "Guard" "IN THE MEANTIME I'M HEADING INTO THE MILKSHAKE BAR!"
-    "Guard" ""
+    "Охранник" "А Я ПОКА ЧТО СГОНЯЮ ЗА МОЛОЧНЫМ КОКТЕЙЛЕМ!"
 
 # game/intro.rpy:120
 translate russia beginIntro_6e8dc981:
 
     # yInmate "The... what now?"
-    yInmate ""
+    yInmate "За чем?"
 
 # game/intro.rpy:121
 translate russia beginIntro_0a9b7c7e:
 
     # "Guard" "DON'T TALK BACK TO M-...."
-    "Guard" ""
+    "Охранник" "ЗАВЯЗЫВАЙ БОЛТ-...."
 
 # game/intro.rpy:134
 translate russia beginIntro_b5e75fb7:
 
     # "Guard" "......................................"
-    "Guard" ""
+    "Охранник" "......................................"
 
 # game/intro.rpy:135
 translate russia beginIntro_8b118c34:
 
     # yInmate "...?"
-    yInmate ""
+    yInmate "...?"
 
 # game/intro.rpy:136
 translate russia beginIntro_8046f0fc:
 
     # "Guard" "Overthrow~....{w} Anarchy~....{w} Chaos~....."
-    "Guard" ""
+    "Охранник" "Свергнуть~....{w} Анархия~....{w} Хаос~....."
 
 # game/intro.rpy:137
 translate russia beginIntro_89ae3cdf:
 
     # "The guard suddenly stops paying attention to you as he blindly stares into space."
-    ""
+    "Охранник внезапно перестаёт обращать на вас внимание и просто пялится в пустоту."
 
 # game/intro.rpy:138
 translate russia beginIntro_e954652e:
 
     # yInmate "Ehrm... Are you okay...?"
-    yInmate ""
+    yInmate "Емм... Вы в порядке...?"
 
 # game/intro.rpy:141
 translate russia beginIntro_4775792d:
 
     # "Without another word, the zombiefied guard walks out of the cellblock."
-    ""
+    "Не проронив ни слова Охранник выходит из камеры."
 
 # game/intro.rpy:142
 translate russia beginIntro_2b68a6b1:
 
     # yInmate "..........................."
-    yInmate ""
+    yInmate "..........................."
 
 # game/intro.rpy:143
 translate russia beginIntro_8610d6ac:
 
     # yInmate "I guess the guards are as insane as the inmates..."
-    yInmate ""
+    yInmate "Судя по всему Охранники здесь такие же долбанутые, как и заключённые...."
 
 # game/intro.rpy:144
 translate russia beginIntro_1391e557:
 
     # yInmate "Well...! Idle hands are the devil's playthings. Best get busy mopping."
-    yInmate ""
+    yInmate "Ну что ж...! \"Праздные руки - игрушки дьявола\". Лучше всего заняться уборкой."
 
 # game/intro.rpy:147
 translate russia beginIntro_7a1ff032:
 
     # "You spend a couple of hours cleaning the place."
-    ""
+    "Вы тратите пару часов на уборку."
 
 # game/intro.rpy:148
 translate russia beginIntro_ceb5afb5:
 
     # "The other inmates looks skittish and on edge. Quietly muttering to each other and going silent as you walk by."
-    ""
-
+    "Другие заключенные выглядят напуганными. Они тихо бормочут друг с другом и замолкают, как только вы подходите ближе."
 # game/intro.rpy:149
 translate russia beginIntro_ebd972d4:
 
     # "???" "Hey pssst~...."
-    "???" ""
+    "???" "Ей ты~...."
 
 # game/intro.rpy:153
 translate russia beginIntro_462987e0:
 
     # yInmate "....?"
-    yInmate ""
+    yInmate "....?"
 
 # game/intro.rpy:157
 translate russia beginIntro_be849fa3:
 
     # "???" "You can stop cleaning now, mon ami.{w} Would you like to know a secret...?"
-    "???" ""
+    "???" "Можешь заканчивать с уборкой, mon ami.{w} Хочешь узнать секретик...?"
 
 # game/intro.rpy:158
 translate russia beginIntro_0c282acc:
 
     # "???" "We're busting out of zis place soon. {w}Haven't you noticed ze chaos going on upstairs?"
-    "???" ""
+    "???" "Мы скоро покинем это местечко. {w} Разве ты не заметил хаос, происходящий наверху?"
 
 # game/intro.rpy:160
 translate russia beginIntro_3fcc1eef:
 
     # yInmate "Chaos...?"
-    yInmate ""
+    yInmate "Хаос...?"
 
 # game/intro.rpy:161
 translate russia beginIntro_04946c27:
 
     # "You listen closely and hear sirens and what appears to be gunshots going off in the outside world."
-    ""
+    "Вы прислушиваетесь. Звук сирены и выстрелов доносятся где-то снаружи."
 
 # game/intro.rpy:162
 translate russia beginIntro_66a9666b:
 
     # yInmate "Oh sorry. I didn't notice. I'm from Chicago so this isn't anything new."
-    yInmate ""
+    yInmate "Ой я даже как-то и не заметил. Я из Чикаго, так что для меня это в порядке вещей."
 
 # game/intro.rpy:163
 translate russia beginIntro_d86bc299:
 
     # "???" "Just wait for ze lights to flicker~...."
-    "???" ""
+    "???" "Просто подожди, пока свет замерцает ~...."
 
 # game/intro.rpy:164
 translate russia beginIntro_716c5ad4:
 
     # yInmate "The ligh-...?"
-    yInmate ""
+    yInmate "Свет-...?"
 
 # game/intro.rpy:188
 translate russia beginIntro_0036bb31:
 
     # "You hear a loud explosion happening overhead."
-    ""
+    "Вы слышите громкий взрыв где-то над вами."
 
 # game/intro.rpy:189
 translate russia beginIntro_792c1f78:
 
     # yInmate "What the...?!"
-    yInmate ""
+    yInmate "Что за...?!"
 
 # game/intro.rpy:190
 translate russia beginIntro_838607e5:
 
     # "You see the inmates smirk as one by one their celldoors open."
-    ""
+    "Вы видите, как заключенные ухмыляются, когда камеры одна за другой открываются."
 
 # game/intro.rpy:195
 translate russia beginIntro_11f8eaab:
 
     # "???" "Zis is your chance! Come with us and escape!"
-    "???" ""
+    "???" "Это твой шансик, побежали с нами!"
 
 # game/intro.rpy:196
 translate russia beginIntro_306ff346:
 
     # yInmate "I appreciate the offer, but I'm not done cleaning yet."
-    yInmate ""
+    yInmate "Я ценю твое предложение, но я еще не закончил с уборкой."
 
 # game/intro.rpy:197
 translate russia beginIntro_6cd0d75c:
 
     # "???" "....................."
-    "???" ""
+    "???" "....................."
 
 # game/intro.rpy:198
 translate russia beginIntro_92377c23:
 
     # "???" "You really are insane...~"
-    "???" ""
+    "???" "Ты действительно чокнулся...~"
 
 # game/intro.rpy:199
 translate russia beginIntro_256e05d1:
 
     # "???" "Come on everybody! Let's get out of here!"
-    "???" ""
+    "???" "Народ! Пора выбираться от сюда!"
 
 # game/intro.rpy:203
 translate russia beginIntro_93c8cf0c:
 
     # "In a storm, the inmates make a run for it, rushing their way out of the cellblock."
-    ""
+    "В суматохе все заключённые покидают свои камеры."
 
 # game/intro.rpy:204
 translate russia beginIntro_205e02de:
 
     # yInmate "..............."
-    yInmate ""
+    yInmate "..............."
 
 # game/intro.rpy:208
 translate russia beginIntro_5103a77d:
 
     # yInmate "Like my old nan always says. {i}'You might scream and cry and hollar, but a dollar is still a dollar.'{/i}."
-    yInmate ""
+    yInmate "Как всегда, говорила моя тётка: {i}'Ты можешь кричать, плакать и биться в агонии, но доллар все равно останется долларом.'{/i}."
 
 # game/intro.rpy:209
 translate russia beginIntro_20192415:
 
     # yInmate "..........."
-    yInmate ""
+    yInmate "..........."
 
 # game/intro.rpy:210
 translate russia beginIntro_3b225d24:
 
     # yInmate "Then again, she also said the Emancipation Proclamation was a mistake...{w} We don't talk much to her anymore."
-    yInmate ""
+    yInmate "С другой стороны, она также говорила, что Прокламация об освобождении рабов была ошибкой....{w} Мы давненько не общались с ней."
 
 # game/intro.rpy:213
 translate russia beginIntro_335c0d89:
 
     # "You spend a little bit more time cleaning until everything sparkles."
-    ""
+    "Вы тратите немного времени на уборку, пока все во круг не начало блестеть."
 
 # game/intro.rpy:214
 translate russia beginIntro_39746c0f:
 
     # yInmate "Wow... my reflection {i}'is'{/i} handsome!"
-    yInmate ""
+    yInmate "Ого... мое отражение {i}'оно'{/i} офигенное!"
 
 # game/intro.rpy:215
 translate russia beginIntro_38b84761:
 
     # "You're satisfied with a job well done and exit the detention area."
-    ""
+    "Вы довольны хорошо выполненной работой и выходите из зоны содержания."
 
 # game/intro.rpy:219
 translate russia beginIntro_415ab3fc:
 
     # yInmate "Like my old nan always says. {i}'Better shoot a cop than work with a mop!'{/i}."
-    yInmate ""
+    yInmate "Как всегда, говорила моя тётка: {i}'Лучше застрелить копа, чем работать шваброй!'{/i}."
 
 # game/intro.rpy:220
 translate russia beginIntro_20192415_1:
 
     # yInmate "..........."
-    yInmate ""
+    yInmate "..........."
 
 # game/intro.rpy:221
 translate russia beginIntro_3b225d24_1:
 
     # yInmate "Then again, she also said the Emancipation Proclamation was a mistake...{w} We don't talk much to her anymore."
-    yInmate ""
+    yInmate "С другой стороны, она также говорила, что Прокламация об освобождении рабов была ошибкой....{w} Мы давненько не общались с ней."
 
 # game/intro.rpy:222
 translate russia beginIntro_8d297c65:
 
     # "Dropping your mop, you make your way to the exit of the prisonblock."
-    ""
+    "Бросив швабру, вы пробираетесь к выходу из тюремного блока."
 
 # game/intro.rpy:226
 translate russia beginIntro_549abbcf:
 
     # yInmate "Now let's get out of here and start my new life."
-    yInmate ""
+    yInmate "Пора сваливать отсюда и начинать новую жизнь."
 
 # game/intro.rpy:227
 translate russia beginIntro_ba6dc0bb:
 
     # yInmate "This elevator seems to head upstairs to the exit..."
-    yInmate ""
+    yInmate "Похоже, что этот лифт, направляется наверх к выходу..."
 
 # game/intro.rpy:233
 translate russia tutStage2_a3a882c8:
 
     # y "Yeah, I think I'm good to go."
-    y ""
+    y "Думаю можно сваливать."
 
 # game/intro.rpy:234
 translate russia tutStage2_c418b099:
 
     # y "I can't wait to get a job and begin my new well adjusted and respectable life!{w} Maybe a doctor, a lawyer...{w} Or a telemarketeer!"
-    y ""
+    y "Не могу дождаться, чтобы найти работу и начать свою новую, хорошо налаженную и респектабельную жизнь!{w} Может стану, врачом, юристом...{w} Или телемаркетологом!"
 
 # game/intro.rpy:236
 translate russia tutStage2_bfb040cc:
 
     # "You step into the elevator."
-    ""
+    "Вы входите в лифт."
 
 # game/intro.rpy:237
 translate russia tutStage2_8bfa6204:
 
     # y "Hmm.... ground floor, prison block or... bullet train?"
-    y ""
+    y "Хм.... первый этаж, тюремный блок или... сверхскоростной поезд?"
 
 # game/intro.rpy:238
 translate russia tutStage2_6af9fa81:
 
     # y "It looks like this place is connected to WOOHP HQ via train."
-    y ""
+    y "Похоже, что это место связано со штаб-квартирой «WOOHP» поездом."
 
 # game/intro.rpy:239
 translate russia tutStage2_8b4bcd7e:
 
     # "Opting not to take your chances, you head to ground level."
-    ""
+    "Решив не рисковать, вы направляетесь на первый этаж."
 
 # game/intro.rpy:242
 translate russia tutStage2_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/intro.rpy:243
 translate russia tutStage2_33237942:
 
     # y "Oh right, the violence in the streets...."
-    y ""
+    y "Точно, \"Хаос на улицах\""
 
 # game/intro.rpy:244
 translate russia tutStage2_4007e1ff:
 
     # "You look around."
-    ""
+    "Вы осматриваетесь."
 
 # game/intro.rpy:245
 translate russia tutStage2_f871de75:
 
     # y "Where am I? It looks like some old timey....{w} Milkshake bar!{w} This place looks like it hasn't been used since the 50s."
-    y ""
+    y "Где это я? Это похоже на какой-то старомодный....{w} Молочно коктейльный-бар! {w} Это место выглядит так, как будто его не использовали с 50-х годов."
 
 # game/intro.rpy:246
 translate russia tutStage2_b9b2a9fa:
 
     # y "Well I'm not gonna get a job in a dump like this. Best head outside."
-    y ""
+    y "Ну что же я не собираюсь работать на такой свалке. По коням!"
 
 # game/intro.rpy:249
 translate russia tutStage2_2850a1e9:
 
     # "You step outside and are greeted by armageddon."
-    ""
+    "Вы выходите на улицу и вас встречает Армагеддон."
 
 # game/intro.rpy:250
 translate russia tutStage2_152b4cbd:
 
     # "Everywhere you look, you see gangs fighting in the open street."
-    ""
+       "Куда бы вы ни посмотрели, вы видите банды, сражающиеся между собой на открытой улице."
 
 # game/intro.rpy:251
 translate russia tutStage2_286d0a18:
 
     # "Police cars are burning, shops are being looted and gunfire can be heard around every corner."
-    ""
+      "Полицейские машины горят, магазины грабят, и за каждым углом слышна стрельба."
 
 # game/intro.rpy:252
 translate russia tutStage2_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/intro.rpy:253
 translate russia tutStage2_5df9405f:
 
     # "You decided to head back inside."
-    ""
+    "Вы решили вернуться внутрь."
 
 # game/intro.rpy:255
 translate russia tutStage2_c0b0888d:
 
     # y "Yeah... Let's wait until things calm down a bit...~"
-    y ""
+    y "Дааа уж... Подожду немного, пока все немного не уляжется....~"
 
 # game/intro.rpy:258
 translate russia tutStage2_f1d3701b:
 
     # y "All this violence is making me thirsty."
-    y ""
+    y "От всего этого насилие, у меня в горле пересохло."
 
 # game/intro.rpy:259
 translate russia tutStage2_1e621ad4:
 
     # y "Let's see if I can pour myself a shake!"
-    y ""
+    y "Налью´ка я себе коктейля!"
 
 # game/intro.rpy:260
 translate russia tutStage2_a80136b9:
 
     # "You pour yourself a milkshake."
-    ""
+    "Вы наливаете себе молочный коктейль."
 
 # game/intro.rpy:261
 translate russia tutStage2_c26a8916:
 
     # y "Delicious!"
-    y ""
+    y "Вкуснотища!"
 
 # game/intro.rpy:262
 translate russia tutStage2_7597c3a3:
 
     # "........{w}........{w}........"
-    ""
+    "........{w}........{w}........"
 
 # game/intro.rpy:263
 translate russia tutStage2_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/intro.rpy:264
 translate russia tutStage2_0f8ee318:
 
     # y "Funny, I expected it to-..."
-    y ""
+    y "Забавно, я думал что это будет-..."
 
 # game/intro.rpy:269
 translate russia tutStage2_462f2b4b:
@@ -2926,31 +2925,31 @@ translate russia tutPrison_971bdd97:
 translate russia tutPrison_ccbe683a:
 
     # yInmate "This hatch seems to lead to another room downstairs."
-    yInmate ""
+    yInmate "Этот люк, кажется, ведет в другую комнату внизу."
 
 # game/intro.rpy:1084
 translate russia tutPrison_3f28de3b:
 
     # yInmate "Let's have a quick peak~..."
-    yInmate ""
+    yInmate "Давайте-ка глянем~..."
 
 # game/intro.rpy:1086
 translate russia tutPrison_8b118c34:
 
     # yInmate "...?"
-    yInmate ""
+    yInmate "...?"
 
 # game/intro.rpy:1088
 translate russia tutPrison_4c8cb383:
 
     # "You find {color=#ffeda6}Agent Suit{/color}."
-    ""
+    "Вы находите {color=#ffeda6}костюм Агента{/color}."
 
 # game/intro.rpy:1091
 translate russia tutPrison_b4e54db1:
 
     # y "That's more like it!"
-    y ""
+    y "Вот! Так-то лучше!"
 
 # game/intro.rpy:1092
 translate russia tutPrison_6dfd9913:
@@ -7042,55 +7041,55 @@ translate russia strings:
 
     # game/intro.rpy:17
     old "Begin intro"
-    new ""
+    new "Запустить Интро"
 
     # game/intro.rpy:22
     old "Yes, skip the intro"
-    new ""
+    new "Да, пропустите интро"
 
     # game/intro.rpy:22
     old "Let me play the intro"
-    new ""
+    new "Начать с интро"
 
     # game/intro.rpy:100
     old "YES SIR!"
-    new ""
+    new "ТАК ТОЧНО!"
 
     # game/intro.rpy:100
     old "Am I getting paid for this?"
-    new ""
+    new "Мне заплатят?"
 
     # game/intro.rpy:100
     old "Say something insane"
-    new ""
+    new "Сказать что-то безумное"
 
     # game/intro.rpy:205
     old "Finish your job (+Karma)"
-    new ""
+    new "Закончить свою работу (+Карма)"
 
     # game/intro.rpy:205
     old "Escape (-Karma)"
-    new ""
+    new "Побег (-Карма)"
 
     # game/intro.rpy:256
     old "Have a milkshake"
-    new ""
+    new "Взять молочный коктейль"
 
     # game/intro.rpy:256
     old "Clean the milkshake bar"
-    new ""
+    new "Убраться в баре"
 
     # game/intro.rpy:256
     old "Head back downstairs"
-    new ""
+    new "Вернутся вниз"
 
     # game/intro.rpy:438
     old "Power"
-    new ""
+    new "Власть"
 
     # game/intro.rpy:438
     old "Wealth"
-    new ""
+    new "Богатство"
 
     # game/intro.rpy:438
     old "Tiddies"
@@ -7187,4 +7186,3 @@ translate russia strings:
     # game/intro.rpy:2785
     old "Grab and run! (-Karma)"
     new ""
-
