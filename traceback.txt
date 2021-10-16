@@ -1,0 +1,72 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While processing text tag {W} in u'\u041d\u043e! {W} \u0422\u044b \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u0433\u043e\u0442\u043e\u0432 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0440\u0430\u0434\u0438 \u043d\u0438\u0445. \u0415\u0441\u043b\u0438 \u043c\u044b \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u043c\u0441\u044f \u0432\u0435\u0440\u043d\u0443\u0442\u044c \u0411\u0435\u0432\u0435\u0440\u043b\u0438-\u0425\u0438\u043b\u043b\u0437 \u0438 \u043d\u0430\u0432\u0435\u0441\u0442\u0438 \u043f\u043e\u0440\u044f\u0434\u043e\u043a, \u0442\u043e \u0442\u0435\u0431\u0435 \u043f\u0440\u0438\u0434\u0435\u0442\u0441\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0438\u0442\u044c \u0443\u0441\u0438\u043b\u0438\u044f.'.:
+  File "game/tl/russia/intro.rpy", line 1230, in script
+    s g31 "Но! {W} Ты должен быть готов работать ради них. Если мы собираемся вернуть Беверли-Хиллз и навести порядок, то тебе придется приложить усилия."
+Exception: Unknown text tag u'W'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/tl/russia/intro.rpy", line 1230, in script
+    s g31 "Но! {W} Ты должен быть готов работать ради них. Если мы собираемся вернуть Беверли-Хиллз и навести порядок, то тебе придется приложить усилия."
+  File "renpy/ast.py", line 716, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "renpy/exports.py", line 1417, in say
+    who(what, *args, **kwargs)
+  File "renpy/character.py", line 1223, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "renpy/character.py", line 875, in do_display
+    **display_args)
+  File "renpy/character.py", line 621, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "renpy/ui.py", line 298, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "renpy/display/core.py", line 3276, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs)
+  File "renpy/display/core.py", line 3793, in interact_core
+    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
+  File "renpy/display/core.py", line 2521, in draw_screen
+    renpy.config.screen_height,
+  File "render.pyx", line 492, in renpy.display.render.render_screen
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/display/layout.py", line 814, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/display/layout.py", line 814, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/display/layout.py", line 814, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/display/screen.py", line 681, in render
+    child = renpy.display.render.render(self.child, w, h, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/display/layout.py", line 814, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/display/layout.py", line 1238, in render
+    st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/display/layout.py", line 814, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 263, in renpy.display.render.render
+  File "renpy/text/text.py", line 2060, in render
+    virtual_layout = Layout(self, width, height, renders, drawable_res=False, size_only=True)
+  File "renpy/text/text.py", line 610, in __init__
+    self.paragraphs = self.segment(text.tokens, style, renders, text)
+  File "renpy/text/text.py", line 1240, in segment
+    raise Exception("Unknown text tag %r" % text)
+Exception: Unknown text tag u'W'
+
+Windows-10-10.0.19041
+Ren'Py 7.4.8.1895
+Paprika Trainer 1.1.0.5
+Sat Oct 16 21:24:51 2021
