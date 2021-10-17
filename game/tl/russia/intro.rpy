@@ -1605,295 +1605,295 @@ translate russia tutStage3_56163a2a:
 translate russia tutStage3_5489650e:
 
     # c "Good morning New Guy."
-    c ""
+    c "С добрым утром новичок."
 
 # game/intro.rpy:577
 translate russia tutStage3_729f874e:
 
     # y "Good morning. Got any rest?"
-    y ""
+    y "Доброе утро. Отдохнула?"
 
 # game/intro.rpy:578
 translate russia tutStage3_827e5690:
 
     # c "A little. I'm eager to get started today."
-    c ""
+    c "Да, немного. Не терпится приступить к работе."
 
 # game/intro.rpy:579
 translate russia tutStage3_6d8134ab:
 
     # y "Let's get a lay of the land. See what's happening out there on the streets."
-    y ""
+    y "Давай посмотрим, что к чему и узнаем, что происходит на улицах."
 
 # game/intro.rpy:585
 translate russia tutStage3_e43ca421_1:
 
     # "The two of you take the elevator upstairs and step out of the milkshake bar."
-    ""
+    "Вы вдвоём поднимаетесь на лифте и выходите из бара."
 
 # game/intro.rpy:589
 translate russia tutStage3_2e433754:
 
     # cM "Beverly Hills... Look what they did to it....{w} My favorite shoe store is on fire!"
-    cM ""
+    cM "Беверли-Хиллз... Что же, они сделали с тобой....{w} Мой любимый обувной магазин, он горит!"
 
 # game/intro.rpy:590
 translate russia tutStage3_0dc455f1_1:
 
     # y "Yeah it looks like we got our work cut out for us."
-    y ""
+    y "Да, похоже, у нас есть над чем поработать."
 
 # game/intro.rpy:591
 translate russia tutStage3_7d452feb:
 
     # cM "I'll do some digging around. I'll meet you back here tonight."
-    cM ""
+    cM "Я снова покопаюсь в округе. Встретимся здесь вечером."
 
 # game/intro.rpy:592
 translate russia tutStage3_2ab5fadc:
 
     # "Clover gets ready and heads out into the city."
-    ""
+    "Кловер собирается и отправляется в город."
 
 # game/intro.rpy:593
 translate russia tutStage3_4f03d40a:
 
     # y "Right, let's do some exploring."
-    y ""
+    y "По исследуем немного, вперёд к приключениям!"
 
 # game/intro.rpy:600
 translate russia tutStage4_40f3c005:
 
     # "It's still early in the morning and everything is quiet. The streets are littered with gunshell casings, burned up cars and dumpsters, shattered glass and the occassional passed out drunk."
-    ""
+    "Сейчас все ещё раннее утро, и вокруг все спокойно. Улицы усеяны гильзами, сгоревшими машинами и мусорными контейнерами. Осколки стекла и случайные пьяницы в отключке хаотично разбросаны по тротуару."
 
 # game/intro.rpy:601
 translate russia tutStage4_12821e96:
 
     # y "{b}*Whistling*{/b}"
-    y ""
+    y "{b}*Свист*{/b}"
 
 # game/intro.rpy:602
 translate russia tutStage4_f50332cc:
 
     # "Turning a corner you suddenly see a gangs of thugs listening to a girl on a soapbox."
-    ""
+    "Повернув за угол, вы вдруг видите банду головорезов, слушающих девушку на ораторском ящике."
 
 # game/intro.rpy:603
 translate russia tutStage4_33ccced8:
 
     # "As soon as they notice you, they come straight at you."
-    ""
+    "Как только они тебя заметят, они тут же набросятся на тебя."
 
 # game/intro.rpy:604
 translate russia tutStage4_a438d728:
 
     # y "{b}*Worried Whistling*{/b}"
-    y ""
+    y "{b}*Беспокойный свист*{/b}"
 
 # game/intro.rpy:605
 translate russia tutStage4_64610f67:
 
     # "Thug 1" "You thought you could just come in on our turf and start whistling?!"
-    "Thug 1" ""
+    "Головорез 1" "Ты думал, что просто можешь прийти на нашу территорию и начать тут свистеть?!"
 
 # game/intro.rpy:606
 translate russia tutStage4_aac6b6c7:
 
     # "Thug 2" "Hey my mom got hit by a driver who was whistling!"
-    "Thug 2" ""
+    "Головорез 2" "Эй, мою маму сбил водитель, что постоянно свистел!"
 
 # game/intro.rpy:607
 translate russia tutStage4_86c2f517:
 
     # "Thug 1" "Who do you think you are? Coming here and reminding my friend of such a tragic incident. I think we need to teach you a lesson!"
-    "Thug 1" ""
+    "Головорез 1" "Кем ты себя возомнил и как ты смеешь напоминать моему другу о столь трагичном инциденте в его жизни?! Думаю, нам стоит преподать тебе урок!"
 
 # game/intro.rpy:608
 translate russia tutStage4_7597f00a:
 
     # y "{b}*Paniced Whistling*{/b}"
-    y ""
+    y "{b}*Панический свист*{/b}"
 
 # game/intro.rpy:609
 translate russia tutStage4_621f841f:
 
     # "???" "Un moment~... Zis one is with moi~..."
-    "???" ""
+    "???" "Уно моментик~... Этот с муа~..."
 
 # game/intro.rpy:622
 translate russia tutStage4_6a4f6d74:
 
     # "???" "My my my, look who's made it out of ze asylum~..."
-    "???" ""
+    "???" "Божечки мои, посмотрите, кто это выбрался из психушки..."
 
 # game/intro.rpy:623
 translate russia tutStage4_f868491c:
 
     # "???" "Why are you dressed like a WOOHP Agent...?"
-    "???" ""
+    "???" "Почему ты одет как агентик WOOHP...?"
 
 # game/intro.rpy:624
 translate russia tutStage4_52211446:
 
     # y "Why are you dressed like a potted plant?"
-    y ""
+    y "А почему ты одета как комнатное растение?"
 
 # game/intro.rpy:625
 translate russia tutStage4_d6842a75:
 
     # "???" "Oh! You don't know who I am? I am Silva Abegail. World famous botanist and plant-whisperer!"
-    "???" ""
+    "???" "О! Ты не знаешь, кто я? Я Сильва Абегэйл. Всемирно известный ботаник и шептун-растениевод!"
 
 # game/intro.rpy:626
 translate russia tutStage4_42bd6c67:
 
     # "Silva" "Look around you. Not bad, non? Our own little corner of ze world, ripe for ze plunder~..."
-    "Silva" ""
+    "Сильва" "Оглянись вокруг. Не плохо, правда? Наш маленький уголок мира, созревший для разграбления~..."
 
 # game/intro.rpy:627
 translate russia tutStage4_be96616f:
 
     # y "You planned all this?"
-    y ""
+    y "Ты все это спланировала?"
 
 # game/intro.rpy:628
 translate russia tutStage4_9dcf8253:
 
     # "Silva" "Oh heaven no! That credit goes to ze mastermind of this operation. It was his idea to use WOOHP's nanobots against zem."
-    "Silva" ""
+    "Сильва" "Ох, божечки, нет! Эта заслуга магистра, он организовал эту операцию. Это была его идея использовать наноботов WOOHP против них самих же."
 
 # game/intro.rpy:629
 translate russia tutStage4_55dcbf44:
 
     # y "Nanobots?!"
-    y ""
+    y "Наноботов?!"
 
 # game/intro.rpy:630
 translate russia tutStage4_8574e139:
 
     # "Silva" "Nanobots."
-    "Silva" ""
+    "Сильва" "Наноботов."
 
 # game/intro.rpy:631
 translate russia tutStage4_210e6283:
 
     # y "Nanobots....?"
-    y ""
+    y "Наноботы....?"
 
 # game/intro.rpy:632
 translate russia tutStage4_68507934:
 
     # "Silva" "Oui... nanobots."
-    "Silva" ""
+    "Сильва" "Даа... наноботы."
 
 # game/intro.rpy:633
 translate russia tutStage4_2e535746:
 
     # y "How...{w} cliché."
-    y ""
+    y "Как...{w} клишировано."
 
 # game/intro.rpy:634
 translate russia tutStage4_32972633:
 
     # "Silva" "All that was required was a little... 'reprogramming'. And now zey are fighting for us!"
-    "Silva" ""
+    "Сильва" "Все, что потребовалось, это небольшое... 'перепрограммирование'. И теперь они сражаются за нас."
 
 # game/intro.rpy:635
 translate russia tutStage4_aa7708e8:
 
     # "Silva" "Ze mastermind freed us from our cells to prove ourselves. We all took control of gangs here in ze city. I'm in command of 'Les Épines'."
-    "Silva" ""
+    "Сильва" "Магистр освободил нас из наших камер, чтобы мы могли проявить себя. Мы все взяли под контроль разные банды в этом городе. Я командую 'Les Épines' *(Шипами)*."
 
 # game/intro.rpy:636
 translate russia tutStage4_79bcb7e5:
 
     # "Silva" "Ze one who manages to take over all of Beverly Hills can join ze mastermind in his conquest for world domination."
-    "Silva" ""
+    "Сильва" "Тот, кому удастся захватить весь Беверли-Хиллз, сможет присоединиться к магистру в его борьбе за мировое господство."
 
 # game/intro.rpy:637
 translate russia tutStage4_5989d1f9:
 
     # "You turn your attention to the gangsters."
-    ""
+    "Вы обращаете свое внимание на бандитов."
 
 # game/intro.rpy:638
 translate russia tutStage4_a4bc582c:
 
     # y "And you're okay with this?"
-    y ""
+    y "И вас ничего не смущает?"
 
 # game/intro.rpy:639
 translate russia tutStage4_cfd46a2d:
 
     # "Thug" "I'LL DO WHATEVER MISS ABEGAIL SAYS!!!"
-    "Thug" ""
+    "Головорез" "Я СДЕЛАЮ ВСЕ, ЧТО СКАЖЕТ МИСС АБЕГЭЙЛ!!!"
 
 # game/intro.rpy:640
 translate russia tutStage4_d3a59cb5:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/intro.rpy:641
 translate russia tutStage4_a7020b7b:
 
     # "Silva" "Oh zey don't have much of a choice. {w}Afterall~... We've infected {i}them{/i} with nanobots aswell..."
-    "Silva" ""
+    "Сильва" "Ох, ну у них особо нет выбора. {w}В конце концов~... Мы также заразили {i}их{/i} с помощью наноботов..."
 
 # game/intro.rpy:642
 translate russia tutStage4_81384f5a:
 
     # "Silva" "Now your presence here sort of leaves me in a bind~..."
-    "Silva" ""
+    "Сильва" "Теперь твое присутствие ставит меня в затруднительное положение~..."
 
 # game/intro.rpy:643
 translate russia tutStage4_a279534f:
 
     # "Silva" "I have nothing against you mon ami, but I can't have a rival standing in my way..."
-    "Silva" ""
+    "Сильва" "Я не имею ничего против тебя, мона ми, но я не могу допустить, чтобы на моем пути стоял сопернички...."
 
 # game/intro.rpy:646
 translate russia tutStage4_04975854:
 
     # y "Listen here {i}'mon cheri'{/i}~..."
-    y ""
+    y "Послушай {i}'мона ми'{/i}~..."
 
 # game/intro.rpy:647
 translate russia tutStage4_eaf3b408:
 
     # y "Just because I broke out of a insane asylum with supervillains, doesn't mean I want to take over the world."
-    y ""
+    y "Даже если я сидел в психушки с супер-злодеями и вырвался от туда, то это не значит, что я тут же захочу захватить мир."
 
 # game/intro.rpy:648
 translate russia tutStage4_16fe428d:
 
     # y "You go and have a blast taking over the world while I worry about getting a dayjob."
-    y ""
+    y "Ты иди и отрывайся, захватывай мир, а я пойду поищу подработку."
 
 # game/intro.rpy:649
 translate russia tutStage4_f0c05817:
 
     # sil "But zat is so boring! Wouldn't you much rather be powerful? Own your own country~...?"
-    sil ""
+    sil "Но это же скукотища! Разве ты не хочешь власть, могущества и силы? Иметь свою собственную страну~...?"
 
 # game/intro.rpy:650
 translate russia tutStage4_cec389b7:
 
     # sil "Have everything you've ever wanted...."
-    sil ""
+    sil "Иметь все, о чем ты когда-либо мечтал...."
 
 # game/intro.rpy:651
 translate russia tutStage4_69093eba:
 
     # y "I already have Netflix. What more could I want?"
-    y ""
+    y "У меня уже есть Netflix. О чем ещё я могу мечтать?"
 
 # game/intro.rpy:652
 translate russia tutStage4_e2c2b37a:
 
     # y "Sorry lady, but the villain lifestyle is not for me."
-    y ""
+    y "Уж простите меня миледи, но злодейский образ жизни не для меня."
 
 # game/intro.rpy:654
 translate russia tutStage4_e47190a4:
@@ -7093,96 +7093,96 @@ translate russia strings:
 
     # game/intro.rpy:438
     old "Tiddies"
-    new ""
+    new "Сисечки"
 
     # game/intro.rpy:644
     old "'I'm not a threat to you!'"
-    new ""
+    new "'Я не представляю для вас угрозы!'"
 
     # game/intro.rpy:644
     old "'Neat, I wanna be a gangster'"
-    new ""
+    new "'Отлично, я хочу быть гангстером'"
 
     # game/intro.rpy:644
     old "*Say something crazy*"
-    new ""
+    new "*Сказать что-нибудь безумное*"
 
     # game/intro.rpy:918
     old "Call Sam"
-    new ""
+    new "Позвонить Сэм"
 
     # game/intro.rpy:918
     old "Call Clover"
-    new ""
+    new "Позвонить Кловер"
 
     # game/intro.rpy:918
     old "Call Alex"
-    new ""
+    new "Позвонить Алекс"
 
     # game/intro.rpy:918
     old "Go to sleep"
-    new ""
+    new "Пойти спать"
 
     # game/intro.rpy:927
     old "???"
-    new ""
+    new "???"
 
     # game/intro.rpy:927
     old "Chat"
-    new ""
+    new "Написать"
 
     # game/intro.rpy:927
     old "Change naming"
-    new ""
+    new "Изменить наименования"
 
     # game/intro.rpy:1122
     old "Type in: '12345'"
-    new ""
+    new "Ввести: '12345'"
 
     # game/intro.rpy:1122
     old "Type in: 'WOOHP'"
-    new ""
+    new "Ввести: 'WOOHP'"
 
     # game/intro.rpy:1122
     old "Type in: 'pistachios'"
-    new ""
+    new "Ввести: 'фисташки'"
 
     # game/intro.rpy:1196
     old "Spy on Sam"
-    new ""
+    new "Шпионить за Сэм"
 
     # game/intro.rpy:1196
     old "Spy on Clover"
-    new ""
+    new "Шпионить за Кловер"
 
     # game/intro.rpy:1196
     old "Spy on Alex"
-    new ""
+    new "Шпионить за Алекс"
 
     # game/intro.rpy:1280
     old "Mess around with it"
-    new ""
+    new "Разобраться с этим"
 
     # game/intro.rpy:1280
     old "Leave it be"
-    new ""
+    new "Оставить все как есть"
 
     # game/intro.rpy:2640
     old "Shoot one of them"
-    new ""
+    new "Застрелите одного из них"
 
     # game/intro.rpy:2640
     old "Surrender the bar"
-    new ""
+    new "Отдать бар"
 
     # game/intro.rpy:2640
     old "Say something crazy"
-    new ""
+    new "Сказать что-то безумное"
 
     # game/intro.rpy:2785
     old "Take a loan (+Karma)"
-    new ""
+    new "Взять кредит (+Карма/-Почка)"
 
     # game/intro.rpy:2785
     old "Grab and run! (-Karma)"
-    new ""
+    new "Хватай и беги! (-Карма)"

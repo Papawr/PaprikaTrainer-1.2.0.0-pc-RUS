@@ -34206,3 +34206,569 @@ translate russia strings:
     old "'I've see better'"
     new ""
 
+# TODO: Translation updated at 2021-10-17 19:03
+
+# game/status.rpy:1913
+translate russia testMe_c77c3148:
+
+    # "Landgrabs happen ever 30 days. Currently it's [timetograb] more days until the next one."
+    ""
+
+# game/status.rpy:1914
+translate russia testMe_b22b20b4:
+
+    # "During a Landgrab, you can send freed WOOHP agents to fight for you in the streets and try to bring enemy lieutenants out of hiding."
+    ""
+
+# game/status.rpy:1915
+translate russia testMe_fba4425f:
+
+    # "However, you can lose agents during the fight. Agents can be captured by planning missions and using the {color=#ffeda6}Hypno Earring{/color} gadget."
+    ""
+
+# game/status.rpy:1916
+translate russia testMe_3dd9a308:
+
+    # "After they've been captured and send to the base, you can break them out of their nanobot control by throwing down dirty magazines into the basement."
+    ""
+
+# game/status.rpy:1918
+translate russia testMe_0baf7e97:
+
+    # "You can see when the next landgrab is by clicking on the 'Agents' button at the top of the screen. Here you can also choose to skip to the next Landgrab in case you don't want to wait."
+    ""
+
+# game/status.rpy:1919
+translate russia testMe_6626d1fc:
+
+    # "Spies send undercover during a Landgrab earn a reputation boost, but risk getting hurt on the job."
+    ""
+
+# game/status.rpy:1921
+translate russia testMe_58d96226:
+
+    # "Some missions will not become available until you've captured certain gangleaders. Therefor the best order would be to capture the first Lt. of each gang, before moving on to the second."
+    ""
+
+# game/status.rpy:1939
+translate russia testMe_00040114:
+
+    # y "Company meeting!"
+    y ""
+
+# game/status.rpy:1944
+translate russia testMe_30687c86:
+
+    # y "Today I wanted to talk abou-..."
+    y ""
+
+# game/status.rpy:1945
+translate russia testMe_d361245c:
+
+    # "{b}*Ting* *Ting*{/b}"
+    ""
+
+# game/status.rpy:1946
+translate russia testMe_29bc5049:
+
+    # "???" "Hello?"
+    "???" ""
+
+# game/status.rpy:1947
+translate russia testMe_aa785824:
+
+    # y "Sorry, we're not open ye-...."
+    y ""
+
+# game/status.rpy:1963
+translate russia testMe_e71b99db:
+
+    # "Agent 1" "What a lovely milkshake bar you have here!"
+    "Agent 1" ""
+
+# game/status.rpy:1964
+translate russia testMe_ee99fffe:
+
+    # y "Er..."
+    y ""
+
+# game/status.rpy:1968
+translate russia testMe_21cfb035:
+
+    # "Agent 2" "Quite the milkshake bar you found here fellow agent!"
+    "Agent 2" ""
+
+# game/status.rpy:1969
+translate russia testMe_c98142a2:
+
+    # y ".................."
+    y ""
+
+# game/status.rpy:1973
+translate russia testMe_d7d1fb09:
+
+    # "Agent 3" "A charming little milkshake bar?! How quaint! Surprising how it survived the chaos this long!"
+    "Agent 3" ""
+
+# game/status.rpy:1974
+translate russia testMe_fa47215b:
+
+    # y "Heh heh~... yeah big surprise~..."
+    y ""
+
+# game/status.rpy:1975
+translate russia testMe_28801176:
+
+    # "Agent 1" "........................."
+    "Agent 1" ""
+
+# game/status.rpy:1976
+translate russia testMe_072f1426:
+
+    # "Agent 1" "Wait... Something's not quite righ-...."
+    "Agent 1" ""
+
+# game/status.rpy:1977
+translate russia testMe_96dad439:
+
+    # y "GET 'EM!"
+    y ""
+
+# game/status.rpy:2016
+translate russia testMe_9324afc6:
+
+    # a y28 "WOOHP Agents!"
+    a y28 ""
+
+# game/status.rpy:2017
+translate russia testMe_8f62761d:
+
+    # s g29 "That was close...!"
+    s g29 ""
+
+# game/status.rpy:2018
+translate russia testMe_13c57710:
+
+    # c r37 "We can't have them reporting back to WOOHP and blow our cover. Luckily it was only three this time."
+    c r37 ""
+
+# game/status.rpy:2019
+translate russia testMe_633a6e4d:
+
+    # a y49 "What do we do with them...?"
+    a y49 ""
+
+# game/status.rpy:2020
+translate russia testMe_17ab0564:
+
+    # y "I don't know. I've never hid a body before!{w} Put them downstairs in the basement I guess."
+    y ""
+
+# game/status.rpy:2021
+translate russia testMe_bf7c3d29:
+
+    # a "{b}*Nods*{/b}"
+    a ""
+
+# game/status.rpy:2024
+translate russia testMe_225595a0:
+
+    # y "And now we have a couple of mindcontrolled agents in the base...."
+    y ""
+
+# game/status.rpy:2025
+translate russia testMe_60cf6055:
+
+    # c r1 "This works in our favor! If we break their nanobot control, we can use them in the next Landgrab!"
+    c r1 ""
+
+# game/status.rpy:2026
+translate russia testMe_1ebe22a9:
+
+    # y "That's what I was thinkin-..."
+    y ""
+
+# game/status.rpy:2027
+translate russia testMe_0ef670cc:
+
+    # a "Eep!"
+    a ""
+
+# game/status.rpy:2029
+translate russia testMe_f1657285:
+
+    # "???" "Daylight stings my eyes!"
+    "???" ""
+
+# game/status.rpy:2030
+translate russia testMe_ae4bfad7:
+
+    # y "!!!"
+    y ""
+
+# game/status.rpy:2032
+translate russia testMe_6faed475:
+
+    # a y29 "Er... [playerName]? There's already an agent downstairs."
+    a y29 ""
+
+# game/status.rpy:2033
+translate russia testMe_d3a59cb5:
+
+    # y "............................."
+    y ""
+
+# game/status.rpy:2037
+translate russia testMe_57168065:
+
+    # "Agent" "Hi! I'm still here!"
+    "Agent" ""
+
+# game/status.rpy:2038
+translate russia testMe_40271c89:
+
+    # y "Are you that agent we captured during the first mission...?"
+    y ""
+
+# game/status.rpy:2039
+translate russia testMe_3203e85f:
+
+    # y "How did you survive down there for all this time...?"
+    y ""
+
+# game/status.rpy:2040
+translate russia testMe_da97e51d:
+
+    # "Agent" "My undying dedication to the mission!"
+    "Agent" ""
+
+# game/status.rpy:2041
+translate russia testMe_db832180:
+
+    # y "........"
+    y ""
+
+# game/status.rpy:2042
+translate russia testMe_0ff703d4:
+
+    # y "Suuure~...{w} Say... Do you want to help us retake Beverly Hills?"
+    y ""
+
+# game/status.rpy:2043
+translate russia testMe_d83b6620:
+
+    # "Agent" "Boy do I! I can't wait to deal out some justice!{w} Preferably with my fists!"
+    "Agent" ""
+
+# game/status.rpy:2044
+translate russia testMe_fed0b3d6:
+
+    # y "Oh easy there. We're gonna send you out during the next Landgrab."
+    y ""
+
+# game/status.rpy:2045
+translate russia testMe_8e1bf4df:
+
+    # s g31 "If we can break the nano-control over these other agents, we could use them to help."
+    s g31 ""
+
+# game/status.rpy:2046
+translate russia testMe_6db73817:
+
+    # y ".........................."
+    y ""
+
+# game/status.rpy:2047
+translate russia testMe_fce37da7:
+
+    # s g18 "What?"
+    s g18 ""
+
+# game/status.rpy:2048
+translate russia testMe_d4636c00:
+
+    # y "You know what is needed to break agents out of their control, right?"
+    y ""
+
+# game/status.rpy:2050
+translate russia testMe_983b94a6:
+
+    # s "Well... yeah. We have to increase their oxytocin levels~..."
+    s ""
+
+# game/status.rpy:2051
+translate russia testMe_ec01b85a:
+
+    # y "And how do we do that~...?"
+    y ""
+
+# game/status.rpy:2052
+translate russia testMe_5c6cf512:
+
+    # s ".........................."
+    s ""
+
+# game/status.rpy:2053
+translate russia testMe_e3e16dc2:
+
+    # s g19 "{size=-10}By having sex..."
+    s g19 ""
+
+# game/status.rpy:2054
+translate russia testMe_05c7fd16:
+
+    # y "Exactly! Time to get naked!"
+    y ""
+
+# game/status.rpy:2055
+translate russia testMe_e4e62ab5:
+
+    # s g28 "N-now wait a minute!"
+    s g28 ""
+
+# game/status.rpy:2056
+translate russia testMe_23e27976:
+
+    # c r31 "We're not gonna start showing off our naked bodies to every member of WOOHP. One is enough."
+    c r31 ""
+
+# game/status.rpy:2057
+translate russia testMe_a5c1bc99:
+
+    # a y29 "We could just buy some dirty magazines."
+    a y29 ""
+
+# game/status.rpy:2058
+translate russia testMe_05d09e98:
+
+    # y "Dirty magazines...?"
+    y ""
+
+# game/status.rpy:2059
+translate russia testMe_a82223c7:
+
+    # a y1 "Yeah, we can just buy some magazines with those dirty pictures from the bookstore at the mall."
+    a y1 ""
+
+# game/status.rpy:2060
+translate russia testMe_9b0b95e2:
+
+    # a "If we throw a few of those down into the basement, I bet that will break the agents from their trance!"
+    a ""
+
+# game/status.rpy:2061
+translate russia testMe_7b7f2369:
+
+    # y "It'll cost us some money, but that's a good alternative."
+    y ""
+
+# game/status.rpy:2065
+translate russia testMe_18ceca81:
+
+    # "You captured a few more WOOHP Agents and it's time to free them from their nanobot control."
+    ""
+
+# game/status.rpy:2066
+translate russia testMe_05094001:
+
+    # "Luckily breaking the nanobot control over captured agents isn't that hard. Visit the bookstore to buy cheap porn magazines and give them to the captured agents in your basement."
+    ""
+
+# game/status.rpy:2067
+translate russia testMe_0ea4dbc5:
+
+    # "Once agents have been freed, they can participate in Landgrabs and help liberate Beverly Hills."
+    ""
+
+# game/status.rpy:2069
+translate russia testMe_16222c52:
+
+    # y "Okay, let's wrap this up. We've got quite a day ahead of us."
+    y ""
+
+# game/status.rpy:2070
+translate russia testMe_5a2dcbda:
+
+    # "Agent" "What should I do?!"
+    "Agent" ""
+
+# game/status.rpy:2071
+translate russia testMe_42fb3646:
+
+    # y "Er... You...{w} Here. Put this one."
+    y ""
+
+# game/status.rpy:2074
+translate russia testMe_40e9eb54:
+
+    # y "You are now a chef."
+    y ""
+
+# game/status.rpy:2075
+translate russia testMe_50bbbf6c:
+
+    # "Agent" "An important job! I will not disappoint you!"
+    "Agent" ""
+
+# game/status.rpy:2098
+translate russia testMe_d5c53159:
+
+    # mel "What's going on out here?!"
+    mel ""
+
+# game/status.rpy:2099
+translate russia testMe_2a27cb3f:
+
+    # "Aces gangster" "We're under attack from all sides! We've got Punks on our left, Outsiders on our right and WOOHP agents fighting us from our front!"
+    "Aces gangster" ""
+
+# game/status.rpy:2100
+translate russia testMe_d48a0b44:
+
+    # mel "WOOHP Agen-...?"
+    mel ""
+
+# game/status.rpy:2101
+translate russia testMe_3032c70f:
+
+    # "Outsiders Chick" "More Aces, get them!"
+    "Outsiders Chick" ""
+
+# game/status.rpy:2102
+translate russia testMe_30be022b:
+
+    # mel "Fine... I'll show you how it's done."
+    mel ""
+
+# game/status.rpy:2122
+translate russia testMe_b5d4557f:
+
+    # y "Okay girls, I received intel that a new Lieutenant has shown herself."
+    y ""
+
+# game/status.rpy:2123
+translate russia testMe_8b2a79b7:
+
+    # y "Her name is Melody von...{w} Guggen..."
+    y ""
+
+# game/status.rpy:2124
+translate russia testMe_390bc4e9:
+
+    # y "That's a pretty crazy last name..."
+    y ""
+
+# game/status.rpy:2126
+translate russia testMe_d963f4cb:
+
+    # a y29 "Wait, did you say von Guggen?"
+    a y29 ""
+
+# game/status.rpy:2127
+translate russia testMe_2d574665:
+
+    # y "That name ring a bell?"
+    y ""
+
+# game/status.rpy:2128
+translate russia testMe_d0b0d805:
+
+    # c r34 "We fought a Helga von Guggen a long time ago."
+    c r34 ""
+
+# game/status.rpy:2129
+translate russia testMe_cde11bd6:
+
+    # s g43 "Could be her granddaughter. She's probably after revenge."
+    s g43 ""
+
+# game/status.rpy:2130
+translate russia testMe_efe66fc3:
+
+    # y "Reports are saying she's hanging out at the Aces Castle, but security is ramped up. You're going to have to get closer before you have a chance to capture her."
+    y ""
+
+# game/status.rpy:2132
+translate russia testMe_47cb1d67:
+
+    # s "Make sure to focus on capturing the first Lieutenant of each gang first."
+    s ""
+
+# game/status.rpy:2133
+translate russia testMe_ac859cf3:
+
+    # s "We can't risk one gang getting the upperhand over the others."
+    s ""
+
+# game/status.rpy:2135
+translate russia testMe_c8346d00:
+
+    # y "I'm gonna keep sending you undercover with the Aces. Hopefully we'll get a chance to take her in."
+    y ""
+
+# game/status.rpy:2136
+translate russia testMe_a2abf71c:
+
+    # "The girls nod and leave for their cell."
+    ""
+
+# game/status.rpy:5913
+translate russia task13_bda12796:
+
+    # y "You ever think we might not be in control of our own destiny?{w} Like some all powerful omnipitant force is writing our words for us?"
+    y ""
+
+# game/status.rpy:6268
+translate russia task15_d320d8e3:
+
+    # s "We just gotta worry about the initial payment. Let's say... $1.000?"
+    s ""
+
+# game/status.rpy:6270
+translate russia task15_bb531d7f:
+
+    # y "Music from Punk Web\nFireworks from the Abandoned Amusement Park\nSlutty college girls from the school.\nA budget of 1.000 dollars."
+    y ""
+
+# game/status.rpy:7859
+translate russia task21_da403e6b:
+
+    # y "(He's a keen one. Best not to take any risks and keep my distance.)"
+    y ""
+
+# game/status.rpy:8236
+translate russia retryHack_e6e14b29:
+
+    # sM "Sebastian Saga..."
+    sM ""
+
+# game/status.rpy:9767
+translate russia task26_75ed27a5:
+
+    # s g30 "We... never really found out what happened to her. Just that Jerry got fed up with her bossy personality."
+    s g30 ""
+
+# game/status.rpy:10291
+translate russia task26_8a589bfb:
+
+    # y "I saw where you make the gadgets, the hidden civilian surveillance, the prisons, the propaganda center..."
+    y ""
+
+# game/status.rpy:10571
+translate russia endgameMenu1_9c8f9dcc:
+
+    # tim "And if I do? You're just going to throw me back in my cell."
+    tim ""
+
+# game/status.rpy:11213
+translate russia endgameMenu1_a32dcb03:
+
+    # c r29 "Yeah that's right! Alex has been put in charge of guarding the WOOHP missile silos!"
+    c r29 ""
+
+# game/status.rpy:12769
+translate russia task32_884e3d3f:
+
+    # y "Somehow I doubt that this only cost $2.000..."
+    y ""
+

@@ -2480,3 +2480,11 @@ translate russia strings:
     old "Info"
     new ""
 
+# TODO: Translation updated at 2021-10-17 19:03
+
+# game/script.rpy:2430
+translate russia landgrabPlanning_1e7bdbc2:
+
+    # "Muffy Peprich is now available for capture. Send your spies on a mission to The Carnival to capture her."
+    ""
+

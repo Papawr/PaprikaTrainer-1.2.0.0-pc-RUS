@@ -10568,3 +10568,11 @@ translate russia strings:
     old "Take the three dollars"
     new ""
 
+# TODO: Translation updated at 2021-10-17 19:03
+
+# game/jobReport.rpy:3415
+translate russia jump2me_e2bc6722:
+
+    # a "It went really well! I just practised my dancing while I was there which seemed to give him the motivation he needed to get to work!"
+    a ""
+

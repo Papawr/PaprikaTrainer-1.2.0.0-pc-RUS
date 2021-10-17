@@ -8209,4 +8209,3 @@ translate russia strings:
     # game/worldmap.rpy:4574
     old "Don't hug Sam"
     new ""
-

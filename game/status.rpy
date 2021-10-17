@@ -1900,6 +1900,8 @@ label task3:
         mag "I'd say I helped you out quite a bit...{w} Any chance of letting me go?"
         y "Not a chance."
         mag "Curses...."
+        label testMe:
+            pass
         hide scene_darkening
         show scene_fighting
         with d3
@@ -1915,6 +1917,9 @@ label task3:
         scene skipLandgrabTut with fade
         "You can see when the next landgrab is by clicking on the 'Agents' button at the top of the screen. Here you can also choose to skip to the next Landgrab in case you don't want to wait."
         "Spies send undercover during a Landgrab earn a reputation boost, but risk getting hurt on the job."
+        scene orderOfCaptureTut with fade
+        "Some missions will not become available until you've captured certain gangleaders. Therefor the best order would be to capture the first Lt. of each gang, before moving on to the second."
+        pause
         $ mainQuestUpdate = True
         $ task7Text = "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Free at least 5 WOOHP Agents\n-Assault the Aces during the next Landgrab.\n\nTip: Remember, you can capture more agents by using {color=#ffeda6}Hypno Earrings{/color} during missions."
         hide scene_fighting with d3
@@ -2123,7 +2128,11 @@ label task3:
         c r34 "We fought a Helga von Guggen a long time ago."
         s g43 "Could be her granddaughter. She's probably after revenge."
         y "Reports are saying she's hanging out at the Aces Castle, but security is ramped up. You're going to have to get closer before you have a chance to capture her."
-        y "I'm gonna keep sending you undercover with the Aces. Hopefully we'll get a chance to take her in."
+        if specialMaggieStatus <= 1 or specialDragonStatus <= 1 or specialMuffyStatus <= 1:
+            s "Make sure to focus on capturing the first Lieutenant of each gang first."
+            s "We can't risk one gang getting the upperhand over the others."
+        elif True:
+            y "I'm gonna keep sending you undercover with the Aces. Hopefully we'll get a chance to take her in."
         "The girls nod and leave for their cell."
         stop music fadeout 3.0
         $ mainQuestUpdate = True
@@ -5901,7 +5910,7 @@ label task13:
             "Say something insane" if True:
                 y "..............................."
                 c r16 "Oh no... I know that look on his face."
-                y "You ever think we might not in control of our own destiny?{w} Like some all powerful omnipitant force is writing our words for us?"
+                y "You ever think we might not be in control of our own destiny?{w} Like some all powerful omnipitant force is writing our words for us?"
                 y "Like from one line to the next, we might say something completely crazy and out of characters?"
                 a y14 "I believe you're experiencing what is known as Depersonalization Disorder or DPDR. In which the person has a presistent or recurrent feeling of derealization or a disconnect from one's self."
                 y ".................."
@@ -6256,9 +6265,9 @@ label task15:
         y "Pick up some thirsty college sluts. Got it."
         y "So... how are we gonna pay for all this?"
         s "I think I can convince the Aces to pay for most of it."
-        s "We just gotta worry about the initial payment. Let's say... $2.000?"
+        s "We just gotta worry about the initial payment. Let's say... $1.000?"
         y "Okay so we'll need..."
-        y "Music from Punk Web\nFireworks from the Abandoned Amusement Park\nSlutty college girls from the school.\nA budget of 2000 dollars."
+        y "Music from Punk Web\nFireworks from the Abandoned Amusement Park\nSlutty college girls from the school.\nA budget of 1.000 dollars."
         s "Yup, that's bound to put me in good graces with the gang."
         y "Let's do it then."
         hide green with d3
@@ -6276,7 +6285,7 @@ label task15:
         hide screen nanoLevelAlex
         call undressSam from _call_undressSam_28
         call greenOutfitSet from _call_greenOutfitSet_9
-        $ cash -= 2000
+        $ cash -= 1000
         $ task15Stage = 2
         show scene_darkening with d3
         show green g1 at ri with d3
@@ -7847,7 +7856,7 @@ label task21:
                 y "(I can't push my luck. Best follow him at a reasonable distance...)"
                 "You wait for the man to cross the street before continuing the persuit."
             "Follow far away" if True:
-                y "(He's a keen one. Best not to any risks and keep my distance.)"
+                y "(He's a keen one. Best not to take any risks and keep my distance.)"
                 "You give the man plenty of time to get out of reach before you persue him."
         model "................"
         model "Hm...?"
@@ -8224,7 +8233,7 @@ label task23:
             with fade
             "???" "Well well well, ain't this a surprise..."
             aM "{b}*Gasp*{/b} That voice...!"
-            sM "Sebastian Sage..."
+            sM "Sebastian Saga..."
             hide sebModel1 with d2
             hide scene_camera
             show sebModel2 at ce
@@ -9755,7 +9764,7 @@ label task26:
         y "Who's GLADIS?"
         c r29 "She's an AI... an old friend of ours."
         a y28 "She used to give us our gadgets!"
-        s g30 "We... never really found out what happened to hear. Just that Jerry got fed up with her bossy personality."
+        s g30 "We... never really found out what happened to her. Just that Jerry got fed up with her bossy personality."
         brit b52 "He had her recycled."
         s g56 "But...! GLADIS is a fully aware and functional AI! That's like killing her!"
         brit "Exactly."
@@ -10279,7 +10288,7 @@ label task26:
         y "Yup. Top to bottom."
         jerry "I see..."
         "Jerry bends over his desk and opens a cupboard."
-        y "I saw where you make the gadgets, the hidden civilian surfailance, the prisons, the propaganda center..."
+        y "I saw where you make the gadgets, the hidden civilian surveillance, the prisons, the propaganda center..."
         y "..................."
         y "On second thought. I probably didn't have clearance to see those..."
         jerry "Correct."
@@ -10401,7 +10410,7 @@ label task26:
                         "Soon after you evacuated, the US Military moved in and GLADIS launched her missle arsenal. Leaving the city and WOOHP in ruins."
                         show text "Game Over" with dissolve
                         pause
-                        return
+                        $ MainMenu(confirm=False)()
                     "What am I saying?! Of course not!" if True:
                         jump endgameMenu1
             "Say something insane" if True:
@@ -10559,7 +10568,7 @@ label task26:
         tim "Just me. Did you let us out of our cells?"
         y "Yes. It's a long story, but the short of it is... GLADIS is preparing to nuke the entire city."
         y "We need your help taking back the milkshake bar. Then we can make a plan on how to stop her."
-        tim "And if I do? You're just going to throw me back in my cells."
+        tim "And if I do? You're just going to throw me back in my cell."
         y ".........................."
         menu:
             "I promise to let you go (+Karma)" if True:
@@ -11201,7 +11210,7 @@ label task26:
         c r18 "Missiles...?"
         c "I think I heard Alex saying something about that."
         s g56 "Alex?"
-        c r29 "Yeah that's right! Alex has been put in charge of guardian the WOOHP missile silos!"
+        c r29 "Yeah that's right! Alex has been put in charge of guarding the WOOHP missile silos!"
         y "Then that's where we're going next.{w} Head back to your cell and get some rest. We're planning a mission to WOOHP tomorrow."
         hide red
         hide green
@@ -12662,7 +12671,7 @@ label task32:
         menu:
             "Build a stripclub" if True:
                 $ task32Name = "Build-A-Bar"
-                $ task32Text = "Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.\n\n-Have atleast $5000.\n-Have atleast 4 staff members.\n-Find someone who can help you get the word out."
+                $ task32Text = "Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.\n\n-Have atleast $2000.\n-Have atleast 4 staff members.\n-Find someone who can help you get the word out."
                 $ task32Stripclub = 1
                 y "Not only would it be a good way to bring in some extra money. It should also help keeping your nanobots suppressed."
                 s g31 "But I'm n-...!"
@@ -12734,7 +12743,7 @@ label task32:
                         jump base
                 $ task32Stage = 2
                 $ task32Text = "{color=#A3A3A3}Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.{/color}\n\nThe stripclub has opened and I can now send my girls to go stripping there in the evening."
-                $ cash -= 5000
+                $ cash -= 2000
                 kim "Moneh moneh moneh!"
                 kim "Okay, let's get things moving~..."
                 hide scene_darkening
@@ -12757,7 +12766,7 @@ label task32:
                     "'I love it'" if True:
                         $ kimFace = 3
                         kim "I thought you would. We can start dancing here now."
-                        y "Somehow I doubt that this only cost $5.000..."
+                        y "Somehow I doubt that this only cost $2.000..."
                         kim "Oh no, all the equipment was stolen. We only had to pay for setting things up."
                         y "Oh..."
                     "'It's okay'" if True:

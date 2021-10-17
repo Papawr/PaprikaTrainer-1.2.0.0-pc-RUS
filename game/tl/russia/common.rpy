@@ -1137,3 +1137,14 @@ translate russia strings:
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Копирует файл errors.txt в буфер обмена как Markdown для Discord."
+# TODO: Translation updated at 2021-10-17 19:04
+
+translate russia strings:
+
+    # renpy/common/00accessibility.rpy:29
+    old "Clipboard voicing enabled."
+    new "Clipboard voicing enabled."
+
+    # renpy/common/00accessibility.rpy:30
+    old "Self-voicing enabled."
+    new "Self-voicing enabled."

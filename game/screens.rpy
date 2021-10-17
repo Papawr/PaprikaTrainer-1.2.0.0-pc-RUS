@@ -933,13 +933,6 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                vbox:
-                    style_prefix "radio"
-                    label _("Language")
-                    textbutton _("Englisch") action Language(None)
-                    textbutton _("Русский") action Language("russia")
-
-
 
 
 

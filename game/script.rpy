@@ -82,6 +82,7 @@ image bgBookstore = "bgs/bgBookstore.jpg"
 image bgSamCell = "bgs/bgSamCell.jpg"
 image bgAudioroom = "bgs/bgAudioroom.jpg"
 image skipLandgrabTut = "bgs/skipLandgrabTut.jpg"
+image orderOfCaptureTut = "bgs/orderOfCaptureTut.jpg"
 image bgFaire = "bgs/bgFaire.jpg"
 image bgEngineer = "bgs/bgEngineer.jpg"
 image bgPropaganda = "bgs/bgPropaganda.jpg"
@@ -1130,7 +1131,7 @@ screen mapButtons:
             add "gui/qMarker1.png" xpos 105 ypos 150
         if task6Stage == 6 and acesRep >= 9 and acesRank >= 3:
             add "gui/qMarker1.png" xpos 105 ypos 150
-        if task6Stage == 9 and acesRep >= 18 and acesRank >= 3 and specialMelodyStatus == 1:
+        if task6Stage == 9 and acesRep >= 18 and acesRank >= 3 and specialMelodyStatus == 1 and specialDragonStatus >= 2 and specialMuffyStatus >= 2:
             add "gui/qMarker1.png" xpos 105 ypos 150
         if task15Stage == 0 and acesRep >= 9 and acesRank >= 4:
             add "gui/qMarker1.png" xpos 105 ypos 150
@@ -2426,6 +2427,7 @@ label landgrabPlanning:
             hide text
             with d3
             "Outsiders Lieutenant identified: Muffy Peprich."
+            "Muffy Peprich is now available for capture. Send your spies on a mission to The Carnival to capture her."
         if outsidersStrength <= 45 and specialFelicityStatus == 0:
             pause 0.5
             $ specialFelicityStatus = 1
@@ -2456,17 +2458,13 @@ label landgrabPlanning:
             $ outsidersStrength = 0
 
 
-        $ randLosses = renpy.random.randint(1,4)
+        $ randLosses = renpy.random.randint(1,3)
         if randLosses == 1:
             $ freedAgents -= 1
         elif randLosses == 2:
             $ freedAgents -= 2
         elif randLosses == 3:
             $ freedAgents -= 3
-        elif randLosses == 4:
-            $ freedAgents -= 4
-        elif randLosses == 5:
-            $ freedAgents -= 5
         if randLosses >= 1:
             "You lost [randLosses] agent(s) to nanobot control during the last attack."
         jump worldmap

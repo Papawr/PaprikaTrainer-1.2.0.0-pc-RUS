@@ -713,11 +713,11 @@ label missionLocNxt:
         $ intelCost = 200
     elif missionScreenCurrentLocation == 4:
         $ intelCost = 200
-    elif missionScreenCurrentLocation == 5:
-        $ intelCost = 0
     if missionScreenCurrentLocation >= 6:
         $ intelCost = 100
         $ missionScreenCurrentLocation = 1
+    if missionScreenCurrentLocation == 5:
+        $ intelCost = 0
     call screen missionScreenButtons
 
 label missionLocPrv:
@@ -731,11 +731,11 @@ label missionLocPrv:
         $ intelCost = 200
     elif missionScreenCurrentLocation == 4:
         $ intelCost = 200
-    elif missionScreenCurrentLocation == 5:
-        $ intelCost = 0
     if missionScreenCurrentLocation <= 0:
         $ intelCost = 0
         $ missionScreenCurrentLocation = 5
+    if missionScreenCurrentLocation == 5:
+        $ intelCost = 0
     call screen missionScreenButtons
 
 

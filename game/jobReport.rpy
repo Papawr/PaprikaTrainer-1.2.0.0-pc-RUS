@@ -3412,7 +3412,7 @@ label jobReport:
                 a "Then when I came back he suddenly got inspiration and continued working. He's made some decent progress today."
             if randMathias == 3:
                 $ hackProgress += 15
-                a "It went really well! I just practising my dancing while I was there which seemed to give him the motivation he needed to get to work!"
+                a "It went really well! I just practised my dancing while I was there which seemed to give him the motivation he needed to get to work!"
                 a "He said he got a lot done today."
             hide yellow
             hide scene_darkening
@@ -3546,7 +3546,7 @@ label jobReport:
 jump base
 
 default daysTillMissle = 30
-default finaleAirportDef = 100
+default finaleAirportDef = 80
 label jobReportFinale:
     $ tod = 2
     scene black with fade
@@ -3589,7 +3589,7 @@ label jobReportFinale:
         if spy0Status == 1:
             $ spy0Status = 0
             show O5O at ri with d3
-            $ findKeyMember = renpy.random.randint(1,4)
+            $ findKeyMember = renpy.random.randint(1,3)
             if findKeyMember == 1:
                 if spy5Status == -1 and task30Stage >= 3:
                     $ spy5Status = 0
@@ -3657,7 +3657,7 @@ label jobReportFinale:
         if spy4Status == 1:
             $ spy4Status = 0
             show britney at ri with d3
-            $ findKeyMember = renpy.random.randint(1,4)
+            $ findKeyMember = renpy.random.randint(1,3)
             if findKeyMember == 1:
                 if spy5Status == -1 and task30Stage >= 3:
                     $ spy5Status = 0
@@ -3723,7 +3723,7 @@ label jobReportFinale:
         if spy5Status == 1:
             $ spy5Status = 0
             show kim at ri with d3
-            $ findKeyMember = renpy.random.randint(1,4)
+            $ findKeyMember = renpy.random.randint(1,3)
             if findKeyMember == 1:
                 if spy6Status == -1 and socialSilva >= 12:
                     $ spy6Status = 0
@@ -3770,7 +3770,7 @@ label jobReportFinale:
         if spy6Status == 1:
             $ spy6Status = 0
             show silvaModel at ri with d3
-            $ findKeyMember = renpy.random.randint(1,4)
+            $ findKeyMember = renpy.random.randint(1,3)
             if findKeyMember == 1:
                 sil "I found 'im!"
 

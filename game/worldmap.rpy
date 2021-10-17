@@ -1243,7 +1243,7 @@ label acesMapSelect:
                     jump task6
                 "Send undercover" if True:
                     pass
-        if task6Stage == 9 and acesRank >= 3 and acesRep >= 18 and specialMelodyStatus == 1:
+        if task6Stage == 9 and acesRank >= 3 and acesRep >= 18 and specialMelodyStatus == 1 and specialDragonStatus >= 2 and specialMuffyStatus >= 2:
             menu:
                 "{color=#EFD66D}'A Foot in the Door'{/color}" if True:
                     jump task6
