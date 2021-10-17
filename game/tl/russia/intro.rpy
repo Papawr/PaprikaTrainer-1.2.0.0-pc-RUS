@@ -1899,511 +1899,511 @@ translate russia tutStage4_e2c2b37a:
 translate russia tutStage4_e47190a4:
 
     # y "A rival? Starting my own gang sounds pretty cool, but I need a theme~..."
-    y ""
+    y "Соперник? Создать собственную банду - звучит довольно круто, но мне нужна определённая тематика~..."
 
 # game/intro.rpy:655
 translate russia tutStage4_85f56774:
 
     # y "What about a bee theme! Every superhero universe has a bee-themed villain!"
-    y ""
+    y "А как насчет пчелиной темы! В каждой вселенной супергероев есть злодей с пчелиной тематикой!"
 
 # game/intro.rpy:656
 translate russia tutStage4_ab62a731:
 
     # sil "Really? A bee could go well with my flower theme~.... If you know what I'm saying~...."
-    sil ""
+    sil "Правда? Пчёлы могут хорошо сочетаться с моей цветочной тематикой.~.... Если ты понимаешь, о чем я~...."
 
 # game/intro.rpy:657
 translate russia tutStage4_45d8c000:
 
     # y "Yes I know what you're insinuating."
-    y ""
+    y "Да, я понимаю, на что ты намекаешь."
 
 # game/intro.rpy:658
 translate russia tutStage4_51650392:
 
     # sil "Well then maybe you and I shou-..."
-    sil ""
+    sil "Тогда, может нам с тобой стоит-..."
 
 # game/intro.rpy:659
 translate russia tutStage4_b2ec547d:
 
     # y "Cause bees pollinate flowers."
-    y ""
+    y "Ведь пчёлы опыляют цветы."
 
 # game/intro.rpy:660
 translate russia tutStage4_ac900cc2:
 
     # sil "Yes... So maybe you and I sho-..."
-    sil ""
+    sil "Да... Так что, может, мы с тобой-..."
 
 # game/intro.rpy:661
 translate russia tutStage4_dbc57974:
 
     # y "Sex. You're talking about sex."
-    y ""
+    y "Секс. Ты говоришь о сексе."
 
 # game/intro.rpy:662
 translate russia tutStage4_82368d0f:
 
     # sil "..........................."
-    sil ""
+    sil "..........................."
 
 # game/intro.rpy:663
 translate russia tutStage4_0fd7dbde:
 
     # y "Also the answer is no."
-    y ""
+    y "Мой ответ нет."
 
 # game/intro.rpy:664
 translate russia tutStage4_e9f4f8df:
 
     # y "You just said that you were trying to get rid of your rivals, so you'll betray me at the first opportunity you get."
-    y ""
+    y "Ты только что сказала, что пытаешься избавиться от своих конкурентов, так что ты предашь меня при первой же возможности."
 
 # game/intro.rpy:665
 translate russia tutStage4_03b9ab1b:
 
     # y "How about you go play gangster while I look for a respectable job! {w}Like zookeeper."
-    y ""
+    y "Может, ты пока поиграешь в гангстера, а я поищу приличную работу! {w}Что-то вроде смотритель зоопарка."
 
 # game/intro.rpy:667
 translate russia tutStage4_23c806c2:
 
     # y "Je ne parle pas français!"
-    y ""
+    y "Je ne parle pas français! (Я не говорю по-французски)!"
 
 # game/intro.rpy:668
 translate russia tutStage4_74ebc04d:
 
     # sil "I'm... I'm not speaking French~..."
-    sil ""
+    sil "Я... Я не говорю по-французски~..."
 
 # game/intro.rpy:669
 translate russia tutStage4_2faa9364:
 
     # y "Où est la plage?"
-    y ""
+    y "Où est la plage? (Где находится пляж?)"
 
 # game/intro.rpy:670
 translate russia tutStage4_27c24a49:
 
     # sil "..............."
-    sil ""
+    sil "..............."
 
 # game/intro.rpy:671
 translate russia tutStage4_b85c048c:
 
     # y "Eiffel Tower, omelette du fromage, Napoleon!"
-    y ""
+    y "Eiffel Tower, omelette du fromage, Napoleon! (Эйфелева башня, омлет дю фромаж, Наполеон!)"
 
 # game/intro.rpy:672
 translate russia tutStage4_9073b330:
 
     # sil "Now you're just shouting random phrases~..."
-    sil ""
+    sil "Теперь ты просто выкрикиваешь рандомные фразы~..."
 
 # game/intro.rpy:673
 translate russia tutStage4_bfe2268c:
 
     # y "Tour the France?"
-    y ""
+    y "Tour the France? (Турне по Франции?)"
 
 # game/intro.rpy:674
 translate russia tutStage4_f31a319a:
 
     # sil "Ah right... I forgot that you were crazy..."
-    sil ""
+    sil "Ах да... Я забыла, что ты сумасшедший..."
 
 # game/intro.rpy:675
 translate russia tutStage4_c3a9a245:
 
     # sil "{b}*Le sigh*{/b} Too bad~... I do like you. {w}Even if you are a bit coo-coo..."
-    sil ""
+    sil "{b}*Вздох*{/b} Очень жаль~... А ты мне нравишься. {w}Несмотря на то, что ты немного ку-ку..."
 
 # game/intro.rpy:676
 translate russia tutStage4_5dca141f:
 
     # sil "Run along now~... If you're not a gangleader than I have no problem with you."
-    sil ""
+    sil "А теперь беги~... Так как ты не лидер банды, ты мне не особо интересен."
 
 # game/intro.rpy:677
 translate russia tutStage4_270af4b0:
 
     # y "Er... thanks."
-    y ""
+    y "Емм... спасибо."
 
 # game/intro.rpy:678
 translate russia tutStage4_9fb3e1cf:
 
     # sil "Good luck out zere~... Try to not get shot~... ♥"
-    sil ""
+    sil "Удачи тогда~... Попытайся не словить пулю~... ♥"
 
 # game/intro.rpy:682
 translate russia tutStage4_ad9af6ad:
 
     # "The gangsters turn away from you as you quickly return to the milkshake bar."
-    ""
+    "Бандиты отворачиваются от вас, и вы быстро проскальзываете обратно в бар."
 
 # game/intro.rpy:694
 translate russia tutStage4_de5596ac:
 
     # s "Oh there you are, New Guy.{w} I was beginning to worry. Didn't I tell you to stay here and guard the bar?"
-    s ""
+    s "Ооо вот ты где, новичок.{w} Я уже начала беспокоиться. Разве я не говорила тебе оставаться здесь и охранять бар?"
 
 # game/intro.rpy:695
 translate russia tutStage4_015d90da:
 
     # y "Yeah, but I got bored. So found out anything new?"
-    y ""
+    y "Даа, но мне стало скучно. Узнала что-нибудь новое?"
 
 # game/intro.rpy:696
 translate russia tutStage4_e8fc39b2:
 
     # s "Yeah I did. Did you?"
-    s ""
+    s "Да узнала. А ты?"
 
 # game/intro.rpy:697
 translate russia tutStage4_34fa9179:
 
     # y "Yup."
-    y ""
+    y "Я тоже."
 
 # game/intro.rpy:698
 translate russia tutStage4_61421013:
 
     # s "Then you go first."
-    s ""
+    s "Ну тогда начинай ты."
 
 # game/intro.rpy:699
 translate russia tutStage4_e8ee5efb:
 
     # y "Well... nanobots are causing our agents to turn bad. They're now supporting local gangs in a bid for dominance over the city."
-    y ""
+    y "Ну... Наноботы заставляют наших агентов становиться злыми. Теперь они поддерживают местные банды в борьбе за господство над городом."
 
 # game/intro.rpy:700
 translate russia tutStage4_972810ac:
 
     # y "The gangs are being led by Ex-WOOHP convicts. The first to take over the entire city gets to join the guy who orchestrated this whole thing."
-    y ""
+    y "Во главе банд стоят бывшие заключенные WOOHP. Первый, кто захватит весь город, присоединится к парню, который все это организовал."
 
 # game/intro.rpy:701
 translate russia tutStage4_572c5133:
 
     # y "Your turn."
-    y ""
+    y "Теперь твоя очередь."
 
 # game/intro.rpy:702
 translate russia tutStage4_b369c4b4:
 
     # s g34 "Well...."
-    s g34 ""
+    s g34 "Нуу...."
 
 # game/intro.rpy:710
 translate russia tutStage4_59287ae5:
 
     # sM "Right now, Beverly Hills is divided by multiple gangs. The three biggest ones are..."
-    sM ""
+    sM "В настоящее время Беверли-Хиллз разделен между множеством банд. Три самых крупных из них..."
 
 # game/intro.rpy:714
 translate russia tutStage4_ec956212:
 
     # sM "'Aces'. The cool rich kids that set up near the marina."
-    sM ""
+    sM "'Тузы'. Крутые богатые ребята, которые обосновались рядом с пристанью."
 
 # game/intro.rpy:718
 translate russia tutStage4_d07ce169:
 
     # sM "'Drift Punk', tech geeks and nerds, which are located near sillicon valley."
-    sM ""
+    sM "'Дрифт Панки', технические гики и ботаники, которые находятся рядом с силиконовой долиной."
 
 # game/intro.rpy:722
 translate russia tutStage4_b4358aa6:
 
     # sM "And the 'Outsiders'. Punkers and goth kids. Basically the freaks that never fit in. They're set up to the north."
-    sM ""
+    sM "Ну и 'Аутсайдеры'. Панки и готы. В основном, уроды, которые никогда не вписывались в общество. Они расположены на севере."
 
 # game/intro.rpy:723
 translate russia tutStage4_43e0e562:
 
     # sM "I've managed to get in touch with a contact inside the Aces. He might be able to help us in the future."
-    sM ""
+    sM "Мне удалось связаться с человеком из \"Тузов\". Возможно, он сможет помочь нам в будущем."
 
 # game/intro.rpy:735
 translate russia tutStage4_23fa4e39:
 
     # sM "And then there's the smaller gangs. I couldn't find out what they're all about, but Beverly Hills is divided up like this."
-    sM ""
+    sM "Есть и более мелкие банды. Но я не смогла ничего о них выяснить, но Беверли-Хиллз разделён между ними."
 
 # game/intro.rpy:739
 translate russia tutStage4_f2ed79e6:
 
     # sM "The only area that's considered neutral ground is..."
-    sM ""
+    sM "Единственная область, которая считается нейтральной, это..."
 
 # game/intro.rpy:745
 translate russia tutStage4_b85ed68a:
 
     # sM "The mall."
-    sM ""
+    sM "Торговый центр."
 
 # game/intro.rpy:746
 translate russia tutStage4_d80a3f45:
 
     # y "The mall?"
-    y ""
+    y "Торговый центр?"
 
 # game/intro.rpy:747
 translate russia tutStage4_565e9400:
 
     # sM "Yeah, afterall, what good is all your stolen money if you don't have a place to spend it?"
-    sM ""
+    sM "Да, в конце концов, что толку от всех украденных денег, если их некуда потратить?"
 
 # game/intro.rpy:748
 translate russia tutStage4_5e1c39a2:
 
     # y "That makes a weird kind of sense."
-    y ""
+    y "Как ни странно, но это логично."
 
 # game/intro.rpy:755
 translate russia tutStage4_1fbbf790:
 
     # s "So at least we sort of know what we're up against..."
-    s ""
+    s "Так что мы хотя бы знаем, с чем имеем дело..."
 
 # game/intro.rpy:756
 translate russia tutStage4_77bab620:
 
     # s "................."
-    s ""
+    s "................."
 
 # game/intro.rpy:757
 translate russia tutStage4_3931b6b1:
 
     # s g39 "Despite going against my direct orders for you to stay put...."
-    s g39 ""
+    s g39 "Несмотря на то, что ты нарушил мой приказ оставаться на месте...."
 
 # game/intro.rpy:758
 translate russia tutStage4_da7e04f3:
 
     # s g38 "I guess you did well and I have to applaud the initiative."
-    s g38 ""
+    s g38 "Я думаю, ты проделал отличную работу, и достоин аплодисментов."
 
 # game/intro.rpy:759
 translate russia tutStage4_52730dbd:
 
     # s "Up next I think we should..."
-    s ""
+    s "Теперь нам стоит..."
 
 # game/intro.rpy:760
 translate russia tutStage4_fff3959f:
 
     # s g39 "................."
-    s g39 ""
+    s g39 "................."
 
 # game/intro.rpy:761
 translate russia tutStage4_3a4647a8:
 
     # s g18 "Ehrm....."
-    s g18 ""
+    s g18 "Эммм....."
 
 # game/intro.rpy:762
 translate russia tutStage4_f3a3bd00:
 
     # s "What do you think we should do next?"
-    s ""
+    s "Как ты думаешь, что нам стоит сделать в дальнейшем?"
 
 # game/intro.rpy:763
 translate russia tutStage4_ae7f22e8:
 
     # y "Well..."
-    y ""
+    y "Что же..."
 
 # game/intro.rpy:764
 translate russia tutStage4_d751fc2b:
 
     # y "We should focus on breaking the nanobot control over our agents.{w} With them on our side we can begin taking steps to take back the city."
-    y ""
+    y "Нам нужно сосредоточиться на том, чтобы сломать контроль наноботов над нашими агентами.{w} С ними на нашей стороне мы можем начать предпринимать дальнейшие шаги, чтобы вернуть город себе."
 
 # game/intro.rpy:765
 translate russia tutStage4_c66e239d:
 
     # y "So if we break the control over our agents... We could send them to help us take back the HQ."
-    y ""
+    y "Так что если мы нарушим контроль над нашими агентами... Тогда они точно помогут нам вернуть штаб-квартиру."
 
 # game/intro.rpy:766
 translate russia tutStage4_4b519adc:
 
     # s g31 "But how do we do that?"
-    s g31 ""
+    s g31 "Но как это сделать?"
 
 # game/intro.rpy:767
 translate russia tutStage4_eb2d33ad:
 
     # y "I was thinking... that we bring one back here."
-    y ""
+    y "Я думал... мы приведём одного сюда."
 
 # game/intro.rpy:768
 translate russia tutStage4_eff8036d:
 
     # y "Once here, we can figure out how to break the nanobot control over them."
-    y ""
+    y "И уже тогда, мы сможем выяснить, как нарушить работу наноботов."
 
 # game/intro.rpy:769
 translate russia tutStage4_c9ae9367:
 
     # s g35 "There were plenty of Agents at the school. They might still be there. It's risky, but I bet I could sneak in again."
-    s g35 ""
+    s g35 "В школе было много агентов. Возможно, они все еще там. Это рискованно, но я уверена, что смогу пробраться туда еще раз."
 
 # game/intro.rpy:770
 translate russia tutStage4_7197c966:
 
     # s "Knocking an Agent out shouldn't be that hard. The tricky part will be transporting him back here."
-    s ""
+    s "Вырубить агента не должно составть труда. Самым сложным будет доставить его в бар."
 
 # game/intro.rpy:771
 translate russia tutStage4_2d47b7eb:
 
     # y "There's a workbench downstairs. I'm sure I can fix you something up that will help you with that."
-    y ""
+    y "Внизу есть верстак. Я уверен, что смогу тебя чем нибудь снарядить и помочь тем самым."
 
 # game/intro.rpy:772
 translate russia tutStage4_3235d6db:
 
     # s "Okay good. I approve your plan."
-    s ""
+    s "Ладно. Согласна с твоим планом."
 
 # game/intro.rpy:773
 translate russia tutStage4_53639b44:
 
     # s "I'll leave you to craft the gadget and set up a mission via the Mission Screen."
-    s ""
+    s "Оставлю тебя, чтобы ты создал пару гаджетов и установил миссию через экран миссий."
 
 # game/intro.rpy:783
 translate russia tutStage4_223b4b90:
 
     # c "Oh there you are, New Guy."
-    c ""
+    c "Ооо вот ты, где новичок."
 
 # game/intro.rpy:784
 translate russia tutStage4_003c6429:
 
     # y "Hey Clover. Found out anything new?"
-    y ""
+    y "Привет Кловер. Узнала что-нибудь новое?"
 
 # game/intro.rpy:785
 translate russia tutStage4_d6aba8ec:
 
     # c "I like... brought back the biggest news! You go first though."
-    c ""
+    c "Да... принесла самую большую новость! Но ты первый."
 
 # game/intro.rpy:786
 translate russia tutStage4_e8ee5efb_1:
 
     # y "Well... nanobots are causing our agents to turn bad. They're now supporting local gangs in a bid for dominance over the city."
-    y ""
+    y "Ну что же... наноботы заставляют наших агентов становиться злыми. They're now supporting local gangs in a bid for dominance over the city."
 
 # game/intro.rpy:787
 translate russia tutStage4_972810ac_1:
 
     # y "The gangs are being led by Ex-WOOHP convicts. The first to take over the entire city gets to join the guy who orchestrated this whole thing."
-    y ""
+    y "Ну... Наноботы заставляют наших агентов становиться злыми. Теперь они поддерживают местные банды в борьбе за господство над городом."
 
 # game/intro.rpy:788
 translate russia tutStage4_572c5133_1:
 
     # y "Your turn."
-    y ""
+    y "Твоя очередь."
 
 # game/intro.rpy:789
 translate russia tutStage4_6cae50ef:
 
     # c "Well...."
-    c ""
+    c "Нууу...."
 
 # game/intro.rpy:797
 translate russia tutStage4_11da07c1:
 
     # cM "Right now, Beverly Hills is divided by multiple gangs. The three biggest ones are..."
-    cM ""
+    cM "В настоящее время Беверли-Хиллз разделен между множеством банд. Три самых крупных из них..."
 
 # game/intro.rpy:801
 translate russia tutStage4_cebdb29b:
 
     # cM "'Aces'. The cool rich kids that set up near the marina."
-    cM ""
+    cM "'Тузы'. Крутые богатые ребята, которые обосновались рядом с пристанью."
 
 # game/intro.rpy:805
 translate russia tutStage4_283121d0:
 
     # cM "'Drift Punk', tech geeks and nerds, which are located near sillicon valley."
-    cM ""
+    cM "Дрифт Панки', технические гики и ботаники, которые находятся рядом с силиконовой долиной."
 
 # game/intro.rpy:809
 translate russia tutStage4_65dcc165:
 
     # cM "And the 'Outsiders'. Punkers and goth kids. Basically the freaks that never fit in. They're set up to the north."
-    cM ""
+    cM "Ну и 'Аутсайдеры'. Панки и готы. В основном, уроды, которые никогда не вписывались в общество. Они расположены на севере."
 
 # game/intro.rpy:810
 translate russia tutStage4_fe92362a:
 
     # cM "While exploring around, I came across this one geeky looking nerd from Drift Punk. He seemed interested in me... bleh~..."
-    cM ""
+    cM "Исследуя окрестности, я наткнулась на одного зануду из Дрифт Панков. Он заинтересовал меня... буе~..."
 
 # game/intro.rpy:811
 translate russia tutStage4_64382368:
 
     # cM "But I guess if we need a contact within the gang, then that's our in. He might be able to help us in the future."
-    cM ""
+    cM "Думаю, если нам понадобится контакт внутри банды, то он отлично подойдёт на эту роль. Возможно, он сможет помочь нам в будущем."
 
 # game/intro.rpy:823
 translate russia tutStage4_238898c1:
 
     # cM "And then there's the smaller gangs. I couldn't find out what they're all about, but Beverly Hills is divided up like this."
-    cM ""
+    cM "Есть и более мелкие банды. Но я не смогла ничего о них выяснить, но Беверли-Хиллз разделён между ними."
 
 # game/intro.rpy:827
 translate russia tutStage4_0ac1c3f4:
 
     # cM "Luckily the biggest thread so far has been avoided! The only area that's considered neutral ground is..."
-    cM ""
+    cM "К счастью, самой большой потери пока удалось избежать! Единственная область, которая считается нейтральной, это..."
 
 # game/intro.rpy:833
 translate russia tutStage4_cf3b43b9:
 
     # cM "The mall!"
-    cM ""
+    cM "Торговый центр!"
 
 # game/intro.rpy:834
 translate russia tutStage4_d80a3f45_1:
 
     # y "The mall?"
-    y ""
+    y "Торговый центр?"
 
 # game/intro.rpy:835
 translate russia tutStage4_69216a09:
 
     # cM "Yeah, afterall, they're not savages. They need their three daily trips to the mall as much as anyone."
-    cM ""
+    cM "Да, в конце концов, они же не дикари. Им, как и всем, тоже нужно как минимум три раза в день пройтись по магазинам."
 
 # game/intro.rpy:836
 translate russia tutStage4_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/intro.rpy:837
 translate russia tutStage4_166279fa:
 
     # cM "Oh right and of course they need to place to buy stuff. What good is all your stolen money if you don't get to spend it?"
-    cM ""
+    cM "Оххх ну и, конечно, им же нужно место, чтобы покупать всякие вещи. Что толку от всех украденных денег, если ты не можешь их потратить?"
 
 # game/intro.rpy:838
 translate russia tutStage4_5e1c39a2_1:
 
     # y "That makes a weird kind of sense."
-    y ""
+    y "Как ни странно, но это логично."
 
 # game/intro.rpy:845
 translate russia tutStage4_307bb9f1:
