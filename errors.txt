@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/intro.rpy", line 1392: end of line expected.
-    s g34 "Мы должны сосредоточиться на том, чтобы проникнуть в WOOHP, уничтожить охранников и пробить себе путь наверх. Затем мы сможем противостоять тому, кто за этим стоит, и заковать его в наручники!".
-                                                                                                                                                                                                            ^
+File "game/tl/russia/intro.rpy", line 2832: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        "Неа... Я не собираюсь выходить прямо сейчас.
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Sat Oct 16 20:53:47 2021
+Mon Oct 18 13:32:02 2021

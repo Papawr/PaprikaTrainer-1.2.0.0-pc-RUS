@@ -2751,7 +2751,7 @@ translate russia tutSocialAlex_4f2e83f1:
 translate russia tutSocialAlex_0c0248ad:
 
     # a "I'm thinking about my friends...{w} If I acted more quickly, I could have gotten them out before they were captured..."
-    a "Думаю о моих подругах...{w} Если бы я действовала быстрее, я могла бы вытащить их до того, как их схватят...""
+    a "Думаю о моих подругах...{w} Если бы я действовала быстрее, я могла бы вытащить их до того, как их схватят..."
 
 # game/intro.rpy:1004
 translate russia tutSocialAlex_6748d793:
@@ -2829,7 +2829,7 @@ translate russia tutSocialAlex_f5d181af:
 translate russia tutSocialAlex_7861d496:
 
     # "Nope... Not going out there right now."
-    "Неа... Я не собираюсь выходить прямо сейчас.
+    "Неа... Я не собираюсь выходить прямо сейчас."
 
 # game/intro.rpy:1029
 translate russia tutSocialAlex_bd0fc588:
