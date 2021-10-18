@@ -2409,67 +2409,67 @@ translate russia tutStage4_5e1c39a2_1:
 translate russia tutStage4_307bb9f1:
 
     # c "So at least we sort of know what we're up against..."
-    c ""
+    c "Ну мы хотя бы знаем, с чем теперь имеем дело..."
 
 # game/intro.rpy:846
 translate russia tutStage4_de2a94a6:
 
     # c "What comes next?"
-    c ""
+    c "И что дальше?"
 
 # game/intro.rpy:847
 translate russia tutStage4_498a9676:
 
     # y "We should focus on breaking the nanobot control over our agents.{w} There's a bullet train downstairs that could take us to the WOOHP HQ, but we're not going to re-capture it by ourselves."
-    y ""
+    y "Нам нужно сосредоточиться на том, чтобы нарушить контроль наноботов над нашими агентами.{w} Внизу есть сверхскоростной поезд, он доставит нас в штаб-квартиру WOOHP, но сами мы не сможем захватывать её."
 
 # game/intro.rpy:848
 translate russia tutStage4_c66e239d_1:
 
     # y "So if we break the control over our agents... We could send them to help us take back the HQ."
-    y ""
+    y "Если мы нарушим контроль над агентами... То с их помощью мы сможем вернуть штаб-квартиру."
 
 # game/intro.rpy:849
 translate russia tutStage4_7d8cd4c2:
 
     # c "But how do we do that?"
-    c ""
+    c "Но как это сделать?"
 
 # game/intro.rpy:850
 translate russia tutStage4_eb2d33ad_1:
 
     # y "I was thinking... that we bring one back here."
-    y ""
+    y "Я собирался... привести одного сюда."
 
 # game/intro.rpy:851
 translate russia tutStage4_eff8036d_1:
 
     # y "Once here, we can figure out how to break the nanobot control over them."
-    y ""
+    y "Уже здесь, мы сможем выяснить, как нарушить работу наноботов."
 
 # game/intro.rpy:852
 translate russia tutStage4_257397d2:
 
     # c "There were plenty of Agents at the school. They might still be there. It's risky, but I bet I could sneak in again."
-    c ""
+    c "В школе было много агентов. Возможно, они все еще там. Это рискованно, но я уверена, что смогу пробраться туда еще раз."
 
 # game/intro.rpy:853
 translate russia tutStage4_c8ad558b:
 
     # c "Knocking an Agent out shouldn't be that hard. The tricky part will be transporting him back here."
-    c ""
+    c "Вырубить агента не должно составть труда. Самым сложным будет доставить его в бар."
 
 # game/intro.rpy:854
 translate russia tutStage4_2d47b7eb_1:
 
     # y "There's a workbench downstairs. I'm sure I can fix you something up that will help you with that."
-    y ""
+    y "Внизу есть верстак. Я уверен, что смогу тебя чем нибудь снарядить и помочь тем самым."
 
 # game/intro.rpy:855
 translate russia tutStage4_8d6d9687:
 
     # c "Okay good. In that case I'll leave you to craft the gadget and set up a mission via the Mission Screen."
-    c ""
+    c "Ладненько. В таком случае оставлю тебя, занимайся гаджетами и установкой миссий через экран миссий."
 
 # game/intro.rpy:864
 translate russia tutStage4_0ae9bcd0:
@@ -2481,445 +2481,445 @@ translate russia tutStage4_0ae9bcd0:
 translate russia tutLift_b0d8500b:
 
     # yInmate "Wait... I can't head out like this! {w}I'll never get a job and reintegrate into society looking like a convict."
-    yInmate ""
+    yInmate "Подожди... Я не могу выйти в таком виде! {w}Выглядя как осуждённый, я точно никогда не найду работу и не смогу интегрироваться в общество."
 
 # game/intro.rpy:877
 translate russia tutLift_ddae83b9:
 
     # yInmate "Let's look for some clothes first."
-    yInmate ""
+    yInmate "Поищу ка я какую-нибудь одежду."
 
 # game/intro.rpy:880
 translate russia tutLift_472f62ce:
 
     # yInmate "Nope... Not going out there right now."
-    yInmate ""
+    yInmate "Неа... Я не собираюсь выходить прямо сейчас."
 
 # game/intro.rpy:883
 translate russia tutLift_59ca44a0:
 
     # y "I gotta focus on crafting that gadget and planning a mission first."
-    y ""
+    y "Сначала я должен сосредоточиться на создании гаджетов и планировании миссии."
 
 # game/intro.rpy:886
 translate russia tutLift_98c0ab0a:
 
     # y "There's still penty of time left. I could spend some time cleaning the bar."
-    y ""
+    y "Времени еще много. Я могу потратить некоторое время на уборку бара."
 
 # game/intro.rpy:891
 translate russia tutLift_d32f081f:
 
     # "{b}*Splosh* *Splosh* *Splosh*{/b}"
-    ""
+    "{b}*Брызги* *Брызги* *Брызги*{/b}"
 
 # game/intro.rpy:899
 translate russia tutLift_85a3a6a2:
 
     # "You spend the rest of the evening cleaning the bar. It looks better than before, but there is still a lot to be done."
-    ""
+    "Остаток вечера вы проводите за уборкой бара. Он выглядит немного лучше, чем раньше, но еще многое предстоит сделать."
 
 # game/intro.rpy:901
 translate russia tutLift_53868d06:
 
     # "You decide to head to bed."
-    ""
+    "Вы собираетесь лечь спать."
 
 # game/intro.rpy:912
 translate russia tutQuarters_9fd22163:
 
     # y "I'm not heading back into the cellblock..."
-    y ""
+    y "Я не собираюсь возвращаться в карцер..."
 
 # game/intro.rpy:915
 translate russia tutQuarters_ba5a9c92:
 
     # yInmate "I'm not heading back into the cellblock..."
-    yInmate ""
+    yInmate "Я не собираюсь возвращаться в карцер..."
 
 # game/intro.rpy:924
 translate russia tutQuarters_f2efe18c:
 
     # s "You called, [playerName]?"
-    s ""
+    s "Ты звал, [playerName]?"
 
 # game/intro.rpy:931
 translate russia tutSocialSam_2dbf7efa:
 
     # s "........."
-    s ""
+    s "........."
 
 # game/intro.rpy:932
 translate russia tutSocialSam_4f2e83f1:
 
     # y "What's on your mind?"
-    y ""
+    y "О чем думаешь?"
 
 # game/intro.rpy:933
 translate russia tutSocialSam_802ba33c:
 
     # s g14 "My friends...{w} If I acted more quickly, I could have gotten them out before they were captured..."
-    s g14 ""
+    s g14 "Мои подруги...{w} Если бы я действовала быстрее, я могла бы вытащить их до того, как их схватят..."
 
 # game/intro.rpy:934
 translate russia tutSocialSam_6748d793:
 
     # y "Yeah, you messed up. Not one of your brightest moments."
-    y ""
+    y "Да, ты облажалась. Не самый лучший момент в твоей жизни."
 
 # game/intro.rpy:935
 translate russia tutSocialSam_367be8b8:
 
     # s g4 "H-hey...! Don't say that..."
-    s g4 ""
+    s g4 "Е-ей...! Не говори так..."
 
 # game/intro.rpy:936
 translate russia tutSocialSam_6cc383b4:
 
     # y "Oh wait... This is one of those 'make you feel better' moments. I'm sorry."
-    y ""
+    y "Ой, подожди... Это же один из тех моментов, которые 'заставляют чувствовать себя лучше'. Мне жаль."
 
 # game/intro.rpy:937
 translate russia tutSocialSam_06fd174f:
 
     # y "In that case, please don't worry about it. You couldn't have known that I was still one of the good guys."
-    y ""
+    y "В таком случае, не беспокойся об этом. Ты ведь не знала, что я все ещё один из хороших парней."
 
 # game/intro.rpy:938
 translate russia tutSocialSam_4a9b3706:
 
     # y "And I'm sure they're fine. We're gonna get this sorted out and they'll be back before you know it. Okay?"
-    y ""
+    y "И я уверен, что они в порядке. Мы разберемся со всем, и они вернутся, не успеешь оглянуться. Хорошо?"
 
 # game/intro.rpy:939
 translate russia tutSocialSam_4af191fc:
 
     # s g19 "Y-yeah... Okay~..."
-    s g19 ""
+    s g19 "Д-даа... Хорошо~..."
 
 # game/intro.rpy:940
 translate russia tutSocialSam_eed95059:
 
     # y "No, but seriously though. Manage your priorities in the future."
-    y ""
+    y "Нет, но серьезно. Расставляй свои приоритеты в будущем."
 
 # game/intro.rpy:941
 translate russia tutSocialSam_04af2f0e:
 
     # s g4 "{b}*Sniff*{/b} H-hey..!"
-    s g4 ""
+    s g4 "{b}*Фыркает*{/b} Э-эй..!"
 
 # game/intro.rpy:945
 translate russia tutSocialSam_e7344c7a:
 
     # y "You know that my name isn't actually 'New Guy', right?"
-    y ""
+    y "Ты ведь в курсе, что на самом деле меня зовут не 'новичок'?"
 
 # game/intro.rpy:946
 translate russia tutSocialSam_8e1ecef4:
 
     # s "I figured, but that's what I'm gonna keep calling you. Can't get attached."
-    s ""
+    s "Это понятно, но я буду тебя так называть. Не хочу привязываться."
 
 # game/intro.rpy:947
 translate russia tutSocialSam_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/intro.rpy:958
 translate russia tutSocialSam_63ace678:
 
     # c "You called, [playerName]?"
-    c ""
+    c "Ты звал, [playerName]?"
 
 # game/intro.rpy:965
 translate russia tutSocialClover_154e4fc5:
 
     # c "........."
-    c ""
+    c "........."
 
 # game/intro.rpy:966
 translate russia tutSocialClover_4f2e83f1:
 
     # y "What's on your mind?"
-    y ""
+    y "О чем думаешь?"
 
 # game/intro.rpy:967
 translate russia tutSocialClover_fddf540c:
 
     # c "Like... It's nothing! Don't you have anything better to do?"
-    c ""
+    c "А, да так... ни о чём! Тебе что не чем заняться?"
 
 # game/intro.rpy:968
 translate russia tutSocialClover_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/intro.rpy:969
 translate russia tutSocialClover_054e85fb:
 
     # c "Okay fine~...{w} I'm thinking about my friends...{w} If I acted more quickly, I could have gotten them out before they were captured..."
-    c ""
+    c "Ладно, уговорил~...{w} Я думаю о моих подругах...{w} Если бы я действовала быстрее, я могла бы вытащить их до того, как их схватят..."
 
 # game/intro.rpy:970
 translate russia tutSocialClover_6748d793:
 
     # y "Yeah, you messed up. Not one of your brightest moments."
-    y ""
+    y "Да, ты облажалась. Не самый лучший момент в твоей жизни."
 
 # game/intro.rpy:971
 translate russia tutSocialClover_8e7797ad:
 
     # c "H-hey...! Don't say that..."
-    c ""
+    c "Е-ей...! Не говори так..."
 
 # game/intro.rpy:972
 translate russia tutSocialClover_6cc383b4:
 
     # y "Oh wait... This is one of those 'make you feel better' moments. I'm sorry."
-    y ""
+    y "Ой, подожди... Это же один из тех моментов, которые 'заставляют чувствовать себя лучше'. Мне жаль."
 
 # game/intro.rpy:973
 translate russia tutSocialClover_06fd174f:
 
     # y "In that case, please don't worry about it. You couldn't have known that I was still one of the good guys."
-    y ""
+    y "В таком случае, не беспокойся об этом. Ты ведь не знала, что я все ещё один из хороших парней."
 
 # game/intro.rpy:974
 translate russia tutSocialClover_4a9b3706:
 
     # y "And I'm sure they're fine. We're gonna get this sorted out and they'll be back before you know it. Okay?"
-    y ""
+    y "И я уверен, что они в порядке. Мы разберемся со всем, и они вернутся, не успеешь оглянуться. Хорошо?"
 
 # game/intro.rpy:975
 translate russia tutSocialClover_11393e0c:
 
     # c "Y-yeah... Okay~..."
-    c ""
+    c "Д-даа... Хорошо~..."
 
 # game/intro.rpy:976
 translate russia tutSocialClover_eed95059:
 
     # y "No, but seriously though. Manage your priorities in the future."
-    y ""
+    y "Нет, но серьезно. Расставляй свои приоритеты в будущем."
 
 # game/intro.rpy:977
 translate russia tutSocialClover_2f6d1377:
 
     # c "{b}*Sniff*{/b} H-hey..!"
-    c ""
+    c "{b}*Фыркает*{/b} Э-эй..!"
 
 # game/intro.rpy:981
 translate russia tutSocialClover_e7344c7a:
 
     # y "You know that my name isn't actually 'New Guy', right?"
-    y ""
+    y "Ты ведь в курсе, что на самом деле меня зовут не 'новичок'?"
 
 # game/intro.rpy:982
 translate russia tutSocialClover_16347683:
 
     # c "Well you're new around here, aren't you? It sounds like a fitting name for you."
-    c ""
+    c "Ты же здесь недавно, ведь так? Это самое подходящее имя для тебя."
 
 # game/intro.rpy:983
 translate russia tutSocialClover_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/intro.rpy:994
 translate russia tutSocialClover_fcd3c794:
 
     # a "You called, [playerName]?"
-    a ""
+    a "Ты звал, [playerName]?"
 
 # game/intro.rpy:1001
 translate russia tutSocialAlex_b2b821d1:
 
     # a "........."
-    a ""
+    a "........."
 
 # game/intro.rpy:1002
 translate russia tutSocialAlex_4f2e83f1:
 
     # y "What's on your mind?"
-    y ""
+    y "О чем думаешь?"
 
 # game/intro.rpy:1003
 translate russia tutSocialAlex_0c0248ad:
 
     # a "I'm thinking about my friends...{w} If I acted more quickly, I could have gotten them out before they were captured..."
-    a ""
+    a "Думаю о моих подругах...{w} Если бы я действовала быстрее, я могла бы вытащить их до того, как их схватят...""
 
 # game/intro.rpy:1004
 translate russia tutSocialAlex_6748d793:
 
     # y "Yeah, you messed up. Not one of your brightest moments."
-    y ""
+    y "Да, ты облажалась. Не самый лучший момент в твоей жизни."
 
 # game/intro.rpy:1005
 translate russia tutSocialAlex_289ee9a2:
 
     # a "{b}*Sniff*{/b} Yeah..."
-    a ""
+    a "{b}*Фыркает*{/b} Даа..!"
 
 # game/intro.rpy:1006
 translate russia tutSocialAlex_6cc383b4:
 
     # y "Oh wait... This is one of those 'make you feel better' moments. I'm sorry."
-    y ""
+    y "Ой, подожди... Это же один из тех моментов, которые 'заставляют чувствовать себя лучше'. Мне жаль."
 
 # game/intro.rpy:1007
 translate russia tutSocialAlex_06fd174f:
 
     # y "In that case, please don't worry about it. You couldn't have known that I was still one of the good guys."
-    y ""
+    y "В таком случае, не беспокойся об этом. Ты ведь не знала, что я все ещё один из хороших парней."
 
 # game/intro.rpy:1008
 translate russia tutSocialAlex_4a9b3706:
 
     # y "And I'm sure they're fine. We're gonna get this sorted out and they'll be back before you know it. Okay?"
-    y ""
+    y "И я уверен, что они в порядке. Мы разберемся со всем, и они вернутся, не успеешь оглянуться. Хорошо?"
 
 # game/intro.rpy:1009
 translate russia tutSocialAlex_b85612df:
 
     # a "Y-yeah... Okay~..."
-    a ""
+    a "Д-даа... Хорошо~..."
 
 # game/intro.rpy:1010
 translate russia tutSocialAlex_eed95059:
 
     # y "No, but seriously though. Manage your priorities in the future."
-    y ""
+    y "Нет, но серьезно. Расставляй свои приоритеты в будущем."
 
 # game/intro.rpy:1011
 translate russia tutSocialAlex_d28ba78d:
 
     # a "{b}*Sniff*{/b} H-hey..!"
-    a ""
+    a "{b}*Фыркает*{/b} Э-эй..!"
 
 # game/intro.rpy:1015
 translate russia tutSocialAlex_e7344c7a:
 
     # y "You know that my name isn't actually 'New Guy', right?"
-    y ""
+    y "Ты ведь в курсе, что на самом деле меня зовут не 'новичок'?"
 
 # game/intro.rpy:1016
 translate russia tutSocialAlex_104135cb:
 
     # c "It's not?!"
-    c ""
+    c "Правда?!"
 
 # game/intro.rpy:1017
 translate russia tutSocialAlex_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/intro.rpy:1018
 translate russia tutSocialAlex_f5d181af:
 
     # a "Oh I'm sorry... I'm not very good with names. I'm just gonna keep calling you New Guy, okay?"
-    a ""
+    a "О, извини... У меня частенько проблемы с именами. Я просто буду продолжать называть тебя новичком, ладно?"
 
 # game/intro.rpy:1026
 translate russia tutSocialAlex_7861d496:
 
     # "Nope... Not going out there right now."
-    ""
+    "Неа... Я не собираюсь выходить прямо сейчас.
 
 # game/intro.rpy:1029
 translate russia tutSocialAlex_bd0fc588:
 
     # y "I should craft a gadget and then set up a mission via the mission screen."
-    y ""
+    y "Сначала я должен сосредоточиться на создании гаджетов и планировании миссии."
 
 # game/intro.rpy:1034
 translate russia tutSocialAlex_150c4e32:
 
     # y "Sam?"
-    y ""
+    y "Сэм?"
 
 # game/intro.rpy:1035
 translate russia tutSocialAlex_3d6803a2:
 
     # s "I'm trying to sleep!"
-    s ""
+    s "Я пытаюсь заснуть!"
 
 # game/intro.rpy:1038
 translate russia tutSocialAlex_4a1aeb1b:
 
     # y "Clover?"
-    y ""
+    y "Кловер?"
 
 # game/intro.rpy:1039
 translate russia tutSocialAlex_e58657aa:
 
     # c "Get lost!"
-    c ""
+    c "Растворись!"
 
 # game/intro.rpy:1042
 translate russia tutSocialAlex_6e8be35c:
 
     # y "Alex?"
-    y ""
+    y "Алекс?"
 
 # game/intro.rpy:1043
 translate russia tutSocialAlex_d889f578:
 
     # a "I can't hear you! I'm sleeping!!"
-    a ""
+    a "Не слышу тебя! Я сплю!!"
 
 # game/intro.rpy:1046
 translate russia tutSocialAlex_57f46db8:
 
     # y "Sleeping at 6pm... Well I guess I don't have anything better to do."
-    y ""
+    y "Ложится спать в 6 вечера... Ну, думаю, мне больше нечем заняться."
 
 # game/intro.rpy:1056
 translate russia tutMissions_89f7c904:
 
     # y "TV!"
-    y ""
+    y "Телевизор!"
 
 # game/intro.rpy:1057
 translate russia tutMissions_9e398164:
 
     # y "No wait...{w} It's some kind of Mission Planner. Best to not touch it."
-    y ""
+    y "Нет, стоп... Это что-то вроде 'Планировщика миссий'. Лучше не буду трогать."
 
 # game/intro.rpy:1060
 translate russia tutMissions_c943f793:
 
     # y "I wish this thing would show football games... Oh well, best turn in for the night. There should be plenty of cells."
-    y ""
+    y "Хотел бы я, чтобы эта штука показывала футбольные матчи... Ну что ж, пора идти спать. Камер должно быть много."
 
 # game/intro.rpy:1063
 translate russia tutMissions_c6de1e6b:
 
     # y "This is the mission screen. I should craft that gadget first though."
-    y ""
+    y "Это экран с миссиями. Но сначала мне нужно смастерить один гаджет."
 
 # game/intro.rpy:1066
 translate russia tutMissions_ca930e3d:
 
     # y "It's getting too late to plan a mission right now."
-    y ""
+    y "Сейчас уже слишком поздно, чтобы планировать миссии."
 
 # game/intro.rpy:1072
 translate russia tutCreditcards_20760c9b:
 
     # y "(Some complicated machine. It reads: {i}'Please insert Credit Card Number'{/i})"
-    y ""
+    y "(Какая-то сложная штука. Написано: {i}'Пожалуйста, введите номер кредитной карты'{/i})"
 
 # game/intro.rpy:1080
 translate russia tutPrison_971bdd97:
 
     # y "I've already checked this out."
-    y ""
+    y "Я уже проверял тут."
 
 # game/intro.rpy:1083
 translate russia tutPrison_ccbe683a:
