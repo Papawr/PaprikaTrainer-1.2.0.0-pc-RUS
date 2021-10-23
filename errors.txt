@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/intro.rpy", line 2832: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/tl/russia/intro.rpy", line 4254: is not terminated with a newline. (Check strings and parenthesis.)
 (Perhaps you left out a " at the end of the first line.)
-        "Неа... Я не собираюсь выходить прямо сейчас.
+        y "По шкале от 1 до 10, насколько сильно ты хочешь свергнуть правительство США?"."
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Mon Oct 18 13:32:02 2021
+Sat Oct 23 19:28:43 2021

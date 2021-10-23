@@ -1,32 +1,34 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/tl/russia/common.rpy", line 1145, in script
-    old "Clipboard voicing enabled."
-  File "game/tl/russia/common.rpy", line 1145, in script
-    old "Clipboard voicing enabled."
-Exception: A translation for "Clipboard voicing enabled." already exists at game/tl/russia/common.rpy:11.
+  File "game/tl/russia/intro.rpy", line 3678, in script
+    y "Это наноботы, [Сэм]. Теперь она одна из них."
+KeyError: u'\u0421\u044d\u043c'
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "renpy/bootstrap.py", line 326, in bootstrap
-    renpy.main.main()
-  File "renpy/main.py", line 515, in main
-    renpy.game.context().run(node)
-  File "game/tl/russia/common.rpy", line 1145, in script
-    old "Clipboard voicing enabled."
-  File "game/tl/russia/common.rpy", line 1145, in script
-    old "Clipboard voicing enabled."
-  File "renpy/ast.py", line 2514, in execute
-    renpy.translation.add_string_translation(self.language, self.old, self.new, newloc)
-  File "renpy/translation/__init__.py", line 453, in add_string_translation
-    stl.add(old, new, newloc)
-  File "renpy/translation/__init__.py", line 394, in add
-    quote_unicode(old), fn, line))
-Exception: A translation for "Clipboard voicing enabled." already exists at game/tl/russia/common.rpy:11.
+  File "game/tl/russia/intro.rpy", line 3678, in script
+    y "Это наноботы, [Сэм]. Теперь она одна из них."
+  File "renpy/ast.py", line 716, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "renpy/exports.py", line 1417, in say
+    who(what, *args, **kwargs)
+  File "renpy/character.py", line 1210, in __call__
+    what = self.prefix_suffix("what", self.what_prefix, what, self.what_suffix)
+  File "renpy/character.py", line 1129, in prefix_suffix
+    return (sub(prefix) + sub(body) + sub(suffix))
+  File "renpy/character.py", line 1109, in sub
+    return renpy.substitutions.substitute(s, scope=scope, force=force, translate=translate)[0]
+  File "renpy/substitutions.py", line 270, in substitute
+    s = formatter.vformat(s, (), kwargs)
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python2.7/string.py", line 563, in vformat
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python2.7/string.py", line 585, in _vformat
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python2.7/string.py", line 646, in get_field
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python2.7/string.py", line 605, in get_value
+KeyError: u'\u0421\u044d\u043c'
 
 Windows-10-10.0.19041
 Ren'Py 7.4.8.1895
 Paprika Trainer 1.2.0.0
-Sun Oct 17 20:55:17 2021
+Sat Oct 23 13:44:28 2021
