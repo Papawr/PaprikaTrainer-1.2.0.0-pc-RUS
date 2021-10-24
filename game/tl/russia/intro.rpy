@@ -4371,7 +4371,7 @@ translate russia tutStage65_0af7b90c:
 translate russia tutStage65_dba83f54:
 
     # y "As the only uncompromised WOOHP employee, I'm pretty sure I'm your boss now."
-    y "Как единственный бескомпромиссный сотрудник WOOHP, я уверен, что теперь я твой босс."
+    y "Как единственный действующий сотрудник WOOHP, я уверен, что теперь я твой босс."
 
 # game/intro.rpy:2101
 translate russia tutStage65_c531b8be:
@@ -5115,7 +5115,7 @@ translate russia tutStage65_0c73e472:
 translate russia tutStage65_dba83f54_1:
 
     # y "As the only uncompromised WOOHP employee, I'm pretty sure I'm your boss now."
-    y "Как единственный бескомпромиссный сотрудник WOOHP, я уверен, что теперь я твой босс."
+    y "Как единственный действующий сотрудник WOOHP, я уверен, что теперь я твой босс."
 
 # game/intro.rpy:2331
 translate russia tutStage65_c531b8be_1:
@@ -5463,7 +5463,7 @@ translate russia tutStage7_34d5447b:
 translate russia tutStage7_bff0ec8e:
 
     # s g35 "Aaanyways.... About what happened yesterday..."
-    s g35 "Вв любоом слуучае.... О том, что произошло вчера..."
+    s g35 "В любом случае.... О том, что произошло вчера..."
 
 # game/intro.rpy:2428
 translate russia tutStage7_0fc4ec84:
@@ -5487,499 +5487,499 @@ translate russia tutStage7_4f926aac:
 translate russia tutStage7_b517444a:
 
     # s "I made assumptions and I shouldn't have. I'm just shy when it comes to talking about...{w} {size=-10}sex{/size} a-and... I may have jumped to conclusion."
-    s ""
+    s "Я сделала глупое предположения, чего мне делать не стоило. Я просто стесняюсь когда речь заходит о...{w} {size=-10}сексе{/size} и-ии... возможно, я поспешила с выводамию."
 
 # game/intro.rpy:2432
 translate russia tutStage7_b8eaa853:
 
     # s "After going through it in my head, I realised you weren't implying that... you... and I would have... {b}*Ahem*{/size} you know."
-    s ""
+    s "Прокрутив весь разговор в голове, я поняла, что ты не на что ни намекал. Ну что бы... ты... и я занялись... {b}*Кхм*{/size} ну ты знаешь."
 
 # game/intro.rpy:2433
 translate russia tutStage7_a842789b:
 
     # y "Oh no, I totally was."
-    y ""
+    y "Аа ну вообще-то я как раз намекал."
 
 # game/intro.rpy:2434
 translate russia tutStage7_447e4a30:
 
     # s g29 "What?"
-    s g29 ""
+    s g29 "Что?"
 
 # game/intro.rpy:2435
 translate russia tutStage7_dcb47040:
 
     # y "I was totally implying we'd get it on."
-    y ""
+    y "Я намекал на то что нам с тобой нужно развлечься."
 
 # game/intro.rpy:2436
 translate russia tutStage7_38fd6f64:
 
     # s g8 "I KNEW IT!"
-    s g8 ""
+    s g8 "Я ТАК И ЗНАЛА!"
 
 # game/intro.rpy:2437
 translate russia tutStage7_043af8d7:
 
     # y "Did you lie awake all night running it through your head?"
-    y ""
+    y "Ты всю ночь не спала, прокручивая это в голове?"
 
 # game/intro.rpy:2438
 translate russia tutStage7_cd706aaf:
 
     # s "NO!"
-    s ""
+    s "НЕТ!"
 
 # game/intro.rpy:2439
 translate russia tutStage7_8410edaf:
 
     # y g37 "................"
-    y g37 ""
+    y g37 "................"
 
 # game/intro.rpy:2440
 translate russia tutStage7_67c1b248:
 
     # s g12 "Okay well maybe I did!"
-    s g12 ""
+    s g12 "Ладно, может быть это и так!"
 
 # game/intro.rpy:2441
 translate russia tutStage7_63e460d0:
 
     # s g7 "You can't just say such things!"
-    s g7 ""
+    s g7 "Ты не можешь просто так говорить о таких непристойностях!"
 
 # game/intro.rpy:2442
 translate russia tutStage7_253f1dc6:
 
     # y "Keep your socks on. I was just kidding. We have more pressing matters to deal with anyways."
-    y ""
+    y "Да успокойся ты, я просто шучу. В любом случае у нас есть дела поважнее."
 
 # game/intro.rpy:2443
 translate russia tutStage7_452295cc:
 
     # s g15 "{b}*Ahem*{/b}... yes of course."
-    s g15 ""
+    s g15 "{b}*Кхем*{/b}... да, конечно."
 
 # game/intro.rpy:2452
 translate russia tutStage7_942623f9:
 
     # sM "The city is in chaos, my friends are missing, we lost all control over WOOHP and I'm missing school..."
-    sM ""
+    sM "В городе царит хаос, мои друзья пропали, контроль над WOOHP потерян, а я пропускаю школу..."
 
 # game/intro.rpy:2453
 translate russia tutStage7_3ea5ebda:
 
     # y "School?{w} That's what you're worried about?"
-    y ""
+    y "Школа?{w} Это единственное, что тебя беспокоит?"
 
 # game/intro.rpy:2454
 translate russia tutStage7_da39bcc3:
 
     # sM "I'm an Honor Roll student! I can't just miss out on schoolwork!"
-    sM ""
+    sM "Я - отличница! Я не могу пропускать школьные занятия!"
 
 # game/intro.rpy:2455
 translate russia tutStage7_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/intro.rpy:2456
 translate russia tutStage7_7280020b:
 
     # y "Well then, let's not waste any time."
-    y ""
+    y "Тогда не будем терять времени."
 
 # game/intro.rpy:2457
 translate russia tutStage7_2031f345:
 
     # sM "We've freed one agent from nanobot control. It's a start, but if we want to take back the HQ we're going to need more."
-    sM ""
+    sM "Мы освободили одного агента от контроля наноботов. Но это только начало, если мы хотим вернуть штаб-квартиру, нам нужно приложить больше усилий."
 
 # game/intro.rpy:2458
 translate russia tutStage7_6105f84e:
 
     # sM "Send me out on another mission and I'll bring back as many as you need!"
-    sM ""
+    sM "Отправь меня на другое задание, и я приведу столько агентов, сколько нам нужно!"
 
 # game/intro.rpy:2459
 translate russia tutStage7_40229cf8:
 
     # y "Easier said than done."
-    y ""
+    y "Легче сказать, чем сделать."
 
 # game/intro.rpy:2460
 translate russia tutStage7_347d6067:
 
     # y "The gadget you used last time costs money to make... and I'm kinda broke."
-    y ""
+    y "Гаджет, который ты использовала в прошлый раз, стоит денег... а я вроде как на мели."
 
 # game/intro.rpy:2461
 translate russia tutStage7_c871b5f1:
 
     # y "Also after your last mission at the school, they probably buffed up security. We can't charge back in there without getting some good intel first."
-    y ""
+    y "Кроме того, после твоего последнего задания в школе, они, вероятно, усилили охрану. Мы не можем вернуться туда, не получив сначала хороших разведданных."
 
 # game/intro.rpy:2462
 translate russia tutStage7_d02e6b82:
 
     # sM "Oh... I guess you're right. Then what do you suggest?"
-    sM ""
+    sM "Оо... Думаю, ты прав. Тогда что ты предлагаешь?"
 
 # game/intro.rpy:2463
 translate russia tutStage7_87052b8c:
 
     # y "Well, the villains shot you with Nanobots, right? Which probably means they think you're under their control now."
-    y ""
+    y "Ну, в прошлый раз злодеи заразили тебя наноботами, верно? Вероятно сейчас они думают, что ты теперь под их контролем."
 
 # game/intro.rpy:2464
 translate russia tutStage7_3a98bacb:
 
     # y "You could go undercover with the different gangs around the city and bring back the intel we need for missions."
-    y ""
+    y "Ты могла бы работать под прикрытием с различными бандами по всему городу и приносить информацию, необходимую нам для выполнения заданий."
 
 # game/intro.rpy:2465
 translate russia tutStage7_fba58a36:
 
     # sM "That's... That's a good idea actually!"
-    sM ""
+    sM "Ээт... Это отличная идея!"
 
 # game/intro.rpy:2466
 translate russia tutStage7_858f8a81:
 
     # y "You said you had a contact in the Aces? That sounds as good of a start as any."
-    y ""
+    y "Ты говорила, что у тебя есть контакт в \"Тузах\"? Думаю что это то, с чего нужно начать."
 
 # game/intro.rpy:2468
 translate russia tutStage7_619fdce7:
 
     # sM "Can do!"
-    sM ""
+    sM "Да, вепёрд!"
 
 # game/intro.rpy:2472
 translate russia tutStage7_77fd9abf:
 
     # c "Who are you talking to?"
-    c ""
+    c "С кем ты разговариваешь?"
 
 # game/intro.rpy:2473
 translate russia tutStage7_34d5447b_1:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/intro.rpy:2474
 translate russia tutStage7_f23a7e5c:
 
     # c "Aaanyways.... About what happened yesterday..."
-    c ""
+    c "В любом случае.... О том, что произошло вчера..."
 
 # game/intro.rpy:2475
 translate russia tutStage7_0fc4ec84_1:
 
     # y "Yesterday?"
-    y ""
+    y "Вчера?"
 
 # game/intro.rpy:2476
 translate russia tutStage7_5588c565:
 
     # c "T-the whole nanobot discussion!"
-    c ""
+    c "В-вся дискуссия о наноботах!"
 
 # game/intro.rpy:2477
 translate russia tutStage7_8249ea8b:
 
     # c "Can we just pretend that nothing happened...?"
-    c ""
+    c "Мы можем просто притвориться, что ничего не произошло...?"
 
 # game/intro.rpy:2478
 translate russia tutStage7_996fb86e:
 
     # y "I dunno. I thought it was pretty hot."
-    y ""
+    y "Не знаю. Мне даже понравилось, это было довольно жарко."
 
 # game/intro.rpy:2479
 translate russia tutStage7_7e03409c:
 
     # c "Stop it please."
-    c ""
+    c "Пожалуйста, прекрати."
 
 # game/intro.rpy:2480
 translate russia tutStage7_55456266:
 
     # y "So did you keep the nanobots supressed like I suggested?"
-    y ""
+    y "Так ты сдерживаешь наноботов, как я предлагал?"
 
 # game/intro.rpy:2481
 translate russia tutStage7_b6db6d74:
 
     # c "That's.... That's private!"
-    c ""
+    c "Ээто.... Это личное!"
 
 # game/intro.rpy:2482
 translate russia tutStage7_636a254f:
 
     # y "As the only uncompromised agent of this organization, I'm pretty sure I outrank you."
-    y ""
+    y "Как единственный действующий агент этой организации, я уверен, что главнее тебя."
 
 # game/intro.rpy:2483
 translate russia tutStage7_f9ec36ff:
 
     # y "Remember that this is a matter of national security!"
-    y ""
+    y "Помни, что это вопрос национальной безопасности!"
 
 # game/intro.rpy:2484
 translate russia tutStage7_22a823cd:
 
     # c "......................."
-    c ""
+    c "......................."
 
 # game/intro.rpy:2485
 translate russia tutStage7_d612200e:
 
     # c "Fine... Yes, I kept them surpressed last night..."
-    c ""
+    c "Ладно... Да, я держала их в подавленном состоянии прошлой ночью..."
 
 # game/intro.rpy:2486
 translate russia tutStage7_9cf6f90d:
 
     # y "I know you were. I was watching you through the cameras."
-    y ""
+    y "Я знаю. Я наблюдал за тобой через камеры."
 
 # game/intro.rpy:2487
 translate russia tutStage7_f7c8a86b:
 
     # c "WHAT?!"
-    c ""
+    c "ЧТО?!"
 
 # game/intro.rpy:2488
 translate russia tutStage7_7daa2ae4:
 
     # y "Just kidding, just kidding."
-    y ""
+    y "Шучу, просто шучу."
 
 # game/intro.rpy:2489
 translate russia tutStage7_849927ac:
 
     # y "Please put down the chair."
-    y ""
+    y "Пожалуйста, опусти стул."
 
 # game/intro.rpy:2490
 translate russia tutStage7_a674a3bb:
 
     # c "Argh! Of all the agents, why did the only uncompromised one have to be a smartass?!"
-    c ""
+    c "Аргх! Почему из всех агентов единственный оставшийся должен быть сраным умником?!"
 
 # game/intro.rpy:2491
 translate russia tutStage7_73443a29:
 
     # y "Keep your socks on. We have more pressing matters to deal with anyways."
-    y ""
+    y "Да успокойся ты. В любом случае у нас есть дела поважнее."
 
 # game/intro.rpy:2492
 translate russia tutStage7_569ab76b:
 
     # c "Oh yes... you're right."
-    c ""
+    c "О да... ты прав."
 
 # game/intro.rpy:2500
 translate russia tutStage7_4180feb2:
 
     # cM "The city is in chaos, my friends are missing, we lost all control over WOOHP and I missed my date...."
-    cM ""
+    cM "В городе царит хаос, мои друзья пропали, контроль над WOOHP потерян, а я пропустила своё свидание....."
 
 # game/intro.rpy:2501
 translate russia tutStage7_b727e243:
 
     # y "Your date?{w} That's what you're worried about?"
-    y ""
+    y "Свидание?{w} Это единственное, что тебя беспокоит?"
 
 # game/intro.rpy:2502
 translate russia tutStage7_62098169:
 
     # cM "He's the musician 'AND' a poet!{w} I'm pretty sure we were meant to be together."
-    cM ""
+    cM "Он музыкант ´И´ поэт!{w} Я уверена, что мы созданы друг для друга."
 
 # game/intro.rpy:2503
 translate russia tutStage7_9cb97b48_1:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/intro.rpy:2504
 translate russia tutStage7_7280020b_1:
 
     # y "Well then, let's not waste any time."
-    y ""
+    y "Тогда не будем терять времени."
 
 # game/intro.rpy:2505
 translate russia tutStage7_add47e19:
 
     # cM "We've freed one agent from nanobot control. It's a start, but if we want to take back the HQ we're going to need more."
-    cM ""
+    cM "Мы освободили одного агента от контроля наноботов. Но это только начало, если мы хотим вернуть штаб-квартиру, нам нужно приложить больше усилий."
 
 # game/intro.rpy:2506
 translate russia tutStage7_25c84f85:
 
     # cM "Send me out on another mission and I'll bring back as many as you need!"
-    cM ""
+    cM "Отправь меня на другое задание, и я приведу столько агентов, сколько нам нужно!"
 
 # game/intro.rpy:2507
 translate russia tutStage7_40229cf8_1:
 
     # y "Easier said than done."
-    y ""
+    y "Легче сказать, чем сделать."
 
 # game/intro.rpy:2508
 translate russia tutStage7_8edba647:
 
     # y "The gadget you used last time costs money to make... and i'm kinda broke."
-    y ""
+    y "Гаджет, который ты использовала в прошлый раз, стоит денег... а я вроде как на мели."
 
 # game/intro.rpy:2509
 translate russia tutStage7_d4bc7ff9:
 
     # y "Also after your last mission at the school, they probably buffed up security. We can't charge back in there without some good intel."
-    y ""
+    y "Кроме того, после твоего последнего задания в школе, они, вероятно, усилили охрану. Мы не можем вернуться туда без предварительной разведки."
 
 # game/intro.rpy:2510
 translate russia tutStage7_f2ce6e64:
 
     # cM "Oh... I guess you're right. Then what do you suggest?"
-    cM ""
+    cM "Оо... Думаю, ты прав. Тогда что ты предлагаешь?"
 
 # game/intro.rpy:2511
 translate russia tutStage7_87052b8c_1:
 
     # y "Well, the villains shot you with Nanobots, right? Which probably means they think you're under their control now."
-    y ""
+    y "Ну, в прошлый раз злодеи заразили тебя наноботами, верно? Вероятно сейчас они думают, что ты теперь под их контролем."
 
 # game/intro.rpy:2512
 translate russia tutStage7_3a98bacb_1:
 
     # y "You could go undercover with the different gangs around the city and bring back the intel we need for missions."
-    y ""
+    y "Ты могла бы работать под прикрытием с различными бандами по всему городу и приносить информацию, необходимую нам для выполнения заданий."
 
 # game/intro.rpy:2513
 translate russia tutStage7_17d3f607:
 
     # cM "That's... That's a good idea actually!"
-    cM ""
+    cM "Ээт... Это отличная идея!"
 
 # game/intro.rpy:2514
 translate russia tutStage7_aded853e:
 
     # y "You said you had a contact within Drift Punk? That sounds as good of a start as any."
-    y ""
+    y "Ты говорила, что у тебя есть контакт в \"Дрифт Панках\"? Думаю что это то, с чего нужно начать."
 
 # game/intro.rpy:2516
 translate russia tutStage7_46665f32:
 
     # cM "Those grody nerds? Ew, no thank you."
-    cM ""
+    cM "Эти ботаники? Фуу, нет, спасибо."
 
 # game/intro.rpy:2517
 translate russia tutStage7_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/intro.rpy:2518
 translate russia tutStage7_7a2f00e5:
 
     # cM "Okay fine...{w} But if they start bringing out their 20 sided dice, I'm out."
-    cM ""
+    cM "Ладно, хорошо...{w} Но если они начнут доставать свои 20-гранные кубики, я от туда сваливаю."
 
 # game/intro.rpy:2526
 translate russia tutStage8_7793f6ad:
 
     # y "I should probably send Sam out to bring back some intel."
-    y ""
+    y "Наверное, стоит отправть Сэм, чтобы она принесла кое-какие сведения."
 
 # game/intro.rpy:2529
 translate russia tutStage8_8430108e:
 
     # y "I should probably send Clover out to bring back some intel."
-    y ""
+    y "Наверное, стоит отправть Кловер, чтобы она принесла кое-какие сведения."
 
 # game/intro.rpy:2532
 translate russia tutStage8_a7753f9e:
 
     # y "I should probably send Alex out to bring back some intel."
-    y ""
+    y "Наверное, стоит отправть Алекс, чтобы она принесла кое-какие сведения."
 
 # game/intro.rpy:2559
 translate russia tutStage8_cd68f9d3:
 
     # s "I'm back from working at the Aces."
-    s ""
+    s "Я вернулась с работы в \"Тузах\"."
 
 # game/intro.rpy:2560
 translate russia tutStage8_640fbe83:
 
     # y "So how did it go?"
-    y ""
+    y "И как все прошло?"
 
 # game/intro.rpy:2561
 translate russia tutStage8_e3fae95d:
 
     # s g10 "Well... {w}They're a bunch of vain idiots. Most of them don't even bother stealing money, simply because they don't need it."
-    s g10 ""
+    s g10 "Нуу... {w}Кучка тщеславных идиотов. Большинство из них даже не утруждают себя кражей денег, просто потому что они им не нужны."
 
 # game/intro.rpy:2562
 translate russia tutStage8_2d583e92:
 
     # s ".............................."
-    s ""
+    s ".............................."
 
 # game/intro.rpy:2563
 translate russia tutStage8_73a9aec4:
 
     # y "Yes....?"
-    y ""
+    y "Да...?"
 
 # game/intro.rpy:2564
 translate russia tutStage8_80d3201b:
 
     # s g11 "And they made fun of my clothes..."
-    s g11 ""
+    s g11 "И они смеялись над моей одеждой..."
 
 # game/intro.rpy:2565
 translate russia tutStage8_df661280:
 
     # y "Your clothes?"
-    y ""
+    y "Над твоей одеждой?"
 
 # game/intro.rpy:2566
 translate russia tutStage8_6482fa51:
 
     # s "They're rich kids. They all wear the latest fashion of expensive labels. I might aswell have been wearing garbage bags in the way they looked at me."
-    s ""
+    s "Они богатые детишки. Все ходят в дорогих вещах от модных брендов. По тому, как они смотрели на меня, я словно в мусорный пакет была одета."
 
 # game/intro.rpy:2567
 translate russia tutStage8_b9d4aa9a:
 
     # y "Sounds like a great bunch..."
-    y ""
+    y "Похоже, это отличная компания..."
 
 # game/intro.rpy:2568
 translate russia tutStage8_e6d16762:
 
     # s g12 "Here's my report."
-    s g12 ""
+    s g12 "Вот мой отчёт."
 
 # game/intro.rpy:2573
 translate russia tutStage8_b2b23773:
 
     # "................................................."
-    ""
+    "................................................."
 
 # game/intro.rpy:2574
 translate russia tutStage8_b3763f28:
 
     # "You spend some time reading through the report."
-    ""
+    "Вы тратите некоторое время на чтение отчёта."
 
 # game/intro.rpy:2575
 translate russia tutStage8_08259ab7:
