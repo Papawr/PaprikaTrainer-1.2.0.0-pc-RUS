@@ -2,9 +2,634 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/intro.rpy", line 4254: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/tl/russia/intro.rpy", line 534: end of line expected.
 (Perhaps you left out a " at the end of the first line.)
-        y "По шкале от 1 до 10, насколько сильно ты хочешь свергнуть правительство США?"."
+    y "Точно, \"Хаос на улицах\"
+    
+    # game/intro.rpy:244
+    translate russia tutStage2_4007e1ff:
+    
+        # "You look around."
+                ^
+        "Вы осматриваетесь."
+    
+    # game/intro.rpy:245
+    translate russia tutStage2_f871de75:
+    
+        # y "Where am I? It looks like some old timey....{w} Milkshake bar!{w} This place looks like it hasn't been used since the 50s."
+        y "Где это я? Это похоже на какой-то старомодный....{w} Молочно коктейльный-бар! {w} Это место выглядит так, как будто его не использовали с 50-х годов."
+    
+    # game/intro.rpy:246
+    translate russia tutStage2_b9b2a9fa:
+    
+        # y "Well I'm not gonna get a job in a dump like this. Best head outside."
+        y "Ну что же я не собираюсь работать на такой свалке. По коням!"
+    
+    # game/intro.rpy:249
+    translate russia tutStage2_2850a1e9:
+    
+        # "You step outside and are greeted by armageddon."
+        "Вы выходите на улицу и вас встречает Армагеддон."
+    
+    # game/intro.rpy:250
+    translate russia tutStage2_152b4cbd:
+    
+        # "Everywhere you look, you see gangs fighting in the open street."
+           "Куда бы вы ни посмотрели, вы видите банды, сражающиеся между собой на открытой улице."
+    
+    # game/intro.rpy:251
+    translate russia tutStage2_286d0a18:
+    
+        # "Police cars are burning, shops are being looted and gunfire can be heard around every corner."
+          "Полицейские машины горят, магазины грабят, и за каждым углом слышна стрельба."
+    
+    # game/intro.rpy:252
+    translate russia tutStage2_cf630fb5:
+    
+        # y "..................."
+        y "..................."
+    
+    # game/intro.rpy:253
+    translate russia tutStage2_5df9405f:
+    
+        # "You decided to head back inside."
+        "Вы решили вернуться внутрь."
+    
+    # game/intro.rpy:255
+    translate russia tutStage2_c0b0888d:
+    
+        # y "Yeah... Let's wait until things calm down a bit...~"
+        y "Дааа уж... Подожду немного, пока все немного не уляжется....~"
+    
+    # game/intro.rpy:258
+    translate russia tutStage2_f1d3701b:
+    
+        # y "All this violence is making me thirsty."
+        y "От всего этого насилие, у меня в горле пересохло."
+    
+    # game/intro.rpy:259
+    translate russia tutStage2_1e621ad4:
+    
+        # y "Let's see if I can pour myself a shake!"
+        y "Налью´ка я себе коктейля!"
+    
+    # game/intro.rpy:260
+    translate russia tutStage2_a80136b9:
+    
+        # "You pour yourself a milkshake."
+        "Вы наливаете себе молочный коктейль."
+    
+    # game/intro.rpy:261
+    translate russia tutStage2_c26a8916:
+    
+        # y "Delicious!"
+        y "Вкуснотища!"
+    
+    # game/intro.rpy:262
+    translate russia tutStage2_7597c3a3:
+    
+        # "........{w}........{w}........"
+        "........{w}........{w}........"
+    
+    # game/intro.rpy:263
+    translate russia tutStage2_9cb97b48:
+    
+        # y "........................"
+        y "........................"
+    
+    # game/intro.rpy:264
+    translate russia tutStage2_0f8ee318:
+    
+        # y "Funny, I expected it to-..."
+        y "Забавно, я думал что это будет-..."
+    
+    # game/intro.rpy:269
+    translate russia tutStage2_462f2b4b:
+    
+        # "You collapse from food poisoning."
+        "Вы падаете в обморок от пищевого отравления."
+    
+    # game/intro.rpy:270
+    translate russia tutStage2_7b98d66c:
+    
+        # "You spend the rest of the day on the toilet. When the sun sets, the violence seems to die down a little."
+        "Остаток дня вы проводите в туалете. Когда солнце садится, звуки насилие снаружи потихоньку стихают."
+    
+    # game/intro.rpy:272
+    translate russia tutStage2_db706f98:
+    
+        # y "Again with the cleaning... Maybe I should try getting a job as janitor after this..."
+        y "Опять уборка... Может мне, стоит попробовать себя в роли уборщика после всего этого..."
+    
+    # game/intro.rpy:275
+    translate russia tutStage2_c6e87893:
+    
+        # "You spend some time cleaning the milkshake bar. It looks nicer than before, but still needs some work."
+        "Вы тратите некоторое время на уборку в баре. Он выглядит приятнее, чем раньше, но все ещё нуждается в некоторой доработке."
+    
+    # game/intro.rpy:279
+    translate russia tutStage2_86334e5d:
+    
+        # y "Sounds like the fighting is dying down..."
+        y "Похоже, что снаружи все заканчивается..."
+    
+    # game/intro.rpy:280
+    translate russia tutStage2_130caf94:
+    
+        # y "But it's also getting dark. I'm not sure if it's a smart move to go out now."
+        y "Но также становится темно. Я не уверен, разумно ли, выходить сейчас наружу."
+    
+    # game/intro.rpy:281
+    translate russia tutStage2_24d693f5:
+    
+        # y "Guess I'll spend the night in the base, just to be sure."
+        y "Думаю, я проведу ночь на базе, просто, чтобы быть уверенным."
+    
+    # game/intro.rpy:284
+    translate russia tutStage2_42804f32:
+    
+        # y "Deadly gun violence up here... or safe living conditions downstairs..."
+        y "Смертоносная бойня с применением огнестрельного оружия здесь... или безопасные условия жизни внизу..."
+    
+    # game/intro.rpy:285
+    translate russia tutStage2_831ef747:
+    
+        # y "I guess I can wait until the violence calms down a bit."
+        y "Думаю я немного подожду, пока снаружи всё немного не успокоится."
+    
+    # game/intro.rpy:288
+    translate russia tutStage2_b3eaa82b:
+    
+        # "You spend the rest of the day in the base. When it turns dark, the violence seems to calm down a little."
+        "Остаток дня вы проводите на базе. Когда солнце садится, звуки насилие потихоньку стихают."
+    
+    # game/intro.rpy:292
+    translate russia tutStage2_14f4b337:
+    
+        # "{b}*Beep* *Beep* *Beep*{/b}"
+        "{b}*Бип* *Бип* *Бип*{/b}"
+    
+    # game/intro.rpy:293
+    translate russia tutStage2_1ce9c404:
+    
+        # y "...?"
+        y "...?"
+    
+    # game/intro.rpy:294
+    translate russia tutStage2_f39e93a4:
+    
+        # y "A distress signal?{w} {b}*Beep*{/b}"
+        y "Сигнал бедствия?{w} {b}*Бип*{/b}"
+    
+    # game/intro.rpy:302
+    translate russia tutStage2_f473ecc0:
+    
+        # a "{b}*Quietly:*{/b} Jerry is that you?"
+        a "{b}*Тихо:*{/b} Джерри это ты?"
+    
+    # game/intro.rpy:303
+    translate russia tutStage2_ee99fffe:
+    
+        # y "Er..."
+        y "Ехх..."
+    
+    # game/intro.rpy:309
+    translate russia tutStage2_a69ff082:
+    
+        # s g31 "Listen, we're hiding out at school. We're okay, but we've been attacked by our own WOOHP Agents."
+        s g31 "Послушай, мы прячемся в школе. Мы в порядке, но на нас напали наши собственные Агенты из «WOOHP»."
+    
+    # game/intro.rpy:315
+    translate russia tutStage2_81d4d292:
+    
+        # c "And now Beverly Hills is turning into a warzone! That's like... totally not cool!"
+        c "И теперь Беверли-Хиллз превращается в зону боевых действий! Это как-то типа... совсем не круто!"
+    
+    # game/intro.rpy:316
+    translate russia tutStage2_86ce9ff8:
+    
+        # s "Can you pull us out of here via the WOOHP Tunnel Network?"
+        s "Можешь вытащить нас отсюда через туннельную сеть «WOOHP»?"
+    
+    # game/intro.rpy:317
+    translate russia tutStage2_05bf074c:
+    
+        # y ".............."
+        y ".............."
+    
+    # game/intro.rpy:318
+    translate russia tutStage2_d2953955:
+    
+        # y "Suuure~...."
+        y "Еммм да, конечно~...."
+    
+    # game/intro.rpy:319
+    translate russia tutStage2_bd13094c:
+    
+        # "You press some random buttons on the console."
+        "Вы нажимаете случайные кнопки на консоли."
+    
+    # game/intro.rpy:320
+    translate russia tutStage2_692be6fa:
+    
+        # y "............"
+        y "............"
+    
+    # game/intro.rpy:321
+    translate russia tutStage2_04c45232:
+    
+        # y "It says right here that I can only pull you out one at a time."
+        y "Здесь написано, что я могу вытащить вас только по одиночке."
+    
+    # game/intro.rpy:322
+    translate russia tutStage2_3af91924:
+    
+        # s g32 "That's fine, but please just hurry."
+        s g32 "Да, хорошо. Только, пожалуйста, просто поторопись."
+    
+    # game/intro.rpy:328
+    translate russia tutSpySelect_f65fca2e:
+    
+        # y "Ye okay."
+        y "Отлично."
+    
+    # game/intro.rpy:329
+    translate russia tutSpySelect_8fcb26e6:
+    
+        # y "{b}*Bleep*{/b}"
+        y "{b}*Бип*{/b}"
+    
+    # game/intro.rpy:343
+    translate russia tutSpySelect_8043824e:
+    
+        # "The screen shows the spy in green being sucked into a giant funnel!"
+        "На экране видно, как шпионку в зелёном засасывает в гигантскую воронку!"
+    
+    # game/intro.rpy:348
+    translate russia tutSpySelect_237d88d0:
+    
+        # "Moments later you hear a swooshing noise as a panel in the roof opens up."
+        "Через несколько мгновений вы слышите свистящий шум. Панель в крыше открывается."
+    
+    # game/intro.rpy:354
+    translate russia tutSpySelect_147a7e75:
+    
+        # s "Oof~...!"
+        s "Хух~...!"
+    
+    # game/intro.rpy:355
+    translate russia tutSpySelect_e9584709:
+    
+        # s "Just in time Jerry! Now pull out the othe-..."
+        s "Как раз вовремя Джерри! Теперь вытащи ост-..."
+    
+    # game/intro.rpy:356
+    translate russia tutSpySelect_29f00d05:
+    
+        # s g28 "...?"
+        s g28 "...?"
+    
+    # game/intro.rpy:357
+    translate russia tutSpySelect_c718aa7a:
+    
+        # s "You're not Jerry!"
+        s "Ты не Джерри!"
+    
+    # game/intro.rpy:358
+    translate russia tutSpySelect_25a929e4:
+    
+        # y "No, actually I'm....{w} Errr...{w} The new guy! It's my first day on the jo-..."
+        y "Нет, на самом деле я....{w} Еммм...{w} Я тут новенький! Это мой первый день на рабо-..."
+    
+    # game/intro.rpy:361
+    translate russia tutSpySelect_4cda7408:
+    
+        # "With lightning quick reflexes, the spy jumps on you and puts you in a headlock!"
+        "Молниеносно, шпионка прыгает на вас и применяет простейший захват!"
+    
+    # game/intro.rpy:364
+    translate russia tutSpySelect_f358cb0c:
+    
+        # y "................."
+        y "................."
+    
+    # game/intro.rpy:365
+    translate russia tutSpySelect_87e557fb:
+    
+        # y "Why?"
+        y "За что?"
+    
+    # game/intro.rpy:367
+    translate russia tutSpySelect_35103d89:
+    
+        # s "Don't move Agent! We've been fighting you guys all day! I don't know what's going on, but you're not getting the drop on me."
+        s "Не двигайся агент! Мы сражаемся с вами целый день! Я не знаю, что здесь происходит, но ты не застанешь меня врасплох."
+    
+    # game/intro.rpy:368
+    translate russia tutSpySelect_1e924af9:
+    
+        # y "K."
+        y "К."
+    
+    # game/intro.rpy:369
+    translate russia tutSpySelect_384ba19d:
+    
+        # s g17 "What do you mean 'K'?"
+        s g17 "Что значит 'К'?"
+    
+    # game/intro.rpy:370
+    translate russia tutSpySelect_8bfd8a4d:
+    
+        # y "I mean I won't attack."
+        y "Я хотел сказать, что не собирался атаковать тебя."
+    
+    # game/intro.rpy:371
+    translate russia tutSpySelect_dece88cf:
+    
+        # s g8 "Nice try! But you're not fooling anyone!"
+        s g8 "Хорошая попытка! Но ты меня не обманешь!"
+    
+    # game/intro.rpy:372
+    translate russia tutSpySelect_d3a59cb5:
+    
+        # y "............................."
+        y "............................."
+    
+    # game/intro.rpy:373
+    translate russia tutSpySelect_3270dd5c:
+    
+        # s g32 "............................."
+        s g32 "............................."
+    
+    # game/intro.rpy:374
+    translate russia tutSpySelect_10fd81d9:
+    
+        # "................................"
+        "................................"
+    
+    # game/intro.rpy:375
+    translate russia tutSpySelect_998513c5:
+    
+        # y "I'm sorta getting a cramp in my neck, so if you could~...."
+        y "У меня это, ... немного шея затекла, ты не могла бы~...."
+    
+    # game/intro.rpy:376
+    translate russia tutSpySelect_94e81ec3:
+    
+        # "The spy narrows her eyes as she gives you a cautious look."
+        "Шпионка сужает глаза и осторожно смотрит на вас."
+    
+    # game/intro.rpy:377
+    translate russia tutSpySelect_69788bbe:
+    
+        # s g31 "You... sure don't act like the other agents..."
+        s g31 "Ты... и правда не такой, как другие агенты..."
+    
+    # game/intro.rpy:378
+    translate russia tutSpySelect_a8f4e044:
+    
+        # "The spy frees you from the neckhold."
+        "Шпионка отпускает вас."
+    
+    # game/intro.rpy:379
+    translate russia tutSpySelect_26cc5d85:
+    
+        # y "Didn't your friends need help or something...?"
+        y "Разве твоим друзьям не нужна была помощь или что-то типа того...?"
+    
+    # game/intro.rpy:380
+    translate russia tutSpySelect_e32968a0:
+    
+        # s g28 "O-oh! You're rig-...!"
+        s g28 "О-ох! Ты пра-...!"
+    
+    # game/intro.rpy:381
+    translate russia tutSpySelect_77f75d40:
+    
+        # "*{b}Bleep* *Bleep* *Bleep*{/b}"
+        "*{b}Бип* *Бип* *Бип*{/b}"
+    
+    # game/intro.rpy:382
+    translate russia tutSpySelect_1ae19595:
+    
+        # s "It's the distress signal!"
+        s "Это сигнал бедствия!"
+    
+    # game/intro.rpy:385
+    translate russia tutSpySelect_9fc93384:
+    
+        # "The two of you run over to the console and answer the call."
+        "Вы вдвоем подбегаете к консоли и отвечаете на вызов."
+    
+    # game/intro.rpy:394
+    translate russia tutSpySelect_0b66e489:
+    
+        # a "Sam! They found us!"
+        a "Сэм! Они нашли нас!"
+    
+    # game/intro.rpy:395
+    translate russia tutSpySelect_e0ba639d:
+    
+        # c "Please get us out of here!"
+        c "Пожалуйста, вытащи нас отсюда!"
+    
+    # game/intro.rpy:396
+    translate russia tutSpySelect_9a198eff:
+    
+        # sM "Hang on, I got you!"
+        sM "Держитесь, я сейчас!"
+    
+    # game/intro.rpy:409
+    translate russia tutSpySelect_723e1470:
+    
+        # "{b}*Static*{/b}"
+        "{b}*Неподвижно*{/b}"
+    
+    # game/intro.rpy:410
+    translate russia tutSpySelect_f7953e45:
+    
+        # sM "Clover?! Alex?!"
+        sM "Кловер?! Алекс?!"
+    
+    # game/intro.rpy:415
+    translate russia tutSpySelect_e34ea306:
+    
+        # s "The tunnel system! It's not responding!"
+        s "Туннельная система! Она не отвечает!"
+    
+    # game/intro.rpy:416
+    translate russia tutSpySelect_8dbf445a:
+    
+        # s g14 "No....{w} They must have destroyed it..."
+        s g14 "Нееет....{w} Они, должно быть, сломали её...."
+    
+    # game/intro.rpy:417
+    translate russia tutSpySelect_d59bd64c:
+    
+        # y "{i}'They'{/i}?"
+        y "{i}'Они'{/i}?"
+    
+    # game/intro.rpy:418
+    translate russia tutSpySelect_7b9776c7:
+    
+        # s g15 "............."
+        s g15 "............."
+    
+    # game/intro.rpy:419
+    translate russia tutSpySelect_71fd6dfe:
+    
+        # s "WOOHP... The Agency... It's gone rogue."
+        s "«WOOHP»... Агентство... Оно вышло из-под контроля."
+    
+    # game/intro.rpy:420
+    translate russia tutSpySelect_e9d5801a:
+    
+        # s g37 "All of our Agents just... turned on us. In the middle of school no less! I was busy studying!"
+        s g37 "Все наши агенты просто... предали нас и напали. Да ещё и посреди школы! Вовремя учёбы!"
+    
+    # game/intro.rpy:421
+    translate russia tutSpySelect_1db49ca3:
+    
+        # y "........."
+        y "........."
+    
+    # game/intro.rpy:422
+    translate russia tutSpySelect_2be06fe3:
+    
+        # s g34 "They brought in gangs from out of state and began causing chaos in the city."
+        s g34 "Вместе с бандами из других штатов они начали сеять хаос в городе."
+    
+    # game/intro.rpy:423
+    translate russia tutSpySelect_bf1e4e59:
+    
+        # s "They've declared Beverly Hills lawless. Turning it into a playground for gangsters and thugs."
+        s "Они объявили Беверли-Хиллз беззаконием. Превратив его в игровую площадку для бандитов и головорезов."
+    
+    # game/intro.rpy:424
+    translate russia tutSpySelect_bf4f584c:
+    
+        # y "Man that must suck for you."
+        y "Хреново вам..."
+    
+    # game/intro.rpy:425
+    translate russia tutSpySelect_e369c37d:
+    
+        # s g28 "It sucks for you too!"
+        s g28 "Нам!? Тебя это тоже касается!"
+    
+    # game/intro.rpy:426
+    translate russia tutSpySelect_27f01e9b:
+    
+        # y "It does?"
+        y "Касается? Меня?"
+    
+    # game/intro.rpy:427
+    translate russia tutSpySelect_47d00f51:
+    
+        # s g8 "Of course! You're a WOOHP Agent yourself, right?"
+        s g8 "Конечно! Ты же агент «WOOHP», не так ли?"
+    
+    # game/intro.rpy:428
+    translate russia tutSpySelect_c1fe963c:
+    
+        # y "Oh right... about that~..."
+        y "Ах да... на счёт этого~..."
+    
+    # game/intro.rpy:429
+    translate russia tutSpySelect_a8c18fe7:
+    
+        # y "I was only one day away from retirement so..."
+        y "До пенсии мне оставался всего один день, так что..."
+    
+    # game/intro.rpy:430
+    translate russia tutSpySelect_35c2efb4:
+    
+        # s g34 "You said it was your first day."
+        s g34 "Ты говорил, что сегодня твой первый день."
+    
+    # game/intro.rpy:431
+    translate russia tutSpySelect_9cb97b48:
+    
+        # y "........................"
+        y "........................"
+    
+    # game/intro.rpy:432
+    translate russia tutSpySelect_c11973ca:
+    
+        # y "So about that~...."
+        y "Ехх да, а на счёт этого~...."
+    
+    # game/intro.rpy:433
+    translate russia tutSpySelect_dc8a3f18:
+    
+        # s g9 "Ugh, okay fine. What do you want?"
+        s g9 "Ладно, хорошо. Чего ты хочешь?"
+    
+    # game/intro.rpy:434
+    translate russia tutSpySelect_e93fe854:
+    
+        # y "Huh...?"
+        y "Хмм...?"
+    
+    # game/intro.rpy:435
+    translate russia tutSpySelect_f39de257:
+    
+        # s "I'm going to need your help and you must want something. Just tell me what you want in return for your help."
+        s "Мне понадобится твоя помощь, а ты, точно захочешь что-нибудь взамен. Просто скажите мне, чего ты хочешь."
+    
+    # game/intro.rpy:436
+    translate russia tutSpySelect_b5d3c39c:
+    
+        # y "...."
+        y "...."
+    
+    # game/intro.rpy:440
+    translate russia tutSpySelect_68d02c5e:
+    
+        # y "Absolute unchallenged POWER!"
+        y "Абсолютная и неоспоримая ВЛАСТЬ!"
+    
+    # game/intro.rpy:441
+    translate russia tutSpySelect_1c683039:
+    
+        # s g34 "Are you willing to work for it?"
+        s g34 "Готов ли ты работать ради этого?"
+    
+    # game/intro.rpy:442
+    translate russia tutSpySelect_d1642ce7:
+    
+        # y "Huh?"
+        y "Хмм?"
+    
+    # game/intro.rpy:443
+    translate russia tutSpySelect_6e940db4:
+    
+        # s g31 "Are you willing to put in the time and effort?"
+        s g31 "Готов ли ты потратить уйму услий и времени ради этого?"
+    
+    # game/intro.rpy:444
+    translate russia tutSpySelect_ac247651:
+    
+        # s "If so, then I'll make sure you become one of the bigshots at WOOHP. Then you'll have all the power you could ever want."
+        s "Если да, то я позабочусь о том, чтобы ты занял одну из главных позиций в \"WOOHP\". Тогда у тебя будет власть, которую ты только можешь пожелать."
+    
+    # game/intro.rpy:445
+    translate russia tutSpySelect_ce895a18:
+    
+        # y "..........."
+        y "..........."
+    
+    # game/intro.rpy:446
+    translate russia tutSpySelect_84be3c46:
+    
+        # y "Tempting~..."
+        y "Заманчиво~..."
+    
+    # game/intro.rpy:447
+    translate russia tutSpySelect_a81773f3:
+    
+        # s "But for now WOOHP is under enemy control. So I'll need you as a plan B."
+        s "Но пока \"WOOHP\" находится под контролем врагов. Так что ты нужен мне в качестве плана Б."
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Sat Oct 23 19:28:43 2021
+Sun Oct 24 23:00:06 2021

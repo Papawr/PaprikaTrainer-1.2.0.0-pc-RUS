@@ -706,7 +706,7 @@ translate russia acesMapSelect_c75ec9d1:
 translate russia acesMapSelect_82788dda:
 
     # s "On my way!"
-    s ""
+    s "Уже в пути!"
 
 # game/worldmap.rpy:1286
 translate russia acesMapSelect_5444408e:
@@ -928,7 +928,7 @@ translate russia epinesMapSelect_232906df:
 translate russia finaleMapSelect_5d6073d5:
 
     # brit "On my way!"
-    brit ""
+    brit "Уже в пути!"
 
 # game/worldmap.rpy:1703
 translate russia finaleMapSelect_3b282126:
@@ -2020,7 +2020,7 @@ translate russia pictureLabel_a23669b1:
 translate russia explore_5d628030:
 
     # "You spend the day exploring the city."
-    ""
+    "Ты проводишь день, изучая город."
 
 # game/worldmap.rpy:3140
 translate russia explore_90dc1f52:
@@ -4588,79 +4588,79 @@ translate russia randomExplore4_3f14525b_6:
 translate russia randomExplore4_7f420850:
 
     # "You decide to pay a visit to the local hospital."
-    ""
+    "Ты решил посетить местную больницу."
 
 # game/worldmap.rpy:3916
 translate russia randomExplore4_9a78f174_2:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/worldmap.rpy:3917
 translate russia randomExplore4_dc5197f7:
 
     # y "Who trashes a hospital?! Seriously..."
-    y ""
+    y "Кто вообще громит больницы?! Как не человечно..."
 
 # game/worldmap.rpy:3920
 translate russia randomExplore4_8255519c:
 
     # "Doctor" "Ah welcome to what's left of the Beverly Hills hospital."
-    "Doctor" ""
+    "Врач" "Добро пожаловать в то, что осталось от больницы Беверли-Хиллз."
 
 # game/worldmap.rpy:3921
 translate russia randomExplore4_5687f97b:
 
     # y "You're still here?"
-    y ""
+    y "Вы всё ещё здесь?"
 
 # game/worldmap.rpy:3922
 translate russia randomExplore4_8f219f48:
 
     # "Doctor" "We've set up medical tents and scavenged as many supplies as we could."
-    "Doctor" ""
+    "Врач" "Мы установили медицинские палатки и раздобыли как можно больше припасов."
 
 # game/worldmap.rpy:3923
 translate russia randomExplore4_888a6cf9:
 
     # "Doctor" "Are you in need of assistance?"
-    "Doctor" ""
+    "Врач" "Вам нужна какая-нибудь помощь?"
 
 # game/worldmap.rpy:3924
 translate russia randomExplore4_a990c8f1:
 
     # y "Well I'm not, but the girls working for me might be."
-    y ""
+    y "Мне нет. А вот девушкам, работающим на меня, может пригодиться."
 
 # game/worldmap.rpy:3925
 translate russia randomExplore4_7cebdb90:
 
     # "Doctor" "I'll give you this medpack. It should fix up any minor injuries your friends might have."
-    "Doctor" ""
+    "Врач" "Держите, это аптечка. Она будет полезна вашим друзьями, при любых незначительных повреждениях."
 
 # game/worldmap.rpy:3927
 translate russia randomExplore4_a12bfc27:
 
     # "You receive 1 {color=#ffeda6}Medkit{/color}!"
-    ""
+    "Ты получил 1 {color=#ffeda6}Аптечку{/color}!"
 
 # game/worldmap.rpy:3928
 translate russia randomExplore4_f7b5e847:
 
     # y "Thanks doc."
-    y ""
+    y "Спасибо док."
 
 # game/worldmap.rpy:3938
 translate russia randomExplore4_3f14525b_7:
 
     # "On your way back you find {color=#ffeda6}$ 10,-{/color} on the street! {w}That's what you get from having good karma."
-    ""
+    "На обратном пути ты находишь {color=#ffeda6}$ 10,-{/color} на улице! {w}Это все благодаря хорошей карме."
 
 # game/worldmap.rpy:3954
 translate russia exploreLoot_3b576c88:
 
     # "Digging through the supply crate you find [randLoot] food."
-    ""
+    "Покопавшись в ящике с припасами, ты нашёл [randLoot]."
 
 # game/worldmap.rpy:3955
 translate russia exploreLoot_aaa26ce6:

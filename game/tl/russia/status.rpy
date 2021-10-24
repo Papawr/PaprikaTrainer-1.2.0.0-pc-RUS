@@ -14068,7 +14068,7 @@ translate russia task11_54365b1b:
 translate russia task11_68f8a81a:
 
     # a "On my way!"
-    a ""
+    a "Уже в пути!"
 
 # game/status.rpy:5624
 translate russia task11_0036174a:
@@ -34771,4 +34771,3 @@ translate russia task32_884e3d3f:
 
     # y "Somehow I doubt that this only cost $2.000..."
     y ""
-

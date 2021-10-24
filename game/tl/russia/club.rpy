@@ -9,7 +9,7 @@ translate russia club_fe0fa968:
 # game/club.rpy:405
 translate russia club_d32f081f:
 
-    # "{b}*Splosh* *Splosh* *Splosh*{/b}"
+    # "{b}*Брызги* *Брызги* *Брызги*{/b}"
     ""
 
 # game/club.rpy:406
@@ -899,4 +899,3 @@ translate russia strings:
     # game/club.rpy:713
     old "Hire ten ($ 7.000)"
     new ""
-

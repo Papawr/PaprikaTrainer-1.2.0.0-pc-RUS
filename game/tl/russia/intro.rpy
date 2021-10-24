@@ -5955,7 +5955,7 @@ translate russia tutStage8_df661280:
 translate russia tutStage8_6482fa51:
 
     # s "They're rich kids. They all wear the latest fashion of expensive labels. I might aswell have been wearing garbage bags in the way they looked at me."
-    s "Они богатые детишки. Все ходят в дорогих вещах от модных брендов. По тому, как они смотрели на меня, я словно в мусорный пакет была одета."
+    s "Они богатые детишки. Все ходят в дорогих вещах от модных брендов. Они смотрели на меня, словно я в мусорный пакет была одета."
 
 # game/intro.rpy:2567
 translate russia tutStage8_b9d4aa9a:
@@ -5979,163 +5979,163 @@ translate russia tutStage8_b2b23773:
 translate russia tutStage8_b3763f28:
 
     # "You spend some time reading through the report."
-    "Вы тратите некоторое время на чтение отчёта."
+    "Ты тратишь некоторое время на чтение отчёта."
 
 # game/intro.rpy:2575
 translate russia tutStage8_08259ab7:
 
     # y "Hmm...{w} Ah, they mention a back entrance into the school."
-    y ""
+    y "Хмм...{w} Они упоминали черный вход в школе."
 
 # game/intro.rpy:2576
 translate russia tutStage8_0facdf66:
 
     # y "This should give us enough intel to sneak in again"
-    y ""
+    y "Думаю этого достаточно чтобы вновь пробраться туда."
 
 # game/intro.rpy:2577
 translate russia tutStage8_1212de06:
 
     # s g35 "But I'm going to need another one of those gadgets, and those cost money."
-    s g35 ""
+    s g35 "Но мне понадобится еще один из этих гаджетов, а они стоят денег."
 
 # game/intro.rpy:2578
 translate russia tutStage8_86c12410:
 
     # y "Exactly."
-    y ""
+    y "Именно."
 
 # game/intro.rpy:2579
 translate russia tutStage8_09f736a6:
 
     # s ".................."
-    s ""
+    s ".................."
 
 # game/intro.rpy:2580
 translate russia tutStage8_28107bb2:
 
     # s "How do we get that...?"
-    s ""
+    s "И как нам получить денег...?"
 
 # game/intro.rpy:2581
 translate russia tutStage8_be993034:
 
     # s g35 "Working for the Aces isn't a reliable way to make money. They're so rich that they forget to pay you for work you've done."
-    s g35 ""
+    s g35 "Работа на \"Тузов\" не является надежным способом заработка. Они настолько богаты, что забывают заплатить за работу."
 
 # game/intro.rpy:2582
 translate russia tutStage8_692be6fa:
 
     # y "............"
-    y ""
+    y "............"
 
 # game/intro.rpy:2583
 translate russia tutStage8_d0790b08:
 
     # y "Okay... What else is in this report...?"
-    y ""
+    y "Хорошо... Что ещё есть в этом отчёте...?"
 
 # game/intro.rpy:2584
 translate russia tutStage8_b2b23773_1:
 
     # "................................................."
-    ""
+    "................................................."
 
 # game/intro.rpy:2585
 translate russia tutStage8_370b9e19:
 
     # y "Wait... the gangs are hoping to open up another neutral zone?"
-    y ""
+    y "Подожди... банды надеются открыть еще одну нейтральную зону?"
 
 # game/intro.rpy:2586
 translate russia tutStage8_d88d5a75:
 
     # s g29 "Oh right! The only neutral zone right now is the mall. They'd like a hangout spot where they can relax."
-    s g29 ""
+    s g29 "О, точно! Единственная нейтральная зона сейчас - это торговый центр. Они хотели бы иметь место, где можно расслабиться."
 
 # game/intro.rpy:2587
 translate russia tutStage8_1984a35a:
 
     # y "....."
-    y ""
+    y "....."
 
 # game/intro.rpy:2588
 translate russia tutStage8_35184e68:
 
     # y "Like...{w} a milkshake bar?"
-    y ""
+    y "Что-то...{w} вроде нашего бара?"
 
 # game/intro.rpy:2589
 translate russia tutStage8_863f8205:
 
     # s g18 "I'm not sure if gangsters are interested in milkshakes, [playerName]..."
-    s g18 ""
+    s g18 "Не думаю, что гангстерам интересны молочные коктейли, [playerName]..."
 
 # game/intro.rpy:2590
 translate russia tutStage8_05cbe027:
 
     # y "We'd just have to do some re-branding! We could sell burgers, beer and dress the waitress in skimpy outfits."
-    y ""
+    y "Нам просто придётся провести ребрендинг! Мы могли бы продавать гамбургеры, пиво и одевать официанток в откровенные наряды."
 
 # game/intro.rpy:2591
 translate russia tutStage8_cff5eb81:
 
     # s "But... don't we want to avoid bringing the gangs here?"
-    s ""
+    s "Но... разве нам стоит приводить сюда бандитов?"
 
 # game/intro.rpy:2592
 translate russia tutStage8_a7970768:
 
     # y "We'll be hiding in plain sight. Plus no one would dare lift a finger against us if we're on neutral ground."
-    y ""
+    y "Мы будем прятаться у всех на виду. К тому же никто не посмеет и пальцем пошевелить против нас, если мы будем на нейтральной территории."
 
 # game/intro.rpy:2593
 translate russia tutStage8_ddb9de18:
 
     # s g37 "Well.. It would provide us with a source of income..."
-    s g37 ""
+    s g37 "Нуу... Это обеспечит нас надёжным источником дохода..."
 
 # game/intro.rpy:2594
 translate russia tutStage8_300b26b5:
 
     # s g1 "Okay I'm convinced! Let's clean this place up and turn it into a bar!"
-    s g1 ""
+    s g1 "Хорошо, ты меня убедил! Давай очистим это место и превратим его в настоящий бар!"
 
 # game/intro.rpy:2595
 translate russia tutStage8_46571e1e:
 
     # y "Great! Now I just need to get you a sexy waitress uniform."
-    y ""
+    y "Отлично! Осталось только достать тебе сексуальную форму официантки."
 
 # game/intro.rpy:2596
 translate russia tutStage8_dbe05f03:
 
     # s g29 "....................."
-    s g29 ""
+    s g29 "....................."
 
 # game/intro.rpy:2597
 translate russia tutStage8_e527d573:
 
     # s "Ehrm... maybe we could do it without the sexy waitress uniform...?"
-    s ""
+    s "Ээм... а без сексуальной формы официантки ни как...?"
 
 # game/intro.rpy:2598
 translate russia tutStage8_d8032466:
 
     # y "Naked staff? That's a great idea!"
-    y ""
+    y "Голый персонал? Это отличная идея!"
 
 # game/intro.rpy:2599
 translate russia tutStage8_d066710d:
 
     # s g28 "N-no! That's not what I meant!"
-    s g28 ""
+    s g28 "Н-нет! Я не это имела в виду!"
 
 # game/intro.rpy:2600
 translate russia tutStage8_247d7bef:
 
     # y "See what we can accomplish when we put our heads together?{w} Okay, let's get busy cleaning this place up."
-    y ""
+    y "Видишь, чего мы можем добиться, если мы объединим усилия? Ладно, давай займемся уборкой."
 
 # game/intro.rpy:2613
 translate russia tutStage8_0ae9bcd0:
@@ -6153,889 +6153,889 @@ translate russia tutStage8_0ae9bcd0_1:
 translate russia tutStage9_b5ff1afd:
 
     # "error happens here"
-    ""
+    "произошла ошибка"
 
 # game/intro.rpy:2623
 translate russia tutStage9_8e4a19b9:
 
     # "The bar is looking immaculate!"
-    ""
+    "Бар выглядит безупречно!"
 
 # game/intro.rpy:2624
 translate russia tutStage9_a07d2099:
 
     # y "That's better. Now to start wi-..."
-    y ""
+    y "Так-то лучше. Теперь, начём с-..."
 
 # game/intro.rpy:2629
 translate russia tutStage9_42c9a4a9:
 
     # "???" "Hey check this out. This place looks way too nice!"
-    "???" ""
+    "???" "Эй, зацените это. Это место выглядит слишком хорошо!"
 
 # game/intro.rpy:2630
 translate russia tutStage9_04d624c7:
 
     # "A group of gangmembers just entered the bar!"
-    ""
+    "Кучка бандитов только что вошла в бар!"
 
 # game/intro.rpy:2631
 translate russia tutStage9_05ad1a7a:
 
     # "Aces Thug" "Let's tear it up a bit. This is Aces territory now!"
-    "Aces Thug" ""
+    "Туз" "Давайте немного \"преукрасим\" это место. Теперь это территория Тузов!"
 
 # game/intro.rpy:2632
 translate russia tutStage9_0bb3a8cb:
 
     # y "..............................."
-    y ""
+    y "..............................."
 
 # game/intro.rpy:2633
 translate russia tutStage9_d0181d24:
 
     # "Aces Thug 2" "Woah, you're one of those WOOHP Agents...!"
-    "Aces Thug 2" ""
+    "Туз 2" "Ого, ты один из тех агентов WOOHP...!"
 
 # game/intro.rpy:2634
 translate russia tutStage9_8cf6b881:
 
     # "Aces Thug 1" "Whatever, these WOOHP goon are just for show. You guys act all high and mighty, but I'd like to see you stop all of us!"
-    "Aces Thug 1" ""
+    "Туз 1" "Неважно, эти чуваки из WOOHP просто позеры. Вы, ребята, ведёте себя как большие и могучие, но я бы хотел посмотреть, как вы остановите всех нас!"
 
 # game/intro.rpy:2635
 translate russia tutStage9_870dfdac:
 
     # "Aces Thug 2" "Yeah, you tell him! Maybe we should tear his face up a bit too!"
-    "Aces Thug 2" ""
+    "Туз 2" "Да! Может, стоит и ему немного лицо\"преукрасить\"?"
 
 # game/intro.rpy:2636
 translate russia tutStage9_deef19c1:
 
     # y "So much for this being a neutral zone..."
-    y ""
+    y "Вот вам и нейтральная зона..."
 
 # game/intro.rpy:2637
 translate russia tutStage9_034ba7b9:
 
     # "Aces Thug 2" "Hah! We don't need your lame neutral zone! We're the Aces! We can just 'BUY' a neutral zone if we wanted to!"
-    "Aces Thug 2" ""
+    "Туз 2" "Хах! Нам не нужна ваша убогая нейтральная зона.! Мы - тузы! Мы можем просто \"купить\" нейтральную зону, если захотим!"
 
 # game/intro.rpy:2638
 translate russia tutStage9_c874ba5b:
 
     # "Aces Thug 1" "I've got a better idea... Let's just kill him and take this bar from him...."
-    "Aces Thug 1" ""
+    "Туз 1" "У меня есть идея получше... Давайте просто убьем его и заберем у него этот бар...."
 
 # game/intro.rpy:2639
 translate russia tutStage9_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/intro.rpy:2642
 translate russia tutStage9_550e7c02:
 
     # y "You picked the wrong place to rob."
-    y ""
+    y "Вы выбрали не лучшее место для ограбления."
 
 # game/intro.rpy:2643
 translate russia tutStage9_f6bf8338:
 
     # y "Nothing {w}personal {w}kid."
-    y ""
+    y "Ничего {w}личного {w}пацан."
 
 # game/intro.rpy:2649
 translate russia tutStage9_401f1324:
 
     # "You pull out your gun and shoot one straight through the fucking cranius!!!"
-    ""
+    "Ты выхватываешь пистолет и простреливаешь одному головорезу череп!!!"
 
 # game/intro.rpy:2650
 translate russia tutStage9_551ad45d:
 
     # "......................."
-    ""
+    "......................."
 
 # game/intro.rpy:2651
 translate russia tutStage9_618b6ce6:
 
     # "At least you would have, if you had a gun.{w} But you don't...."
-    ""
+    "По крайней мере, если бы у тебя было оружие.{w} Ты бы так и сделал, но у тебя его нет...."
 
 # game/intro.rpy:2652
 translate russia tutStage9_2061e7f6:
 
     # "Instead you're just pointing fingerguns at the gangster."
-    ""
+    "Вместо этого, ты просто показываешь пальцем на бандита."
 
 # game/intro.rpy:2655
 translate russia tutStage9_36e888ea:
 
     # "Aces Thug 1" "..............?"
-    "Aces Thug 1" ""
+    "Туз 1" "..............?"
 
 # game/intro.rpy:2656
 translate russia tutStage9_9ca7dc43:
 
     # "Aces Thug 2" "..............?"
-    "Aces Thug 2" ""
+    "Туз 2" "..............?"
 
 # game/intro.rpy:2657
 translate russia tutStage9_40af8e9a:
 
     # y "........................{w} Boom. {w}You're dead."
-    y ""
+    y "........................{w} Буум. {w}Ты труп."
 
 # game/intro.rpy:2658
 translate russia tutStage9_d647a492:
 
     # "???" "I don't know what's going on over here, but it's pretty amusing. How come nobody invited us to the party?!"
-    "???" ""
+    "???" "Не знаю, что здесь происходит, но это довольно забавно. Почему никто не пригласил нас на вечеринку?!"
 
 # game/intro.rpy:2660
 translate russia tutStage9_ae5dc31e:
 
     # y "Yeah okay, you can have the bar."
-    y ""
+    y "Ладно, бар ваш."
 
 # game/intro.rpy:2661
 translate russia tutStage9_2e78bc5b:
 
     # "Aces Thug 1" "See? That wasn't so hard, was it? You WOOHP goons are all bark and no bite!"
-    "Aces Thug 1" ""
+    "Туз 1" "Видишь? Это было не так сложно, не так ли? Вы, агенты из WOOHP, только лаете, а не кусаете!"
 
 # game/intro.rpy:2662
 translate russia tutStage9_dec02596:
 
     # y "Good luck paying the property tax on this place."
-    y ""
+    y "Удачи в уплате налога на недвижимость за это место."
 
 # game/intro.rpy:2663
 translate russia tutStage9_6c5203a3:
 
     # "Aces Thug 1" "Hah! You're joking right? We're the Aces! {w}We could buy this place, set it on fire, then pay for the renovations just so we could light it on fire again!"
-    "Aces Thug 1" ""
+    "Туз 1" "Ха! Ты же шутишь, верно? Мы - тузы! {w}Мы могли бы купить это место, поджечь его, а потом оплатить ремонт, чтобы снова поджечь!"
 
 # game/intro.rpy:2664
 translate russia tutStage9_fb6b207b:
 
     # y "I dunno... The other guy maybe, but you don't look so rich to me..."
-    y ""
+    y "Не знаю... Другой парень может быть, но ты не выглядишь настолько богатым..."
 
 # game/intro.rpy:2665
 translate russia tutStage9_a2a9746e:
 
     # "Aces Thug 2" "He's kinda got you there, bro. Those shoes are at least two weeks old."
-    "Aces Thug 2" ""
+    "Туз 2" "Он тебя раскусил, брат. Этим туфлям не меньше двух недель."
 
 # game/intro.rpy:2666
 translate russia tutStage9_9c158214:
 
     # "Aces Thug 1" "These shoes cost $3500 dollars!"
-    "Aces Thug 1" ""
+    "Туз 1" "Эти туфли стоят $3500 долларов!"
 
 # game/intro.rpy:2667
 translate russia tutStage9_e7418f5f:
 
     # "Aces Thug 1" "I bought a $1500 dollar jacket just this morning!"
-    "Aces Thug 1" ""
+    "Туз 1" "А этим утром, я купил пиджак за $1500!"
 
 # game/intro.rpy:2668
 translate russia tutStage9_a1aec88f:
 
     # "Aces Thug 2" "It was on discount."
-    "Aces Thug 2" ""
+    "Туз 2" "Она была со скидкой."
 
 # game/intro.rpy:2669
 translate russia tutStage9_71cfecee:
 
     # "Aces Thug 1" "I got a discount {i}'after'{/i} I threatend the guy's life to give me a discount!"
-    "Aces Thug 1" ""
+    "Туз 1" "Я получил скидку {i}'после'{/i} того, как пригрозил парню, чтобы он дал мне её!"
 
 # game/intro.rpy:2670
 translate russia tutStage9_348a798c:
 
     # "Aces Thug 2" "I'm just saying man. People might start to talk~...."
-    "Aces Thug 2" ""
+    "Туз 2" "Просто хочу сказать что... Люди могут начать болтать~...."
 
 # game/intro.rpy:2671
 translate russia tutStage9_a4d06d0e:
 
     # "???" "{b}*Laughs*{/b} Look at these rich kids flaunting their money. I'd say we help relief them of it...."
-    "???" ""
+    "???" "{b}*Смешок*{/b} Только посмотрите на этих богатых детишек. Поможем им избавиться от этого их состояния..."
 
 # game/intro.rpy:2673
 translate russia tutStage9_396e4a14:
 
     # y "You sure you want to do that?"
-    y ""
+    y "Уверены, что хотите это сделать?"
 
 # game/intro.rpy:2674
 translate russia tutStage9_db5fe34e:
 
     # y "I cleaned this place with non-brand cleaning supplies."
-    y ""
+    y "Я убирался тут чистящими средствами без брендов."
 
 # game/intro.rpy:2675
 translate russia tutStage9_c79a66bb:
 
     # "Aces Thug 1" "So what?!"
-    "Aces Thug 1" ""
+    "Туз 1" "Ну и что?!"
 
 # game/intro.rpy:2676
 translate russia tutStage9_83b17bb7:
 
     # y "They're 'non-brand'. You realise what the means, right?"
-    y ""
+    y "Они \"не брендовые\". Ты понимаешь, что это значит?"
 
 # game/intro.rpy:2677
 translate russia tutStage9_5bba5d3a:
 
     # "Aces Thug 2" "...?"
-    "Aces Thug 2" ""
+    "Туз 2" "...?"
 
 # game/intro.rpy:2678
 translate russia tutStage9_15050d50:
 
     # y "It means I used cheap, unregulated products, which are probably highly flamable."
-    y ""
+    y "Это означает, что я использовал дешевые, непроверенные продукты, которые, вероятно, легко воспламеняются."
 
 # game/intro.rpy:2679
 translate russia tutStage9_218fbb16:
 
     # y "Smell that nice lemony scent in the air? Strike a match now and everything a ten miles radius gets evaporated."
-    y ""
+    y "Чувствуете приятный лимонный аромат в воздухе? Чиркните спичкой, и все в радиусе десяти миль испарится."
 
 # game/intro.rpy:2680
 translate russia tutStage9_e3bf28aa:
 
     # "Aces Thug 2" "!!!"
-    "Aces Thug 2" ""
+    "Туз 2" "!!!"
 
 # game/intro.rpy:2681
 translate russia tutStage9_9b95f875:
 
     # "Aces Thug 2" "Listen dude...! Maybe we shouldn't shoot him...!"
-    "Aces Thug 2" ""
+    "Туз 2" "Слушай, чувак...! Может, не стоит в него стрелять...!"
 
 # game/intro.rpy:2682
 translate russia tutStage9_1803f89c:
 
     # "Aces Thug 1" "He's bluffing! He's got to be!"
-    "Aces Thug 1" ""
+    "Туз 1" "Он блефует! Точно!"
 
 # game/intro.rpy:2683
 translate russia tutStage9_15cb52e1:
 
     # "Aces Thug 2" "Dude, I don't know anything about cleaning products. Do you?"
-    "Aces Thug 2" ""
+    "Туз 2" "Чувак, я ничего не знаю о чистящих средствах. А ты?"
 
 # game/intro.rpy:2684
 translate russia tutStage9_1fdc8220:
 
     # "Aces Thug 2" "I heard that terrorists can make bombs out of simple household equipment!"
-    "Aces Thug 2" ""
+    "Туз 2" "Я слышал, что террористы могут делать бомбы из простых бытовых вещей!"
 
 # game/intro.rpy:2685
 translate russia tutStage9_e095ca28:
 
     # "Aces Thug 1" "R-really...?"
-    "Aces Thug 1" ""
+    "Туз 1" "Р-реально...?"
 
 # game/intro.rpy:2686
 translate russia tutStage9_5604d578:
 
     # "Aces Thug 2" "Yeah, my cleaning lady once threatend to blow up our house after we fired her on Christmas morning."
-    "Aces Thug 2" ""
+    "Туз 2" "Да, моя уборщица однажды угрожала взорвать наш дом после того, как мы уволили её в рождество."
 
 # game/intro.rpy:2687
 translate russia tutStage9_50788bfb:
 
     # "Aces Thug 1" "Dude, that's so not cool of her!"
-    "Aces Thug 1" ""
+    "Туз 1" "Чувак, это так не круто с её стороны!"
 
 # game/intro.rpy:2688
 translate russia tutStage9_fb97fae6:
 
     # "???" "Look, the kids are talking about making bombs. Good thing the experts have arrived~..."
-    "???" ""
+    "???" "Смотрите, детишки говорят о создании бомб. Хорошо, что эксперты подоспели~..."
 
 # game/intro.rpy:2689
 translate russia tutStage9_8f434de8:
 
     # "Aces Thugs" "!!!"
-    "Aces Thugs" ""
+    "Тузы" "!!!"
 
 # game/intro.rpy:2690
 translate russia tutStage9_eb144d34:
 
     # "A group of Outsiders thugs walked into the bar weapons drawn!"
-    ""
+    "В бар вошла группа головорезов \"Аутсайдеров\" с оружием наготове!"
 
 # game/intro.rpy:2691
 translate russia tutStage9_58415f93:
 
     # "Outsider Thug" "This is {i}'our'{/i} place now..."
-    "Outsider Thug" ""
+    "Аутсайдер" "Теперь это {i}'наша'{/i} точка..."
 
 # game/intro.rpy:2692
 translate russia tutStage9_517de734:
 
     # "???" "Correction. It is {i}'our'{/i} place now!"
-    "???" ""
+    "???" "Поправочка. Это {i}'наша'{/i}!"
 
 # game/intro.rpy:2693
 translate russia tutStage9_74993c91:
 
     # "Another gang came in! The thugs from Drift Punk enter brandishing their own guns, turning your bar into a Mexican standoff."
-    ""
+    "Пришла еще одна банда! Дрифт Панки входят с оружием наперевес, превращая ваш бар в школьный двор."
 
 # game/intro.rpy:2694
 translate russia tutStage9_faac66ab:
 
     # y "Well that escalated quickly...."
-    y ""
+    y "Ну что ж, всё давольно быстро набирает обороты."
 
 # game/intro.rpy:2695
 translate russia tutStage9_39b9278c:
 
     # "Tension is rising as the gangmembers cautiously glare at each other."
-    ""
+    "Напряжение нарастает, члены банд настороженно смотрят друг на друга."
 
 # game/intro.rpy:2696
 translate russia tutStage9_aa3b15b7:
 
     # "Aces" "We claimed this place first. So buzz off."
-    "Aces" ""
+    "Тузы" "Мы первые сюда пришли. Так что проваливайте."
 
 # game/intro.rpy:2697
 translate russia tutStage9_66bffa88:
 
     # "Outsiders" "You wouldn't know what to do with it. Go back to your million dollar mansions and leave the street warfare to the professionals."
-    "Outsiders" ""
+    "Аутсайдеры" "Вы даже не знаете что с ним делать. Возвращайтесь в свои особняки за миллион, а уличную войну оставьте профессионалам."
 
 # game/intro.rpy:2698
 translate russia tutStage9_19526812:
 
     # "Drift Punks" "Hah! {i}'professionals'{/i}. The only thing you're a pro at is misspelling your name while writing your graffiti!"
-    "Drift Punks" ""
+    "Дрифт Панки" "Ха! {i}'профессионалы'{/i}. Единственное, в чем вы про, так это в неправильном написании своего названия на граффити!"
 
 # game/intro.rpy:2699
 translate russia tutStage9_65fbac27:
 
     # "Anything could set these guys off at any moment. Turning your milkshake bar into Swiss cheese."
-    ""
+    "Всё что угодно, может заставить этих парней действовать. В любой момент ваш молочно коктейльный бар превратится в швейцарский сыр."
 
 # game/intro.rpy:2700
 translate russia tutStage9_e197e7d4:
 
     # "Aces" "....................................."
-    "Aces" ""
+    "Тузы" "....................................."
 
 # game/intro.rpy:2701
 translate russia tutStage9_8de6231f:
 
     # "Outsiders" "....................................."
-    "Outsiders" ""
+    "Аутсайдеры" "....................................."
 
 # game/intro.rpy:2702
 translate russia tutStage9_51931095:
 
     # "Drift Punks" "....................................."
-    "Drift Punks" ""
+    "Дрифт Панки" "....................................."
 
 # game/intro.rpy:2703
 translate russia tutStage9_29a0f1ea:
 
     # y "......................................"
-    y ""
+    y "......................................"
 
 # game/intro.rpy:2704
 translate russia tutStage9_f43f3331:
 
     # y "Hey does anyone have a bandaid? Cause I'm here to {i}'CUT'{/i} the tension."
-    y ""
+    y "Эй, у кого-нибудь есть камера? Потому что я здесь, чтобы {i}'снять'{/i} напряжение."
 
 # game/intro.rpy:2705
 translate russia tutStage9_f1868244:
 
     # "Stunned, the gangmembers turn their attention to you."
-    ""
+    "Ошеломленные, бандиты обращают свое внимание на тебя."
 
 # game/intro.rpy:2706
 translate russia tutStage9_6bfc2010:
 
     # y "Eh? Eeeeh? Get it? {i}'Cut the tension'{/i}?{w} I thought it was pretty clever myself."
-    y ""
+    y "Хм? А,а,а? Поняли? {i}'Снять напряжение'{/i}?{w} Прикольно, не так ли?"
 
 # game/intro.rpy:2707
 translate russia tutStage9_bcde2d94:
 
     # y "Also this is now a neutral zone. I'm with WOOHP, so I get to do that."
-    y ""
+    y "Кроме того, теперь это нейтральная зона. Я работаю на WOOHP, так что я устанавливаю здесь правила."
 
 # game/intro.rpy:2708
 translate russia tutStage9_2ea3650d:
 
     # "Outsiders" "A neutral zone...?"
-    "Outsiders" ""
+    "Аутсайдеры" "Нейтральная зона...?"
 
 # game/intro.rpy:2709
 translate russia tutStage9_7ca3b572:
 
     # "Punks" "Can he do that...?"
-    "Punks" ""
+    "Панки" "А что так можно было...?"
 
 # game/intro.rpy:2710
 translate russia tutStage9_50393f59:
 
     # "Aces" "I don't know... Can he?"
-    "Aces" ""
+    "Тузы" "Не знаю... Можно?"
 
 # game/intro.rpy:2711
 translate russia tutStage9_254cd187:
 
     # "Slowly, the gangmembers begin lowering their guns."
-    ""
+    "Медленно, бандиты начинают опускать своё оружие."
 
 # game/intro.rpy:2712
 translate russia tutStage9_93894712:
 
     # "Outsiders" "Fine... neutral zone."
-    "Outsiders" ""
+    "Аутсайдеры" "Ладно... нейтральная зона."
 
 # game/intro.rpy:2713
 translate russia tutStage9_f65e25c8:
 
     # "The other gangsters nod in agreement as soon the tension seems to disappear from the bar."
-    ""
+    "Остальные гангстеры кивают в знак согласия. Напряжение, кажется, исчезает из бара."
 
 # game/intro.rpy:2717
 translate russia tutStage9_d5d5da76:
 
     # "With the catastrophe avoided, you manage to usher everyone out of the door and breath a sigh of relief."
-    ""
+    "Когда катастрофы миновала, ты выпроводишь всех за дверь и вздыхаешь с облегчением."
 
 # game/intro.rpy:2718
 translate russia tutStage9_0a787cb6:
 
     # y "I can't believe that worked..."
-    y ""
+    y "Не могу поверить, что это сработало..."
 
 # game/intro.rpy:2719
 translate russia tutStage9_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/intro.rpy:2720
 translate russia tutStage9_8726655d:
 
     # y "The place is fixed up nicely. I can probably start serving people here now..."
-    y ""
+    y "Место хорошо отремонтировано. Теперь можно начать обслуживать гостей..."
 
 # game/intro.rpy:2721
 translate russia tutStage9_679215fe:
 
     # y "But first I need to figure out a suitable work uniform for my willing waitress."
-    y ""
+    y "Но сначала мне нужно придумать подходящую рабочую форму для моей \"добровольной\" официантки."
 
 # game/intro.rpy:2731
 translate russia tutStage9_053b7537:
 
     # "You finish off the last bit of work that needs to be done and it soon turns to evening."
-    ""
+    "Вы доделываете последние дела, как вскоре наступает вечер."
 
 # game/intro.rpy:2734
 translate russia tutStage9_ff9d16bf:
 
     # "Having had quite enough excitement for one day, you decide to head to bed."
-    ""
+    "Пережив достаточно много для одного дня, ты решаешь лечь спать."
 
 # game/intro.rpy:2756
 translate russia tutStage10_2f64c7a2:
 
     # y "Now where would I go for some kinky roleplaying gear..."
-    y ""
+    y "Куда бы мне пойти за извращенным снаряжением для ролевых игр..."
 
 # game/intro.rpy:2757
 translate russia tutStage10_3d26d66b:
 
     # "You walk into the nearest store and see a bored salesgirl behind the counter."
-    ""
+    "Вы заходите в ближайший магазин и видите за прилавком скучающую продавщицу."
 
 # game/intro.rpy:2758
 translate russia tutStage10_0efa4093:
 
     # y "I'm looking for your kinkiest, filthiest fetish gear!"
-    y ""
+    y "Я ищу самые извращенные, грязные и фетишистские штучки!"
 
 # game/intro.rpy:2761
 translate russia tutStage10_56cf6bcc:
 
     # "Clerk" ".........................."
-    "Clerk" ""
+    "Продавщица" ".........................."
 
 # game/intro.rpy:2762
 translate russia tutStage10_1d20320c:
 
     # "Clerk" "Sir, this is a bookstore...."
-    "Clerk" ""
+    "Продавщица" "Сэр, это книжный магазин...."
 
 # game/intro.rpy:2763
 translate russia tutStage10_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/intro.rpy:2765
 translate russia tutStage10_5b35e820:
 
     # "Clerk" "It's on the fourth floor."
-    "Clerk" ""
+    "Продавщица" "На четвёртом этаже."
 
 # game/intro.rpy:2766
 translate russia tutStage10_cb2c1ae8:
 
     # y "I {i}fuckin'{/i} knew it!"
-    y ""
+    y "Я, {i}блядь{/i}, так и знал!"
 
 # game/intro.rpy:2767
 translate russia tutStage10_c2642724:
 
     # "The two of you make your way upstairs."
-    ""
+    "Вдвоем вы поднимаетесь наверх."
 
 # game/intro.rpy:2773
 translate russia tutStage10_967f79ed:
 
     # y "Quite the collection you got here~..."
-    y ""
+    y "У вас прекрасная коллекция~..."
 
 # game/intro.rpy:2774
 translate russia tutStage10_f649e708:
 
     # "Clerk" "All bookish girls are secretly kinky as fuck."
-    "Clerk" ""
+    "Продавщица" "Все тихони втайне извращенки."
 
 # game/intro.rpy:2775
 translate russia tutStage10_4f42cbb6:
 
     # "Clerk" "Now then... A waitress outfit...{w} We've got this one..."
-    "Clerk" ""
+    "Продавщица" "Так теперь... Наряд официантки..{w} Есть вот такой..."
 
 # game/intro.rpy:2782
 translate russia tutStage10_a6aec0af:
 
     # y "It's perfect!"
-    y ""
+    y "Идеально!"
 
 # game/intro.rpy:2783
 translate russia tutStage10_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/intro.rpy:2784
 translate russia tutStage10_73c28b4e:
 
     # y "(Crap... I don't have any money!)"
-    y ""
+    y "(Черт... У меня нет ни монеты!)"
 
 # game/intro.rpy:2792
 translate russia tutStage10_1c1d1326:
 
     # y "So I don't have the money right now...."
-    y ""
+    y "Емм у меня как бы не особо с деньгами сейчас..."
 
 # game/intro.rpy:2794
 translate russia tutStage10_bca0ad4b:
 
     # "Clerk" "D'aww that's too bad! {w}Get out."
-    "Clerk" ""
+    "Продавщица" "Оохх бедняжка! {w}Убирайся."
 
 # game/intro.rpy:2795
 translate russia tutStage10_78d78d4a:
 
     # y "Hey now wait a second! I don't have money 'now', but I can pay you for it later!"
-    y ""
+    y "Эй, подождите секунду! У меня нет денег \"сейчас\", но я смогу заплатить вам попозже!"
 
 # game/intro.rpy:2796
 translate russia tutStage10_c2deac0a:
 
     # "Clerk" "No."
-    "Clerk" ""
+    "Продавщица" "Нет."
 
 # game/intro.rpy:2797
 translate russia tutStage10_48d5d224:
 
     # y "Please?"
-    y ""
+    y "Пожалуйста?"
 
 # game/intro.rpy:2798
 translate russia tutStage10_c2deac0a_1:
 
     # "Clerk" "No."
-    "Clerk" ""
+    "Продавщица" "Нет."
 
 # game/intro.rpy:2799
 translate russia tutStage10_a452fabd:
 
     # y "Pretty please?"
-    y ""
+    y "Пазязя?"
 
 # game/intro.rpy:2800
 translate russia tutStage10_2b403523:
 
     # "Clerk" "Get out."
-    "Clerk" ""
+    "Продавщица" "Убирайся."
 
 # game/intro.rpy:2801
 translate russia tutStage10_785ee78f:
 
     # y "No."
-    y ""
+    y "Нет."
 
 # game/intro.rpy:2802
 translate russia tutStage10_d9c9cfc5:
 
     # "Clerk" "Yes."
-    "Clerk" ""
+    "Продавщица" "Да."
 
 # game/intro.rpy:2803
 translate russia tutStage10_d590d637:
 
     # y "No. Gimme that outfit."
-    y ""
+    y "Нет. Только с этим нарядом."
 
 # game/intro.rpy:2804
 translate russia tutStage10_0bdf2b10:
 
     # "Clerk" "..............."
-    "Clerk" ""
+    "Продавщица" "..............."
 
 # game/intro.rpy:2806
 translate russia tutStage10_3a49108f:
 
     # "Clerk" "Y-...{w} No."
-    "Clerk" ""
+    "Продавщица" "Лад-...{w} Нет."
 
 # game/intro.rpy:2807
 translate russia tutStage10_28ec04ac:
 
     # y "(Damn it, so close!)"
-    y ""
+    y "(Черт, почти!)"
 
 # game/intro.rpy:2808
 translate russia tutStage10_c26fc5d6:
 
     # y "Okay fine! How can I convince you?"
-    y ""
+    y "Ладно, хорошо! Как мне уговорить вас?"
 
 # game/intro.rpy:2810
 translate russia tutStage10_fb48d262:
 
     # "Clerk" "........................"
-    "Clerk" ""
+    "Продавщица" "........................"
 
 # game/intro.rpy:2812
 translate russia tutStage10_90e94c77:
 
     # "Clerk" "Who's the outfit for?"
-    "Clerk" ""
+    "Продавщица" "Для кого наряд."
 
 # game/intro.rpy:2813
 translate russia tutStage10_ee99fffe:
 
     # y "Er..."
-    y ""
+    y "Эмм..."
 
 # game/intro.rpy:2814
 translate russia tutStage10_6b5c18c3:
 
     # "Clerk" "Is she hot?"
-    "Clerk" ""
+    "Продавщица" "Она горячая штучка?"
 
 # game/intro.rpy:2815
 translate russia tutStage10_fff2d6da:
 
     # y "Yes."
-    y ""
+    y "Да."
 
 # game/intro.rpy:2817
 translate russia tutStage10_f29a3a28:
 
     # "Clerk" ".................................."
-    "Clerk" ""
+    "Продавщица" ".................................."
 
 # game/intro.rpy:2818
 translate russia tutStage10_34ef4da2:
 
     # "Clerk" "Okay fine, you can have it.{w} On one condition."
-    "Clerk" ""
+    "Продавщица" "Ладно, забирай.{w} При одном условии."
 
 # game/intro.rpy:2819
 translate russia tutStage10_5f1aafed:
 
     # y "Pics?"
-    y ""
+    y "Фотки?"
 
 # game/intro.rpy:2820
 translate russia tutStage10_839eebb0:
 
     # "Clerk" "Pics."
-    "Clerk" ""
+    "Продавщица" "Фотки"
 
 # game/intro.rpy:2826
 translate russia tutStage10_a6225785:
 
     # "You got the Waitress Uniform!"
-    ""
+    "У тебя есть униформа официантки!"
 
 # game/intro.rpy:2830
 translate russia tutStage10_86670a6a:
 
     # y "Now I just gotta convince her to put it on..."
-    y ""
+    y "Теперь осталось убедить её надеть это..."
 
 # game/intro.rpy:2836
 translate russia tutStage10_df25b227:
 
     # y "Yoink!"
-    y ""
+    y "Жух!"
 
 # game/intro.rpy:2839
 translate russia tutStage10_75270c3c:
 
     # "You snatched the uniform out of the clerk's hands and make a run for it!"
-    ""
+    "Ты выхватил форму из рук продавщицы и побежал со всех ног!"
 
 # game/intro.rpy:2841
 translate russia tutStage10_603024e6:
 
     # "Clerk" "Hey! Get back here!"
-    "Clerk" ""
+    "Продавщица" "Эй! Вернись!"
 
 # game/intro.rpy:2842
 translate russia tutStage10_addc3b1e:
 
     # "Clerk" "You can't just-..."
-    "Clerk" ""
+    "Продавщица" "Ты не можешь просто-..."
 
 # game/intro.rpy:2844
 translate russia tutStage10_56cf6bcc_1:
 
     # "Clerk" ".........................."
-    "Clerk" ""
+    "Продавщица" ".........................."
 
 # game/intro.rpy:2845
 translate russia tutStage10_9c16d1dd:
 
     # "Clerk" "Whatever... I get paid minimum wage. I don't care."
-    "Clerk" ""
+    "Продавщица" "Неважно... Мне платят минимальную ставку. Мне всё равно."
 
 # game/intro.rpy:2850
 translate russia tutStage10_a6225785_1:
 
     # "You got the Waitress Uniform!"
-    ""
+    "У тебя есть униформа официантки!"
 
 # game/intro.rpy:2854
 translate russia tutStage10_86670a6a_1:
 
     # y "Now I just gotta convince her to put it on..."
-    y ""
+    y "Теперь осталось убедить её надеть это..."
 
 # game/intro.rpy:2872
 translate russia tutStage11_aa3efac5:
 
     # s g1 "[playerName]! Good, I was hoping to talk to you."
-    s g1 ""
+    s g1 "[playerName]! Отлично, как раз хотела с тобой поговорить."
 
 # game/intro.rpy:2873
 translate russia tutStage11_8835fc3a:
 
     # s g16 "You know how you mentioned wearing a sexy waitress uniforms...?"
-    s g16 ""
+    s g16 "Помнишь, ты упоминал о сексуальной униформе официантки...?"
 
 # game/intro.rpy:2874
 translate russia tutStage11_0a1dce4f:
 
     # s g33 "Well I'm not comfortable with that, so I was thinking that I would be a cook instead."
-    s g33 ""
+    s g33 "Меня это не особо устраивает, поэтому я буду поваром."
 
 # game/intro.rpy:2875
 translate russia tutStage11_64a2b68e:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/intro.rpy:2876
 translate russia tutStage11_4ad79e04:
 
     # s g1 "And you can be a waiter! Instead of wearing a skimpy uniform you could wear a nice suit and we can turn this into a classy establishment!"
-    s g1 ""
+    s g1 "А ты можешь быть официантом! Вместо того чтобы носить скудную униформу, ты мог бы надеть хороший костюм, и мы могли бы превратить бар в стильное заведение!"
 
 # game/intro.rpy:2877
 translate russia tutStage11_985ce47e:
 
     # s "Also think of how progressive it would be! A man doing all the talking and a woman in the...{w} kitchen..."
-    s ""
+    s "А ещё подумай, насколько это прогрессивно! Мужчина занят разговорами и другими делами, а женщина стоит на...{w} кухне..."
 
 # game/intro.rpy:2878
 translate russia tutStage11_2383364d:
 
     # y "Didn't think this one through, did you?"
-    y ""
+    y "Не обдумала это, не так ли?"
 
 # game/intro.rpy:2879
 translate russia tutStage11_95877c85:
 
     # s g15 "O-okay it sounds bad when I say it like that!"
-    s g15 ""
+    s g15 "Согласна, звучит не очень, когда я так говорю!"
 
 # game/intro.rpy:2880
 translate russia tutStage11_6a560659:
 
     # y "Here's your uniform. You're a waitress now."
-    y ""
+    y "Вот твоя форма. Теперь ты официантка."
 
 # game/intro.rpy:2881
 translate russia tutStage11_3cc826ac:
 
     # "You give Sam her uniform."
-    ""
+    "Ты отдаешь Сэм ее форму"
 
 # game/intro.rpy:2890
 translate russia tutStage11_8b0d240e:
 
     # s g18 "O-oh...! That's a little more revealing than I hoped. Where's the rest of it?"
-    s g18 ""
+    s g18 "О-о-о...! Это немного более откровенно, чем я рассчитывала. А где остальное?"
 
 # game/intro.rpy:2891
 translate russia tutStage11_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/intro.rpy:2892
 translate russia tutStage11_46a6e53f:
 
     # s g28 "T-there is no rest of it?!"
-    s g28 ""
+    s g28 "Э-это всё?!"
 
 # game/intro.rpy:2893
 translate russia tutStage11_6b573bac:
 
     # y "Welcome to the service industry!"
-    y ""
+    y "Добро пожаловать в сферу обслуживания!"
 
 # game/intro.rpy:2916
 translate russia tutStage11_92848bcc:
 
     # "DEV END WARNING!!!! YOU SHOULD NOT SEE THIS"
-    ""
+    "DEV END WARNING!!!! ВЫ НЕ ДОЛЖНЫ ВИДЕТЬ ЭТОГО"
 
 translate russia strings:
 

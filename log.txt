@@ -1,41 +1,246 @@
-Sun Oct 24 11:08:52 2021
+Sun Oct 24 22:53:42 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.8.1895
  
 
-Bootstrap to the start of init.init took 0.20s
+Bootstrap to the start of init.init took 0.25s
 Early init took 0.01s
-Loader init took 1.16s
-Loading error handling took 0.14s
-Loading script took 12.21s
-Loading save slot metadata. took 0.31s
+Loader init took 0.74s
+Loading error handling took 0.16s
+Loading script took 18.43s
+Loading save slot metadata. took 0.13s
 Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.62s
-Loading analysis data took 0.83s
-Analyze and compile ATL took 0.18s
-Index archives took 0.00s
-Dump and make backups. took 0.37s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.39s
+
+File "game/tl/russia/intro.rpy", line 6168: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    y "Так-то лучше. Теперь, начём с-...""
+                                         ^
+    
+    # game/intro.rpy:2629
+    translate russia tutStage9_42c9a4a9:
+    
+        # "???" "Hey check this out. This place looks way too nice!"
+        "???" "Эй, зацените это. Это место выглядит слишком хорошо!"
+    
+    # game/intro.rpy:2630
+    translate russia tutStage9_04d624c7:
+    
+        # "A group of gangmembers just entered the bar!"
+        "Кучка бандитов только что вошла в бар!"
+    
+    # game/intro.rpy:2631
+    translate russia tutStage9_05ad1a7a:
+    
+        # "Aces Thug" "Let's tear it up a bit. This is Aces territory now!"
+        "Туз" "Давайте немного \"преукрасим\" это место. Теперь это территория Тузов!""
+    
+    # game/intro.rpy:2632
+    translate russia tutStage9_0bb3a8cb:
+    
+        # y "..............................."
+        y "..............................."
+    
+    # game/intro.rpy:2633
+    translate russia tutStage9_d0181d24:
+    
+        # "Aces Thug 2" "Woah, you're one of those WOOHP Agents...!"
+        "Туз 2" "Ого, ты один из тех агентов WOOHP...!"
+    
+    # game/intro.rpy:2634
+    translate russia tutStage9_8cf6b881:
+    
+        # "Aces Thug 1" "Whatever, these WOOHP goon are just for show. You guys act all high and mighty, but I'd like to see you stop all of us!"
+        "Туз 1" "Неважно, эти чуваки из WOOHP просто позеры. Вы, ребята, ведёте себя как большие и могучие, но я бы хотел посмотреть, как вы остановите всех нас!"
+    
+    # game/intro.rpy:2635
+    translate russia tutStage9_870dfdac:
+    
+        # "Aces Thug 2" "Yeah, you tell him! Maybe we should tear his face up a bit too!"
+        "Туз 2" "Да! Может, стоит и ему немного лицо\"преукрасить\"?"
+    
+    # game/intro.rpy:2636
+    translate russia tutStage9_deef19c1:
+    
+        # y "So much for this being a neutral zone..."
+        y "Вот вам и нейтральная зона..."
+    
+    # game/intro.rpy:2637
+    translate russia tutStage9_034ba7b9:
+    
+        # "Aces Thug 2" "Hah! We don't need your lame neutral zone! We're the Aces! We can just 'BUY' a neutral zone if we wanted to!"
+        "Туз 2" "Хах! Нам не нужна ваша убогая нейтральная зона.! Мы - тузы! Мы можем просто \"купить\" нейтральную зону, если захотим!"
+    
+    # game/intro.rpy:2638
+    translate russia tutStage9_c874ba5b:
+    
+        # "Aces Thug 1" "I've got a better idea... Let's just kill him and take this bar from him...."
+        "Туз 1" "У меня есть идея получше... Давайте просто убьем его и заберем у него этот бар...."
+    
+    # game/intro.rpy:2639
+    translate russia tutStage9_6e4ecfcc:
+    
+        # y "........................."
+        y "........................."
+    
+    # game/intro.rpy:2642
+    translate russia tutStage9_550e7c02:
+    
+        # y "You picked the wrong place to rob."
+        y "Вы выбрали не лучшее место для ограбления."
+    
+    # game/intro.rpy:2643
+    translate russia tutStage9_f6bf8338:
+    
+        # y "Nothing {w}personal {w}kid."
+        y "Ничего {w}личного {w}пацан."
+    
+    # game/intro.rpy:2649
+    translate russia tutStage9_401f1324:
+    
+        # "You pull out your gun and shoot one straight through the fucking cranius!!!"
+        "Ты выхватываешь пистолет и простреливаешь одному головорезу череп!!!"
+    
+    # game/intro.rpy:2650
+    translate russia tutStage9_551ad45d:
+    
+        # "......................."
+        "......................."
+    
+    # game/intro.rpy:2651
+    translate russia tutStage9_618b6ce6:
+    
+        # "At least you would have, if you had a gun.{w} But you don't...."
+        "По крайней мере, если бы у тебя было оружие.{w} Ты бы так и сделал, но у тебя его нет...."
+    
+    # game/intro.rpy:2652
+    translate russia tutStage9_2061e7f6:
+    
+        # "Instead you're just pointing fingerguns at the gangster."
+        "Вместо этого, ты просто показываешь пальцем на бандита."
+    
+    # game/intro.rpy:2655
+    translate russia tutStage9_36e888ea:
+    
+        # "Aces Thug 1" "..............?"
+        "Туз 1" "..............?"
+    
+    # game/intro.rpy:2656
+    translate russia tutStage9_9ca7dc43:
+    
+        # "Aces Thug 2" "..............?"
+        "Туз 2" "..............?"
+    
+    # game/intro.rpy:2657
+    translate russia tutStage9_40af8e9a:
+    
+        # y "........................{w} Boom. {w}You're dead."
+        y "........................{w} Буум. {w}Ты труп."
+    
+    # game/intro.rpy:2658
+    translate russia tutStage9_d647a492:
+    
+        # "???" "I don't know what's going on over here, but it's pretty amusing. How come nobody invited us to the party?!"
+        "???" "Не знаю, что здесь происходит, но это довольно забавно. Почему никто не пригласил нас на вечеринку?!"
+    
+    # game/intro.rpy:2660
+    translate russia tutStage9_ae5dc31e:
+    
+        # y "Yeah okay, you can have the bar."
+        y "Ладно, бар ваш."
+    
+    # game/intro.rpy:2661
+    translate russia tutStage9_2e78bc5b:
+    
+        # "Aces Thug 1" "See? That wasn't so hard, was it? You WOOHP goons are all bark and no bite!"
+        "Туз 1" "Видишь? Это было не так сложно, не так ли? Вы, агенты из WOOHP, только лаете, а не кусаете!"
+    
+    # game/intro.rpy:2662
+    translate russia tutStage9_dec02596:
+    
+        # y "Good luck paying the property tax on this place."
+        y "Удачи в уплате налога на недвижимость за это место."
+    
+    # game/intro.rpy:2663
+    translate russia tutStage9_6c5203a3:
+    
+        # "Aces Thug 1" "Hah! You're joking right? We're the Aces! {w}We could buy this place, set it on fire, then pay for the renovations just so we could light it on fire again!"
+        "Туз 1" "Ха! Ты же шутишь, верно? Мы - тузы! {w}Мы могли бы купить это место, поджечь его, а потом оплатить ремонт, чтобы снова поджечь!"
+    
+    # game/intro.rpy:2664
+    translate russia tutStage9_fb6b207b:
+    
+        # y "I dunno... The other guy maybe, but you don't look so rich to me..."
+        y "Не знаю... Другой парень может быть, но ты не выглядишь настолько богатым..."
+    
+    # game/intro.rpy:2665
+    translate russia tutStage9_a2a9746e:
+    
+        # "Aces Thug 2" "He's kinda got you there, bro. Those shoes are at least two weeks old."
+        "Туз 2" "Он тебя раскусил, брат. Этим туфлям не меньше двух недель."
+    
+    # game/intro.rpy:2666
+    translate russia tutStage9_9c158214:
+    
+        # "Aces Thug 1" "These shoes cost $3500 dollars!"
+        "Туз 1" "Эти туфли стоят $3500 долларов!"
+    
+    # game/intro.rpy:2667
+    translate russia tutStage9_e7418f5f:
+    
+        # "Aces Thug 1" "I bought a $1500 dollar jacket just this morning!"
+        "Туз 1" "А этим утром, я купил пиджак за $1500!"
+    
+    # game/intro.rpy:2668
+    translate russia tutStage9_a1aec88f:
+    
+        # "Aces Thug 2" "It was on discount."
+        "Туз 2" "Она была со скидкой."
+    
+    # game/intro.rpy:2669
+    translate russia tutStage9_71cfecee:
+    
+        # "Aces Thug 1" "I got a discount {i}'after'{/i} I threatend the guy's life to give me a discount!"
+        "Туз 1" "Я получил скидку {i}'после'{/i} того, как пригрозил парню, чтобы он дал мне её!"
+    
+    # game/intro.rpy:2670
+    translate russia tutStage9_348a798c:
+    
+        # "Aces Thug 2" "I'm just saying man. People might start to talk~...."
+        "Туз 2" "Просто хочу сказать что... Люди могут начать болтать~...."
+    
+    # game/intro.rpy:2671
+    translate russia tutStage9_a4d06d0e:
+    
+        # "???" "{b}*Laughs*{/b} Look at these rich kids flaunting their money. I'd say we help relief them of it...."
+        "???" "{b}*Смешок*{/b} Только посмотрите на этих богатых детишек. Поможем им избавиться от этого их состояния..."
+    
+    # game/intro.rpy:2673
+    translate russia tutStage9_396e4a14:
+    
+        # y "You sure you want to do that?"
+        y "Уверены, что хотите это сделать?"
+    
+    # game/intro.rpy:2674
+    translate russia tutStage9_db5fe34e:
+    
+        # y "I cleaned this place with non-brand cleaning supplies."
+        y "Я убирался тут чистящими средствами без брендов."
+    
+    # game/intro.rpy:2675
+    translate russia tutStage9_c79a66bb:
+    
+        # "Aces Thug 1" "So what?!"
+        "Туз 1" "Ну и что?!"
+    
+    # game/intro.rpy:2676
+    translate russia tutStage9_83b17bb7:
+    
+        # y "They're 'non-brand'. You realise what the means, right?"
+        y "Они \"не брендовые\". Ты понимаешь, что это значит?"
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.01s
-Cleaning stores took 0.00s
-Init translation took 0.39s
-Build styles took 0.01s
-Load screen analysis took 0.55s
-Analyze screens took 0.01s
-Save screen analysis took 0.00s
-Prepare screens took 1.38s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.69s
-Running _start took 0.01s
-Performance test:
-Interface start took 0.86s
+Interface start took 1.53s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
@@ -45,42 +250,49 @@ Vendor: 'Intel'
 Renderer: 'Intel(R) HD Graphics 615'
 Version: '4.6.0 - Build 26.20.100.7637'
 Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1698, 955) drawable=(1698, 955)
+Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 305.23s
-Early init took 0.01s
-Loader init took 0.71s
-Loading error handling took 0.23s
-Loading script took 5.79s
-Loading save slot metadata. took 0.08s
+Bootstrap to the start of init.init took 265.08s
+Early init took 0.00s
+Loader init took 0.54s
+Loading error handling took 0.07s
+Loading script took 4.92s
+Loading save slot metadata. took 0.09s
 Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.57s
-Loading analysis data took 0.64s
-Analyze and compile ATL took 0.16s
-Index archives took 0.00s
-Dump and make backups. took 0.45s
-Cleaning cache took 0.00s
-Making clean stores took 0.01s
-Initial gc. took 0.92s
+
+File "game/tl/russia/intro.rpy", line 6186: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    "Туз" "Давайте немного \"преукрасим\" это место. Теперь это территория Тузов!""
+                                                                                  ^
+    
+    # game/intro.rpy:2632
+    translate russia tutStage9_0bb3a8cb:
+    
+        # y "..............................."
+        y "..............................."
+    
+    # game/intro.rpy:2633
+    translate russia tutStage9_d0181d24:
+    
+        # "Aces Thug 2" "Woah, you're one of those WOOHP Agents...!"
+        "Туз 2" "Ого, ты один из тех агентов WOOHP...!"
+    
+    # game/intro.rpy:2634
+    translate russia tutStage9_8cf6b881:
+    
+        # "Aces Thug 1" "Whatever, these WOOHP goon are just for show. You guys act all high and mighty, but I'd like to see you stop all of us!"
+        "Туз 1" "Неважно, эти чуваки из WOOHP просто позеры. Вы, ребята, ведёте себя как большие и могучие, но я бы хотел посмотреть, как вы остановите всех нас!"
+    
+    # game/intro.rpy:2635
+    translate russia tutStage9_870dfdac:
+    
+        # "Aces Thug 2" "Yeah, you tell him! Maybe we should tear his face up a bit too!"
+        "Туз 2" "Да! Может, стоит и ему немного лицо\"преукрасить\"?"
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.46s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.30s
-Save screen analysis took 1.45s
-Prepare screens took 2.21s
-Save pyanalysis. took 2.84s
-Save bytecode. took 0.16s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.69s
+Interface start took 1.19s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
@@ -90,1077 +302,1346 @@ Vendor: 'Intel'
 Renderer: 'Intel(R) HD Graphics 615'
 Version: '4.6.0 - Build 26.20.100.7637'
 Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1696, 954) drawable=(1696, 954)
+Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 941.31s
-Early init took 0.01s
-Loader init took 0.70s
-Loading error handling took 0.08s
-Loading script took 6.41s
-Loading save slot metadata. took 0.08s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.71s
-Loading analysis data took 0.67s
-Analyze and compile ATL took 0.16s
-Index archives took 0.01s
-Dump and make backups. took 0.45s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.91s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.01s
-Cleaning stores took 0.00s
-Init translation took 0.53s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.35s
-Save screen analysis took 1.62s
-Prepare screens took 2.24s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.16s
-Running _start took 0.04s
-Performance test:
-Interface start took 0.67s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1695, 953) drawable=(1695, 953)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1103.28s
+Bootstrap to the start of init.init took 353.17s
 Early init took 0.00s
 Loader init took 0.55s
-Loading error handling took 0.08s
-Loading script took 5.93s
-Loading save slot metadata. took 0.09s
+Loading error handling took 0.07s
+Loading script took 5.26s
+Loading save slot metadata. took 0.08s
+Loading persistent took 0.01s
+
+File "game/tl/russia/intro.rpy", line 534: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    y "Точно, \"Хаос на улицах\"
+    
+    # game/intro.rpy:244
+    translate russia tutStage2_4007e1ff:
+    
+        # "You look around."
+                ^
+        "Вы осматриваетесь."
+    
+    # game/intro.rpy:245
+    translate russia tutStage2_f871de75:
+    
+        # y "Where am I? It looks like some old timey....{w} Milkshake bar!{w} This place looks like it hasn't been used since the 50s."
+        y "Где это я? Это похоже на какой-то старомодный....{w} Молочно коктейльный-бар! {w} Это место выглядит так, как будто его не использовали с 50-х годов."
+    
+    # game/intro.rpy:246
+    translate russia tutStage2_b9b2a9fa:
+    
+        # y "Well I'm not gonna get a job in a dump like this. Best head outside."
+        y "Ну что же я не собираюсь работать на такой свалке. По коням!"
+    
+    # game/intro.rpy:249
+    translate russia tutStage2_2850a1e9:
+    
+        # "You step outside and are greeted by armageddon."
+        "Вы выходите на улицу и вас встречает Армагеддон."
+    
+    # game/intro.rpy:250
+    translate russia tutStage2_152b4cbd:
+    
+        # "Everywhere you look, you see gangs fighting in the open street."
+           "Куда бы вы ни посмотрели, вы видите банды, сражающиеся между собой на открытой улице."
+    
+    # game/intro.rpy:251
+    translate russia tutStage2_286d0a18:
+    
+        # "Police cars are burning, shops are being looted and gunfire can be heard around every corner."
+          "Полицейские машины горят, магазины грабят, и за каждым углом слышна стрельба."
+    
+    # game/intro.rpy:252
+    translate russia tutStage2_cf630fb5:
+    
+        # y "..................."
+        y "..................."
+    
+    # game/intro.rpy:253
+    translate russia tutStage2_5df9405f:
+    
+        # "You decided to head back inside."
+        "Вы решили вернуться внутрь."
+    
+    # game/intro.rpy:255
+    translate russia tutStage2_c0b0888d:
+    
+        # y "Yeah... Let's wait until things calm down a bit...~"
+        y "Дааа уж... Подожду немного, пока все немного не уляжется....~"
+    
+    # game/intro.rpy:258
+    translate russia tutStage2_f1d3701b:
+    
+        # y "All this violence is making me thirsty."
+        y "От всего этого насилие, у меня в горле пересохло."
+    
+    # game/intro.rpy:259
+    translate russia tutStage2_1e621ad4:
+    
+        # y "Let's see if I can pour myself a shake!"
+        y "Налью´ка я себе коктейля!"
+    
+    # game/intro.rpy:260
+    translate russia tutStage2_a80136b9:
+    
+        # "You pour yourself a milkshake."
+        "Вы наливаете себе молочный коктейль."
+    
+    # game/intro.rpy:261
+    translate russia tutStage2_c26a8916:
+    
+        # y "Delicious!"
+        y "Вкуснотища!"
+    
+    # game/intro.rpy:262
+    translate russia tutStage2_7597c3a3:
+    
+        # "........{w}........{w}........"
+        "........{w}........{w}........"
+    
+    # game/intro.rpy:263
+    translate russia tutStage2_9cb97b48:
+    
+        # y "........................"
+        y "........................"
+    
+    # game/intro.rpy:264
+    translate russia tutStage2_0f8ee318:
+    
+        # y "Funny, I expected it to-..."
+        y "Забавно, я думал что это будет-..."
+    
+    # game/intro.rpy:269
+    translate russia tutStage2_462f2b4b:
+    
+        # "You collapse from food poisoning."
+        "Вы падаете в обморок от пищевого отравления."
+    
+    # game/intro.rpy:270
+    translate russia tutStage2_7b98d66c:
+    
+        # "You spend the rest of the day on the toilet. When the sun sets, the violence seems to die down a little."
+        "Остаток дня вы проводите в туалете. Когда солнце садится, звуки насилие снаружи потихоньку стихают."
+    
+    # game/intro.rpy:272
+    translate russia tutStage2_db706f98:
+    
+        # y "Again with the cleaning... Maybe I should try getting a job as janitor after this..."
+        y "Опять уборка... Может мне, стоит попробовать себя в роли уборщика после всего этого..."
+    
+    # game/intro.rpy:275
+    translate russia tutStage2_c6e87893:
+    
+        # "You spend some time cleaning the milkshake bar. It looks nicer than before, but still needs some work."
+        "Вы тратите некоторое время на уборку в баре. Он выглядит приятнее, чем раньше, но все ещё нуждается в некоторой доработке."
+    
+    # game/intro.rpy:279
+    translate russia tutStage2_86334e5d:
+    
+        # y "Sounds like the fighting is dying down..."
+        y "Похоже, что снаружи все заканчивается..."
+    
+    # game/intro.rpy:280
+    translate russia tutStage2_130caf94:
+    
+        # y "But it's also getting dark. I'm not sure if it's a smart move to go out now."
+        y "Но также становится темно. Я не уверен, разумно ли, выходить сейчас наружу."
+    
+    # game/intro.rpy:281
+    translate russia tutStage2_24d693f5:
+    
+        # y "Guess I'll spend the night in the base, just to be sure."
+        y "Думаю, я проведу ночь на базе, просто, чтобы быть уверенным."
+    
+    # game/intro.rpy:284
+    translate russia tutStage2_42804f32:
+    
+        # y "Deadly gun violence up here... or safe living conditions downstairs..."
+        y "Смертоносная бойня с применением огнестрельного оружия здесь... или безопасные условия жизни внизу..."
+    
+    # game/intro.rpy:285
+    translate russia tutStage2_831ef747:
+    
+        # y "I guess I can wait until the violence calms down a bit."
+        y "Думаю я немного подожду, пока снаружи всё немного не успокоится."
+    
+    # game/intro.rpy:288
+    translate russia tutStage2_b3eaa82b:
+    
+        # "You spend the rest of the day in the base. When it turns dark, the violence seems to calm down a little."
+        "Остаток дня вы проводите на базе. Когда солнце садится, звуки насилие потихоньку стихают."
+    
+    # game/intro.rpy:292
+    translate russia tutStage2_14f4b337:
+    
+        # "{b}*Beep* *Beep* *Beep*{/b}"
+        "{b}*Бип* *Бип* *Бип*{/b}"
+    
+    # game/intro.rpy:293
+    translate russia tutStage2_1ce9c404:
+    
+        # y "...?"
+        y "...?"
+    
+    # game/intro.rpy:294
+    translate russia tutStage2_f39e93a4:
+    
+        # y "A distress signal?{w} {b}*Beep*{/b}"
+        y "Сигнал бедствия?{w} {b}*Бип*{/b}"
+    
+    # game/intro.rpy:302
+    translate russia tutStage2_f473ecc0:
+    
+        # a "{b}*Quietly:*{/b} Jerry is that you?"
+        a "{b}*Тихо:*{/b} Джерри это ты?"
+    
+    # game/intro.rpy:303
+    translate russia tutStage2_ee99fffe:
+    
+        # y "Er..."
+        y "Ехх..."
+    
+    # game/intro.rpy:309
+    translate russia tutStage2_a69ff082:
+    
+        # s g31 "Listen, we're hiding out at school. We're okay, but we've been attacked by our own WOOHP Agents."
+        s g31 "Послушай, мы прячемся в школе. Мы в порядке, но на нас напали наши собственные Агенты из «WOOHP»."
+    
+    # game/intro.rpy:315
+    translate russia tutStage2_81d4d292:
+    
+        # c "And now Beverly Hills is turning into a warzone! That's like... totally not cool!"
+        c "И теперь Беверли-Хиллз превращается в зону боевых действий! Это как-то типа... совсем не круто!"
+    
+    # game/intro.rpy:316
+    translate russia tutStage2_86ce9ff8:
+    
+        # s "Can you pull us out of here via the WOOHP Tunnel Network?"
+        s "Можешь вытащить нас отсюда через туннельную сеть «WOOHP»?"
+    
+    # game/intro.rpy:317
+    translate russia tutStage2_05bf074c:
+    
+        # y ".............."
+        y ".............."
+    
+    # game/intro.rpy:318
+    translate russia tutStage2_d2953955:
+    
+        # y "Suuure~...."
+        y "Еммм да, конечно~...."
+    
+    # game/intro.rpy:319
+    translate russia tutStage2_bd13094c:
+    
+        # "You press some random buttons on the console."
+        "Вы нажимаете случайные кнопки на консоли."
+    
+    # game/intro.rpy:320
+    translate russia tutStage2_692be6fa:
+    
+        # y "............"
+        y "............"
+    
+    # game/intro.rpy:321
+    translate russia tutStage2_04c45232:
+    
+        # y "It says right here that I can only pull you out one at a time."
+        y "Здесь написано, что я могу вытащить вас только по одиночке."
+    
+    # game/intro.rpy:322
+    translate russia tutStage2_3af91924:
+    
+        # s g32 "That's fine, but please just hurry."
+        s g32 "Да, хорошо. Только, пожалуйста, просто поторопись."
+    
+    # game/intro.rpy:328
+    translate russia tutSpySelect_f65fca2e:
+    
+        # y "Ye okay."
+        y "Отлично."
+    
+    # game/intro.rpy:329
+    translate russia tutSpySelect_8fcb26e6:
+    
+        # y "{b}*Bleep*{/b}"
+        y "{b}*Бип*{/b}"
+    
+    # game/intro.rpy:343
+    translate russia tutSpySelect_8043824e:
+    
+        # "The screen shows the spy in green being sucked into a giant funnel!"
+        "На экране видно, как шпионку в зелёном засасывает в гигантскую воронку!"
+    
+    # game/intro.rpy:348
+    translate russia tutSpySelect_237d88d0:
+    
+        # "Moments later you hear a swooshing noise as a panel in the roof opens up."
+        "Через несколько мгновений вы слышите свистящий шум. Панель в крыше открывается."
+    
+    # game/intro.rpy:354
+    translate russia tutSpySelect_147a7e75:
+    
+        # s "Oof~...!"
+        s "Хух~...!"
+    
+    # game/intro.rpy:355
+    translate russia tutSpySelect_e9584709:
+    
+        # s "Just in time Jerry! Now pull out the othe-..."
+        s "Как раз вовремя Джерри! Теперь вытащи ост-..."
+    
+    # game/intro.rpy:356
+    translate russia tutSpySelect_29f00d05:
+    
+        # s g28 "...?"
+        s g28 "...?"
+    
+    # game/intro.rpy:357
+    translate russia tutSpySelect_c718aa7a:
+    
+        # s "You're not Jerry!"
+        s "Ты не Джерри!"
+    
+    # game/intro.rpy:358
+    translate russia tutSpySelect_25a929e4:
+    
+        # y "No, actually I'm....{w} Errr...{w} The new guy! It's my first day on the jo-..."
+        y "Нет, на самом деле я....{w} Еммм...{w} Я тут новенький! Это мой первый день на рабо-..."
+    
+    # game/intro.rpy:361
+    translate russia tutSpySelect_4cda7408:
+    
+        # "With lightning quick reflexes, the spy jumps on you and puts you in a headlock!"
+        "Молниеносно, шпионка прыгает на вас и применяет простейший захват!"
+    
+    # game/intro.rpy:364
+    translate russia tutSpySelect_f358cb0c:
+    
+        # y "................."
+        y "................."
+    
+    # game/intro.rpy:365
+    translate russia tutSpySelect_87e557fb:
+    
+        # y "Why?"
+        y "За что?"
+    
+    # game/intro.rpy:367
+    translate russia tutSpySelect_35103d89:
+    
+        # s "Don't move Agent! We've been fighting you guys all day! I don't know what's going on, but you're not getting the drop on me."
+        s "Не двигайся агент! Мы сражаемся с вами целый день! Я не знаю, что здесь происходит, но ты не застанешь меня врасплох."
+    
+    # game/intro.rpy:368
+    translate russia tutSpySelect_1e924af9:
+    
+        # y "K."
+        y "К."
+    
+    # game/intro.rpy:369
+    translate russia tutSpySelect_384ba19d:
+    
+        # s g17 "What do you mean 'K'?"
+        s g17 "Что значит 'К'?"
+    
+    # game/intro.rpy:370
+    translate russia tutSpySelect_8bfd8a4d:
+    
+        # y "I mean I won't attack."
+        y "Я хотел сказать, что не собирался атаковать тебя."
+    
+    # game/intro.rpy:371
+    translate russia tutSpySelect_dece88cf:
+    
+        # s g8 "Nice try! But you're not fooling anyone!"
+        s g8 "Хорошая попытка! Но ты меня не обманешь!"
+    
+    # game/intro.rpy:372
+    translate russia tutSpySelect_d3a59cb5:
+    
+        # y "............................."
+        y "............................."
+    
+    # game/intro.rpy:373
+    translate russia tutSpySelect_3270dd5c:
+    
+        # s g32 "............................."
+        s g32 "............................."
+    
+    # game/intro.rpy:374
+    translate russia tutSpySelect_10fd81d9:
+    
+        # "................................"
+        "................................"
+    
+    # game/intro.rpy:375
+    translate russia tutSpySelect_998513c5:
+    
+        # y "I'm sorta getting a cramp in my neck, so if you could~...."
+        y "У меня это, ... немного шея затекла, ты не могла бы~...."
+    
+    # game/intro.rpy:376
+    translate russia tutSpySelect_94e81ec3:
+    
+        # "The spy narrows her eyes as she gives you a cautious look."
+        "Шпионка сужает глаза и осторожно смотрит на вас."
+    
+    # game/intro.rpy:377
+    translate russia tutSpySelect_69788bbe:
+    
+        # s g31 "You... sure don't act like the other agents..."
+        s g31 "Ты... и правда не такой, как другие агенты..."
+    
+    # game/intro.rpy:378
+    translate russia tutSpySelect_a8f4e044:
+    
+        # "The spy frees you from the neckhold."
+        "Шпионка отпускает вас."
+    
+    # game/intro.rpy:379
+    translate russia tutSpySelect_26cc5d85:
+    
+        # y "Didn't your friends need help or something...?"
+        y "Разве твоим друзьям не нужна была помощь или что-то типа того...?"
+    
+    # game/intro.rpy:380
+    translate russia tutSpySelect_e32968a0:
+    
+        # s g28 "O-oh! You're rig-...!"
+        s g28 "О-ох! Ты пра-...!"
+    
+    # game/intro.rpy:381
+    translate russia tutSpySelect_77f75d40:
+    
+        # "*{b}Bleep* *Bleep* *Bleep*{/b}"
+        "*{b}Бип* *Бип* *Бип*{/b}"
+    
+    # game/intro.rpy:382
+    translate russia tutSpySelect_1ae19595:
+    
+        # s "It's the distress signal!"
+        s "Это сигнал бедствия!"
+    
+    # game/intro.rpy:385
+    translate russia tutSpySelect_9fc93384:
+    
+        # "The two of you run over to the console and answer the call."
+        "Вы вдвоем подбегаете к консоли и отвечаете на вызов."
+    
+    # game/intro.rpy:394
+    translate russia tutSpySelect_0b66e489:
+    
+        # a "Sam! They found us!"
+        a "Сэм! Они нашли нас!"
+    
+    # game/intro.rpy:395
+    translate russia tutSpySelect_e0ba639d:
+    
+        # c "Please get us out of here!"
+        c "Пожалуйста, вытащи нас отсюда!"
+    
+    # game/intro.rpy:396
+    translate russia tutSpySelect_9a198eff:
+    
+        # sM "Hang on, I got you!"
+        sM "Держитесь, я сейчас!"
+    
+    # game/intro.rpy:409
+    translate russia tutSpySelect_723e1470:
+    
+        # "{b}*Static*{/b}"
+        "{b}*Неподвижно*{/b}"
+    
+    # game/intro.rpy:410
+    translate russia tutSpySelect_f7953e45:
+    
+        # sM "Clover?! Alex?!"
+        sM "Кловер?! Алекс?!"
+    
+    # game/intro.rpy:415
+    translate russia tutSpySelect_e34ea306:
+    
+        # s "The tunnel system! It's not responding!"
+        s "Туннельная система! Она не отвечает!"
+    
+    # game/intro.rpy:416
+    translate russia tutSpySelect_8dbf445a:
+    
+        # s g14 "No....{w} They must have destroyed it..."
+        s g14 "Нееет....{w} Они, должно быть, сломали её...."
+    
+    # game/intro.rpy:417
+    translate russia tutSpySelect_d59bd64c:
+    
+        # y "{i}'They'{/i}?"
+        y "{i}'Они'{/i}?"
+    
+    # game/intro.rpy:418
+    translate russia tutSpySelect_7b9776c7:
+    
+        # s g15 "............."
+        s g15 "............."
+    
+    # game/intro.rpy:419
+    translate russia tutSpySelect_71fd6dfe:
+    
+        # s "WOOHP... The Agency... It's gone rogue."
+        s "«WOOHP»... Агентство... Оно вышло из-под контроля."
+    
+    # game/intro.rpy:420
+    translate russia tutSpySelect_e9d5801a:
+    
+        # s g37 "All of our Agents just... turned on us. In the middle of school no less! I was busy studying!"
+        s g37 "Все наши агенты просто... предали нас и напали. Да ещё и посреди школы! Вовремя учёбы!"
+    
+    # game/intro.rpy:421
+    translate russia tutSpySelect_1db49ca3:
+    
+        # y "........."
+        y "........."
+    
+    # game/intro.rpy:422
+    translate russia tutSpySelect_2be06fe3:
+    
+        # s g34 "They brought in gangs from out of state and began causing chaos in the city."
+        s g34 "Вместе с бандами из других штатов они начали сеять хаос в городе."
+    
+    # game/intro.rpy:423
+    translate russia tutSpySelect_bf1e4e59:
+    
+        # s "They've declared Beverly Hills lawless. Turning it into a playground for gangsters and thugs."
+        s "Они объявили Беверли-Хиллз беззаконием. Превратив его в игровую площадку для бандитов и головорезов."
+    
+    # game/intro.rpy:424
+    translate russia tutSpySelect_bf4f584c:
+    
+        # y "Man that must suck for you."
+        y "Хреново вам..."
+    
+    # game/intro.rpy:425
+    translate russia tutSpySelect_e369c37d:
+    
+        # s g28 "It sucks for you too!"
+        s g28 "Нам!? Тебя это тоже касается!"
+    
+    # game/intro.rpy:426
+    translate russia tutSpySelect_27f01e9b:
+    
+        # y "It does?"
+        y "Касается? Меня?"
+    
+    # game/intro.rpy:427
+    translate russia tutSpySelect_47d00f51:
+    
+        # s g8 "Of course! You're a WOOHP Agent yourself, right?"
+        s g8 "Конечно! Ты же агент «WOOHP», не так ли?"
+    
+    # game/intro.rpy:428
+    translate russia tutSpySelect_c1fe963c:
+    
+        # y "Oh right... about that~..."
+        y "Ах да... на счёт этого~..."
+    
+    # game/intro.rpy:429
+    translate russia tutSpySelect_a8c18fe7:
+    
+        # y "I was only one day away from retirement so..."
+        y "До пенсии мне оставался всего один день, так что..."
+    
+    # game/intro.rpy:430
+    translate russia tutSpySelect_35c2efb4:
+    
+        # s g34 "You said it was your first day."
+        s g34 "Ты говорил, что сегодня твой первый день."
+    
+    # game/intro.rpy:431
+    translate russia tutSpySelect_9cb97b48:
+    
+        # y "........................"
+        y "........................"
+    
+    # game/intro.rpy:432
+    translate russia tutSpySelect_c11973ca:
+    
+        # y "So about that~...."
+        y "Ехх да, а на счёт этого~...."
+    
+    # game/intro.rpy:433
+    translate russia tutSpySelect_dc8a3f18:
+    
+        # s g9 "Ugh, okay fine. What do you want?"
+        s g9 "Ладно, хорошо. Чего ты хочешь?"
+    
+    # game/intro.rpy:434
+    translate russia tutSpySelect_e93fe854:
+    
+        # y "Huh...?"
+        y "Хмм...?"
+    
+    # game/intro.rpy:435
+    translate russia tutSpySelect_f39de257:
+    
+        # s "I'm going to need your help and you must want something. Just tell me what you want in return for your help."
+        s "Мне понадобится твоя помощь, а ты, точно захочешь что-нибудь взамен. Просто скажите мне, чего ты хочешь."
+    
+    # game/intro.rpy:436
+    translate russia tutSpySelect_b5d3c39c:
+    
+        # y "...."
+        y "...."
+    
+    # game/intro.rpy:440
+    translate russia tutSpySelect_68d02c5e:
+    
+        # y "Absolute unchallenged POWER!"
+        y "Абсолютная и неоспоримая ВЛАСТЬ!"
+    
+    # game/intro.rpy:441
+    translate russia tutSpySelect_1c683039:
+    
+        # s g34 "Are you willing to work for it?"
+        s g34 "Готов ли ты работать ради этого?"
+    
+    # game/intro.rpy:442
+    translate russia tutSpySelect_d1642ce7:
+    
+        # y "Huh?"
+        y "Хмм?"
+    
+    # game/intro.rpy:443
+    translate russia tutSpySelect_6e940db4:
+    
+        # s g31 "Are you willing to put in the time and effort?"
+        s g31 "Готов ли ты потратить уйму услий и времени ради этого?"
+    
+    # game/intro.rpy:444
+    translate russia tutSpySelect_ac247651:
+    
+        # s "If so, then I'll make sure you become one of the bigshots at WOOHP. Then you'll have all the power you could ever want."
+        s "Если да, то я позабочусь о том, чтобы ты занял одну из главных позиций в \"WOOHP\". Тогда у тебя будет власть, которую ты только можешь пожелать."
+    
+    # game/intro.rpy:445
+    translate russia tutSpySelect_ce895a18:
+    
+        # y "..........."
+        y "..........."
+    
+    # game/intro.rpy:446
+    translate russia tutSpySelect_84be3c46:
+    
+        # y "Tempting~..."
+        y "Заманчиво~..."
+    
+    # game/intro.rpy:447
+    translate russia tutSpySelect_a81773f3:
+    
+        # s "But for now WOOHP is under enemy control. So I'll need you as a plan B."
+        s "Но пока \"WOOHP\" находится под контролем врагов. Так что ты нужен мне в качестве плана Б."
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: "Couldn't load nvlib." (can be ignored)
+Interface start took 1.28s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1800, 1200)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'Intel'
+Renderer: 'Intel(R) HD Graphics 615'
+Version: '4.6.0 - Build 26.20.100.7637'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 377.01s
+Early init took 0.00s
+Loader init took 0.56s
+Loading error handling took 0.07s
+Loading script took 5.78s
+Loading save slot metadata. took 0.08s
+Loading persistent took 0.00s
+
+File "game/tl/russia/intro.rpy", line 534: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    y "Точно, \"Хаос на улицах\"
+    
+    # game/intro.rpy:244
+    translate russia tutStage2_4007e1ff:
+    
+        # "You look around."
+                ^
+        "Вы осматриваетесь."
+    
+    # game/intro.rpy:245
+    translate russia tutStage2_f871de75:
+    
+        # y "Where am I? It looks like some old timey....{w} Milkshake bar!{w} This place looks like it hasn't been used since the 50s."
+        y "Где это я? Это похоже на какой-то старомодный....{w} Молочно коктейльный-бар! {w} Это место выглядит так, как будто его не использовали с 50-х годов."
+    
+    # game/intro.rpy:246
+    translate russia tutStage2_b9b2a9fa:
+    
+        # y "Well I'm not gonna get a job in a dump like this. Best head outside."
+        y "Ну что же я не собираюсь работать на такой свалке. По коням!"
+    
+    # game/intro.rpy:249
+    translate russia tutStage2_2850a1e9:
+    
+        # "You step outside and are greeted by armageddon."
+        "Вы выходите на улицу и вас встречает Армагеддон."
+    
+    # game/intro.rpy:250
+    translate russia tutStage2_152b4cbd:
+    
+        # "Everywhere you look, you see gangs fighting in the open street."
+           "Куда бы вы ни посмотрели, вы видите банды, сражающиеся между собой на открытой улице."
+    
+    # game/intro.rpy:251
+    translate russia tutStage2_286d0a18:
+    
+        # "Police cars are burning, shops are being looted and gunfire can be heard around every corner."
+          "Полицейские машины горят, магазины грабят, и за каждым углом слышна стрельба."
+    
+    # game/intro.rpy:252
+    translate russia tutStage2_cf630fb5:
+    
+        # y "..................."
+        y "..................."
+    
+    # game/intro.rpy:253
+    translate russia tutStage2_5df9405f:
+    
+        # "You decided to head back inside."
+        "Вы решили вернуться внутрь."
+    
+    # game/intro.rpy:255
+    translate russia tutStage2_c0b0888d:
+    
+        # y "Yeah... Let's wait until things calm down a bit...~"
+        y "Дааа уж... Подожду немного, пока все немного не уляжется....~"
+    
+    # game/intro.rpy:258
+    translate russia tutStage2_f1d3701b:
+    
+        # y "All this violence is making me thirsty."
+        y "От всего этого насилие, у меня в горле пересохло."
+    
+    # game/intro.rpy:259
+    translate russia tutStage2_1e621ad4:
+    
+        # y "Let's see if I can pour myself a shake!"
+        y "Налью´ка я себе коктейля!"
+    
+    # game/intro.rpy:260
+    translate russia tutStage2_a80136b9:
+    
+        # "You pour yourself a milkshake."
+        "Вы наливаете себе молочный коктейль."
+    
+    # game/intro.rpy:261
+    translate russia tutStage2_c26a8916:
+    
+        # y "Delicious!"
+        y "Вкуснотища!"
+    
+    # game/intro.rpy:262
+    translate russia tutStage2_7597c3a3:
+    
+        # "........{w}........{w}........"
+        "........{w}........{w}........"
+    
+    # game/intro.rpy:263
+    translate russia tutStage2_9cb97b48:
+    
+        # y "........................"
+        y "........................"
+    
+    # game/intro.rpy:264
+    translate russia tutStage2_0f8ee318:
+    
+        # y "Funny, I expected it to-..."
+        y "Забавно, я думал что это будет-..."
+    
+    # game/intro.rpy:269
+    translate russia tutStage2_462f2b4b:
+    
+        # "You collapse from food poisoning."
+        "Вы падаете в обморок от пищевого отравления."
+    
+    # game/intro.rpy:270
+    translate russia tutStage2_7b98d66c:
+    
+        # "You spend the rest of the day on the toilet. When the sun sets, the violence seems to die down a little."
+        "Остаток дня вы проводите в туалете. Когда солнце садится, звуки насилие снаружи потихоньку стихают."
+    
+    # game/intro.rpy:272
+    translate russia tutStage2_db706f98:
+    
+        # y "Again with the cleaning... Maybe I should try getting a job as janitor after this..."
+        y "Опять уборка... Может мне, стоит попробовать себя в роли уборщика после всего этого..."
+    
+    # game/intro.rpy:275
+    translate russia tutStage2_c6e87893:
+    
+        # "You spend some time cleaning the milkshake bar. It looks nicer than before, but still needs some work."
+        "Вы тратите некоторое время на уборку в баре. Он выглядит приятнее, чем раньше, но все ещё нуждается в некоторой доработке."
+    
+    # game/intro.rpy:279
+    translate russia tutStage2_86334e5d:
+    
+        # y "Sounds like the fighting is dying down..."
+        y "Похоже, что снаружи все заканчивается..."
+    
+    # game/intro.rpy:280
+    translate russia tutStage2_130caf94:
+    
+        # y "But it's also getting dark. I'm not sure if it's a smart move to go out now."
+        y "Но также становится темно. Я не уверен, разумно ли, выходить сейчас наружу."
+    
+    # game/intro.rpy:281
+    translate russia tutStage2_24d693f5:
+    
+        # y "Guess I'll spend the night in the base, just to be sure."
+        y "Думаю, я проведу ночь на базе, просто, чтобы быть уверенным."
+    
+    # game/intro.rpy:284
+    translate russia tutStage2_42804f32:
+    
+        # y "Deadly gun violence up here... or safe living conditions downstairs..."
+        y "Смертоносная бойня с применением огнестрельного оружия здесь... или безопасные условия жизни внизу..."
+    
+    # game/intro.rpy:285
+    translate russia tutStage2_831ef747:
+    
+        # y "I guess I can wait until the violence calms down a bit."
+        y "Думаю я немного подожду, пока снаружи всё немного не успокоится."
+    
+    # game/intro.rpy:288
+    translate russia tutStage2_b3eaa82b:
+    
+        # "You spend the rest of the day in the base. When it turns dark, the violence seems to calm down a little."
+        "Остаток дня вы проводите на базе. Когда солнце садится, звуки насилие потихоньку стихают."
+    
+    # game/intro.rpy:292
+    translate russia tutStage2_14f4b337:
+    
+        # "{b}*Beep* *Beep* *Beep*{/b}"
+        "{b}*Бип* *Бип* *Бип*{/b}"
+    
+    # game/intro.rpy:293
+    translate russia tutStage2_1ce9c404:
+    
+        # y "...?"
+        y "...?"
+    
+    # game/intro.rpy:294
+    translate russia tutStage2_f39e93a4:
+    
+        # y "A distress signal?{w} {b}*Beep*{/b}"
+        y "Сигнал бедствия?{w} {b}*Бип*{/b}"
+    
+    # game/intro.rpy:302
+    translate russia tutStage2_f473ecc0:
+    
+        # a "{b}*Quietly:*{/b} Jerry is that you?"
+        a "{b}*Тихо:*{/b} Джерри это ты?"
+    
+    # game/intro.rpy:303
+    translate russia tutStage2_ee99fffe:
+    
+        # y "Er..."
+        y "Ехх..."
+    
+    # game/intro.rpy:309
+    translate russia tutStage2_a69ff082:
+    
+        # s g31 "Listen, we're hiding out at school. We're okay, but we've been attacked by our own WOOHP Agents."
+        s g31 "Послушай, мы прячемся в школе. Мы в порядке, но на нас напали наши собственные Агенты из «WOOHP»."
+    
+    # game/intro.rpy:315
+    translate russia tutStage2_81d4d292:
+    
+        # c "And now Beverly Hills is turning into a warzone! That's like... totally not cool!"
+        c "И теперь Беверли-Хиллз превращается в зону боевых действий! Это как-то типа... совсем не круто!"
+    
+    # game/intro.rpy:316
+    translate russia tutStage2_86ce9ff8:
+    
+        # s "Can you pull us out of here via the WOOHP Tunnel Network?"
+        s "Можешь вытащить нас отсюда через туннельную сеть «WOOHP»?"
+    
+    # game/intro.rpy:317
+    translate russia tutStage2_05bf074c:
+    
+        # y ".............."
+        y ".............."
+    
+    # game/intro.rpy:318
+    translate russia tutStage2_d2953955:
+    
+        # y "Suuure~...."
+        y "Еммм да, конечно~...."
+    
+    # game/intro.rpy:319
+    translate russia tutStage2_bd13094c:
+    
+        # "You press some random buttons on the console."
+        "Вы нажимаете случайные кнопки на консоли."
+    
+    # game/intro.rpy:320
+    translate russia tutStage2_692be6fa:
+    
+        # y "............"
+        y "............"
+    
+    # game/intro.rpy:321
+    translate russia tutStage2_04c45232:
+    
+        # y "It says right here that I can only pull you out one at a time."
+        y "Здесь написано, что я могу вытащить вас только по одиночке."
+    
+    # game/intro.rpy:322
+    translate russia tutStage2_3af91924:
+    
+        # s g32 "That's fine, but please just hurry."
+        s g32 "Да, хорошо. Только, пожалуйста, просто поторопись."
+    
+    # game/intro.rpy:328
+    translate russia tutSpySelect_f65fca2e:
+    
+        # y "Ye okay."
+        y "Отлично."
+    
+    # game/intro.rpy:329
+    translate russia tutSpySelect_8fcb26e6:
+    
+        # y "{b}*Bleep*{/b}"
+        y "{b}*Бип*{/b}"
+    
+    # game/intro.rpy:343
+    translate russia tutSpySelect_8043824e:
+    
+        # "The screen shows the spy in green being sucked into a giant funnel!"
+        "На экране видно, как шпионку в зелёном засасывает в гигантскую воронку!"
+    
+    # game/intro.rpy:348
+    translate russia tutSpySelect_237d88d0:
+    
+        # "Moments later you hear a swooshing noise as a panel in the roof opens up."
+        "Через несколько мгновений вы слышите свистящий шум. Панель в крыше открывается."
+    
+    # game/intro.rpy:354
+    translate russia tutSpySelect_147a7e75:
+    
+        # s "Oof~...!"
+        s "Хух~...!"
+    
+    # game/intro.rpy:355
+    translate russia tutSpySelect_e9584709:
+    
+        # s "Just in time Jerry! Now pull out the othe-..."
+        s "Как раз вовремя Джерри! Теперь вытащи ост-..."
+    
+    # game/intro.rpy:356
+    translate russia tutSpySelect_29f00d05:
+    
+        # s g28 "...?"
+        s g28 "...?"
+    
+    # game/intro.rpy:357
+    translate russia tutSpySelect_c718aa7a:
+    
+        # s "You're not Jerry!"
+        s "Ты не Джерри!"
+    
+    # game/intro.rpy:358
+    translate russia tutSpySelect_25a929e4:
+    
+        # y "No, actually I'm....{w} Errr...{w} The new guy! It's my first day on the jo-..."
+        y "Нет, на самом деле я....{w} Еммм...{w} Я тут новенький! Это мой первый день на рабо-..."
+    
+    # game/intro.rpy:361
+    translate russia tutSpySelect_4cda7408:
+    
+        # "With lightning quick reflexes, the spy jumps on you and puts you in a headlock!"
+        "Молниеносно, шпионка прыгает на вас и применяет простейший захват!"
+    
+    # game/intro.rpy:364
+    translate russia tutSpySelect_f358cb0c:
+    
+        # y "................."
+        y "................."
+    
+    # game/intro.rpy:365
+    translate russia tutSpySelect_87e557fb:
+    
+        # y "Why?"
+        y "За что?"
+    
+    # game/intro.rpy:367
+    translate russia tutSpySelect_35103d89:
+    
+        # s "Don't move Agent! We've been fighting you guys all day! I don't know what's going on, but you're not getting the drop on me."
+        s "Не двигайся агент! Мы сражаемся с вами целый день! Я не знаю, что здесь происходит, но ты не застанешь меня врасплох."
+    
+    # game/intro.rpy:368
+    translate russia tutSpySelect_1e924af9:
+    
+        # y "K."
+        y "К."
+    
+    # game/intro.rpy:369
+    translate russia tutSpySelect_384ba19d:
+    
+        # s g17 "What do you mean 'K'?"
+        s g17 "Что значит 'К'?"
+    
+    # game/intro.rpy:370
+    translate russia tutSpySelect_8bfd8a4d:
+    
+        # y "I mean I won't attack."
+        y "Я хотел сказать, что не собирался атаковать тебя."
+    
+    # game/intro.rpy:371
+    translate russia tutSpySelect_dece88cf:
+    
+        # s g8 "Nice try! But you're not fooling anyone!"
+        s g8 "Хорошая попытка! Но ты меня не обманешь!"
+    
+    # game/intro.rpy:372
+    translate russia tutSpySelect_d3a59cb5:
+    
+        # y "............................."
+        y "............................."
+    
+    # game/intro.rpy:373
+    translate russia tutSpySelect_3270dd5c:
+    
+        # s g32 "............................."
+        s g32 "............................."
+    
+    # game/intro.rpy:374
+    translate russia tutSpySelect_10fd81d9:
+    
+        # "................................"
+        "................................"
+    
+    # game/intro.rpy:375
+    translate russia tutSpySelect_998513c5:
+    
+        # y "I'm sorta getting a cramp in my neck, so if you could~...."
+        y "У меня это, ... немного шея затекла, ты не могла бы~...."
+    
+    # game/intro.rpy:376
+    translate russia tutSpySelect_94e81ec3:
+    
+        # "The spy narrows her eyes as she gives you a cautious look."
+        "Шпионка сужает глаза и осторожно смотрит на вас."
+    
+    # game/intro.rpy:377
+    translate russia tutSpySelect_69788bbe:
+    
+        # s g31 "You... sure don't act like the other agents..."
+        s g31 "Ты... и правда не такой, как другие агенты..."
+    
+    # game/intro.rpy:378
+    translate russia tutSpySelect_a8f4e044:
+    
+        # "The spy frees you from the neckhold."
+        "Шпионка отпускает вас."
+    
+    # game/intro.rpy:379
+    translate russia tutSpySelect_26cc5d85:
+    
+        # y "Didn't your friends need help or something...?"
+        y "Разве твоим друзьям не нужна была помощь или что-то типа того...?"
+    
+    # game/intro.rpy:380
+    translate russia tutSpySelect_e32968a0:
+    
+        # s g28 "O-oh! You're rig-...!"
+        s g28 "О-ох! Ты пра-...!"
+    
+    # game/intro.rpy:381
+    translate russia tutSpySelect_77f75d40:
+    
+        # "*{b}Bleep* *Bleep* *Bleep*{/b}"
+        "*{b}Бип* *Бип* *Бип*{/b}"
+    
+    # game/intro.rpy:382
+    translate russia tutSpySelect_1ae19595:
+    
+        # s "It's the distress signal!"
+        s "Это сигнал бедствия!"
+    
+    # game/intro.rpy:385
+    translate russia tutSpySelect_9fc93384:
+    
+        # "The two of you run over to the console and answer the call."
+        "Вы вдвоем подбегаете к консоли и отвечаете на вызов."
+    
+    # game/intro.rpy:394
+    translate russia tutSpySelect_0b66e489:
+    
+        # a "Sam! They found us!"
+        a "Сэм! Они нашли нас!"
+    
+    # game/intro.rpy:395
+    translate russia tutSpySelect_e0ba639d:
+    
+        # c "Please get us out of here!"
+        c "Пожалуйста, вытащи нас отсюда!"
+    
+    # game/intro.rpy:396
+    translate russia tutSpySelect_9a198eff:
+    
+        # sM "Hang on, I got you!"
+        sM "Держитесь, я сейчас!"
+    
+    # game/intro.rpy:409
+    translate russia tutSpySelect_723e1470:
+    
+        # "{b}*Static*{/b}"
+        "{b}*Неподвижно*{/b}"
+    
+    # game/intro.rpy:410
+    translate russia tutSpySelect_f7953e45:
+    
+        # sM "Clover?! Alex?!"
+        sM "Кловер?! Алекс?!"
+    
+    # game/intro.rpy:415
+    translate russia tutSpySelect_e34ea306:
+    
+        # s "The tunnel system! It's not responding!"
+        s "Туннельная система! Она не отвечает!"
+    
+    # game/intro.rpy:416
+    translate russia tutSpySelect_8dbf445a:
+    
+        # s g14 "No....{w} They must have destroyed it..."
+        s g14 "Нееет....{w} Они, должно быть, сломали её...."
+    
+    # game/intro.rpy:417
+    translate russia tutSpySelect_d59bd64c:
+    
+        # y "{i}'They'{/i}?"
+        y "{i}'Они'{/i}?"
+    
+    # game/intro.rpy:418
+    translate russia tutSpySelect_7b9776c7:
+    
+        # s g15 "............."
+        s g15 "............."
+    
+    # game/intro.rpy:419
+    translate russia tutSpySelect_71fd6dfe:
+    
+        # s "WOOHP... The Agency... It's gone rogue."
+        s "«WOOHP»... Агентство... Оно вышло из-под контроля."
+    
+    # game/intro.rpy:420
+    translate russia tutSpySelect_e9d5801a:
+    
+        # s g37 "All of our Agents just... turned on us. In the middle of school no less! I was busy studying!"
+        s g37 "Все наши агенты просто... предали нас и напали. Да ещё и посреди школы! Вовремя учёбы!"
+    
+    # game/intro.rpy:421
+    translate russia tutSpySelect_1db49ca3:
+    
+        # y "........."
+        y "........."
+    
+    # game/intro.rpy:422
+    translate russia tutSpySelect_2be06fe3:
+    
+        # s g34 "They brought in gangs from out of state and began causing chaos in the city."
+        s g34 "Вместе с бандами из других штатов они начали сеять хаос в городе."
+    
+    # game/intro.rpy:423
+    translate russia tutSpySelect_bf1e4e59:
+    
+        # s "They've declared Beverly Hills lawless. Turning it into a playground for gangsters and thugs."
+        s "Они объявили Беверли-Хиллз беззаконием. Превратив его в игровую площадку для бандитов и головорезов."
+    
+    # game/intro.rpy:424
+    translate russia tutSpySelect_bf4f584c:
+    
+        # y "Man that must suck for you."
+        y "Хреново вам..."
+    
+    # game/intro.rpy:425
+    translate russia tutSpySelect_e369c37d:
+    
+        # s g28 "It sucks for you too!"
+        s g28 "Нам!? Тебя это тоже касается!"
+    
+    # game/intro.rpy:426
+    translate russia tutSpySelect_27f01e9b:
+    
+        # y "It does?"
+        y "Касается? Меня?"
+    
+    # game/intro.rpy:427
+    translate russia tutSpySelect_47d00f51:
+    
+        # s g8 "Of course! You're a WOOHP Agent yourself, right?"
+        s g8 "Конечно! Ты же агент «WOOHP», не так ли?"
+    
+    # game/intro.rpy:428
+    translate russia tutSpySelect_c1fe963c:
+    
+        # y "Oh right... about that~..."
+        y "Ах да... на счёт этого~..."
+    
+    # game/intro.rpy:429
+    translate russia tutSpySelect_a8c18fe7:
+    
+        # y "I was only one day away from retirement so..."
+        y "До пенсии мне оставался всего один день, так что..."
+    
+    # game/intro.rpy:430
+    translate russia tutSpySelect_35c2efb4:
+    
+        # s g34 "You said it was your first day."
+        s g34 "Ты говорил, что сегодня твой первый день."
+    
+    # game/intro.rpy:431
+    translate russia tutSpySelect_9cb97b48:
+    
+        # y "........................"
+        y "........................"
+    
+    # game/intro.rpy:432
+    translate russia tutSpySelect_c11973ca:
+    
+        # y "So about that~...."
+        y "Ехх да, а на счёт этого~...."
+    
+    # game/intro.rpy:433
+    translate russia tutSpySelect_dc8a3f18:
+    
+        # s g9 "Ugh, okay fine. What do you want?"
+        s g9 "Ладно, хорошо. Чего ты хочешь?"
+    
+    # game/intro.rpy:434
+    translate russia tutSpySelect_e93fe854:
+    
+        # y "Huh...?"
+        y "Хмм...?"
+    
+    # game/intro.rpy:435
+    translate russia tutSpySelect_f39de257:
+    
+        # s "I'm going to need your help and you must want something. Just tell me what you want in return for your help."
+        s "Мне понадобится твоя помощь, а ты, точно захочешь что-нибудь взамен. Просто скажите мне, чего ты хочешь."
+    
+    # game/intro.rpy:436
+    translate russia tutSpySelect_b5d3c39c:
+    
+        # y "...."
+        y "...."
+    
+    # game/intro.rpy:440
+    translate russia tutSpySelect_68d02c5e:
+    
+        # y "Absolute unchallenged POWER!"
+        y "Абсолютная и неоспоримая ВЛАСТЬ!"
+    
+    # game/intro.rpy:441
+    translate russia tutSpySelect_1c683039:
+    
+        # s g34 "Are you willing to work for it?"
+        s g34 "Готов ли ты работать ради этого?"
+    
+    # game/intro.rpy:442
+    translate russia tutSpySelect_d1642ce7:
+    
+        # y "Huh?"
+        y "Хмм?"
+    
+    # game/intro.rpy:443
+    translate russia tutSpySelect_6e940db4:
+    
+        # s g31 "Are you willing to put in the time and effort?"
+        s g31 "Готов ли ты потратить уйму услий и времени ради этого?"
+    
+    # game/intro.rpy:444
+    translate russia tutSpySelect_ac247651:
+    
+        # s "If so, then I'll make sure you become one of the bigshots at WOOHP. Then you'll have all the power you could ever want."
+        s "Если да, то я позабочусь о том, чтобы ты занял одну из главных позиций в \"WOOHP\". Тогда у тебя будет власть, которую ты только можешь пожелать."
+    
+    # game/intro.rpy:445
+    translate russia tutSpySelect_ce895a18:
+    
+        # y "..........."
+        y "..........."
+    
+    # game/intro.rpy:446
+    translate russia tutSpySelect_84be3c46:
+    
+        # y "Tempting~..."
+        y "Заманчиво~..."
+    
+    # game/intro.rpy:447
+    translate russia tutSpySelect_a81773f3:
+    
+        # s "But for now WOOHP is under enemy control. So I'll need you as a plan B."
+        s "Но пока \"WOOHP\" находится под контролем врагов. Так что ты нужен мне в качестве плана Б."
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: "Couldn't load nvlib." (can be ignored)
+Interface start took 1.26s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1800, 1200)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'Intel'
+Renderer: 'Intel(R) HD Graphics 615'
+Version: '4.6.0 - Build 26.20.100.7637'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 419.90s
+Early init took 0.00s
+Loader init took 0.55s
+Loading error handling took 0.07s
+Loading script took 6.26s
+Loading save slot metadata. took 0.08s
 Loading persistent took 0.01s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Set script version to: (7, 4, 6)
 Running init code took 0.77s
-Loading analysis data took 0.77s
-Analyze and compile ATL took 0.17s
-Index archives took 0.00s
-Dump and make backups. took 0.44s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.99s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.51s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.31s
-Save screen analysis took 1.40s
-Prepare screens took 1.88s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.48s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1693, 953) drawable=(1693, 953)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1376.07s
-Early init took 0.00s
-Loader init took 0.54s
-Loading error handling took 0.07s
-Loading script took 6.14s
-Loading save slot metadata. took 0.11s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.71s
-Loading analysis data took 0.66s
-Analyze and compile ATL took 0.16s
-Index archives took 0.00s
-Dump and make backups. took 0.68s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.91s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.53s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.31s
-Save screen analysis took 1.45s
-Prepare screens took 2.02s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.59s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1692, 952) drawable=(1692, 952)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1487.82s
-Early init took 0.00s
-Loader init took 0.57s
-Loading error handling took 0.08s
-Loading script took 6.08s
-Loading save slot metadata. took 0.07s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.70s
-Loading analysis data took 0.70s
-Analyze and compile ATL took 0.18s
-Index archives took 0.00s
-Dump and make backups. took 0.47s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.92s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.53s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.32s
-Save screen analysis took 1.60s
-Prepare screens took 2.14s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.53s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1629.19s
-Early init took 0.01s
-Loader init took 0.54s
-Loading error handling took 0.09s
-Loading script took 6.05s
-Loading save slot metadata. took 0.10s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.78s
-Loading analysis data took 0.65s
-Analyze and compile ATL took 0.19s
-Index archives took 0.00s
-Dump and make backups. took 0.41s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.86s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.58s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.36s
-Save screen analysis took 1.58s
-Prepare screens took 2.13s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.53s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1703.14s
-Early init took 0.00s
-Loader init took 0.55s
-Loading error handling took 0.09s
-Loading script took 6.04s
-Loading save slot metadata. took 0.09s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.65s
-Loading analysis data took 0.64s
-Analyze and compile ATL took 0.17s
-Index archives took 0.00s
-Dump and make backups. took 0.45s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.94s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.59s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.34s
-Save screen analysis took 1.51s
-Prepare screens took 2.00s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.52s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1827.44s
-Early init took 0.01s
-Loader init took 0.53s
-Loading error handling took 0.09s
-Loading script took 5.91s
-Loading save slot metadata. took 0.07s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.65s
 Loading analysis data took 0.69s
-Analyze and compile ATL took 0.16s
+Analyze and compile ATL took 0.24s
 Index archives took 0.00s
-Dump and make backups. took 0.47s
+Dump and make backups. took 0.43s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 1.16s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.66s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.36s
-Save screen analysis took 1.54s
-Prepare screens took 2.37s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.03s
-Performance test:
-Interface start took 0.75s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1912.20s
-Early init took 0.01s
-Loader init took 0.73s
-Loading error handling took 0.08s
-Loading script took 5.98s
-Loading save slot metadata. took 0.09s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.76s
-Loading analysis data took 0.68s
-Analyze and compile ATL took 0.20s
-Index archives took 0.00s
-Dump and make backups. took 0.52s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.99s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.52s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.31s
-Save screen analysis took 1.49s
-Prepare screens took 1.94s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.50s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 2188.27s
-Early init took 0.00s
-Loader init took 0.63s
-Loading error handling took 0.12s
-Loading script took 6.21s
-Loading save slot metadata. took 0.08s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.71s
-Loading analysis data took 0.64s
-Analyze and compile ATL took 0.15s
-Index archives took 0.00s
-Dump and make backups. took 0.44s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.89s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.53s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.32s
-Save screen analysis took 1.55s
-Prepare screens took 2.57s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.03s
-Performance test:
-Interface start took 0.65s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 2364.67s
-Early init took 0.01s
-Loader init took 0.86s
-Loading error handling took 0.10s
-Loading script took 7.33s
-Loading save slot metadata. took 0.07s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.63s
-Loading analysis data took 0.66s
-Analyze and compile ATL took 0.15s
-Index archives took 0.00s
-Dump and make backups. took 0.47s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.90s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.56s
-Build styles took 0.02s
-Load screen analysis took 0.02s
-Analyze screens took 0.33s
-Save screen analysis took 1.48s
-Prepare screens took 2.12s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.55s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 2525.25s
-Early init took 0.00s
-Loader init took 0.55s
-Loading error handling took 0.08s
-Loading script took 6.12s
-Loading save slot metadata. took 0.08s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.63s
-Loading analysis data took 0.68s
-Analyze and compile ATL took 0.18s
-Index archives took 0.00s
-Dump and make backups. took 0.78s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.03s
+Initial gc. took 0.87s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.58s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.37s
-Save screen analysis took 1.53s
-Prepare screens took 2.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.55s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 2735.30s
-Early init took 0.01s
-Loader init took 0.55s
-Loading error handling took 0.08s
-Loading script took 5.73s
-Loading save slot metadata. took 0.07s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.61s
-Loading analysis data took 0.62s
-Analyze and compile ATL took 0.15s
-Index archives took 0.00s
-Dump and make backups. took 0.44s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.96s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.53s
-Build styles took 0.03s
-Load screen analysis took 0.00s
-Analyze screens took 0.30s
-Save screen analysis took 1.43s
-Prepare screens took 2.31s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.55s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 2878.32s
-Early init took 0.00s
-Loader init took 0.56s
-Loading error handling took 0.09s
-Loading script took 5.90s
-Loading save slot metadata. took 0.07s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.63s
-Loading analysis data took 0.65s
-Analyze and compile ATL took 0.18s
-Index archives took 0.01s
-Dump and make backups. took 0.48s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.24s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.60s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.33s
-Save screen analysis took 1.56s
-Prepare screens took 1.94s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.51s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 3512.66s
-Early init took 0.01s
-Loader init took 0.58s
-Loading error handling took 0.08s
-Loading script took 6.37s
-Loading save slot metadata. took 0.07s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.66s
-Loading analysis data took 0.72s
-Analyze and compile ATL took 0.17s
-Index archives took 0.00s
-Dump and make backups. took 0.49s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.05s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.52s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.34s
-Save screen analysis took 1.41s
-Prepare screens took 2.27s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.53s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 4575.44s
-Early init took 0.00s
-Loader init took 0.75s
-Loading error handling took 0.14s
-Loading script took 10.02s
-Loading save slot metadata. took 0.08s
-Loading persistent took 0.01s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.73s
-Loading analysis data took 0.78s
-Analyze and compile ATL took 0.39s
-Index archives took 0.00s
-Dump and make backups. took 0.50s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.21s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.64s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.36s
-Save screen analysis took 1.63s
-Prepare screens took 2.48s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.72s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 4678.74s
-Early init took 0.01s
-Loader init took 0.76s
-Loading error handling took 0.08s
-Loading script took 6.78s
-Loading save slot metadata. took 0.08s
-Loading persistent took 0.01s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.68s
-Loading analysis data took 0.71s
-Analyze and compile ATL took 0.14s
-Index archives took 0.00s
-Dump and make backups. took 0.46s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.92s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.56s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.31s
-Save screen analysis took 1.40s
-Prepare screens took 2.12s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.56s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 5104.91s
-Early init took 0.01s
-Loader init took 0.55s
-Loading error handling took 0.08s
-Loading script took 6.56s
-Loading save slot metadata. took 0.11s
-Loading persistent took 0.01s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 1.01s
-Loading analysis data took 0.70s
-Analyze and compile ATL took 0.15s
-Index archives took 0.00s
-Dump and make backups. took 0.45s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.58s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.36s
-Save screen analysis took 1.58s
-Prepare screens took 1.99s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.01s
-Performance test:
-Interface start took 0.53s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 5130.69s
-Early init took 0.01s
-Loader init took 0.60s
-Loading error handling took 0.09s
-Loading script took 6.39s
-Loading save slot metadata. took 0.07s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.65s
-Loading analysis data took 0.67s
-Analyze and compile ATL took 0.14s
-Index archives took 0.00s
-Dump and make backups. took 0.47s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.01s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.60s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.34s
-Save screen analysis took 1.59s
-Prepare screens took 1.94s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.51s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 5221.21s
-Early init took 0.00s
-Loader init took 0.57s
-Loading error handling took 0.08s
-Loading script took 5.95s
-Loading save slot metadata. took 0.09s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.80s
-Loading analysis data took 0.60s
-Analyze and compile ATL took 0.15s
-Index archives took 0.00s
-Dump and make backups. took 0.47s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.88s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.52s
 Build styles took 0.01s
 Load screen analysis took 0.00s
 Analyze screens took 0.29s
-Save screen analysis took 1.30s
-Prepare screens took 1.84s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.49s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 5324.26s
-Early init took 0.00s
-Loader init took 0.53s
-Loading error handling took 0.08s
-Loading script took 5.62s
-Loading save slot metadata. took 0.06s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.66s
-Loading analysis data took 0.63s
-Analyze and compile ATL took 0.14s
-Index archives took 0.00s
-Dump and make backups. took 0.44s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.96s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.54s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.35s
-Save screen analysis took 1.43s
-Prepare screens took 2.10s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.49s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 5728.66s
-Early init took 0.01s
-Loader init took 0.56s
-Loading error handling took 0.08s
-Loading script took 6.10s
-Loading save slot metadata. took 0.08s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.69s
-Loading analysis data took 0.92s
-Analyze and compile ATL took 0.16s
-Index archives took 0.00s
-Dump and make backups. took 0.46s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.04s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.59s
-Build styles took 0.02s
-Load screen analysis took 0.00s
-Analyze screens took 0.37s
-Save screen analysis took 1.57s
-Prepare screens took 2.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
-Performance test:
-Interface start took 0.51s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 5830.47s
-Early init took 0.01s
-Loader init took 0.71s
-Loading error handling took 0.08s
-Loading script took 6.07s
-Loading save slot metadata. took 0.10s
-Loading persistent took 0.01s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.74s
-Loading analysis data took 0.61s
-Analyze and compile ATL took 0.16s
-Index archives took 0.00s
-Dump and make backups. took 0.41s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.91s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.53s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.31s
-Save screen analysis took 1.43s
+Save screen analysis took 1.40s
 Prepare screens took 1.98s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.02s
+Save bytecode. took 0.16s
+Running _start took 0.03s
 Performance test:
-Interface start took 0.52s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 6013.57s
-Early init took 0.01s
-Loader init took 0.72s
-Loading error handling took 0.08s
-Loading script took 5.01s
-Loading save slot metadata. took 0.10s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.72s
-Loading analysis data took 0.86s
-Analyze and compile ATL took 0.15s
-Index archives took 0.00s
-Dump and make backups. took 0.51s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 1.05s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.61s
-Build styles took 0.02s
-Load screen analysis took 0.69s
-Analyze screens took 0.02s
-Save screen analysis took 0.00s
-Prepare screens took 2.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.19s
-Running _start took 0.01s
-Performance test:
-Interface start took 0.79s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1800, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'Intel'
-Renderer: 'Intel(R) HD Graphics 615'
-Version: '4.6.0 - Build 26.20.100.7637'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 6109.19s
-Early init took 0.00s
-Loader init took 0.54s
-Loading error handling took 0.07s
-Loading script took 5.19s
-Loading save slot metadata. took 0.08s
-Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Set script version to: (7, 4, 6)
-Running init code took 0.63s
-Loading analysis data took 0.76s
-Analyze and compile ATL took 0.16s
-Index archives took 0.00s
-Dump and make backups. took 0.46s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.96s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.60s
-Build styles took 0.02s
-Load screen analysis took 0.55s
-Analyze screens took 0.05s
-Save screen analysis took 0.00s
-Prepare screens took 1.91s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.01s
-Performance test:
-Interface start took 0.64s
+Interface start took 0.66s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
