@@ -814,57 +814,56 @@ translate russia strings:
 
     # game/animation.rpy:810
     old "!!! Emergency suppression !!!"
-    new ""
+    new "!!! Подавление аварийной ситуации !!!"
 
     # game/animation.rpy:810
     old "[sexAct1]"
-    new ""
+    new "[sexAct1]"
 
     # game/animation.rpy:810
     old "[sexAct2]"
-    new ""
+    new "[sexAct2]"
 
     # game/animation.rpy:810
     old "[sexAct3]"
-    new ""
+    new "[sexAct3]"
 
     # game/animation.rpy:810
     old "[sexAct4]"
-    new ""
+    new "[sexAct4]"
 
     # game/animation.rpy:810
     old "[sexAct5]"
-    new ""
+    new "[sexAct5]"
 
     # game/animation.rpy:810
     old "[sexAct6]"
-    new ""
+    new "[sexAct6]"
 
     # game/animation.rpy:1292
     old "Share the photo (-karma)"
-    new ""
+    new "Поделиться фото (-Карма)"
 
     # game/animation.rpy:1292
     old "Delete the photo"
-    new ""
+    new "Удалить фото"
 
     # game/animation.rpy:1310
     old "Yes (-1 Vigor Pill)"
-    new ""
+    new "Да (-1 Таблетка бодрости)"
 
     # game/animation.rpy:1310
     old "No"
-    new ""
+    new "Нет"
 
     # game/animation.rpy:3032
     old "Animation Sam (DEV)"
-    new ""
+    new "Анимация с Сэм (DEV)"
 
     # game/animation.rpy:3032
     old "Animation Alex (DEV)"
-    new ""
+    new "Анимация с Алекс (DEV)"
 
     # game/animation.rpy:3032
     old "Never mind (jump nightcycle)"
-    new ""
-
+    new "Неважно (скип ночи)"

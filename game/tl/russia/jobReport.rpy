@@ -10516,57 +10516,57 @@ translate russia jobReportFinale2_4ba08673:
 translate russia jobReportFinale2_4b9de986:
 
     # y "......."
-    y ""
+    y "......."
 
 translate russia strings:
 
     # game/jobReport.rpy:174
     old "{color=#EFD66D}Hacking Codes{/color}"
-    new ""
+    new "{color=#EFD66D}Коды взлома{/color}"
 
     # game/jobReport.rpy:174
     old "{color=#EFD66D}Spray Cans{/color}"
-    new ""
+    new "{color=#EFD66D}Аэрозольные баллончики{/color}"
 
     # game/jobReport.rpy:174
     old "{color=#EFD66D}Test Answers{/color}"
-    new ""
+    new "{color=#EFD66D}Ответы на тест{/color}"
 
     # game/jobReport.rpy:174
     old "{color=#EFD66D}Bounty{/color}"
-    new ""
+    new "{color=#EFD66D}Баунти{/color}"
 
     # game/jobReport.rpy:174
     old "Tell me about your day"
-    new ""
+    new "Как прошёл твой день"
 
     # game/jobReport.rpy:174
     old "Dismissed"
-    new ""
+    new "Пойти по своим делам"
 
     # game/jobReport.rpy:847
     old "Encourage sluttiness"
-    new ""
+    new "Поощрить распутство"
 
     # game/jobReport.rpy:847
     old "Discourage sluttiness"
-    new ""
+    new "Не поощрять за распутство"
 
     # game/jobReport.rpy:970
     old "Your boobs are amazing!"
-    new ""
+    new "У тебя потрясающая грудь!"
 
     # game/jobReport.rpy:970
     old "They're okay"
-    new ""
+    new "Да ничего так"
 
     # game/jobReport.rpy:3015
     old "Let her keep the 3 dollars"
-    new ""
+    new "Пусть оставит себе 3 доллара."
 
     # game/jobReport.rpy:3015
     old "Take the three dollars"
-    new ""
+    new "Взять себе эти 3 доллара"
 
 # TODO: Translation updated at 2021-10-17 19:03
 
@@ -10574,5 +10574,4 @@ translate russia strings:
 translate russia jump2me_e2bc6722:
 
     # a "It went really well! I just practised my dancing while I was there which seemed to give him the motivation he needed to get to work!"
-    a ""
-
+    a "Все прошло отлично! Я просто тренировала свой танец, пока была там. Похоже это его сильно замотивировало!"

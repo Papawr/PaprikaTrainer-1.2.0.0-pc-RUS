@@ -2620,13 +2620,12 @@ translate russia strings:
 
     # game/spycameras.rpy:131
     old "Turn on V.I.B."
-    new ""
+    new "Включит V.I.B."
 
     # game/spycameras.rpy:460
     old "Active VIBs"
-    new ""
+    new "Активировать VIB´ы"
 
     # game/spycameras.rpy:460
     old "Listen in"
-    new ""
-
+    new "Прислушаться"

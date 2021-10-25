@@ -478,45 +478,44 @@ translate russia strings:
 
     # game/mission.rpy:317
     old "Load Afro Dart"
-    new ""
+    new "Зарядить Афро-Дротик"
 
     # game/mission.rpy:317
     old "Load Poison Dart"
-    new ""
+    new "Зарядить ядовитый дротик."
 
     # game/mission.rpy:436
     old "Take shortcut"
-    new ""
+    new "Сократить путь"
 
     # game/mission.rpy:436
     old "Ignore it"
-    new ""
+    new "Проигнорировать"
 
     # game/mission.rpy:3699
     old "{color=#ff8533}Blow-up!{/color}"
-    new ""
+    new "{color=#ff8533}Взорвать!{/color}"
 
     # game/mission.rpy:3699
     old "Head in"
-    new ""
+    new "Войти"
 
     # game/mission.rpy:3699
     old "Take detour"
-    new ""
+    new "Обойти"
 
     # game/mission.rpy:4569
     old "Pay $ [randRansom]"
-    new ""
+    new "Заплатить $ [randRansom]"
 
     # game/mission.rpy:4569
     old "Wait for them to escape"
-    new ""
+    new "Подождать, пока они сбегут"
 
     # game/mission.rpy:5460
     old "Pull out now"
-    new ""
+    new "Вернуть сейчас"
 
     # game/mission.rpy:5460
     old "Continue the mission"
-    new ""
-
+    new "Продолжить миссию"

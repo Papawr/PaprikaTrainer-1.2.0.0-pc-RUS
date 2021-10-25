@@ -2326,159 +2326,159 @@ translate russia strings:
 
     # game/script.rpy:1569
     old "Skip to the next landgrab"
-    new ""
+    new "Перейти к следующему захвату территории"
 
     # game/script.rpy:1569
     old "Never mind"
-    new ""
+    new "Неважно"
 
     # game/script.rpy:2211
     old "Send 5 agents"
-    new ""
+    new "Отправить 5 агентов"
 
     # game/script.rpy:2211
     old "Send 10 agents"
-    new ""
+    new "Отправить 10 агентов"
 
     # game/script.rpy:2211
     old "Send 20 agents"
-    new ""
+    new "Отправить 20 агентов"
 
     # game/script.rpy:2211
     old "Back"
-    new ""
+    new "Назад"
 
     # game/script.rpy:2478
     old "Donate food ([resourceFood])"
-    new ""
+    new "Пожертвовать продукты ([resourceFood])"
 
     # game/script.rpy:2478
     old "Donate water ([resourceWater])"
-    new ""
+    new "Пожертвовать воду([resourceWater])"
 
     # game/script.rpy:2478
     old "Donate toys ([resourceToys])"
-    new ""
+    new "Пожертвовать игрушки ([resourceToys])"
 
     # game/script.rpy:2478
     old "Donate clothes ([resourceClothes])"
-    new ""
+    new "Пожертвовать одежду ([resourceClothes])"
 
     # game/script.rpy:2478
     old "Donate tools ([resourceTools])"
-    new ""
+    new "Пожертвовать инструменты ([resourceTools])"
 
     # game/script.rpy:2478
     old "Finish donating"
-    new ""
+    new "Закончить пожертвование"
 
     # game/script.rpy:2758
     old "Show them"
-    new ""
+    new "Показать им"
 
     # game/script.rpy:2758
     old "Don't show them"
-    new ""
+    new "Не показывать им"
 
     # game/script.rpy:2827
     old "Strip for money"
-    new ""
+    new "Раздеться за деньги"
 
     # game/script.rpy:2827
     old "Refuse"
-    new ""
+    new "Отказать"
 
     # game/script.rpy:2896
     old "Kiss the girl"
-    new ""
+    new "Поцеловать девушку"
 
     # game/script.rpy:2896
     old "Reject"
-    new ""
+    new "Отказать"
 
     # game/script.rpy:2923
     old "What are you waiting for?"
-    new ""
+    new "Чего ты ждёшь?"
 
     # game/script.rpy:2923
     old "Turn him down"
-    new ""
+    new "Отказать ему"
 
     # game/script.rpy:2970
     old "Hell yeah!"
-    new ""
+    new "Чёрт возьми, ДА!"
 
     # game/script.rpy:3011
     old "Who cares, go in"
-    new ""
+    new "Кого еб*т, заходи"
 
     # game/script.rpy:3011
     old "Don't follow"
-    new ""
+    new "Не следовать"
 
     # game/script.rpy:3034
     old "Go for it"
-    new ""
+    new "Действуй"
 
     # game/script.rpy:3083
     old "Do it"
-    new ""
+    new "Вперёд"
 
     # game/script.rpy:3083
     old "Don't do it"
-    new ""
+    new "Не делай этого"
 
     # game/script.rpy:3117
     old "Agree to photoshoot"
-    new ""
+    new "Согласиться на фотосессию"
 
     # game/script.rpy:3164
     old "Don't change"
-    new ""
+    new "Не (переодеваться)"
 
     # game/script.rpy:3164
     old "Change"
-    new ""
+    new "(Переодеться)"
 
     # game/script.rpy:3203
     old "Yes"
-    new ""
+    new "Да"
 
     # game/script.rpy:3245
     old "Do it!"
-    new ""
+    new "Давай, сделай это!"
 
     # game/script.rpy:3267
     old "Don't"
-    new ""
+    new "Нет, не делай этого!"
 
     # game/script.rpy:3388
     old "Agree"
-    new ""
+    new "Согласен"
 
     # game/script.rpy:3496
     old "Give them a blowjob"
-    new ""
+    new "Сделай им минет"
 
     # game/script.rpy:3496
     old "Don't give them a blowjob"
-    new ""
+    new "Не делай им минет"
 
     # game/script.rpy:5154
     old "High Suppression"
-    new ""
+    new "Высокий уровень подавления"
 
     # game/script.rpy:5154
     old "Medium Suppression"
-    new ""
+    new "Средний уровень подавления"
 
     # game/script.rpy:5154
     old "Low Suppression"
-    new ""
+    new "Низкий уровень подавления"
 
     # game/script.rpy:5154
     old "Info"
-    new ""
+    new "Инфо"
 
 # TODO: Translation updated at 2021-10-17 19:03
 
@@ -2486,5 +2486,4 @@ translate russia strings:
 translate russia landgrabPlanning_1e7bdbc2:
 
     # "Muffy Peprich is now available for capture. Send your spies on a mission to The Carnival to capture her."
-    ""
-
+    "Muffy Peprich теперь доступна для захвата. Отправьте своих шпионов на Карнавал, чтобы захватить её."

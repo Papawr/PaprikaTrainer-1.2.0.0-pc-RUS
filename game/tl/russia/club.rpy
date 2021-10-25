@@ -730,172 +730,172 @@ translate russia strings:
 
     # game/club.rpy:340
     old "Send Sam to work"
-    new ""
+    new "Отправить Сэм на работу"
 
     # game/club.rpy:340
     old "Send Clover to work"
-    new ""
+    new "Отправить Кловер на работу"
 
     # game/club.rpy:340
     old "Send Alex to work"
-    new ""
+    new "Отправить Алекс на работу"
 
     # game/club.rpy:340
     old "Send Kim to work"
-    new ""
+    new "Отправить Ким на работу"
 
     # game/club.rpy:340
     old "Send Britney to work"
-    new ""
+    new "Отправить Бритни на работу"
 
     # game/club.rpy:340
     old "Send Silva to work"
-    new ""
+    new "Отправить Сильву на работу"
 
     # game/club.rpy:340
     old "Watch strip show"
-    new ""
+    new "Смотреть стриптиз-шоу"
 
     # game/club.rpy:340
     old "View bar"
-    new ""
+    new "Проверить бар"
 
     # game/club.rpy:340
     old "Return to base"
-    new ""
+    new "Вернутся на базу"
 
     # game/club.rpy:357
     old "Watch podium 1"
-    new ""
+    new "Проверить подиум 1"
 
     # game/club.rpy:357
     old "Watch podium 2"
-    new ""
+    new "Проверить подиум 2"
 
     # game/club.rpy:380
     old "Serve milkshakes"
-    new ""
+    new "Подавать молочные коктейли"
 
     # game/club.rpy:380
     old "Visit bar"
-    new ""
+    new "Посетить бар"
 
     # game/club.rpy:393
     old "{color=#EFD66D}Business Meeting!{/color}"
-    new ""
+    new "{color=#EFD66D}Деловая встреча!{/color}"
 
     # game/club.rpy:393
     old "{color=#EFD66D}Build-A-Bar{/color}"
-    new ""
+    new "{color=#EFD66D}Построить бар{/color}"
 
     # game/club.rpy:393
     old "{color=#EFD66D}Short on tits{/color}"
-    new ""
+    new "{color=#EFD66D}Short on tits{/color}"
 
     # game/club.rpy:393
     old "Clean the bar"
-    new ""
+    new "Убраться в баре"
 
     # game/club.rpy:393
     old "Give a round (+karma)"
-    new ""
+    new "За счёт заведения! (+Карма)"
 
     # game/club.rpy:393
     old "Decorate bar"
-    new ""
+    new "Украсить бар"
 
     # game/club.rpy:393
     old "Business Meeting"
-    new ""
+    new "Деловая встреча"
 
     # game/club.rpy:393
     old "Adjust menu"
-    new ""
+    new "Изменить меню"
 
     # game/club.rpy:393
     old "Social"
-    new ""
+    new "СоциалОЧКА"
 
     # game/club.rpy:436
     old "Put up Aces decoration"
-    new ""
+    new "Украсить в честь \"Тузов\""
 
     # game/club.rpy:436
     old "Put up Drift Punk decoration"
-    new ""
+    new "Украсить в честь \"Дрифт Панков\""
 
     # game/club.rpy:436
     old "Put up Outsider decoration"
-    new ""
+    new "Украсить в честь \"Аутсайдеров\""
 
     # game/club.rpy:436
     old "Take down decoration"
-    new ""
+    new "Убрать украшения"
 
     # game/club.rpy:472
     old "Talk to Kim"
-    new ""
+    new "Поговорите с Ким"
 
     # game/club.rpy:472
     old "Talk to Silva"
-    new ""
+    new "Поговорите с Сильвой"
 
     # game/club.rpy:472
     old "Ask for herbs"
-    new ""
+    new "Попросить травы"
 
     # game/club.rpy:490
     old "Apple Seed"
-    new ""
+    new "Семя яблони"
 
     # game/club.rpy:490
     old "Vigor Leaf"
-    new ""
+    new "Бодрый лис"
 
     # game/club.rpy:490
     old "Strange Vine"
-    new ""
+    new "Странная лоза"
 
     # game/club.rpy:490
     old "Goldthorn"
-    new ""
+    new "Золотой терновник"
 
     # game/club.rpy:490
     old "Whisper Weed"
-    new ""
+    new "Шептун"
 
     # game/club.rpy:490
     old "Rebel Weed"
-    new ""
+    new "Бунтарка"
 
     # game/club.rpy:528
     old "{color=#EFD66D}The Booty Burger{/color}"
-    new ""
+    new "{color=#EFD66D}Бургер \"Пышные булки\"{/color}"
 
     # game/club.rpy:528
     old "{color=#EFD66D}The Undie Onion Rings{/color}"
-    new ""
+    new "{color=#EFD66D}Луковые кольца \"Бодрость\"{/color}"
 
     # game/club.rpy:528
     old "{color=#EFD66D}Nudy Nuggets{/color}"
-    new ""
+    new "{color=#EFD66D}Нудистские наггетсы{/color}"
 
     # game/club.rpy:528
     old "{color=#EFD66D}Royal Goblet{/color}"
-    new ""
+    new "{color=#EFD66D}Омлет \"Королевская ночь\"{/color}"
 
     # game/club.rpy:528
     old "{color=#EFD66D}Lapdance Lobster{/color}"
-    new ""
+    new "{color=#EFD66D}Приват лобстера{/color}"
 
     # game/club.rpy:713
     old "Hire one ($ 700)"
-    new ""
+    new "Нанять одного ($ 700)"
 
     # game/club.rpy:713
     old "Hire five ($ 3.500)"
-    new ""
+    new "Нанять пять ($ 3.500)"
 
     # game/club.rpy:713
     old "Hire ten ($ 7.000)"
-    new ""
+    new "Нанять десять ($ 7.000)"

@@ -892,173 +892,172 @@ translate russia strings:
 
     # game/base.rpy:39
     old "Visit now"
-    new ""
+    new "Зайти"
 
     # game/base.rpy:39
     old "Ignore"
-    new ""
+    new "Проигнорировать"
 
     # game/base.rpy:109
     old "Lead the assault"
-    new ""
+    new "Возглавить штурм"
 
     # game/base.rpy:109
     old "Wait a moment"
-    new ""
+    new "Подождать не много"
 
     # game/base.rpy:163
     old "Wait"
-    new ""
+    new "Ждать"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'Let's have sex already'{/color}"
-    new ""
+    new "{color=#EFD66D}'Давай уже поеб*мся'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'A taste of what's to come'{/color}"
-    new ""
+    new "{color=#EFD66D}'Вкус грядущего'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'Dingalingaling'{/color}"
-    new ""
+    new "{color=#EFD66D}'Дингилинги'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'Double Trouble'{/color}"
-    new ""
+    new "{color=#EFD66D}'Двойные неприятности'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'Retaken the Taken'{/color}"
-    new ""
+    new "{color=#EFD66D}'Захватить'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'What about blowjobs?'{/color}"
-    new ""
+    new "{color=#EFD66D}'Как насчёт минета?'{/color}"
 
     # game/base.rpy:389
     old "Visit Sam"
-    new ""
+    new "Проведать Сэм"
 
     # game/base.rpy:389
     old "Visit Clover"
-    new ""
+    new "Проведать Кловер"
 
     # game/base.rpy:389
     old "Visit Alex"
-    new ""
+    new "Проведать Алекс"
 
     # game/base.rpy:389
     old "{color=#EFD66D}Visit prisoners{/color}"
-    new ""
+    new "{color=#EFD66D}Проведать заключенных{/color}"
 
     # game/base.rpy:389
     old "Visit prisoners"
-    new ""
+    new "Проведать заключенных"
 
     # game/base.rpy:389
     old "Go to bed"
-    new ""
+    new "Пойти спать"
 
     # game/base.rpy:1172
     old "Throw down dirty mags"
-    new ""
+    new "Бросить грязные мешки"
 
     # game/base.rpy:1206
     old "Sam"
-    new ""
+    new "Сэм"
 
     # game/base.rpy:1206
     old "Clover"
-    new ""
+    new "Кловер"
 
     # game/base.rpy:1206
     old "Alex"
-    new ""
+    new "Алекс"
 
     # game/base.rpy:1450
     old "Craft Gadgets"
-    new ""
+    new "Создать гаджеты"
 
     # game/base.rpy:1450
     old "Craft Equipment"
-    new ""
+    new "Создать оборудование"
 
     # game/base.rpy:1450
     old "Craft Medicine"
-    new ""
+    new "Создать медикаменты"
 
     # game/base.rpy:1458
     old "[craftEquip1]"
-    new ""
+    new "[craftEquip1]"
 
     # game/base.rpy:1458
     old "[craftEquip2]"
-    new ""
+    new "[craftEquip2]"
 
     # game/base.rpy:1458
     old "[craftEquip3]"
-    new ""
+    new "[craftEquip3]"
 
     # game/base.rpy:1458
     old "[craftEquip4]"
-    new ""
+    new "[craftEquip4]"
 
     # game/base.rpy:1458
     old "[craftEquip5]"
-    new ""
+    new "[craftEquip5]"
 
     # game/base.rpy:1557
     old "Sildenafil Pills ([herbAphro]/3 Vigor Leaf)"
-    new ""
+    new "Таблетки Силденафил ([herbAphro]/3 Vigor Leaf)"
 
     # game/base.rpy:1557
     old "Whisper Ear Drops ([herbWhisper]/3 Whisper Weed)"
-    new ""
+    new "Ушные капли \"Шёпот\" ([herbWhisper]/3 Whisper Weed)"
 
     # game/base.rpy:1557
     old "Medkit ([herbHeal]/3 Apple Seed)"
-    new ""
+    new "Апетчка ([herbHeal]/3 Apple Seed)"
 
     # game/base.rpy:1557
     old "Tonic of Youth ([herbGold]/3 Goldthorn)"
-    new ""
+    new "Тоник \"Молодость\" ([herbGold]/3 Goldthorn)"
 
     # game/base.rpy:1557
     old "Nanobot Injector ([herbRebel]/3 Rebel Weed)"
-    new ""
+    new "Инжектор наноботов ([herbRebel]/3 Rebel Weed)"
 
     # game/base.rpy:1557
     old "Strange Potions ([herbMutant]/1 Strange Vine)"
-    new ""
+    new "Странные зелья ([herbMutant]/1 Strange Vine)"
 
     # game/base.rpy:1557
     old "Advanced"
-    new ""
+    new "Продвинутый"
 
     # game/base.rpy:1633
     old "Breast Enhancement Salve ([medPotion]/2 Strange Potions)"
-    new ""
+    new "Мазь для увеличения груди \"Эверест\" ([medPotion]/2 Strange Potions)"
 
     # game/base.rpy:1633
     old "Breast Reduction Salve ([medPotion]/2 Strange Potions)"
-    new ""
+    new "Мазь для уменьшения груди \"Доска\"([medPotion]/2 Strange Potions)"
 
     # game/base.rpy:2296
     old "View bounties"
-    new ""
+    new "Посмотреть на вознаграждения"
 
     # game/base.rpy:2300
     old "{color=#EFD66D}Maggie T. (!){/color}"
-    new ""
+    new "{color=#EFD66D}Мэгги Т. (!){/color}"
 
     # game/base.rpy:2300
     old "Maggie T."
-    new ""
+    new "Мэгги Т."
 
     # game/base.rpy:2300
     old "{color=#EFD66D}Carla Wong (!){/color}"
-    new ""
+    new "{color=#EFD66D}Карла Вонг (!){/color}"
 
     # game/base.rpy:2300
     old "Carla Wong"
-    new ""
-
+    new "Карла Вонг"

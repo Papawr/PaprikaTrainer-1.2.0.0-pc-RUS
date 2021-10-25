@@ -454,45 +454,44 @@ translate russia strings:
 
     # game/creditcards.rpy:3547
     old "1000 money"
-    new ""
+    new "1000 денег"
 
     # game/creditcards.rpy:3547
     old "1000 intel"
-    new ""
+    new "1000 интеллекта"
 
     # game/creditcards.rpy:3547
     old "100 notoriety"
-    new ""
+    new "100 известности"
 
     # game/creditcards.rpy:3547
     old "10 freed agents"
-    new ""
+    new "10 освобожденных агентов"
 
     # game/creditcards.rpy:3547
     old "Herb Select"
-    new ""
+    new "Выбор травы"
 
     # game/creditcards.rpy:3567
     old "Apple Seed [herbHeal]"
-    new ""
+    new "Семя яблони [herbHeal]"
 
     # game/creditcards.rpy:3567
     old "Vigor Leaf [herbAphro]"
-    new ""
+    new "Бодрый лис [herbAphro]"
 
     # game/creditcards.rpy:3567
     old "Strange Vine [herbMutant]"
-    new ""
+    new "Странная лоза [herbMutant]"
 
     # game/creditcards.rpy:3567
     old "Goldthorn [herbGold]"
-    new ""
+    new "Золотой терновник [herbGold]"
 
     # game/creditcards.rpy:3567
     old "Whisper Weed [herbWhisper]"
-    new ""
+    new "Шептун [herbWhisper]"
 
     # game/creditcards.rpy:3567
     old "Rebel Weed [herbRebel]"
-    new ""
-
+    new "Бунтарка [herbRebel]"

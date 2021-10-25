@@ -9889,4 +9889,3 @@ translate russia strings:
     # game/social.rpy:3151
     old "Show me your boobs"
     new ""
-

@@ -724,53 +724,52 @@ translate russia strings:
 
     # game/items.rpy:3695
     old "Sell phones"
-    new ""
+    new "Продать телефоны"
 
     # game/items.rpy:3695
     old "Sell Exams"
-    new ""
+    new "Продать экзамены"
 
     # game/items.rpy:3695
     old "Sell Trophies"
-    new ""
+    new "Продать трофеи"
 
     # game/items.rpy:3695
     old "Sell Candelabras"
-    new ""
+    new "Продать канделябры"
 
     # game/items.rpy:3695
     old "Sell Vases"
-    new ""
+    new "Продать вазы"
 
     # game/items.rpy:3701
     old "Blackmail (-Karma)"
-    new ""
+    new "Шантаж (-Карма)"
 
     # game/items.rpy:3701
     old "Delete pictures (+Karma)"
-    new ""
+    new "Удалить фото (+Карма)"
 
     # game/items.rpy:3936
     old "Sam [samHealth]/3"
-    new ""
+    new "Сэм [samHealth]/3"
 
     # game/items.rpy:3936
     old "Clover [cloverHealth]/3"
-    new ""
+    new "Кловер [cloverHealth]/3"
 
     # game/items.rpy:3936
     old "Alex [alexHealth]/3"
-    new ""
+    new "Алекс [alexHealth]/3"
 
     # game/items.rpy:4043
     old "Give to Sam"
-    new ""
+    new "Отдать Сэм"
 
     # game/items.rpy:4043
     old "Give to Clover"
-    new ""
+    new "Отдать Кловер"
 
     # game/items.rpy:4043
     old "Give to Alex"
-    new ""
-
+    new "Отдать Алекс"

@@ -4,7 +4,7 @@
 translate russia introGame_886f5bbc:
 
     # "Are you sure you want to skip ahead? The intro teaches you some important game mechanics."
-    "Вы уверены, что хотите пропустить интро? Оно обучит вас важным игровым механикам"
+    "Вы уверены, что хотите пропустить пролог? Оно обучит вас важным игровым механикам"
 
 # game/intro.rpy:66
 translate russia beginIntro_50b5774c:
@@ -7041,15 +7041,15 @@ translate russia strings:
 
     # game/intro.rpy:17
     old "Begin intro"
-    new "Запустить Интро"
+    new "Начать с пролога"
 
     # game/intro.rpy:22
     old "Yes, skip the intro"
-    new "Да, пропустите интро"
+    new "Да, пропустить пролог"
 
     # game/intro.rpy:22
     old "Let me play the intro"
-    new "Начать с интро"
+    new "Начать с пролога"
 
     # game/intro.rpy:100
     old "YES SIR!"

@@ -1744,29 +1744,28 @@ translate russia strings:
 
     # game/missionScreens.rpy:1993
     old "Pursue the target"
-    new ""
+    new "Преследовать цель"
 
     # game/missionScreens.rpy:1993
     old "Pull back for now"
-    new ""
+    new "Отступить"
 
     # game/missionScreens.rpy:3575
     old "Continue mission"
-    new ""
+    new "Продолжить миссию"
 
     # game/missionScreens.rpy:3575
     old "Pull out"
-    new ""
+    new "Вернуть"
 
     # game/missionScreens.rpy:4089
     old "Attack other agent"
-    new ""
+    new "Напасть на другого агента"
 
     # game/missionScreens.rpy:4089
     old "Return to safehouse"
-    new ""
+    new "Вернуться в убежище"
 
     # game/missionScreens.rpy:4089
     old "Interrogate"
-    new ""
-
+    new "Допросить"
