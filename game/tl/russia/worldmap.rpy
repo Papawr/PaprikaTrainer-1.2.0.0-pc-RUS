@@ -2470,7 +2470,7 @@ translate russia explore_f6b8deff:
 translate russia explore_4429101f:
 
     # "Outsider" "How many times do we have to tell you....?{w} We're not here to rob you."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3238
 translate russia explore_20fde51f:
@@ -2482,7 +2482,7 @@ translate russia explore_20fde51f:
 translate russia explore_adbea614:
 
     # "Outsider" "Listen you deaf fool, I said we're not after your money!"
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3240
 translate russia explore_f85e63dc:
@@ -2500,7 +2500,7 @@ translate russia explore_bae4d4bd:
 translate russia explore_f38714c9:
 
     # "Outsider" "Hey, you're one of those WOOHP Agents, right? How you doing man?"
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3243
 translate russia explore_6e5534b1:
@@ -2512,7 +2512,7 @@ translate russia explore_6e5534b1:
 translate russia explore_f56913fa:
 
     # "Outsider" "This fatass thinks we're robbing him..."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3245
 translate russia explore_039f75d6:
@@ -2524,7 +2524,7 @@ translate russia explore_039f75d6:
 translate russia explore_7ca5b835:
 
     # "Outsider" "We were only destroying large conglomerate chains!"
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3247
 translate russia explore_8c208c63:
@@ -2536,13 +2536,13 @@ translate russia explore_8c208c63:
 translate russia explore_335cda2a:
 
     # "Outsider" "{b}*Sighs*{/b} Hey WOOHP Agent, can you give him back his money?"
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3249
 translate russia explore_05a8e8dc:
 
     # "Outsider" "I get the feeling he'll trust someone in a suit more easily."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3250
 translate russia explore_9e52ba4b:
@@ -2596,7 +2596,7 @@ translate russia explore_4f469991:
 translate russia explore_0fbb195d:
 
     # "Outsider" "Happens all the time. People see the way we look and freak out."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3267
 translate russia explore_e5c1c9af:
@@ -2608,25 +2608,25 @@ translate russia explore_e5c1c9af:
 translate russia explore_0dbcd19b:
 
     # "Outsider" "Well..."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3269
 translate russia explore_9e2925c5:
 
     # "Outsider" "Almost all of these shops are owned by the same company. They hired a private security company to 'protect' their investments."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3270
 translate russia explore_22523691:
 
     # "Outsider" "These guys go around, harressing and shaking down the kids that nobody cares about."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3271
 translate russia explore_64268f1c:
 
     # "Outsider" "They're scum wearing fancy combat gear. They broke my arm a few months back for skateboarding in the mall."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3272
 translate russia explore_4799cec1:
@@ -2638,19 +2638,19 @@ translate russia explore_4799cec1:
 translate russia explore_3f14c810:
 
     # "Outsider" "Sort of. The cowards ran the moment the fighting broke out in the streets."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3274
 translate russia explore_8467345c:
 
     # "Outsider" "So hey, thank you for the help back there. I guess not all suits are so bad."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3275
 translate russia explore_ca6ef995:
 
     # "Outsider" "If you ever consider dropping the fancy threads, then you can come hang with us."
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3276
 translate russia explore_5de4e16a:
@@ -2662,7 +2662,7 @@ translate russia explore_5de4e16a:
 translate russia explore_83f74b63:
 
     # "Outsider" "As long as she's cool, she's welcome. Don't send us any valley girls, you dig?"
-    "Outsider" ""
+    "Аутсайдер" ""
 
 # game/worldmap.rpy:3278
 translate russia explore_0e07f2af:
@@ -3334,109 +3334,109 @@ translate russia explore_3f14525b_2:
 translate russia explore_6c6e84a9:
 
     # "{b}*Glass shattering*{/b}"
-    ""
+    "{b}*Стекло разбивается*{/b}"
 
 # game/worldmap.rpy:3499
 translate russia explore_1ce9c404_2:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/worldmap.rpy:3500
 translate russia explore_ce6d9bd2:
 
     # "You turn around the corner and see a group of Outsiders throwing in the windows of an office building."
-    ""
+    "Ты поворачиваешь за угол и видишь группу Аутсайдеров, бьющих окна офисного здания."
 
 # game/worldmap.rpy:3503
 translate russia explore_32fd663e:
 
     # "Outsider 1" "Hell yeah! See how it shatters? That'll teach them!"
-    "Outsider 1" ""
+    "Аутсайдер 1" "Да, чёрт возьми! Видите, как оно разбилось? Это их точно научит!"
 
 # game/worldmap.rpy:3504
 translate russia explore_92f4facc:
 
     # y "What are you doing...?"
-    y ""
+    y "Что вы делаете...?"
 
 # game/worldmap.rpy:3505
 translate russia explore_11fc7fd7:
 
     # "Outsider 1" "We're throwing in the windows of this fatcat organization!"
-    "Outsider 1" ""
+    "Аутсайдер 1" "Забрасываем окна этой организации жирных котов!"
 
 # game/worldmap.rpy:3506
 translate russia explore_856d0dd2:
 
     # "Outsider 2" "They think they're so big and bad! Think they can get away with anything they like!"
-    "Outsider 2" ""
+    "Аутсайдер 2" "Они думают, что они такие большие и плохие! Думают, что им с рук всё что угодно сойдёт!"
 
 # game/worldmap.rpy:3507
 translate russia explore_b59c3798:
 
     # y "It says here the building is empty and for rent."
-    y ""
+    y "Здесь написано, что здание пустует и сдается в аренду."
 
 # game/worldmap.rpy:3508
 translate russia explore_706bc035:
 
     # "Outsider 2" "Oh..."
-    "Outsider 2" ""
+    "Аутсайдер 2" "Оу..."
 
 # game/worldmap.rpy:3509
 translate russia explore_ef557344:
 
     # "Outsider 1" "Maybe we should have checked that before chucking stones at it..."
-    "Outsider 1" ""
+    "Аутсайдер 1" "Возможно, нам стоило сначала прочесть табличку, прежде чем бросаться камнями..."
 
 # game/worldmap.rpy:3510
 translate russia explore_bdf9ebe4:
 
     # y "Oh this is great. I bet Drift Punk will have a good laugh over this!"
-    y ""
+    y "Хаха, как здорово. Держу пари, Дрифт Панкам обхохочутся, когда я им расскажу!"
 
 # game/worldmap.rpy:3511
 translate russia explore_b52b3f3b:
 
     # "Outsider 2" "No man! Please don't let this get out! They'll think we're idiots!"
-    "Outsider 2" ""
+    "Аутсайдер 2" "Нет чувак! Пожалуйста, не рассказывай им! Они подумают, что мы идиоты!"
 
 # game/worldmap.rpy:3516
 translate russia explore_4e26e1a1:
 
     # y "Too late, already posted it to their social media."
-    y ""
+    y "Поздно, я уже запостил на стенку."
 
 # game/worldmap.rpy:3517
 translate russia explore_66d36786:
 
     # "Outsiders" "{b}*Groans*{/b} We're never gonna live this down..."
-    "Outsiders" ""
+    "Аутсайдерs" "{b}*Ворчит*{/b} Мы никогда не переживём этого..."
 
 # game/worldmap.rpy:3521
 translate russia explore_6d78a05f:
 
     # y "Fine, your secret is safe with me."
-    y ""
+    y "Ладно, ваш секрет в безопасности."
 
 # game/worldmap.rpy:3522
 translate russia explore_63b03f5e:
 
     # "Outsider 2" "Thanks man! We owe you one!"
-    "Outsider 2" ""
+    "Аутсайдер 2" "Спасибо чувак! Будем должны!"
 
 # game/worldmap.rpy:3525
 translate russia explore_f0fd1441:
 
     # "You decide to head off and leave the Outsiders behind."
-    ""
+    "Ты решаешь пойти дальше, оставляя Аутсайдеров позади."
 
 # game/worldmap.rpy:3532
 translate russia explore_3f14525b_3:
 
     # "On your way back you find {color=#ffeda6}$ 10,-{/color} on the street! {w}That's what you get from having good karma."
-    ""
+    "На обратном пути ты находишь {color=#ffeda6}$ 10,-{/color}! {w}Всему вина хорошая карма."
 
 # game/worldmap.rpy:3536
 translate russia explore_029e1d58:
@@ -7744,468 +7744,468 @@ translate russia strings:
 
     # game/worldmap.rpy:4
     old "Sam (spy in green)"
-    new ""
+    new "Сэм (шпионка в зелёном)"
 
     # game/worldmap.rpy:146
     old "Send the girls out"
-    new ""
+    new "Отправить девушек"
 
     # game/worldmap.rpy:377
     old "Order her (-karma)"
-    new ""
+    new "Прикажите ей (-Карма)"
 
     # game/worldmap.rpy:566
     old "Yes ($150)"
-    new ""
+    new "Да ($150)"
 
     # game/worldmap.rpy:607
     old "Yes ($50)"
-    new ""
+    new "Да ($50)"
 
     # game/worldmap.rpy:1211
     old "{color=#EFD66D}'Final Ace up our sleeve'{/color}"
-    new ""
+    new "{color=#EFD66D}'Последний туз в рукаве'{/color}"
 
     # game/worldmap.rpy:1211
     old "Send undercover"
-    new ""
+    new "Отправить под прикрытием"
 
     # game/worldmap.rpy:1217
     old "{color=#EFD66D}'Party in Spain'{/color}"
-    new ""
+    new "{color=#EFD66D}'Вечеринка в Испании'{/color}"
 
     # game/worldmap.rpy:1223
     old "{color=#EFD66D}'Introducing the Aces'{/color}"
-    new ""
+    new "{color=#EFD66D}'Представить Тузов'{/color}"
 
     # game/worldmap.rpy:1229
     old "{color=#EFD66D}'A Foot in the Door'{/color}"
-    new ""
+    new "{color=#EFD66D}'Нога в двери'{/color}"
 
     # game/worldmap.rpy:1375
     old "{color=#EFD66D}'Living in a database'{/color}"
-    new ""
+    new "{color=#EFD66D}'Жизнь в базе данных'{/color}"
 
     # game/worldmap.rpy:1393
     old "{color=#EFD66D}'Clover the nerd'{/color}"
-    new ""
+    new "{color=#EFD66D}'Ботаничка Кловер'{/color}"
 
     # game/worldmap.rpy:1399
     old "{color=#EFD66D}'Nourishing Beats...'{/color}"
-    new ""
+    new "{color=#EFD66D}'Питательный ритм...'{/color}"
 
     # game/worldmap.rpy:1411
     old "{color=#EFD66D}'God is a DJ'{/color}"
-    new ""
+    new "{color=#EFD66D}'Божественный диджей'{/color}"
 
     # game/worldmap.rpy:1417
     old "{color=#EFD66D}'Animo...'{/color}"
-    new ""
+    new "{color=#EFD66D}'Анимо...'{/color}"
 
     # game/worldmap.rpy:1546
     old "{color=#EFD66D}'Pink is the New Black'{/color}"
-    new ""
+    new "{color=#EFD66D}'Розовый это новый чёрный'{/color}"
 
     # game/worldmap.rpy:1552
     old "{color=#EFD66D}'Teenage Angst'{/color}"
-    new ""
+    new "{color=#EFD66D}'Подростковые переживания'{/color}"
 
     # game/worldmap.rpy:1558
     old "{color=#EFD66D}'Anarchy Alex'{/color}"
-    new ""
+    new "{color=#EFD66D}'Анархия Алекс'{/color}"
 
     # game/worldmap.rpy:1570
     old "{color=#EFD66D}'The Gathering of Magic'{/color}"
-    new ""
+    new "{color=#EFD66D}'Магическое собрание'{/color}"
 
     # game/worldmap.rpy:1877
     old "{color=#EFD66D}'Build-A-Bar'{/color}"
-    new ""
+    new "{color=#EFD66D}'Построй бар'{/color}"
 
     # game/worldmap.rpy:1877
     old "Decrypting Process: [hackProgress]%%"
-    new ""
+    new "Процесс расшифровки: [hackProgress]%%"
 
     # game/worldmap.rpy:1877
     old "Gadget upgrades"
-    new ""
+    new "Обновить гаджеты"
 
     # game/worldmap.rpy:1877
     old "Buy Materials"
-    new ""
+    new "Купить материалы"
 
     # game/worldmap.rpy:2002
     old "Bondage Bug"
-    new ""
+    new "Жук-бондаж"
 
     # game/worldmap.rpy:2002
     old "Hacking worm"
-    new ""
+    new "Червь-хакер"
 
     # game/worldmap.rpy:2002
     old "Flash BANG Belt"
-    new ""
+    new "Пояс флешка"
 
     # game/worldmap.rpy:2002
     old "Explosive Drone"
-    new ""
+    new "Взрывной дрон"
 
     # game/worldmap.rpy:2005
     old "Develop the upgrade ($1000)"
-    new ""
+    new "Открыть улучшение ($1000)"
 
     # game/worldmap.rpy:2021
     old "Develop the upgrade ($2000)"
-    new ""
+    new "Открыть улучшение ($2000)"
 
     # game/worldmap.rpy:2037
     old "Develop the upgrade ($1.000)"
-    new ""
+    new "Открыть улучшение ($1.000)"
 
     # game/worldmap.rpy:2052
     old "Develop the upgrade ($1.500)"
-    new ""
+    new "Открыть улучшение ($1.500)"
 
     # game/worldmap.rpy:2071
     old "Buy Hydrofluoric Acid ([matsAcid])"
-    new ""
+    new "Купить жидкую кислоту ([matsAcid])"
 
     # game/worldmap.rpy:2071
     old "Buy Computer Chip ([matsChip])"
-    new ""
+    new "Купить компьютерный-чип ([matsChip])"
 
     # game/worldmap.rpy:2071
     old "Buy Saltpeter ([matsDust])"
-    new ""
+    new "Купить селитру ([matsDust])"
 
     # game/worldmap.rpy:2071
     old "Buy Cooling Agent ([matsGlue])"
-    new ""
+    new "Купить охладитель ([matsGlue])"
 
     # game/worldmap.rpy:2071
     old "Buy Valuables ([matsValu])"
-    new ""
+    new "Купить ценности ([matsValu])"
 
     # game/worldmap.rpy:2071
     old "Buy Wiring Kit ([matsWires])"
-    new ""
+    new "Купить комплект проводки ([matsWires])"
 
     # game/worldmap.rpy:2073
     old "Buy one Hydrofluoric Acid ($140)"
-    new ""
+    new "Купить одну кислоту ($140)"
 
     # game/worldmap.rpy:2073
     old "Buy two Hydrofluoric Acid ($280)"
-    new ""
+    new "Купить две кислоты ($280)"
 
     # game/worldmap.rpy:2073
     old "Buy three Hydrofluoric Acid ($420)"
-    new ""
+    new "Купить три кислоты ($420)"
 
     # game/worldmap.rpy:2073
     old "Buy ten Hydrofluoric Acid ($1400)"
-    new ""
+    new "Купить десять кислоты ($1400)"
 
     # game/worldmap.rpy:2113
     old "Buy one Computer Chip ($120)"
-    new ""
+    new "Купить один чип ($120)"
 
     # game/worldmap.rpy:2113
     old "Buy two Computer Chip ($240)"
-    new ""
+    new "Купить два чипа ($240)"
 
     # game/worldmap.rpy:2113
     old "Buy three Computer Chip ($360)"
-    new ""
+    new "Купить три чипа ($360)"
 
     # game/worldmap.rpy:2113
     old "Buy ten Computer Chip ($1200)"
-    new ""
+    new "Купить десять чипов ($1200)"
 
     # game/worldmap.rpy:2153
     old "Buy one Saltpeter ($70)"
-    new ""
+    new "Купить одну селитру ($70)"
 
     # game/worldmap.rpy:2153
     old "Buy two Saltpeter ($140)"
-    new ""
+    new "Купить две селитры ($140)"
 
     # game/worldmap.rpy:2153
     old "Buy three Saltpeter ($210)"
-    new ""
+    new "Купить три селитры ($210)"
 
     # game/worldmap.rpy:2153
     old "Buy ten Saltpeter ($700)"
-    new ""
+    new "Купить десять селитр ($700)"
 
     # game/worldmap.rpy:2193
     old "Buy one Cooling Agent ($80)"
-    new ""
+    new "Купить один охладитель ($80)"
 
     # game/worldmap.rpy:2193
     old "Buy two Cooling Agent ($160)"
-    new ""
+    new "Купить два охладителя ($160)"
 
     # game/worldmap.rpy:2193
     old "Buy three Cooling Agent ($240)"
-    new ""
+    new "Купить три охладителя ($240)"
 
     # game/worldmap.rpy:2193
     old "Buy ten Cooling Agent ($800)"
-    new ""
+    new "Купить десять охладителей ($800)"
 
     # game/worldmap.rpy:2233
     old "Buy one Valuables ($200)"
-    new ""
+    new "Купить одну ценность ($200)"
 
     # game/worldmap.rpy:2233
     old "Buy two Valuables ($400)"
-    new ""
+    new "Купить две ценности ($400)"
 
     # game/worldmap.rpy:2233
     old "Buy three Valuables ($600)"
-    new ""
+    new "Купить три ценности ($600)"
 
     # game/worldmap.rpy:2233
     old "Buy ten Valuables ($2000)"
-    new ""
+    new "Купить десять ценность ($2000)"
 
     # game/worldmap.rpy:2273
     old "Buy one Wiring Kit ($40)"
-    new ""
+    new "Купить один комплект ($40)"
 
     # game/worldmap.rpy:2273
     old "Buy two Wiring Kits ($80)"
-    new ""
+    new "Купить два комплекта ($80)"
 
     # game/worldmap.rpy:2273
     old "Buy three Wiring Kits ($120)"
-    new ""
+    new "Купить три комплекта ($120)"
 
     # game/worldmap.rpy:2273
     old "Buy ten Wiring Kit ($400)"
-    new ""
+    new "Купить десять комплектов ($400)"
 
     # game/worldmap.rpy:2556
     old "Accept"
-    new ""
+    new "Принять"
 
     # game/worldmap.rpy:2556
     old "Decline"
-    new ""
+    new "Отклонить"
 
     # game/worldmap.rpy:2877
     old "{color=#EFD66D}'Getting Ink Done'{/color}"
-    new ""
+    new "{color=#EFD66D}'Getting Ink Done'{/color}"
 
     # game/worldmap.rpy:2877
     old "Visit the mall"
-    new ""
+    new "Посетить торговый центр"
 
     # game/worldmap.rpy:2883
     old "{color=#EFD66D}'A few snips away of a haircut'{/color}"
-    new ""
+    new "{color=#EFD66D}'A few snips away of a haircut'{/color}"
 
     # game/worldmap.rpy:2895
     old "Smoothie Stall"
-    new ""
+    new "Киоск со смузи"
 
     # game/worldmap.rpy:2895
     old "Santa's Crib"
-    new ""
+    new "Кроватка Санты"
 
     # game/worldmap.rpy:2895
     old "Bookstore"
-    new ""
+    new "Книжный магазин"
 
     # game/worldmap.rpy:2895
     old "Threads"
-    new ""
+    new "Нитки"
 
     # game/worldmap.rpy:2895
     old "Ho-Style"
-    new ""
+    new "Ho-Style"
 
     # game/worldmap.rpy:2895
     old "Tits and Tats"
-    new ""
+    new "Сиськи и татушки"
 
     # game/worldmap.rpy:2895
     old "stoop2low"
-    new ""
+    new "stoop2low (опустить)"
 
     # game/worldmap.rpy:2895
     old "leave the mall"
-    new ""
+    new "Уйти"
 
     # game/worldmap.rpy:2944
     old "Shop"
-    new ""
+    new "Магазин"
 
     # game/worldmap.rpy:2944
     old "Pictures"
-    new ""
+    new "Фотографии"
 
     # game/worldmap.rpy:2948
     old "Porn Game"
-    new ""
+    new "Порно-игра"
 
     # game/worldmap.rpy:2948
     old "Medkit ($25)"
-    new ""
+    new "Аптечка ($25)"
 
     # game/worldmap.rpy:2948
     old "Porn Magazine ($25)"
-    new ""
+    new "Порно-журнал ($25)"
 
     # game/worldmap.rpy:3155
     old "Stand in the middle of the road"
-    new ""
+    new "Встать посреди дороги"
 
     # game/worldmap.rpy:3155
     old "Quickly move aside"
-    new ""
+    new "Рвануться в сторону"
 
     # game/worldmap.rpy:3155
     old "Start singing loudly"
-    new ""
+    new "Начать громко петь"
 
     # game/worldmap.rpy:3251
     old "Give back the money (+Karma)"
-    new ""
+    new "Вернуть деньги (+Карма)"
 
     # game/worldmap.rpy:3251
     old "Give back half of it (-Karma)"
-    new ""
+    new "Отдать половину (-Карма)"
 
     # game/worldmap.rpy:3358
     old "Run in to help"
-    new ""
+    new "Прибежать на помощь"
 
     # game/worldmap.rpy:3358
     old "Leave the area"
-    new ""
+    new "Уйти"
 
     # game/worldmap.rpy:3413
     old "Go in"
-    new ""
+    new "Войти"
 
     # game/worldmap.rpy:3461
     old "Continue to listen"
-    new ""
+    new "Продолжить слушать"
 
     # game/worldmap.rpy:3461
     old "Leave the two alone"
-    new ""
+    new "Оставить их одних"
 
     # game/worldmap.rpy:3512
     old "Share it with Drift Punk"
-    new ""
+    new "Рассказать Дрифт Панкам"
 
     # game/worldmap.rpy:3512
     old "Keep the secret"
-    new ""
+    new "Хранить тайну"
 
     # game/worldmap.rpy:3545
     old "Bail him out"
-    new ""
+    new "Взять его на поруки"
 
     # game/worldmap.rpy:3545
     old "Be open to new experiences"
-    new ""
+    new "Быть открытым для нового"
 
     # game/worldmap.rpy:3623
     old "'Always up for some voluntary manslaughter'"
-    new ""
+    new "'Всегда готов к добровольному убийству'"
 
     # game/worldmap.rpy:3623
     old "'Maybe some other time'"
-    new ""
+    new "'Может быть, в другой раз'"
 
     # game/worldmap.rpy:3640
     old "Distract the Agents (-Magazine)"
-    new ""
+    new "Отвлечь агентов (-Magazine)"
 
     # game/worldmap.rpy:3640
     old "Try talking to them"
-    new ""
+    new "Попробовать поговорить с ними"
 
     # game/worldmap.rpy:3640
     old "Run away"
-    new ""
+    new "Убежать"
 
     # game/worldmap.rpy:3801
     old "Go through the alley"
-    new ""
+    new "Пройти через переулок"
 
     # game/worldmap.rpy:3801
     old "Find a way around"
-    new ""
+    new "Найти обход"
 
     # game/worldmap.rpy:3886
     old "Buy milk - $100"
-    new ""
+    new "Купить молоко - $100"
 
     # game/worldmap.rpy:4011
     old "Rob the pawn shop (-karma)"
-    new ""
+    new "Ограбить ломбард (-Карма)"
 
     # game/worldmap.rpy:4011
     old "Turn them down"
-    new ""
+    new "Отказаться от них"
 
     # game/worldmap.rpy:4021
     old "Take the valuables"
-    new ""
+    new "Забрать ценные вещи"
 
     # game/worldmap.rpy:4021
     old "Take the clothes"
-    new ""
+    new "Забрать одежду"
 
     # game/worldmap.rpy:4021
     old "Take the toys"
-    new ""
+    new "Забрать игрушки"
 
     # game/worldmap.rpy:4120
     old "Peak inside"
-    new ""
+    new "Пик внутри"
 
     # game/worldmap.rpy:4120
     old "Walk by"
-    new ""
+    new "Пройтись"
 
     # game/worldmap.rpy:4136
     old "Buy the goldthorn ($30)"
-    new ""
+    new "Купить терновник ($30)"
 
     # game/worldmap.rpy:4191
     old "Scavenge for food"
-    new ""
+    new "Искать пищу"
 
     # game/worldmap.rpy:4191
     old "Move on"
-    new ""
+    new "Идём дальше"
 
     # game/worldmap.rpy:4198
     old "Continue searching"
-    new ""
+    new "Продолжать поиск"
 
     # game/worldmap.rpy:4198
     old "Quickly get out"
-    new ""
+    new "Быстро уйти"
 
     # game/worldmap.rpy:4296
     old "Fix up the shrine"
-    new ""
+    new "Починить святилище"
 
     # game/worldmap.rpy:4296
     old "Head back home"
-    new ""
+    new "Вернуться домой"
 
     # game/worldmap.rpy:4574
     old "Hug Sam"
-    new ""
+    new "Обнять Сэм"
 
     # game/worldmap.rpy:4574
     old "Don't hug Sam"
-    new ""
+    new "Не обнимать Сэм"

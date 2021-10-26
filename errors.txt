@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/base.rpy", line 1039: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/tl/russia/worldmap.rpy", line 3337: is not terminated with a newline. (Check strings and parenthesis.)
 (Perhaps you left out a " at the end of the first line.)
-        new "Мазь для увеличения груди \"Эверест\" ([medPotion]/2 Strange Potions)""
+        "{b}*Стекла разбивание*{/b}""
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Mon Oct 25 11:02:11 2021
+Tue Oct 26 21:17:54 2021

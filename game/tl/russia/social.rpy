@@ -9676,216 +9676,216 @@ translate russia strings:
 
     # game/social.rpy:36
     old "{color=#EFD66D}'Party till you drop'{/color}"
-    new ""
+    new "{color=#EFD66D}'Пати до упаду'{/color}"
 
     # game/social.rpy:36
     old "{color=#EFD66D}'Foot in The Door'{/color}"
-    new ""
+    new "{color=#EFD66D}'Нога в двери'{/color}"
 
     # game/social.rpy:36
     old "{color=#EFD66D}'Open for Business'{/color}"
-    new ""
+    new "{color=#EFD66D}'Открыт для предложений'{/color}"
 
     # game/social.rpy:36
     old "{color=#EFD66D}'Retaking the Taken'{/color}"
-    new ""
+    new "{color=#EFD66D}'Возвращение взятого'{/color}"
 
     # game/social.rpy:36
     old "Nanobot control"
-    new ""
+    new "Управление нанороботами"
 
     # game/social.rpy:36
     old "Decorate Cell"
-    new ""
+    new "Украсить камеру"
 
     # game/social.rpy:57
     old "Call me..."
-    new ""
+    new "Называй меня..."
 
     # game/social.rpy:57
     old "Call yourself..."
-    new ""
+    new "Называй меня..."
 
     # game/social.rpy:59
     old "New Guy"
-    new ""
+    new "Новичок"
 
     # game/social.rpy:59
     old "Lowlife"
-    new ""
+    new "Ничтожество"
 
     # game/social.rpy:59
     old "Boss"
-    new ""
+    new "Босс"
 
     # game/social.rpy:59
     old "Master"
-    new ""
+    new "Мастер"
 
     # game/social.rpy:85
     old "Girl"
-    new ""
+    new "Девчёнка"
 
     # game/social.rpy:85
     old "Cucumber"
-    new ""
+    new "Огурец"
 
     # game/social.rpy:85
     old "Bitch"
-    new ""
+    new "Сука"
 
     # game/social.rpy:85
     old "Whore"
-    new ""
+    new "Дырка"
 
     # game/social.rpy:85
     old "Gang Trash"
-    new ""
+    new "Бандитский мусор"
 
     # game/social.rpy:85
     old "Fuck Toy"
-    new ""
+    new "Секс игрушка"
 
     # game/social.rpy:85
     old "Cum Dumpster"
-    new ""
+    new "Спермоприёмник"
 
     # game/social.rpy:85
     old "Semen Demon"
-    new ""
+    new "Спермо-деман"
 
     # game/social.rpy:85
     old "Anal Agent"
-    new ""
+    new "Анальный Агент"
 
     # game/social.rpy:375
     old "'Keep your head up and don't lose spirit'"
-    new ""
+    new "\"Не вешай нос и не падайте духом\""
 
     # game/social.rpy:375
     old "'You just gotta work harder"
-    new ""
+    new "Просто нужно работать усерднее"
 
     # game/social.rpy:591
     old "'I'll find you some'"
-    new ""
+    new "Я найду для тебя парочку"
 
     # game/social.rpy:591
     old "'That's too bad'"
-    new ""
+    new "Очень жаль"
 
     # game/social.rpy:1322
     old "Better your butt than your head"
-    new ""
+    new "Лучше задница, чем голова"
 
     # game/social.rpy:1322
     old "Let me check"
-    new ""
+    new "Дай посмотрю"
 
     # game/social.rpy:1571
     old "Discourage sluttiness "
-    new ""
+    new "Не поощрять распутство"
 
     # game/social.rpy:1735
     old "Decorate cell"
-    new ""
+    new "Украсить камеру"
 
     # game/social.rpy:1774
     old "Parsnip"
-    new ""
+    new "Пастернак"
 
     # game/social.rpy:1929
     old "Canary"
-    new ""
+    new "Канары"
 
     # game/social.rpy:1929
     old "Banana"
-    new ""
+    new "Банан"
 
     # game/social.rpy:2043
     old "{color=#EFD66D}Inspect prisons{/color}"
-    new ""
+    new "{color=#EFD66D}Осмотреть тюрьмы{/color}"
 
     # game/social.rpy:2043
     old "Visit Maggie T."
-    new ""
+    new "Навестить Мэгги Т."
 
     # game/social.rpy:2043
     old "Visit Tim Scam"
-    new ""
+    new "Навестить Тима Скама"
 
     # game/social.rpy:2043
     old "Visit Carla Wong"
-    new ""
+    new "Навестить Карлу Вонг"
 
     # game/social.rpy:2043
     old "Visit Talia Hardwire"
-    new ""
+    new "Навестить Талия Хардвейр"
 
     # game/social.rpy:2043
     old "Visit Muffy Peprich"
-    new ""
+    new "Навестить Маффи Перич"
 
     # game/social.rpy:2043
     old "Visit Melody G."
-    new ""
+    new "Навестить Мелоди Г."
 
     # game/social.rpy:2043
     old "Visit Candy Sweet"
-    new ""
+    new "Навестить Кэнди Свит"
 
     # game/social.rpy:2043
     old "Visit Sebastian Sage"
-    new ""
+    new "Навестить Себасиана Сага."
 
     # game/social.rpy:2043
     old "Visit The Great Kandinsky"
-    new ""
+    new "Навестить великого Кандинского"
 
     # game/social.rpy:2043
     old "Visit Britney"
-    new ""
+    new "Навестить Бритни"
 
     # game/social.rpy:2043
     old "Visit Felicity Fences"
-    new ""
+    new "Навестить Фелисити Фэнсэс"
 
     # game/social.rpy:2436
     old "SCREAM"
-    new ""
+    new "КРИЧАТЬ"
 
     # game/social.rpy:2436
     old "Remain calm"
-    new ""
+    new "Сохранять спокойствие"
 
     # game/social.rpy:2650
     old "I love it"
-    new ""
+    new "Мне это нравится"
 
     # game/social.rpy:2650
     old "It's okay"
-    new ""
+    new "Ну... норм"
 
     # game/social.rpy:2650
     old "I hate it"
-    new ""
+    new "Ужасно"
 
     # game/social.rpy:2731
     old "I like a lot"
-    new ""
+    new "Мне очень нравится"
 
     # game/social.rpy:2731
     old "Eh, I've seen better"
-    new ""
+    new "Ну... видал и лучшее"
 
     # game/social.rpy:2842
     old "Pay Kim 2 dollars"
-    new ""
+    new "Заплатить Ким 2 доллара"
 
     # game/social.rpy:2842
     old "Don't pay"
-    new ""
+    new "Не платить"
 
     # game/social.rpy:3151
     old "Show me your boobs"
-    new ""
+    new "Покажи мне свои сиськи"

@@ -74,6 +74,10 @@ translate russia strings:
     old "Preferences"
     new "Настройки"
 
+    # game/screens.rpy:454
+    old "New Game"
+    new "Новая игра"
+
     # game/screens.rpy:918
     old "Display"
     new "Отоброжение"

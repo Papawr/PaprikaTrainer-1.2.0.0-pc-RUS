@@ -4,31 +4,31 @@
 translate russia club_fe0fa968:
 
     # "You spend the day serving milkshakes."
-    ""
+    "Вы проводите день, подавая молочные коктейли."
 
 # game/club.rpy:405
 translate russia club_d32f081f:
 
     # "{b}*Брызги* *Брызги* *Брызги*{/b}"
-    ""
+    "{b}*Брызги* *Брызги* *Брызги*{/b}"
 
 # game/club.rpy:406
 translate russia club_b50a6741:
 
     # "You spend the rest of the day cleaning up the place."
-    ""
+    "Остаток дня ты проводишь за уборкой."
 
 # game/club.rpy:411
 translate russia club_b92e9533:
 
     # "The bar is looking better than before, but still needs more fixing."
-    ""
+    "Бар выглядит лучше, чем раньше, но все ещё нуждается в доработке."
 
 # game/club.rpy:424
 translate russia club_53868d06:
 
     # "You decide to head to bed."
-    ""
+    "Ты решаешь лечь спать."
 
 # game/club.rpy:431
 translate russia club_74662bc8:
