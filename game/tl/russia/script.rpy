@@ -94,7 +94,7 @@ translate russia landgrabPlanning_a7dd2fa8:
 translate russia landgrabPlanning_d01b0340:
 
     # "Drift Punk Lieutenant identified: Talia H."
-    ""
+    "Талия Х"
 
 # game/script.rpy:2355
 translate russia landgrabPlanning_9964e6a8:
@@ -136,13 +136,13 @@ translate russia landgrabPlanning_96de2b2d_8:
 translate russia landgrabPlanning_7b3dd031:
 
     # "Outsiders Lieutenant identified: Muffy Peprich."
-    ""
+    "Маффи Пеприч"
 
 # game/script.rpy:2438
 translate russia landgrabPlanning_6a21a8a0:
 
     # "Outsiders Lieutenant identified: Felicity Fences."
-    ""
+    "Фелисити Фэнсэс"
 
 # game/script.rpy:2448
 translate russia landgrabPlanning_46c244e2:
@@ -2486,4 +2486,4 @@ translate russia strings:
 translate russia landgrabPlanning_1e7bdbc2:
 
     # "Muffy Peprich is now available for capture. Send your spies on a mission to The Carnival to capture her."
-    "Muffy Peprich теперь доступна для захвата. Отправьте своих шпионов на Карнавал, чтобы захватить её."
+    "Маффи Пеприч теперь доступна для захвата. Отправьте своих шпионов на Карнавал, чтобы захватить её."

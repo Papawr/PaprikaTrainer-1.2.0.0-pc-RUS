@@ -3436,7 +3436,7 @@ translate russia explore_f0fd1441:
 translate russia explore_3f14525b_3:
 
     # "On your way back you find {color=#ffeda6}$ 10,-{/color} on the street! {w}That's what you get from having good karma."
-    "На обратном пути ты находишь {color=#ffeda6}$ 10,-{/color}! {w}Всему вина хорошая карма."
+    "На обратном пути ты находишь {color=#ffeda6}$ 10,-{/color}! {w}Вот что значит хорошая карма!"
 
 # game/worldmap.rpy:3536
 translate russia explore_029e1d58:

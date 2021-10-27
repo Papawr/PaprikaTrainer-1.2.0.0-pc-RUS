@@ -4,7 +4,7 @@
 translate russia creditcards_0bce2002:
 
     # "It's an ATM."
-    "It's an ATM."
+    "Это банкомат."
 
 # game/creditcards.rpy:68
 translate russia creditcards_155b4a1c:

@@ -6412,7 +6412,7 @@ translate russia prisonersCall_4ab3d1d4:
 translate russia prisonersCall_dd2e9d83:
 
     # "Computer" "Muffy Peprich status: Captured.{w} Allocating resources..."
-    "Computer" ""
+    "Computer" "Маффи Пеприч"
 
 # game/social.rpy:2160
 translate russia prisonersCall_31ca5265:
@@ -9824,7 +9824,7 @@ translate russia strings:
 
     # game/social.rpy:2043
     old "Visit Muffy Peprich"
-    new "Навестить Маффи Перич"
+    new "Навестить Маффи Пеприч"
 
     # game/social.rpy:2043
     old "Visit Melody G."

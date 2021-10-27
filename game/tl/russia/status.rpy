@@ -14368,7 +14368,7 @@ translate russia task11_5f60ba9a:
 translate russia task11_97f836eb:
 
     # a y3 "I'm pretty sure Muffy Peprich is hanging around the Carnival. I bet we could capture her now!"
-    a y3 ""
+    a y3 "Маффи Пеприч"
 
 # game/status.rpy:5683
 translate russia task11_2b91ac02:
@@ -18634,7 +18634,7 @@ translate russia task18_00ed0ebf:
 translate russia task18_30a91b94:
 
     # c r10 "Well... Talia has a striking resemblance to Telly Hardwire. A hacker we brought down a few years ago."
-    c r10 ""
+    c r10 "Талия"
 
 # game/status.rpy:7163
 translate russia task18_c1458dce:
@@ -19420,7 +19420,7 @@ translate russia task18SearchMenu_c20cfcbc:
 translate russia task18SearchMenu_f876bc91:
 
     # "Computer" "Computer: Talia H.\nStatus: Captured."
-    "Computer" ""
+    "Computer" "Талия Х"
 
 # game/status.rpy:7442
 translate russia task18SearchMenu_2f1ad96c:
@@ -20122,7 +20122,7 @@ translate russia task20_9cb97b48:
 translate russia task21_4d8f3ce5:
 
     # y "Okay Alex. We found out who the next lieutenant is for the Outsiders. It's some rich girl called Felicity Fences."
-    y ""
+    y "Фелисити Фэнсэс"
 
 # game/status.rpy:7710
 translate russia task21_2121696f:
