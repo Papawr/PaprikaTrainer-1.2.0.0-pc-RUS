@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/worldmap.rpy", line 3337: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/tl/russia/items.rpy", line 643: is not terminated with a newline. (Check strings and parenthesis.)
 (Perhaps you left out a " at the end of the first line.)
-        "{b}*Стекла разбивание*{/b}""
+        y "Ну что ж... Это была пустая трата врем-...""
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Tue Oct 26 21:17:54 2021
+Thu Oct 28 19:28:13 2021
