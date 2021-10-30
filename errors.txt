@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/items.rpy", line 643: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/tl/russia/club.rpy", line 343: is not terminated with a newline. (Check strings and parenthesis.)
 (Perhaps you left out a " at the end of the first line.)
-        y "Ну что ж... Это была пустая трата врем-...""
+        a y3 "Луковые кольца \"Бодрость\"
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Thu Oct 28 19:28:13 2021
+Sat Oct 30 21:14:09 2021
