@@ -4,589 +4,589 @@
 translate russia jobReport_9f182d47:
 
     # y "I can't just wait around until evening. It's my first day on the job afterall."
-    y ""
+    y "Я не могу просто ждать до вечера. В конце концов, это мой первый рабочий день."
 
 # game/jobReport.rpy:13
 translate russia jobReport_343cfe65:
 
     # y "I should probably send my spy out to bring back some intel first."
-    y ""
+    y "Наверное, сначала стоит послать своего шпиона, чтобы он принес кое-какие сведения."
 
 # game/jobReport.rpy:64
 translate russia jobReport_ec769683:
 
     # "Today you made $ [randMoney] selling milkshakes."
-    ""
+    "Сегодня вы заработали $ [randMoney], продавая молочные коктейли."
 
 # game/jobReport.rpy:117
 translate russia nextReport_c945afd1:
 
     # "Sam brought home a Trick or Treat bag today. Check your ITEMS to see what's inside!"
-    ""
+    "Сегодня Сэм пренесла домой сумку \"Кошелек или жизнь\". Проверьте свои вещи, чтобы узнать, что внутри!"
 
 # game/jobReport.rpy:137
 translate russia nextReport_0a606abc:
 
     # s "I'm back from working with the Aces."
-    s ""
+    s "Я вернулась с работы от \"Тузов\"."
 
 # game/jobReport.rpy:141
 translate russia nextReport_36222352:
 
     # "Sam was hurt during the landgrab! Best give her some time to recover."
-    ""
+    "Сэм была ранена во время захвата точки! Лучше дать ей время на восстановление."
 
 # game/jobReport.rpy:147
 translate russia nextReport_877a545a:
 
     # s "Here's my report."
-    s ""
+    s "Вот мой отчёт."
 
 # game/jobReport.rpy:177
 translate russia nextReport_640fbe83:
 
     # y "So how did it go?"
-    y ""
+    y "И как всё прошло?"
 
 # game/jobReport.rpy:178
 translate russia nextReport_40ceb9f6:
 
     # s g1 "Good, I gave them the codes. Their bank accounts should be safe now."
-    s g1 ""
+    s g1 "Хорошо, я отдала им коды. Теперь их банковские счета должны быть в безопасности."
 
 # game/jobReport.rpy:182
 translate russia nextReport_ce43e0b8:
 
     # y "Not bad, well done [samNick]."
-    y ""
+    y "Отличная работа [samNick]."
 
 # game/jobReport.rpy:185
 translate russia nextReport_640fbe83_1:
 
     # y "So how did it go?"
-    y ""
+    y "Ну, и как всё прошло?"
 
 # game/jobReport.rpy:186
 translate russia nextReport_045273bb:
 
     # s g1 "Good, we got rid of the spray cans. At least for now."
-    s g1 ""
+    s g1 "Отлично, мы избавились от баллончиков. По крайней мере, на некоторое время."
 
 # game/jobReport.rpy:190
 translate russia nextReport_ce43e0b8_1:
 
     # y "Not bad, well done [samNick]."
-    y ""
+    y "Ты отлично справилась [samNick]."
 
 # game/jobReport.rpy:193
 translate russia nextReport_640fbe83_2:
 
     # y "So how did it go?"
-    y ""
+    y "Как дела?"
 
 # game/jobReport.rpy:194
 translate russia nextReport_35d78001:
 
     # s g1 "Good, I traded her the test answers and got this out of it."
-    s g1 ""
+    s g1 "Хорошо, я отдала ей ответы на тест и получил от неё вот это."
 
 # game/jobReport.rpy:198
 translate russia nextReport_ce43e0b8_2:
 
     # y "Not bad, well done [samNick]."
-    y ""
+    y "Отлично [samNick]."
 
 # game/jobReport.rpy:199
 translate russia nextReport_657f6289:
 
     # s g19 "I feel a little bad in having helped her cheating though..."
-    s g19 ""
+    s g19 "Я чувствую себя немного неловко из-за того, что помогла ей списать..."
 
 # game/jobReport.rpy:201
 translate russia nextReport_9ce53673:
 
     # s "So I overheard the Aces talking today..."
-    s ""
+    s "Я подслушала разговор тузов..."
 
 # game/jobReport.rpy:204
 translate russia nextReport_f5ac9bd6:
 
     # s "Drift Punk keeps hacking Aces bank accounts, and they're getting really sick of it."
-    s ""
+    s "Дрифт Панки продолжают взламывать банковские счета Тузов,которым это уже порядком надоело."
 
 # game/jobReport.rpy:205
 translate russia nextReport_48f0b795:
 
     # s "Apperantly they're hiding the hacking software somewhere in Punk Web."
-    s ""
+    s "Возможно, они прячут хакерское программное обеспечение где-то в (Punk Web)."
 
 # game/jobReport.rpy:206
 translate russia nextReport_9bddf62f:
 
     # s "We should keep an eye out for it during our next Punk Web mission."
-    s ""
+    s "Мы должны следить за ним во время нашей следующей миссии Punk Web."
 
 # game/jobReport.rpy:209
 translate russia nextReport_b415246b:
 
     # s "Apperantly they're getting real sick of the Outsiders. Last night they came around and spraypainted a fleet of expensive cars."
-    s ""
+    s "Видимо, Аутсайдеры им уже порядком надоели. Вчера вечером они пришли и облили краской парк дорогих машин."
 
 # game/jobReport.rpy:210
 translate russia nextReport_1db995fb:
 
     # s "If we end up going to the abandoned amusement park, we should try stealing those spray cans. They Aces are willing to reward us for it."
-    s ""
+    s "Если мы будем проездом у заброшенного парка аттракционов, нам стоит попробовать украсть эти баллончики. Тузы точно вознаградят нас за это."
 
 # game/jobReport.rpy:213
 translate russia nextReport_4566da56:
 
     # s "One of the girls was threatened by her parents that if her grades didn't improve, she'd be cut off."
-    s ""
+    s "Одной из девочек родители пригрозили, что если её оценки не улучшатся, то её отсекут."
 
 # game/jobReport.rpy:214
 translate russia nextReport_9b374cec:
 
     # s "Ofcourse in true gangster fashion... instead of studying, she wants us to steal the anwser sheet from the school."
-    s ""
+    s "Конечно, в истинно гангстерской манере... вместо того чтобы заниматься, она хочет, чтобы мы украли лист с ответами из школы."
 
 # game/jobReport.rpy:215
 translate russia nextReport_0f6874c0:
 
     # s "We should keep an eye out during our next mission to the school. She's willing to pay a pretty penny for it."
-    s ""
+    s "Нам стоит заняться этим во время нашей следующей поездки в школу. Она готова за ответы заплатить кругленькую сумму."
 
 # game/jobReport.rpy:218
 translate russia nextReport_a46bea9c:
 
     # "Sam doesn't feel like talking about her day and returns to her cell."
-    ""
+    "Сэм не хочет рассказывать о своем дне и возвращается в камеру."
 
 # game/jobReport.rpy:222
 translate russia nextReport_42668c91:
 
     # s g28 "Working with the Aces is... {i}'challenging'{/i}. I've never seen anyone spent money so frivolously. I saw someone buy sneakers for a thousand dollars today. Sneakers!"
-    s g28 ""
+    s g28 "Работа с тузами - это... {i}'невыносимо'{/i}. Я никогда не видел, чтобы кто-то так легкомысленно тратил деньги. Сегодня я видел, как кто-то купил кроссовки за тысячу долларов. Кроссовки! Карл!"
 
 # game/jobReport.rpy:223
 translate russia nextReport_f836880b:
 
     # s "The ones that are probably made in a sweat shop for 15 bucks."
-    s ""
+    s "Которые, вероятно, сделаны в соседнем подвале за 15 баксов."
 
 # game/jobReport.rpy:224
 translate russia nextReport_1aab7ee4:
 
     # y "When you can no longer impress others with your money, you gotta step it up."
-    y ""
+    y "(Когда вы уже не можете произвести впечатление на других своими деньгами, вы должны сделать шаг вперед.)"
 
 # game/jobReport.rpy:225
 translate russia nextReport_bdd67bb7:
 
     # y "People buy all kinds of overpriced shit. Art, clothing, furniture. Just to impress."
-    y ""
+    y "Люди покупают всевозможное дерьмо по завышенным ценам. Искусство, одежда, мебель. Просто чтобы произвести впечатление."
 
 # game/jobReport.rpy:226
 translate russia nextReport_a56f367f:
 
     # s g10 "I know, but it's still a little frustrating to watch."
-    s g10 ""
+    s g10 "Я знаю, но смотреть на это все равно немного обидно."
 
 # game/jobReport.rpy:227
 translate russia nextReport_dcb3d539:
 
     # s "Later on, I held the door open for one of them and he gave me this..."
-    s ""
+    s "Позже, я придержала для одного из них дверь, и он дал мне это..."
 
 # game/jobReport.rpy:231
 translate russia nextReport_26a2407c:
 
     # y "Just for holding the door open?"
-    y ""
+    y "Просто за то, что ты придержала ему дверь?"
 
 # game/jobReport.rpy:232
 translate russia nextReport_8e10f5cf:
 
     # s "Yup. Money is money, right?"
-    s ""
+    s "Да. Деньги есть деньги, ведь так?"
 
 # game/jobReport.rpy:233
 translate russia nextReport_afdcbd71:
 
     # y "I'm not complaining."
-    y ""
+    y "Я не возражаю."
 
 # game/jobReport.rpy:235
 translate russia nextReport_4dde0927:
 
     # s g12 "Another day another bucked of money wasted."
-    s g12 ""
+    s g12 "Ещё один день и ещё одна куча потраченных денег."
 
 # game/jobReport.rpy:236
 translate russia nextReport_1c1e94de:
 
     # y "That bad?"
-    y ""
+    y "И это плохо?"
 
 # game/jobReport.rpy:237
 translate russia nextReport_a9cf048f:
 
     # s "It's like throwing around candy for them. The money just keeps coming and never runs out."
-    s ""
+    s "Для них это то же самое, что разбрасываться конфетами. Деньги продолжают поступать и никогда не закончатся."
 
 # game/jobReport.rpy:238
 translate russia nextReport_9ee4b6f0:
 
     # s "I saw someone buy a sportscar, and I asked him if he had to take it easy with spending for a while now. He just laughed and showed me his bank account."
-    s ""
+    s "Я видела, как кто-то сегодня купил спортивный автомобиль, позже я спросила его, не придется ли ему некоторое время повременить с покупками. Он просто рассмеялся и показал мне свой банковский счёт."
 
 # game/jobReport.rpy:239
 translate russia nextReport_de150eec:
 
     # s g39 "The time it took him to buy the car, he already made it all back. He could have given it to people in need!"
-    s g39 ""
+    s g39 "За то время, что ему понадобилось на оформления машины, он уже приумножил свой счёт на туже суму. Он мог бы отдать их нуждающимся людям!"
 
 # game/jobReport.rpy:240
 translate russia nextReport_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/jobReport.rpy:241
 translate russia nextReport_3eea37ae:
 
     # y "Not gonna lie. I'm so jealous right now."
-    y ""
+    y "Не буду врать. Я сейчас так завидую."
 
 # game/jobReport.rpy:242
 translate russia nextReport_da76e06e:
 
     # s g15 "Yeah me too...."
-    s g15 ""
+    s g15 "Дааа, я тоже...."
 
 # game/jobReport.rpy:243
 translate russia nextReport_0ed16ade:
 
     # s "I managed to overhear some things though. So I gathered a bit more intel."
-    s ""
+    s "Однако мне удалось кое-что подслушать и собрать немного больше информации."
 
 # game/jobReport.rpy:248
 translate russia nextReport_36fa45cd:
 
     # s g9 "Argh! I'm so angry right now!"
-    s g9 ""
+    s g9 "Аргх! Как меня всё это бесит!"
 
 # game/jobReport.rpy:249
 translate russia nextReport_cea1aa04:
 
     # y "You always profess to the world how you feel?"
-    y ""
+    y "Ты всегда всем рассказываешь о своих чувствах?"
 
 # game/jobReport.rpy:250
 translate russia nextReport_899efdd0:
 
     # s g40 "Sorry... It's just that the Aces went to a charity event today..."
-    s g40 ""
+    s g40 "Прости... Просто сегодня \"Тузы\" пошли на благотворительный вечер..."
 
 # game/jobReport.rpy:251
 translate russia nextReport_695bcb88:
 
     # y "Charity? They don't seem the type..."
-    y ""
+    y "Благотворительность? На них это не похоже..."
 
 # game/jobReport.rpy:252
 translate russia nextReport_0098864a:
 
     # s g8 "It was mostly a PR stunt. Together they donated ten-thousand dollars!"
-    s g8 ""
+    s g8 "В основном это был пиар-трюк. Вместе они пожертвовали десять тысяч долларов!"
 
 # game/jobReport.rpy:253
 translate russia nextReport_a5193a3f:
 
     # y "Woah, not bad!"
-    y ""
+    y "Оого, неплохо!"
 
 # game/jobReport.rpy:254
 translate russia nextReport_2c368328:
 
     # s g28 "No, you don't understand! I saw a guy spent ten-thousand on clothes yesterday!"
-    s g28 ""
+    s g28 "Нет, ты не понимаешь! Я видела, как вчера один парень потратил десять тысяч на одежду!"
 
 # game/jobReport.rpy:255
 translate russia nextReport_f356b58b:
 
     # s g31 "They don't care about the charity! That donation was pocket change for them! I've seen them spent that much on drugs!"
-    s g31 ""
+    s g31 "Их не заботит благотворительность! Для них это пожертвование равняется карманным деньгами! Я видела, как они тратили такую же сумму на наркотики!"
 
 # game/jobReport.rpy:256
 translate russia nextReport_846cc9b6:
 
     # y "Well at least it's still money that goes to charity."
-    y ""
+    y "Ну, по крайней мере, это все равно деньги, которые идут на благотворительность."
 
 # game/jobReport.rpy:257
 translate russia nextReport_f94fe0eb:
 
     # s g33 "I know... it's something at least... but... it still irks me to see someone so rich basically throwing his loose change to the impoverished masses..."
-    s g33 ""
+    s g33 "Я знаю... это хоть что-то... но... меня до сих пор бесит, когда кто-то настолько богатый, по сути, бросает свою мелочь обнищавшим массам..."
 
 # game/jobReport.rpy:258
 translate russia nextReport_711373a8:
 
     # y "Very poetic. All right you're dismissed. Don't let it get to you."
-    y ""
+    y "Очень поэтично. Хорошо, ты свободна. Не позволяй этому овладеть тобой."
 
 # game/jobReport.rpy:260
 translate russia nextReport_017960f5:
 
     # y "And? How much money was wasted today?"
-    y ""
+    y "И? Сколько денег было потрачено впустую сегодня?"
 
 # game/jobReport.rpy:261
 translate russia nextReport_c78fb069:
 
     # s g37 "{b}*Scoffs*{/b} Do you really need to ask?{w} We went almost the entire day without spending a dime and then came across a street art store."
-    s g37 ""
+    s g37 "{b}*Насмехается*{/b} Тебе действительно всё это интересно?{w} Почти весь день прошёл без траты денег, а потом наткнулись на магазин уличного искусства."
 
 # game/jobReport.rpy:262
 translate russia nextReport_606ad446:
 
     # s "One of the guys bought the artists full inventory on the spot... And then threatened him that if he ever made art again, he'd kill him."
-    s ""
+    s "Один из парней на месте купил всё портфолио художника... А затем пригрозил ему, что если он еще раз займется искусством, он его убьет."
 
 # game/jobReport.rpy:263
 translate russia nextReport_5f150c9f:
 
     # y "I'm confused..."
-    y ""
+    y "Я немного в замешательстве..."
 
 # game/jobReport.rpy:264
 translate russia nextReport_8e6f2ce5:
 
     # s g34 "He wanted to own the whole collection, just so no one else could have his work. It was just him flexing on is friends..."
-    s g34 ""
+    s g34 "Он хотел овладеть всей коллекцией, чтобы ни у кого больше не было работ этого художника. Просто он так прикалывается над своими друзьями..."
 
 # game/jobReport.rpy:265
 translate russia nextReport_612d99ea:
 
     # y "Seems like a great guy..."
-    y ""
+    y "Похоже он отличный парень..."
 
 # game/jobReport.rpy:266
 translate russia nextReport_fe6c472f:
 
     # s g37 "Yeah..."
-    s g37 ""
+    s g37 "Даа..."
 
 # game/jobReport.rpy:268
 translate russia nextReport_5ae46f37:
 
     # s g43 "{b}*Mutters*{/b}"
-    s g43 ""
+    s g43 "{b}*Бормочет*{/b}"
 
 # game/jobReport.rpy:269
 translate russia nextReport_1f7f5dcd:
 
     # y "Uh oh. What happened today?"
-    y ""
+    y "О-оо. Что сегодня произошло?"
 
 # game/jobReport.rpy:270
 translate russia nextReport_096f4259:
 
     # s "Something petty. It annoys me that I'm letting it get to me."
-    s ""
+    s "Да так по мелочи. Меня раздражает, что я позволяю этому задевать меня."
 
 # game/jobReport.rpy:271
 translate russia nextReport_ae51565d:
 
     # s "There was a really cute dress that I wanted and one of the Aces offered to buy it for me."
-    s ""
+    s "Там было одно очень милое платье, которое мне понравилось. Один из тузов предложил купить его для меня."
 
 # game/jobReport.rpy:272
 translate russia nextReport_e6592565:
 
     # y "Well that's nice of them."
-    y ""
+    y "Нуу, это очень мило с их стороны."
 
 # game/jobReport.rpy:273
 translate russia nextReport_9151d68e:
 
     # s g38 "But before she could, another gangmember declared that the shop was 'so not fashionable'. And suddenly no one was interested in the clothes anymore."
-    s g38 ""
+    s g38 "Но не успев это сделать, как другой член банды заявил, что магазин \"вообще немодный\". И сразу после этого всех вдруг перестала интересовать одежда."
 
 # game/jobReport.rpy:274
 translate russia nextReport_6c397f9f:
 
     # s "I had to play along of course and we end up not getting the dress..."
-    s ""
+    s "Мне, конечно, пришлось подыграть им, и в итоге я осталась без платья..."
 
 # game/jobReport.rpy:275
 translate russia nextReport_8a959d95:
 
     # y "But you secretly still wanted it."
-    y ""
+    y "Но втайне ты все ещё хочешь его."
 
 # game/jobReport.rpy:276
 translate russia nextReport_d4525f1d:
 
     # s g19 "Yeah..."
-    s g19 ""
+    s g19 "Даа..."
 
 # game/jobReport.rpy:279
 translate russia nextReport_cb3bc957:
 
     # s g9 "They are so insufferable! I thought I'd take all my saving out of the bank so I could impress them, but they just laughed!"
-    s g9 ""
+    s g9 "Они такие невыносимые! Я думала, что собрав все свои сбережения из банка я смогу произвести на них впечатление. Но они только посмеялись!"
 
 # game/jobReport.rpy:280
 translate russia nextReport_7d6914d2:
 
     # y "Laughed?"
-    y ""
+    y "Смеялись?"
 
 # game/jobReport.rpy:281
 translate russia nextReport_008f9e47:
 
     # s g40 "Yeah... something about them having so much money that they could no longer carry all of it... Me carrying cash was a sign of poverty!"
-    s g40 ""
+    s g40 "Да... они говорили что  размер их состояния не позволяет им носить все деньги при себе ... и то что нося с собой наличные я только подчёркиваю свою бедности!"
 
 # game/jobReport.rpy:282
 translate russia nextReport_22f2fed4:
 
     # y "Maybe they can tell that you're trying too hard."
-    y ""
+    y "Может ты слишком стараешься им понравиться?"
 
 # game/jobReport.rpy:283
 translate russia nextReport_e7b2e5f6:
 
     # s g15 "{b}*Sighs*{/b} Maybe. I returned it all to the bank... hopefully before my parents find out. "
-    s g15 ""
+    s g15 "{b}*Вздох*{/b} Наверное. Я вернула всё в банк... надеюсь, мои родители ещё об этом не узнали. "
 
 # game/jobReport.rpy:284
 translate russia nextReport_1342229e:
 
     # s "So I didn't impress anyone today..."
-    s ""
+    s "Так что сегодня я никого не впечатлила..."
 
 # game/jobReport.rpy:285
 translate russia nextReport_8cb9e030:
 
     # y "Better luck next time."
-    y ""
+    y "Уверен, в следующий раз у тебя точно всё получится."
 
 # game/jobReport.rpy:287
 translate russia nextReport_3a292e37:
 
     # s g41 "Did you know that the majority of the world's gold reserves are in the hands of Indian women?"
-    s g41 ""
+    s g41 "Знаешь ли ты, что большая часть мировых запасов золота находится в руках индийских женщин?"
 
 # game/jobReport.rpy:288
 translate russia nextReport_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/jobReport.rpy:289
 translate russia nextReport_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/jobReport.rpy:290
 translate russia nextReport_d60b542f:
 
     # s g14 "It's because of the dowery when they get married. If Indian households put all their gold together, they'd have even more than the United States."
-    s g14 ""
+    s g14 "Это из-за приданого, во время женитьбы. Если бы индийские семьи собрали всё своё золото вместе, у них было бы даже больше, чем у Соединенных Штатов."
 
 # game/jobReport.rpy:291
 translate russia nextReport_12580313:
 
     # y "Facinating... What brought this up?"
-    y ""
+    y "Интересно... Откуда ты это знаешь?"
 
 # game/jobReport.rpy:292
 translate russia nextReport_2ce10f54:
 
     # s g37 "Oh... the Aces held up a jewelry store today and they refused to take anything that was worth less than gold."
-    s g37 ""
+    s g37 "Охх... Сегодня \"Тузы\" грабили ювелирный магазин и отказались брать всё, что стоит меньше золота."
 
 # game/jobReport.rpy:293
 translate russia nextReport_55e36766:
 
     # s "They actually look at silver with disdain..."
-    s ""
+    s "Они даже на серебро смотрят с презрением..."
 
 # game/jobReport.rpy:294
 translate russia nextReport_c99e3203:
 
     # s "I mean, it's not worth that much in comparison to gold, but I still think it can look nice."
-    s ""
+    s "Конечно, по сравнению с золотом он стоит не так много. Но я все равно считаю, что он выглядит красиво."
 
 # game/jobReport.rpy:295
 translate russia nextReport_4e195560:
 
     # y "{i}'Speech is siver, silence is gold.'{/i}"
-    y ""
+    y "{i}'Слово - серебро, молчание - золото..'{/i}"
 
 # game/jobReport.rpy:296
 translate russia nextReport_b38194b2:
 
     # s g1 "Yeah exactly! .... Wait was that a hint for me to be quiet?"
-    s g1 ""
+    s g1 "Да, точно! .... Подожди, это был намёк на то, чтобы я замолчала?"
 
 # game/jobReport.rpy:298
 translate russia nextReport_200abbe1:
 
     # s g16 "Do you know what music artists are popular at the moment?"
-    s g16 ""
+    s g16 "Ты в курсе какие музыканты сейчас популярны?"
 
 # game/jobReport.rpy:299
 translate russia nextReport_a73c59a6:
 
     # y "I'm probably the last person you should ask that. Why?"
-    y ""
+    y "Я, наверное, тот самый человек, которого стоит спросить в последнюю очередь. Почему?"
 
 # game/jobReport.rpy:300
 translate russia nextReport_68335da4:
 
     # s g37 "Well the Aces are bragging about popular musicians showing up at their parties and I didn't recognise any of them."
-    s g37 ""
+    s g37 "Ну, \"Тузы\" хвастаются, что на их вечеринках выступают только самые популярные музыканты, а я никого из них не узнала."
 
 # game/jobReport.rpy:301
 translate russia nextReport_575919e0:
 
     # s "I'm afraid that I might be out of touch."
-    s ""
+    s "Я боюсь, что могу быть не в \"тренде\"."
 
 # game/jobReport.rpy:302
 translate russia nextReport_09e2b14f:
 
     # y "You're a bookworm who spends all her time saving the world or studying. I don't think you were ever in touch to begin with."
-    y ""
+    y "Ты - книжный червь, проводишь всё свое время, спасая мир или занимаясь учебой. Не думаю, что ты когда-нибудь будешь в \"тренде\"."
 
 # game/jobReport.rpy:303
 translate russia nextReport_ea08eeb9:
 
     # s g10 "Harsh... I'll look it up online. Before I blow my cover."
-    s g10 ""
+    s g10 "Сурово... Поищу что-нибудь в Интернете. Прежде чем раскрою себя так тупо."
 
 # game/jobReport.rpy:305
 translate russia nextReport_d96a1f35:
 
     # s g38 "Today got pretty bad. We had to fight a rival gang and things got hairy."
-    s g38 ""
+    s g38 "Сегодня всё было совсем не очень. Нам пришлось сражаться с конкурирующей бандой, но всё пошло наперекосяк."
 
 # game/jobReport.rpy:306
 translate russia nextReport_ad5cc0ea:
 
     # y "Oh! Were you hurt?"
-    y ""
+    y "Ого! Тебя не ранели?"
 
 # game/jobReport.rpy:307
 translate russia nextReport_0021bdaa:
 
     # s g3 "Nah, I can take most of these guys on blindfolded, but I didn't want to blow my cover."
-    s g3 ""
+    s g3 "Не, я могла бы повалить большинство этих парней с завязанными глазами, но я не хотел раскрывать себя."
 
 # game/jobReport.rpy:308
 translate russia nextReport_698f74f7:
