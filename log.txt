@@ -1,41 +1,399 @@
-Wed Nov 10 21:04:24 2021
+Thu Nov 11 13:39:43 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.8.1895
  
 
-Bootstrap to the start of init.init took 0.21s
+Bootstrap to the start of init.init took 0.23s
 Early init took 0.01s
-Loader init took 1.08s
-Loading error handling took 0.29s
-Loading script took 8.65s
+Loader init took 0.94s
+Loading error handling took 0.27s
+Loading script took 7.99s
+Loading save slot metadata. took 0.08s
+Loading persistent took 0.00s
+
+File "game/tl/russia/jobReport.rpy", line 2269: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    s g45 "Я.. позволила ему... а в ответ он дал мне большие чаевые. Вот...""
+                                                                            ^
+    
+    # game/jobReport.rpy:845
+    translate russia nextReport_540d0894:
+    
+        # s g43 "............"
+        s g43 "............"
+    
+    # game/jobReport.rpy:846
+    translate russia nextReport_8407af68:
+    
+        # s "In the future... should I allow people to grope me more? I mean... the tips are nice."
+        s "В будущем... стоит ли я позволять людям лапать меня чаще? Просто... чаевые довольно заманчивые..."
+    
+    # game/jobReport.rpy:850
+    translate russia nextReport_08225b97:
+    
+        # y "Oh hell yeah. Imagine how much money we can make if you get your melons squeezed every now and then."
+        y "Оох, черт возьми, да. Представь, сколько денег мы сможем заработать, если твои дыньки будут сжимать время от времени."
+    
+    # game/jobReport.rpy:851
+    translate russia nextReport_fc4b31a0:
+    
+        # s g45 "That's true, but..."
+        s g45 "Это так, ноо..."
+    
+    # game/jobReport.rpy:852
+    translate russia nextReport_b5c052f6:
+    
+        # y "And you've got a peach worth slapping!"
+        y "А твой персик, так и просит шлепков!"
+    
+    # game/jobReport.rpy:854
+    translate russia nextReport_21bfc488:
+    
+        # s g48 "W-Well...."
+        s g48 "Что ж..."
+    
+    # game/jobReport.rpy:855
+    translate russia nextReport_9ef20aac:
+    
+        # y "And a pear shaped figure nobody could say no to!"
+        y "А твоей грушевидной фигуре, вообще никто отказать не сможет!"
+    
+    # game/jobReport.rpy:856
+    translate russia nextReport_8e6c1799:
+    
+        # s g1 "That's... a lot of fruit analogies..."
+        s g1 "Это... довольно много фруктовых аналогий..."
+    
+    # game/jobReport.rpy:857
+    translate russia nextReport_f8361766:
+    
+        # y "I'm hungry, gimmi a break."
+        y "Что-то я проголодался, дай мне немного передохнуть."
+    
+    # game/jobReport.rpy:859
+    translate russia nextReport_c21bc5df:
+    
+        # y "If you know they pay well, maybe. But in general I would discourage it."
+        y "Если ты знаешь, что там хорошо платят, то возможно. Но в целом я бы не рекомендовал этого делать."
+    
+    # game/jobReport.rpy:860
+    translate russia nextReport_1a83f65c:
+    
+        # y "Don't want all those filthy hands on my slave girls!"
+        y "Не хочу, чтобы все эти грязные руки прикасались к моим рабыням!"
+    
+    # game/jobReport.rpy:861
+    translate russia nextReport_bab3d1f6:
+    
+        # s g3 "We're not slave girls..."
+        s g3 "Мы не рабыни..."
+    
+    # game/jobReport.rpy:862
+    translate russia nextReport_8bd4a13a:
+    
+        # y "Yet~...."
+        y "Пока-что~...."
+    
+    # game/jobReport.rpy:863
+    translate russia nextReport_5e3be3cc:
+    
+        # s "Keep your sexual fantasies to yourself, [playerName]."
+        s "Держи свои сексуальные фантазии при себе, [playerName]."
+    
+    # game/jobReport.rpy:865
+    translate russia nextReport_30d6c009:
+    
+        # s g11 "Maybe we should stop selling alcohol in this place. It is a milkshake bar after all."
+        s g11 "Может, нам стоит прекратить продажу алкоголя в баре. В конце концов, это молочный коктейль-бар."
+    
+    # game/jobReport.rpy:866
+    translate russia nextReport_df8c0b54:
+    
+        # y "Yeah good idea. Maybe bring the wife and kids while you're at it."
+        y "Да, хорошая идея. И раз уж ты начала, ещё стоит пригласить сюда женщин и детей."
+    
+    # game/jobReport.rpy:867
+    translate russia nextReport_f964420f:
+    
+        # s g10 "..................."
+        s g10 "..................."
+    
+    # game/jobReport.rpy:868
+    translate russia nextReport_dfae448f:
+    
+        # y "It's a tittie bar Sam. People come here for beer and well endowed women."
+        y "Это сиськобар Сэм. Люди приезжают сюда за пивом и прекрасными женщинами."
+    
+    # game/jobReport.rpy:869
+    translate russia nextReport_f8df86ef:
+    
+        # s "Fine..."
+        s "Лаадно..."
+    
+    # game/jobReport.rpy:871
+    translate russia nextReport_7b6a6348:
+    
+        # s g43 ".............."
+        s g43 ".............."
+    
+    # game/jobReport.rpy:872
+    translate russia nextReport_2b3e284d:
+    
+        # y "Yeees...?"
+        y "Дааа...?"
+    
+    # game/jobReport.rpy:873
+    translate russia nextReport_490b4e90:
+    
+        # s g45 "There was this one guy... right?"
+        s g45 "Там ведь был один паренёк... верно?"
+    
+    # game/jobReport.rpy:874
+    translate russia nextReport_cc747272:
+    
+        # s "He said he was going back to school..."
+        s "Он сказал, что собирается вернуться в школу..."
+    
+    # game/jobReport.rpy:875
+    translate russia nextReport_dab995a9:
+    
+        # y "Okay~..."
+        y "Окей~..."
+    
+    # game/jobReport.rpy:876
+    translate russia nextReport_3d17bdf1:
+    
+        # s "Said he was going to study interior designing."
+        s "Сказал, что собирается изучать дизайн интерьера."
+    
+    # game/jobReport.rpy:877
+    translate russia nextReport_ede56552:
+    
+        # s "And then asked if he could practise redesigning my interiors."
+        s "А затем спросил, может ли он попрактиковаться в переделке моих интерьеров."
+    
+    # game/jobReport.rpy:878
+    translate russia nextReport_796c3197:
+    
+        # y "{b}*Snicker*{/b}"
+        y "{b}*Смех*{/b}"
+    
+    # game/jobReport.rpy:879
+    translate russia nextReport_bcd51024:
+    
+        # s g29 "It was a sex thing, wasn't it!? I knew it! All the other guys were laughing aswell!"
+        s g29 "Сексуальный подтекст, не так ли!? Я так и знала! Все остальные парни тоже смеялись!"
+    
+    # game/jobReport.rpy:880
+    translate russia nextReport_0b48530a:
+    
+        # s "I don't get it! How does redesigning my inte-...."
+        s "Я не понимаю! Как практика в переделке моего интер-...."
+    
+    # game/jobReport.rpy:882
+    translate russia nextReport_826406c3:
+    
+        # s g30 ".....!"
+        s g30 ".....!"
+    
+    # game/jobReport.rpy:883
+    translate russia nextReport_4e5d006c:
+    
+        # y "Now she gets it~...."
+        y "Теперь до неё дошло~...."
+    
+    # game/jobReport.rpy:884
+    translate russia nextReport_e88955ff:
+    
+        # s g40 "I'm going back to my cell!!"
+        s g40 "Пойду в свою комнату!!!"
+    
+    # game/jobReport.rpy:885
+    translate russia nextReport_92bf9dae:
+    
+        # "Sam storms off."
+        "Сэм убегает."
+    
+    # game/jobReport.rpy:887
+    translate russia nextReport_09ecdc8d:
+    
+        # s g1 "Hey [playerName]. I added hot wings to the menu. Customers were asking for them."
+        s g1 "О, [playerName]. Я добавил в меню горячие крылышки. Клиенты спрашивали о них."
+    
+    # game/jobReport.rpy:888
+    translate russia nextReport_c053ee63:
+    
+        # y "Goo-... wait... we didn't serve hotwings yet?"
+        y "Хор-... стоп... мы не подаём горячие крылышки?"
+    
+    # game/jobReport.rpy:889
+    translate russia nextReport_9378352f:
+    
+        # s g11 "No... we just kinda serve crap. No wonder people aren't visiting."
+        s g11 "Нет... но мы подаём дерьмо. Неудивительно, что люди не посещают нас."
+    
+    # game/jobReport.rpy:890
+    translate russia nextReport_6edb7337:
+    
+        # y "Well... the food is probably not the reason why they're visiting~..."
+        y "Нуу... вероятно еда не является причиной их посещения~..."
+    
+    # game/jobReport.rpy:891
+    translate russia nextReport_12303a1a:
+    
+        # s g1 "Yeah well... I like hot wings too, so now everyone's happy."
+        s g1 "Даа... я и подумала что горячие крылышки это то что нам нужно. Так что теперь все должны быть довольны, я вот например люблю крылышки."
+    
+    # game/jobReport.rpy:893
+    translate russia nextReport_791b2199:
+    
+        # s g42 "[playerName] we have to do something about the slippery floor in the kitchen."
+        s g42 "[playerName] нам нужно что-то сделать со скользким полом на кухне."
+    
+    # game/jobReport.rpy:894
+    translate russia nextReport_8a70fdb2:
+    
+        # s "I almost slipped twice now and it's causing me to spill drinks on myself."
+        s "Я уже дважды чуть не подскользнулась, из-за этого я постоянно проливаю на себя напитки."
+    
+    # game/jobReport.rpy:895
+    translate russia nextReport_9a78f174:
+    
+        # y "................"
+        y "................"
+    
+    # game/jobReport.rpy:896
+    translate russia nextReport_e914df94:
+    
+        # s g10 "[playerName]... I'd rather go ahead and spill these drinks on myself voluntarily, than risk breaking my neck."
+        s g10 "[playerName]... Я лучше пролью эти напитки на себя добровольно, чем рисковать и сломать себе шею."
+    
+    # game/jobReport.rpy:897
+    translate russia nextReport_4fe80b37:
+    
+        # y "Okay fair enough. I'll see what I can do."
+        y "Справедливо. Посмотрю, что можно с этим сделать."
+    
+    # game/jobReport.rpy:900
+    translate russia nextReport_50567fc9:
+    
+        # s g3 "So... I tried something new today~..."
+        s g3 "Так... Сегодня я попробовала кое-что новое~..."
+    
+    # game/jobReport.rpy:901
+    translate russia nextReport_0ab87bad:
+    
+        # s g22 "I erm... danced."
+        s g22 "Я эмм... танцевала."
+    
+    # game/jobReport.rpy:902
+    translate russia nextReport_cd7d1f72:
+    
+        # y "Danced?"
+        y "Танцевала?"
+    
+    # game/jobReport.rpy:903
+    translate russia nextReport_4e6b3f97:
+    
+        # s "Heh yeah... I got up on the bar and put on a show to the patrons."
+        s "Хех даа... Я залезла на барную стойку и устроила шоу для посетителей."
+    
+    # game/jobReport.rpy:905
+    translate russia nextReport_966d97c0:
+    
+        # s g48 "And I er... took my top off..{w} and my bottom...."
+        s g48 "И я эмм... сняла свой топ..{w} и шорты...."
+    
+    # game/jobReport.rpy:906
+    translate russia nextReport_96d4200a:
+    
+        # y "You gave a strip show."
+        y "Да ты устроила целое стрип-шоу!"
+    
+    # game/jobReport.rpy:907
+    translate russia nextReport_06472b93:
+    
+        # s g28 "It was so sexy! Getting naked in front of a crowd of people as they cheered and hollered!"
+        s g28 "Это было так сексуально! Обнажаться перед толпой людей, когда они аплодируют и кричат!"
+    
+    # game/jobReport.rpy:909
+    translate russia nextReport_852f8510:
+    
+        # s g48 "Then some of the staff joined in aswell~.... ♥"
+        s g48 "Позже некоторые сотрудники тоже присоединились~.... ♥"
+    
+    # game/jobReport.rpy:910
+    translate russia nextReport_bd2bc81c:
+    
+        # s "Basicaly we gave a stripshow in broad daylight."
+        s "Это было стриптиз-шоу средь бела дня!"
+    
+    # game/jobReport.rpy:911
+    translate russia nextReport_1ea5c250:
+    
+        # y "Made any tips?"
+        y "Как насчёт чаевых?"
+    
+    # game/jobReport.rpy:912
+    translate russia nextReport_11d931e9:
+    
+        # s g1 "I sure did! Here..."
+        s g1 "Конечно! Вот..."
+    
+    # game/jobReport.rpy:918
+    translate russia nextReport_4f43ff05:
+    
+        # y "Nice. You should do this more often."
+        y "Отлично. Тебе стоит почяще заниматься такой \"инициативой\"."
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: "Couldn't load nvlib." (can be ignored)
+Interface start took 1.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1800, 1200)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'Intel'
+Renderer: 'Intel(R) HD Graphics 615'
+Version: '4.6.0 - Build 26.20.100.7637'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 95.08s
+Early init took 0.00s
+Loader init took 0.55s
+Loading error handling took 0.26s
+Loading script took 5.86s
 Loading save slot metadata. took 0.09s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Set script version to: (7, 4, 6)
-Running init code took 0.73s
-Loading analysis data took 0.74s
-Analyze and compile ATL took 0.23s
+Running init code took 0.72s
+Loading analysis data took 0.59s
+Analyze and compile ATL took 0.25s
 Index archives took 0.00s
-Dump and make backups. took 0.43s
+Dump and make backups. took 0.41s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.49s
+Initial gc. took 0.80s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.41s
+Init translation took 0.55s
 Build styles took 0.01s
 Load screen analysis took 0.00s
-Analyze screens took 0.27s
-Save screen analysis took 1.32s
-Prepare screens took 1.78s
+Analyze screens took 0.29s
+Save screen analysis took 1.71s
+Prepare screens took 1.83s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.02s
 Performance test:
-Interface start took 0.70s
+Interface start took 0.52s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
