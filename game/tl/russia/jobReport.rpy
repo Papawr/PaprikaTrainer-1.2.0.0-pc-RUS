@@ -22,7 +22,7 @@ translate russia jobReport_ec769683:
 translate russia nextReport_c945afd1:
 
     # "Sam brought home a Trick or Treat bag today. Check your ITEMS to see what's inside!"
-    "Сегодня Сэм пренесла домой сумку \"Кошелек или жизнь\". Проверьте свои вещи, чтобы узнать, что внутри!"
+    "Сэм принесла домой сумку \"Кошелек или жизнь\". Проверьте свои ВЕЩИ, чтобы узнать, что внутри!"
 
 # game/jobReport.rpy:137
 translate russia nextReport_0a606abc:
@@ -1738,13 +1738,13 @@ translate russia nextReport_25e6bc90:
 translate russia nextReport_330eb494:
 
     # y "Well, how was it?"
-    y "И как всё прошло?"
+    y "Ну, и как всё прошло?"
 
 # game/jobReport.rpy:668
 translate russia nextReport_3048a9a3:
 
     # s g12 "I guess it wasn't {i}that{/i} bad."
-    s g12 "Думаю, это было {i}не так уж и{/i} плохо."
+    s g12 "Думаю, это было {i}не так уж и плохо{/i}."
 
 # game/jobReport.rpy:669
 translate russia nextReport_5a32c3c0:
@@ -1768,7 +1768,7 @@ translate russia nextReport_12a83406:
 translate russia nextReport_55de57cc:
 
     # s g34 "Good actually. I ended up serving him soda's and chips in my bikini and he was more than happy to 'repay the favor'. So to speak."
-    s g34 "Довольно, хорошо. В итоге я угостила его содовой и чипсами в своем бикини, и он был более чем счастлив \"отплатить услугу\". Так сказать."
+    s g34 "Довольно, хорошо. В итоге я угостила его содовой и чипсами в своем бикини, и он был более чем счастлив \"отблагодарить за услугу\". Так сказать."
 
 # game/jobReport.rpy:673
 translate russia nextReport_027d0214:
@@ -5392,7 +5392,7 @@ translate russia nextReport_07ede2fb:
 translate russia nextReport_c7c932b0:
 
     # c r16 "Er... not really.{w} Are you suggesting I start giving the customers boobjobs?"
-    c r16 "Ээм... не совсем.{w} Ты предлагаешь мне начать делать клиентам сиськотрах?"
+    c r16 "Ээм... не совсем.{w} Ты предлагаешь мне начать делать клиентам пайзури?"
 
 # game/jobReport.rpy:1889
 translate russia nextReport_687e5c25:
@@ -5572,7 +5572,7 @@ translate russia nextReport_67d58a27:
 translate russia nextReport_f4a16a01:
 
     # c "Maybe I should wear it during boobjobs!"
-    c "Думаю, мне стоит носить его во время сиськотраха!"
+    c "Думаю, мне стоит носить его во время пайзури!"
 
 # game/jobReport.rpy:1924
 translate russia nextReport_7fa976bb:
@@ -5878,87 +5878,87 @@ translate russia nextReport_d2312450:
 translate russia nextReport_684d6f72:
 
     # c r10 "The floor in the bar is getting sticky from all the spilled milkshakes."
-    c r10 ""
+    c r10 "Пол в баре всё чаще становится липким от всех этих пролитых коктейлей."
 
 # game/jobReport.rpy:1990
 translate russia nextReport_dc2d23ee:
 
     # y "Ah come on, it can't be {i}'that'{/i} bad, right?"
-    y ""
+    y "Да ладно тебе, это не может быть {i}'на столько'{/i} плохо, ведь так?"
 
 # game/jobReport.rpy:1991
 translate russia nextReport_2d155f17:
 
     # c "A customer's chiwawa got stuck, glued to the floor."
-    c ""
+    c "Чихуахуа клиента приклеилась к полу."
 
 # game/jobReport.rpy:1992
 translate russia nextReport_4b19b5d6:
 
     # y "Oh... I'll go get the mop."
-    y ""
+    y "Ох... Пойду принесу пожалуй швабру."
 
 # game/jobReport.rpy:1994
 translate russia nextReport_192044a8:
 
     # c r1 "Cherry?"
-    c r1 ""
+    c r1 "Вишню?"
 
 # game/jobReport.rpy:1995
 translate russia nextReport_9e2580ac:
 
     # y "Cherry?"
-    y ""
+    y "Вишню?"
 
 # game/jobReport.rpy:1996
 translate russia nextReport_0611f31e:
 
     # "Clover holds up a cherry for you."
-    ""
+    "Кловер протягивает вам вишню."
 
 # game/jobReport.rpy:1997
 translate russia nextReport_6e8b6640:
 
     # y "Oh... sure. Thanks."
-    y ""
+    y "Ох... конечно. Спасибо."
 
 # game/jobReport.rpy:1998
 translate russia nextReport_9883b516:
 
     # c "We got too many of these. Normally we put them on top of the milkshakes, but there's more cherries than milk now."
-    c ""
+    c "У нас их слишком много. Обычно мы кладем их сверху на молочные коктейли, но сейчас вишни больше, чем молока."
 
 # game/jobReport.rpy:2000
 translate russia nextReport_f423ae39:
 
     # c "Bounce bounce bounce~..."
-    c ""
+    c "Прыг-скок прыг-скок прыг-скок~..."
 
 # game/jobReport.rpy:2001
 translate russia nextReport_92f4facc:
 
     # y "What are you doing...?"
-    y ""
+    y "Что ты делаешь...?"
 
 # game/jobReport.rpy:2002
 translate russia nextReport_c0db1492:
 
     # c "Bouncing my boobs."
-    c ""
+    c "Трясу сиськами."
 
 # game/jobReport.rpy:2003
 translate russia nextReport_3e85e6f9:
 
     # y "I can see that.... Why?"
-    y ""
+    y "Я вижу.... А зачем?"
 
 # game/jobReport.rpy:2004
 translate russia nextReport_660bc554:
 
     # c r22 "Well cause y'know...{w}{i} My milkshakes bring all the boys to the yard. ♫♪{/i}"
-    c r22 ""
+    c r22 "Ну знаешь ли....{w}{i} My milkshakes bring all the boys to the yard. ♫♪ (Мои молочные коктейли собирают всех мальчишек во дворе.) ♫♪{/i}"
 
-# game/jobReport.rpy:2005
+# game/jobReport.rpy:2005Мои молочные коктейли собирают всех мальчишек во дворе.
 translate russia nextReport_c98142a2_1:
 
     # y ".................."
@@ -5968,43 +5968,43 @@ translate russia nextReport_c98142a2_1:
 translate russia nextReport_71444f9c:
 
     # c r11 "I've got a problem..."
-    c r11 ""
+    c r11 "У меня проблема..."
 
 # game/jobReport.rpy:2009
 translate russia nextReport_fa7c493d:
 
     # c "A customer called me a whore today and my nipples got hard."
-    c ""
+    c "Сегодня клиент назвал меня шлюхой, и у меня затвердели соски."
 
 # game/jobReport.rpy:2010
 translate russia nextReport_b32677f1:
 
     # y "Well you are a whore."
-    y ""
+    y "Ну так ты и есть шлюха."
 
 # game/jobReport.rpy:2011
 translate russia nextReport_4b4ab5f0:
 
     # c r42 "No, don't you start aswell...!"
-    c r42 ""
+    c r42 "Нет, только ты не начинай...!"
 
 # game/jobReport.rpy:2012
 translate russia nextReport_b8307ca7:
 
     # y "Go on, undress whore."
-    y ""
+    y "Давай, раздевайся шлюха."
 
 # game/jobReport.rpy:2013
 translate russia nextReport_0e8b23dc:
 
     # c r30 "R-right here?"
-    c r30 ""
+    c r30 "П-прям здесь?"
 
 # game/jobReport.rpy:2014
 translate russia nextReport_311ac829:
 
     # y "Did I stutter?"
-    y ""
+    y "Я выразился невнятно?"
 
 # game/jobReport.rpy:2015
 translate russia nextReport_0aad1a51:
@@ -6016,13 +6016,13 @@ translate russia nextReport_0aad1a51:
 translate russia nextReport_04462b70:
 
     # y "Hmmm...."
-    y ""
+    y "Хммм...."
 
 # game/jobReport.rpy:2021
 translate russia nextReport_3ad7ae48:
 
     # y "Yup, hard enough to cut glass with."
-    y ""
+    y "Хух, уже достаточно твердый, чтобы резать им стекло."
 
 # game/jobReport.rpy:2023
 translate russia nextReport_b6c8882c:
@@ -6034,271 +6034,271 @@ translate russia nextReport_b6c8882c:
 translate russia nextReport_626d0c82:
 
     # c "Can I go back to my cell now...?"
-    c ""
+    c "Можно я уже вернусь в свою комнату...?"
 
 # game/jobReport.rpy:2025
 translate russia nextReport_9b43379e:
 
     # y "Didn't say the magic word~..."
-    y ""
+    y "А волшебное слово~..."
 
 # game/jobReport.rpy:2026
 translate russia nextReport_5e120d38:
 
     # c r14 "Can I go back to my cell now... master?"
-    c r14 ""
+    c r14 "Могу я теперь вернуться в свою камеру... хозяин?"
 
 # game/jobReport.rpy:2027
 translate russia nextReport_4b7c5e29:
 
     # y "There we go. Off you go slut."
-    y ""
+    y "Вот так. Иди уже, шлюха."
 
 # game/jobReport.rpy:2030
 translate russia nextReport_afb69cf0:
 
     # c r1 "I gotta say. Serving customers naked is really fun."
-    c r1 ""
+    c r1 "Должна сказать. Обслуживать клиентов голой - это действительно весело."
 
 # game/jobReport.rpy:2031
 translate russia nextReport_5e269a53_2:
 
     # y "Oh?"
-    y ""
+    y "Ага?"
 
 # game/jobReport.rpy:2032
 translate russia nextReport_3a0f2c79:
 
     # c r1 "Some meals come with perks like getting your food served by a naked waitress."
-    c r1 ""
+    c r1 "Некоторые блюда имеют свои преимущества, особенно, когда вам приносит еду обнаженная официантка."
 
 # game/jobReport.rpy:2033
 translate russia nextReport_4b0ea7b0:
 
     # c "They're expensive, but if someone orders them, the whole bar starts cheering."
-    c ""
+    c "Эти блюда, как правило, дорогие, но если кто-то их заказывает, весь бар начинает аплодировать."
 
 # game/jobReport.rpy:2034
 translate russia nextReport_125e2506:
 
     # c "It's fun for the customer and it's making me feel great about myself."
-    c ""
+    c "Клиентом это нравится, и я чувствую себя прекрасно."
 
 # game/jobReport.rpy:2035
 translate russia nextReport_f39980ce:
 
     # c r1 "Plus the guests leave much better tips."
-    c r1 ""
+    c r1 "К тому же тогда гости оставляют гораздо больше чаевых."
 
 # game/jobReport.rpy:2036
 translate russia nextReport_71f8061f:
 
     # y "I'm glad that you're taking your role as a waitress so serious."
-    y ""
+    y "Я рад, что ты так серьезно относишься к своей роли официантки."
 
 # game/jobReport.rpy:2038
 translate russia nextReport_4d5cfbea:
 
     # c r10 "Pretty boring day. Not much to talk about."
-    c r10 ""
+    c r10 "Сегодня довольно скучный день. Не о чем рассказывать."
 
 # game/jobReport.rpy:2041
 translate russia nextReport_2709b0ee:
 
     # c r1 "Those boobjobs we practised are really coming in handy."
-    c r1 ""
+    c r1 "Мне очень пригодилась та практика в пайзури."
 
 # game/jobReport.rpy:2042
 translate russia nextReport_6576bf37:
 
     # c "Everyone wants a piece of them."
-    c ""
+    c "Каждый хочет получить свой \"кусочек\"."
 
 # game/jobReport.rpy:2043
 translate russia nextReport_ae28cf49:
 
     # y "You're giving customers boobjobs now?"
-    y ""
+    y "Ты теперь делаешь клиентам пайзури?"
 
 # game/jobReport.rpy:2044
 translate russia nextReport_a6e3c14f:
 
     # c r2 "Nah, but they can grope if they want."
-    c r2 ""
+    c r2 "Неет, но любой желающий может полапать меня, если захочет."
 
 # game/jobReport.rpy:2045
 translate russia nextReport_1e2c4dbe:
 
     # c r3 "Plus I learned all kinds of ways of moving without using my hands."
-    c r3 ""
+    c r3 "Кроме того, я научилась всевозможным способам \"радовать\" наших клиентов без использования рук."
 
 # game/jobReport.rpy:2046
 translate russia nextReport_0994fe54:
 
     # "Closer stands on the spot and bounces her boobs around."
-    ""
+    "Кловер стоя на месте и подпрыгивает, её грудь сексуально \"подмигивает\" вам."
 
 # game/jobReport.rpy:2047
 translate russia nextReport_b112feea:
 
     # y "Truly a talent to be treasured."
-    y ""
+    y "У тебя поистине талант, которым стоит дорожить."
 
 # game/jobReport.rpy:2049
 translate russia nextReport_0995d7fa:
 
     # c r10 "Well... you did it."
-    c r10 ""
+    c r10 "Что ж... ты это сделал."
 
 # game/jobReport.rpy:2050
 translate russia nextReport_d1642ce7:
 
     # y "Huh?"
-    y ""
+    y "Хм?"
 
 # game/jobReport.rpy:2051
 translate russia nextReport_4b6c101c:
 
     # c "I nearly choked on a hotdog today and didn't even have a gag reflex."
-    c ""
+    c "Сегодня я чуть не подавилась хот-догом, а у меня даже не было рвотного рефлекса."
 
 # game/jobReport.rpy:2052
 translate russia nextReport_c48d371b:
 
     # y "{b}*Smirk*{/b} I'm happy to have helped you develop that skill."
-    y ""
+    y "{b}*Ухмылка*{/b} Рад, что помог тебе развить этот навык."
 
 # game/jobReport.rpy:2054
 translate russia nextReport_03ee73c1:
 
     # c r1 "Moneeeey!"
-    c r1 ""
+    c r1 "Деееееньги!"
 
 # game/jobReport.rpy:2058
 translate russia nextReport_9ed43b4f:
 
     # y "Woah, how'd you get this?"
-    y ""
+    y "ОГО, откуда у тебя это?"
 
 # game/jobReport.rpy:2059
 translate russia nextReport_73d702ed:
 
     # c r3 "Not saying~...."
-    c r3 ""
+    c r3 "Не скажу~...."
 
 # game/jobReport.rpy:2060
 translate russia nextReport_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/jobReport.rpy:2061
 translate russia nextReport_06fbb684:
 
     # y "You smell sweet..."
-    y ""
+    y "Ты сладко пахнешь..."
 
 # game/jobReport.rpy:2062
 translate russia nextReport_73aad4f6:
 
     # "{b}*Poke*{/b}"
-    ""
+    "{b}*Тык*{/b}"
 
 # game/jobReport.rpy:2063
 translate russia nextReport_3623f73b:
 
     # y "And you're sticky..."
-    y ""
+    y "И липкая..."
 
 # game/jobReport.rpy:2064
 translate russia nextReport_7afc4929:
 
     # c r2 "Er... hehe~..."
-    c r2 ""
+    c r2 "Эхх... хехе~..."
 
 # game/jobReport.rpy:2065
 translate russia nextReport_af202a45:
 
     # y "Almost like you were drenched in milkshakes~..."
-    y ""
+    y "Как будто тебя облили молочным коктейлем~..."
 
 # game/jobReport.rpy:2066
 translate russia nextReport_ec0cf57c:
 
     # c "All right, I'm off to my cell now!"
-    c ""
+    c "Отлично, я пошла в свою комнату!"
 
 # game/jobReport.rpy:2068
 translate russia nextReport_9b72e8c3:
 
     # c r22 "Hey [playerName]. Are we going to have sex tonight?"
-    c r22 ""
+    c r22 "Привет [playerName]. Займёмся сексом сегодня вечером?"
 
 # game/jobReport.rpy:2069
 translate russia nextReport_29a264fb:
 
     # y "Eager, aren't we?"
-    y ""
+    y "Не терпится, не так ли?"
 
 # game/jobReport.rpy:2070
 translate russia nextReport_64191444:
 
     # c r24 "It has been an incredibly hot day today. With waitresses getting naked and dancing on tables, to getting my whole body groped."
-    c r24 ""
+    c r24 "Сегодня был невероятно жаркий день. Официантки раздевались и танцевали на столах, а меня лапали везде где только можно."
 
 # game/jobReport.rpy:2071
 translate russia nextReport_27d873ca:
 
     # c r42 "I'm so pent-up with sexual frustration right now, I could anyone."
-    c r42 ""
+    c r42 "Я сейчас так возбуждена, дала бы кому угодно."
 
 # game/jobReport.rpy:2072
 translate russia nextReport_28fb9756:
 
     # y "Anyone?"
-    y ""
+    y "Кому угодно."
 
 # game/jobReport.rpy:2073
 translate russia nextReport_a1cfe3a5:
 
     # c r15 "Yeah."
-    c r15 ""
+    c r15 "Даа."
 
 # game/jobReport.rpy:2074
 translate russia nextReport_d9f5a85b:
 
     # y "What about Tim Scam?"
-    y ""
+    y "Как насчёт Тима Скама?"
 
 # game/jobReport.rpy:2075
 translate russia nextReport_91f37bf7:
 
     # c "Yeah I could fuck him."
-    c ""
+    c "Да, с удовольствием."
 
 # game/jobReport.rpy:2076
 translate russia nextReport_b8d870df:
 
     # y "What about the bookstore clerk?"
-    y ""
+    y "А как насчёт продавщицы из книжного магазина?"
 
 # game/jobReport.rpy:2077
 translate russia nextReport_c7ffb7c8:
 
     # c "I'd be pegging that girl all night."
-    c ""
+    c "Я бы трахала её всю ночь.♥"
 
 # game/jobReport.rpy:2078
 translate russia nextReport_c62cc9d9:
 
     # y "What about Mathias?"
-    y ""
+    y "А как же Матиас?"
 
 # game/jobReport.rpy:2079
 translate russia nextReport_21c559d2:
 
     # c r29 "Ma-...?"
-    c r29 ""
+    c r29 "Мв-...?"
 
 # game/jobReport.rpy:2081
 translate russia nextReport_cdf6cd4f:
@@ -6310,19 +6310,19 @@ translate russia nextReport_cdf6cd4f:
 translate russia nextReport_208ca393:
 
     # y "Yeah yeah, maybe after all of this is over you two can get together."
-    y ""
+    y "Ага, может после того, как всё это закончится, вы сможете встретиться."
 
 # game/jobReport.rpy:2083
 translate russia nextReport_c20a5de1:
 
     # y "For now head back to your cell. I might visit you later."
-    y ""
+    y "А пока возвращайся в свою комнату. Навещу тебя позже."
 
 # game/jobReport.rpy:2099
 translate russia nextReport_05668e3c:
 
     # c "I'm back from working with Les Epines."
-    c ""
+    c "Я вернулась с работы в Les Epines."
 
 # game/jobReport.rpy:2103
 translate russia nextReport_36222352_4:
@@ -6352,13 +6352,13 @@ translate russia nextReport_4c3a6df5:
 translate russia nextReport_7a0ae40a:
 
     # y r31 "Clover?"
-    y r31 ""
+    y r31 "Кловер?"
 
 # game/jobReport.rpy:2151
 translate russia nextReport_756510bb:
 
     # c "Shh!"
-    c ""
+    c "Шшш!"
 
 # game/jobReport.rpy:2152
 translate russia nextReport_9a78f174_3:
@@ -6370,79 +6370,79 @@ translate russia nextReport_9a78f174_3:
 translate russia nextReport_07303dbb:
 
     # c r38 "Okay, I think I lost him."
-    c r38 ""
+    c r38 "Ладно, похоже я его упустила."
 
 # game/jobReport.rpy:2154
 translate russia nextReport_483a22b8:
 
     # c r10 "I angered a bee and it's been following me around all day."
-    c r10 ""
+    c r10 "Я разозлил пчелу, и она преследовала меня весь день."
 
 # game/jobReport.rpy:2156
 translate russia nextReport_ecffbbc2:
 
     # c r10 "Do you think Silva will get angry if I bring some weed killer?"
-    c r10 ""
+    c r10 "Как думаешь, Сильва сильно рассердится, если я принесу средство для уничтожения сорняков?"
 
 # game/jobReport.rpy:2157
 translate russia nextReport_36832d7a:
 
     # c "Some of her vines were getting a little too comfortable.... If you get what I'm saying."
-    c ""
+    c "Некоторые из её лоз чувствуют себя слишком свободно.... Если ты понимаешь, о чем я."
 
 # game/jobReport.rpy:2159
 translate russia nextReport_b1383d3e:
 
     # c r10 "Silva is a weird one... She seems to love company and at the same time has an intense hatred of humanity."
-    c r10 ""
+    c r10 "Сильва - странная... Кажется, что она любит быть в компанию и в то же время испытывает острую ненависть к человечеству."
 
 # game/jobReport.rpy:2160
 translate russia nextReport_fbd7ffb4:
 
     # c r12 "Anyways, I had to steal these seeds for her. They're used to grow this dangerous killer plant."
-    c r12 ""
+    c r12 "В общем, мне пришлось украсть семена для неё. Они используются для выращивания опасного растения-убийцы."
 
 # game/jobReport.rpy:2161
 translate russia nextReport_ffa0ef2c:
 
     # y "That sounds risky..."
-    y ""
+    y "Звучит рискованно..."
 
 # game/jobReport.rpy:2162
 translate russia nextReport_eb6f59d2:
 
     # c "Well it takes ten years for them to mature, so as long as we deal with this situation before then, I think we'll be fine."
-    c ""
+    c "Им требуется десять лет, чтобы созреть, так что если мы разберёмся с этой ситуацией, думаю, все будет в порядке."
 
 # game/jobReport.rpy:2164
 translate russia nextReport_a09fb8de:
 
     # c r16 "Have you ever noticed the smell at Abegail's jungle?"
-    c r16 ""
+    c r16 "Ты когда-нибудь обращял внимания на запах в джунглях Абегайл?"
 
 # game/jobReport.rpy:2165
 translate russia nextReport_daa1abff:
 
     # c "You'd think it would smell nice, with all the flowers and all."
-    c ""
+    c "Можно подумать, что здесь приятно пахнет, все эти цветы и всё такое."
 
 # game/jobReport.rpy:2166
 translate russia nextReport_4232e55b:
 
     # c r12 "But she has these nasty inspect eating plants that just smell like rotting flesh."
-    c r12 ""
+    c r12 "Но у неё есть эти отвратительные растения, которые просто пахнут гниющей плотью."
 
 # game/jobReport.rpy:2168
 translate russia nextReport_9b44acba:
 
     # c r14 "{i}♫♪ Ring around the rosie. Pocket full of posies. ♫♪{/i}"
-    c r14 ""
+    c r14 "{i}♫♪ Ring around the rosie. Pocket full of posies. ♫♪{/i} ()"
 
 # game/jobReport.rpy:2169
 translate russia nextReport_9caa4bdf:
 
     # c r1 "Did you know that posies were a small bouquet of flowers worn during the bubonic plague in England?"
-    c r1 ""
+    c r1 "Ты ведь знаешь что, что \"posies\" - это небольшой букет цветов, который носили во время бубонной чумы в Англии?"
 
 # game/jobReport.rpy:2170
 translate russia nextReport_05bf074c_3:
@@ -6454,151 +6454,151 @@ translate russia nextReport_05bf074c_3:
 translate russia nextReport_49fba412:
 
     # y "Learned that from Silva?"
-    y ""
+    y "Научилась этому у Сильвы?"
 
 # game/jobReport.rpy:2172
 translate russia nextReport_a672c553:
 
     # c r3 "Yuuuup."
-    c r3 ""
+    c r3 "Даааа"
 
 # game/jobReport.rpy:2187
 translate russia nextReport_29754abe:
 
     # c "I'm back from robbing a store."
-    c ""
+    c "Я вернулась с ограбления магазина."
 
 # game/jobReport.rpy:2193
 translate russia nextReport_ffec6e0c:
 
     # c "Our notoriety went up a lot. I did make some money so you can have it..."
-    c ""
+    c "Наша известность сильно возросла. Я заработал немного денег, вот..."
 
 # game/jobReport.rpy:2203
 translate russia nextReport_d20e7f27:
 
     # c "I'm back from setting fire to things."
-    c ""
+    c "Я вернулась с поджога."
 
 # game/jobReport.rpy:2207
 translate russia nextReport_5ad41543:
 
     # c "Our notoriety went up quite a bit."
-    c ""
+    c "Наша известность немного выросла."
 
 # game/jobReport.rpy:2217
 translate russia nextReport_68a96c18:
 
     # c "I'm back from pickpocketing."
-    c ""
+    c "Закончила с карманной кражей."
 
 # game/jobReport.rpy:2223
 translate russia nextReport_ef87d519:
 
     # c r12 "Our notoriety went up a bit. It's not much, but it's a payday...."
-    c r12 ""
+    c r12 "Известности стало немного больше. Это не много, но хоть что-то...."
 
 # game/jobReport.rpy:2233
 translate russia nextReport_db215fbe:
 
     # c "I'm back from spraypainting the mall."
-    c ""
+    c "Разрисовала торговый центр."
 
 # game/jobReport.rpy:2237
 translate russia nextReport_96d40bf5:
 
     # c "Our notoriety went up a little bit."
-    c ""
+    c "А наша известность немного подросла."
 
 # game/jobReport.rpy:2247
 translate russia nextReport_0e957463:
 
     # c "I'm back from stealing cars."
-    c ""
+    c "Я вернулась и мне удалось украсть пару машин."
 
 # game/jobReport.rpy:2253
 translate russia nextReport_fdce50e5:
 
     # c "Our notoriety went up. I had to get rid of the car, so I sold it to a dealership. They paid me this much..."
-    c ""
+    c "Известность подскочила, а ещё мне нужно было срочно избавиться от этих машины, и я продал их одному дилеру. Вот сколько он мне заплатил..."
 
 # game/jobReport.rpy:2272
 translate russia nextReport_9ef27382:
 
     # c r12 "Boooring.... I spend the days breaking agents out of their nanobot control."
-    c r12 ""
+    c r12 "Скуууучно.... Я провожу дни на пролёт, вырывая агентов из-под контроля наноботов."
 
 # game/jobReport.rpy:2282
 translate russia nextReport_a6406534:
 
     # "Clover returns from spending the day relaxing at the mall."
-    ""
+    "Кловер возвращается после того, как провела день, отдыхая в торговом центре."
 
 # game/jobReport.rpy:2301
 translate russia nextReport_0c4981e5:
 
     # "Clover returns from spending the day relaxing at the beach."
-    ""
+    "Кловер возвращается после того, как провела день, отдыхая на пляже."
 
 # game/jobReport.rpy:2304
 translate russia nextReport_95324633_4:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Как отдохнула на пляже?"
 
 # game/jobReport.rpy:2305
 translate russia nextReport_c7fe4d0e:
 
     # c "I guess so..."
-    c ""
+    c "Думаю, да..."
 
 # game/jobReport.rpy:2309
 translate russia nextReport_95324633_5:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Удалось отдохнуть на пляже?"
 
 # game/jobReport.rpy:2310
 translate russia nextReport_f65c560e:
 
     # c "Yeah it wasn't bad, though my mind was elsewhere..."
-    c ""
+    c "Да, вполне не плохо, хотя я всё время думала о другом..."
 
 # game/jobReport.rpy:2314
 translate russia nextReport_95324633_6:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Как провела время на пляже?"
 
 # game/jobReport.rpy:2315
 translate russia nextReport_853d507e:
 
     # c "Yeah it was fun! I look so good in a swimsuit."
-    c ""
+    c "Да, было здорово! Этот купальник так хорошо на мне сидит."
 
 # game/jobReport.rpy:2319
 translate russia nextReport_95324633_7:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Отдохнула?"
 
 # game/jobReport.rpy:2320
 translate russia nextReport_33c22183:
 
     # c "I did! I had a great time!"
-    c ""
+    c "Да! Я прекрасно провела время!"
 
 # game/jobReport.rpy:2329
 translate russia nextReport_bab9b705_1:
 
     # "Clover brought home a Trick or Treat bag today. Check your ITEMS to see what's inside!"
-    ""
+    "Кловер принесла домой сумку \"Кошелек или жизнь\". Проверьте свои ВЕЩИ, чтобы узнать, что внутри!"
 
 # game/jobReport.rpy:2347
 translate russia nextReport_36d791cc:
 
     # c "I'm back from Mathias' place."
-    c ""
+    c "Я вернулась от Матиаса."
 
 # game/jobReport.rpy:2357
 translate russia nextReport_7cccf944:
@@ -6610,109 +6610,109 @@ translate russia nextReport_7cccf944:
 translate russia nextReport_330eb494_1:
 
     # y "Well, how was it?"
-    y ""
+    y "Ну, и как всё прошло?"
 
 # game/jobReport.rpy:2359
 translate russia nextReport_66f8b487:
 
     # c r12 "I guess it wasn't {i}that{/i} bad."
-    c r12 ""
+    c r12 "Думаю, это было {i}не так уж и плохо{/i}."
 
 # game/jobReport.rpy:2360
 translate russia nextReport_daf4c1d2:
 
     # c "Mathias seemed surprise when I showed up. Apperantly he didn't think you were serious when you promised him a bikini model."
-    c ""
+    c "Матиас удивился, когда я появилась. Видимо, он не думал, что ты серьёзно, отправишь ему модель в бикини."
 
 # game/jobReport.rpy:2361
 translate russia nextReport_7e251aee_1:
 
     # y "I like to stick to my word......{w} sometimes."
-    y ""
+    y "Я держу свои слова......{w} иногда."
 
 # game/jobReport.rpy:2362
 translate russia nextReport_12a83406_1:
 
     # y "So how did his research go?"
-    y ""
+    y "Итак, как прошло его исследование?"
 
 # game/jobReport.rpy:2363
 translate russia nextReport_a6e80917:
 
     # c r34 "Good actually. I ended up serving him soda's and chips in my bikini and he was more than happy to 'repay the favor'. So to speak."
-    c r34 ""
+    c r34 "Довольно, хорошо. В итоге я угостила его содовой и чипсами в своем бикини, и он был более чем счастлив \"отблагодарить за услугу\". Так сказать."
 
 # game/jobReport.rpy:2364
 translate russia nextReport_772937c7:
 
     # c "Anyways, he said that he had a breakthrough and that you should visit him tomorrow."
-    c ""
+    c "В общем, он сказал, что у него произошел прорыв и что ты должен навестить его завтра."
 
 # game/jobReport.rpy:2365
 translate russia nextReport_f1306fc8:
 
     # y "I might just do that! Well done, Clover."
-    y ""
+    y "Так и сделаем! Молодец, Кловер."
 
 # game/jobReport.rpy:2366
 translate russia nextReport_79684fe1:
 
     # c r37 "I... didn't actually do much, but thanks I guess."
-    c r37 ""
+    c r37 "Я... я на самом деле практически ничего не сделала, но спасибо наверное."
 
 # game/jobReport.rpy:2367
 translate russia nextReport_57ae1da2:
 
     # c "Not looking forward to doing it more often."
-    c ""
+    c "Не хочу больше этим заниматься."
 
 # game/jobReport.rpy:2370
 translate russia nextReport_a8d061cf_1:
 
     # y "How did it go?"
-    y ""
+    y "И как всё прошло?"
 
 # game/jobReport.rpy:2374
 translate russia nextReport_f3ea327b:
 
     # c r18 "Today he showed me his collection of figurines..."
-    c r18 ""
+    c r18 "Сегодня он показывал мне свою коллекцию статуэток..."
 
 # game/jobReport.rpy:2375
 translate russia nextReport_3185bfd1:
 
     # y "Oh boy, that must've been b-..."
-    y ""
+    y "О боже, это, должно быть, было оч-..."
 
 # game/jobReport.rpy:2376
 translate russia nextReport_d4744d0b:
 
     # c r28 "It was so cool. He was talking really passionate about them too."
-    c r28 ""
+    c r28 "Это было так здорово. Он так увлеченно и интересно о них рассказывал."
 
 # game/jobReport.rpy:2377
 translate russia nextReport_d6ca2062:
 
     # y "Er... okay?"
-    y ""
+    y "Эмм... лаадно?"
 
 # game/jobReport.rpy:2378
 translate russia nextReport_a24e20e6:
 
     # c r29 "He allowed me to borrow some of his comic books aswell."
-    c r29 ""
+    c r29 "Он также разрешил мне одолжить несколько из его комиксов."
 
 # game/jobReport.rpy:2379
 translate russia nextReport_b90cc513:
 
     # y "Since when are you into comics?"
-    y ""
+    y "С каких пор ты увлекаешься комиксами?"
 
 # game/jobReport.rpy:2380
 translate russia nextReport_fcbd08d1:
 
     # c r35 "{b}*Scoffs*{/b} I'm not, I'm just humoring him..."
-    c r35 "Насмехается"
+    c r35 "{b}*Насмехается*{/b} Не с каких, я просто подкалываю его..."
 
 # game/jobReport.rpy:2381
 translate russia nextReport_692be6fa_3:
@@ -6724,13 +6724,13 @@ translate russia nextReport_692be6fa_3:
 translate russia nextReport_0531d522:
 
     # y "Did you two get {i}'any'{/i} work done today?"
-    y ""
+    y "Вы двое успели {i}'поработать'{/i} сегодня?"
 
 # game/jobReport.rpy:2383
 translate russia nextReport_49350e2e:
 
     # c "Erm... very little."
-    c ""
+    c "Эмм... да немного."
 
 # game/jobReport.rpy:2384
 translate russia nextReport_d3a59cb5_1:
@@ -6742,49 +6742,49 @@ translate russia nextReport_d3a59cb5_1:
 translate russia nextReport_c47bdd1a:
 
     # c "It wasn't half bad. I walked around in my swimsuit, did some poses, showed off my butt."
-    c ""
+    c "Было не так уж и плохо. Я ходила в купальнике, вставала в позы, показывала свою попу."
 
 # game/jobReport.rpy:2389
 translate russia nextReport_56053866:
 
     # c "Mathias seemed more than pleased and made some decent progress today."
-    c ""
+    c "Матиас был более чем доволен сегодняшним прогрессом."
 
 # game/jobReport.rpy:2390
 translate russia nextReport_92054b96:
 
     # y "All right, I might send you out again soon."
-    y ""
+    y "Хорошо, возможно, я скоро снова отправлю тебя туда."
 
 # game/jobReport.rpy:2393
 translate russia nextReport_0cc011d4:
 
     # c "Mathias isn't that bad. He's kind of cute~..."
-    c ""
+    c "Матиас не такой уж и плохой. Он такой милый~..."
 
 # game/jobReport.rpy:2394
 translate russia nextReport_af3eced0:
 
     # y "Clover, focus."
-    y ""
+    y "Кловер, сфокусируйся."
 
 # game/jobReport.rpy:2395
 translate russia nextReport_325c1e07:
 
     # c "We got a lot of work done today and he's made great progress."
-    c ""
+    c "Мы сегодня много работали, и он добился большого прогресса."
 
 # game/jobReport.rpy:2396
 translate russia nextReport_c46b4473:
 
     # y "That's what I like to hear."
-    y ""
+    y "Мне нравится это слышать."
 
 # game/jobReport.rpy:2409
 translate russia nextReport_e59a2385:
 
     # "Alex brought home a Trick or Treat bag today. Check your ITEMS to see what's inside!"
-    ""
+    "Алекс принесла домой сумку \"Кошелек или жизнь\". Проверьте свои ВЕЩИ, чтобы узнать, что внутри!"
 
 # game/jobReport.rpy:2421
 translate russia nextReport_09abd248:
@@ -6814,97 +6814,97 @@ translate russia nextReport_7d7d2cda:
 translate russia nextReport_b7717680:
 
     # a "What does proletariat mean...?"
-    a ""
+    a "Что такое пролетариат...?"
 
 # game/jobReport.rpy:2453
 translate russia nextReport_ac17dec1_7:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/jobReport.rpy:2454
 translate russia nextReport_1b02121b:
 
     # a "That's what they called me today. That I'm a proletariat."
-    a ""
+    a "Они так сегодня меня называли. Говорили что я пролетариат."
 
 # game/jobReport.rpy:2455
 translate russia nextReport_c5e13546:
 
     # y "Let me guess, and they called themselves the bourgeoisie?"
-    y ""
+    y "Дай угадаю, а себя они называли буржуазии?"
 
 # game/jobReport.rpy:2456
 translate russia nextReport_8a15217d:
 
     # a "Yes! How did you know?"
-    a ""
+    a "Да! Откуда ты знаешь?"
 
 # game/jobReport.rpy:2457
 translate russia nextReport_c77b479d:
 
     # y "I had a hunge..."
-    y ""
+    y "Да так..."
 
 # game/jobReport.rpy:2459
 translate russia nextReport_6f9d3418:
 
     # a "I suggested we'd go to the candy store today!"
-    a ""
+    a "Сегодня я предложила пойти в магазин сладостей!"
 
 # game/jobReport.rpy:2460
 translate russia nextReport_86261b89:
 
     # y "And how did that go?"
-    y ""
+    y "И как?"
 
 # game/jobReport.rpy:2461
 translate russia nextReport_c242e8f4:
 
     # a "Everyone was down for it! I've had so much candy...!"
-    a ""
+    a "Все были за! Я съела столько конфет...!"
 
 # game/jobReport.rpy:2462
 translate russia nextReport_52b89324:
 
     # a "When I wanted to pay, they just laughed and pointed a gun at the cashier..."
-    a ""
+    a "А когда я хотел расплатиться, они просто рассмеялись и направили пистолет на кассира..."
 
 # game/jobReport.rpy:2463
 translate russia nextReport_9d5b48f0:
 
     # a "That maybe wasn't so fun..."
-    a ""
+    a "Возможно, это было не так уж и весело..."
 
 # game/jobReport.rpy:2464
 translate russia nextReport_a77bb107:
 
     # a "I'm feeling a bit sick from all the candy, so I think I'm gonna lie down now..."
-    a ""
+    a "Меня немного тошнит от всех этих конфет, так что я, пожалуй, прилягу..."
 
 # game/jobReport.rpy:2466
 translate russia nextReport_d0798ebe:
 
     # a "You know the tattoo place at the mall? A few of the gang members were getting tattoos, but before we got there, a rival gang showed up."
-    a ""
+    a "Ты знаешь тату-салон в торговом центре? Несколько членов банды делали татуировки, но не успели мы прийти, как появилась конкурирующая банда."
 
 # game/jobReport.rpy:2467
 translate russia nextReport_aa2839de:
 
     # a "They were acting all big and tough, but then I kicked one in the face and everyone was so surprised that we split up without anymore fighting."
-    a ""
+    a "Они строили из себя больших и крутых гангстеров. Но когда я ударила одного по лицу, все были так удивлены. В конце концов все разошлись без дальнейшей драки."
 
 # game/jobReport.rpy:2468
 translate russia nextReport_6809841e:
 
     # a "It was fun! They treated me to milkshakes afterwards."
-    a ""
+    a "Это было так здорово! Меня даже молочными коктейлями  угостили."
 
 # game/jobReport.rpy:2470
 translate russia nextReport_17bee12d:
 
     # a "Today we stole a diamond! They even gave me a piece of the profit!"
-    a ""
+    a "Сегодня нам удалось украсть бриллиант! Со мной даже поделились прибылью!"
 
 # game/jobReport.rpy:2474
 translate russia nextReport_6f323c89_1:
@@ -6916,151 +6916,151 @@ translate russia nextReport_6f323c89_1:
 translate russia nextReport_4f60056b:
 
     # y "They gave you 50 bucks for a diamond?"
-    y ""
+    y "Они дали тебе 50 баксов за целый алмаз?"
 
 # game/jobReport.rpy:2476
 translate russia nextReport_c19c103d:
 
     # a "I never said it was a big cut..."
-    a ""
+    a "Я же не сказала что это был большой куш..."
 
 # game/jobReport.rpy:2478
 translate russia nextReport_a8039fc1:
 
     # a "One of the Aces came on to me today."
-    a ""
+    a "Сегодня ко мне подошёл один из Тузов."
 
 # game/jobReport.rpy:2479
 translate russia nextReport_afd31aa4:
 
     # a "He was kinda cute, but he wanted me to dye my hair red."
-    a ""
+    a "Он был довольно симпатичным, но хотел, чтобы я покрасила волосы в рыжий."
 
 # game/jobReport.rpy:2480
 translate russia nextReport_99e03602:
 
     # a "Red is not my color! He was really weird about it. I bet they love Sam."
-    a ""
+    a "Красный - не мой цвет! Держу пари, Тузам нравиться Сэма, они помешались на рыжим цвете."
 
 # game/jobReport.rpy:2483
 translate russia nextReport_c8399a80:
 
     # a "Another day out fighting with the Aces! This time we got a big ol' truck and smashed it into a store window."
-    a ""
+    a "Ещё один день в бою с Тузами! На этот раз мы взяли большой грузовик и разбили им витрину магазина."
 
 # game/jobReport.rpy:2484
 translate russia nextReport_e4f50115:
 
     # a "I quickly got out and began loading things into the truck, but they just laughed and told me to stop."
-    a ""
+    a "Я тут же вышла и начала загружать вещи в грузовик, но они только рассмеялись и остановили меня."
 
 # game/jobReport.rpy:2485
 translate russia nextReport_f6d2514b:
 
     # a "I don't think they were actually in it for the money... They just did it for fun..."
-    a ""
+    a "Не думаю, что они занимались этим ради денег... Они сделли это просто ради забавы..."
 
 # game/jobReport.rpy:2487
 translate russia nextReport_72e9c816:
 
     # a "Pretty much the same as always. We robbed some people and stole a car."
-    a ""
+    a "В основном, как всегда. Мы ограбили несколько человек и угнали машину."
 
 # game/jobReport.rpy:2488
 translate russia nextReport_2a90aebc:
 
     # a "After a short joyride, they lost control over the wheel and landed in the water. I had to drag their dumb butts out of there before they drowned."
-    a ""
+    a "После короткой поездки они потеряли управление и упали в воду. Мне пришлось вытаскивать их тупые задницы, пока они не утонули."
 
 # game/jobReport.rpy:2489
 translate russia nextReport_4869625b:
 
     # a "They acted like they planned to drive into the water all along. The Aces are jerks."
-    a ""
+    a "Они вели себя так, будто с самого начала планировали закончить поездку в воде. Тузы - придурки."
 
 # game/jobReport.rpy:2491
 translate russia nextReport_e9ed7b48:
 
     # a "I had to beat up an old man today..."
-    a ""
+    a "Сегодня мне пришлось избить старика..."
 
 # game/jobReport.rpy:2492
 translate russia nextReport_fb83d07d:
 
     # y "Woah, what?"
-    y ""
+    y "Ч-что?"
 
 # game/jobReport.rpy:2493
 translate russia nextReport_2cdc08a7:
 
     # a "This old man came out and started yelling to the gangsters I was with. Saying that they were ruining this nice town."
-    a ""
+    a "Этот старик вышел и начал кричать на бандитов, с которыми я была. Говоря, что они разрушают этот милый город."
 
 # game/jobReport.rpy:2494
 translate russia nextReport_18ac5a1b:
 
     # a "Then the Aces told me to beat him up."
-    a ""
+    a "Тогда Туз сказал мне побить его."
 
 # game/jobReport.rpy:2495
 translate russia nextReport_210db6e3:
 
     # y "And did you....?"
-    y ""
+    y "И ты это сделала....?"
 
 # game/jobReport.rpy:2496
 translate russia nextReport_041f89ff:
 
     # a "Well... I had to stay undercover, so I pushed him to the group and whispered that I wasn't gonna hurt him."
-    a ""
+    a "Нуу... Мне нужно было оставаться под прикрытием. Поэтому я подтолкнула его к группе и прошептала, что не причиню ему вреда."
 
 # game/jobReport.rpy:2497
 translate russia nextReport_3ad2c40e:
 
     # a "I pretended to beat him up and he played along. Eventually he whispered that I should get out of the gang because I was too sweet of a girl."
-    a ""
+    a "Я притворилась, что избиваю его, а он подыграл мне. В конце концов он шепнул, что мне следует уйти из банды, потому что я слишком милая девушка."
 
 # game/jobReport.rpy:2498
 translate russia nextReport_cf6cee21:
 
     # a "I kinda agree... I don't like working for the Aces...."
-    a ""
+    a "Я отчасти согласна... Мне не нравится работать на Тузов...."
 
 # game/jobReport.rpy:2500
 translate russia nextReport_038fc51f:
 
     # a "Not... much happened today. A truck pulled up with a bunch of unmarked boxes that I had to help move into a warehouse."
-    a ""
+    a "Нее... сегодня мало что произошло. Подъехал грузовик с кучей немаркированных коробок, которые я должна была помочь перенести на склад."
 
 # game/jobReport.rpy:2501
 translate russia nextReport_59d98877:
 
     # y "What was in them?"
-    y ""
+    y "Что в них было?"
 
 # game/jobReport.rpy:2502
 translate russia nextReport_a66ab6bd:
 
     # a "I... don't know, we weren't allowed to check."
-    a ""
+    a "Я... не знаю, нам не разрешали в них заглядывать."
 
 # game/jobReport.rpy:2503
 translate russia nextReport_5246ba8f:
 
     # a "Something tells me we weren't suppose to have whatever was in those boxes. Let's hope it wasn't anything too bad."
-    a ""
+    a "Будем надеяться, что ничего страшного в них не было."
 
 # game/jobReport.rpy:2505
 translate russia nextReport_ec317989:
 
     # a "We got into a big fight today with a rival gang. Some of us got hurt. One was even shot."
-    a ""
+    a "Сегодня была большая драка с конкурирующей бандой. Некоторые из нас пострадали. Одного даже подстрелили."
 
 # game/jobReport.rpy:2506
 translate russia nextReport_56e5874a:
 
     # a "We got him back to the marina and I think he will be okay, but it was scary for a moment."
-    a ""
+    a "Мы быстро привезли его на пристань, думаю, что с ним всё будет в порядке, но на мгновение стало страшно."
 
 # game/jobReport.rpy:2507
 translate russia nextReport_aaf8b75e:
@@ -7072,25 +7072,25 @@ translate russia nextReport_aaf8b75e:
 translate russia nextReport_6e8be35c:
 
     # y "Alex?"
-    y ""
+    y "Алекс?"
 
 # game/jobReport.rpy:2509
 translate russia nextReport_e11bf04e:
 
     # a "He said that if he survived, he'd stop being a gangster and live an honest life..."
-    a ""
+    a "Он сказал, что если выживет, то перестанет быть бандитом и будет жить обычной жизнью..."
 
 # game/jobReport.rpy:2510
 translate russia nextReport_f02a9c65:
 
     # a "I hope he'll remember that."
-    a ""
+    a "Надеюсь, он будет помнить об этом."
 
 # game/jobReport.rpy:2526
 translate russia nextReport_fac28c47:
 
     # a "I'm back from working with the Drift Punks."
-    a ""
+    a "Вернулась с работы у Дрифт Панков."
 
 # game/jobReport.rpy:2530
 translate russia nextReport_759258b7_1:
@@ -7114,115 +7114,115 @@ translate russia nextReport_7d7d2cda_1:
 translate russia nextReport_f10e5000:
 
     # a "I tried playing some video games with the Drift Punk today, but I didn't really understand them..."
-    a ""
+    a "Сегодня я попробовала поиграть в парочку видеоигры с Дрифт Панками, но я не очень понял их..."
 
 # game/jobReport.rpy:2558
 translate russia nextReport_47afdd21_1:
 
     # y "How come?"
-    y ""
+    y "Как так получилось?"
 
 # game/jobReport.rpy:2559
 translate russia nextReport_6e3bf6be:
 
     # a "It was as if they were speaking another language! Using words with DOTA, MMO and MOBA... I didn't really understand..."
-    a ""
+    a "Казалось, что они говорят на другом языке! Использование слов ДОТА, ММО и МОБА... Я не совсем поняла..."
 
 # game/jobReport.rpy:2560
 translate russia nextReport_f199976d:
 
     # y "Sounds like crazy talk to me."
-    y ""
+    y "По-моему, звучит как бред сумасшедшего."
 
 # game/jobReport.rpy:2561
 translate russia nextReport_9159ea79:
 
     # a "I know, right?"
-    a ""
+    a "Знаю, верно?"
 
 # game/jobReport.rpy:2563
 translate russia nextReport_51cdc2f3:
 
     # a "I got to fly a drone today!"
-    a ""
+    a "Сегодня мне удалось полетать на дроне!"
 
 # game/jobReport.rpy:2564
 translate russia nextReport_7dafd9e7:
 
     # a "The Punks are practising drone flying to scout areas without putting themselves in harm. I got to fly one, it was so cool!"
-    a ""
+    a "Панки практикуют полеты беспилотников, чтобы разведывать территорию, не подвергая себя опасности. Мне удалось полетать на одном из них, это было так здорово!"
 
 # game/jobReport.rpy:2565
 translate russia nextReport_85797b46:
 
     # a "They gave me like a science-fiction space helmet so I could see through the eyes of the drone and it felt like I was flying!"
-    a ""
+    a "Они дали мне что-то типо космического шлема в стиле научной фантастики, чтобы я мог видеть глазами дрона. Мне казалось, что я лечу!"
 
 # game/jobReport.rpy:2566
 translate russia nextReport_ef9862c8:
 
     # a "Afterwards I bought googly eyes for the drone and they loved it and put them on. I named him Herbert."
-    a ""
+    a "После этого я купила для дрона глазки-пуговки, им понравилось и они их надели. Я назвала его Гербертом."
 
 # game/jobReport.rpy:2568
 translate russia nextReport_3a184d41:
 
     # a "Today was kind of spooky... They tested out some new mindcontrol weapons through music."
-    a ""
+    a "Сегодня было жутковато... Они испытали новое оружие контроля сознания с помощью музыки."
 
 # game/jobReport.rpy:2569
 translate russia nextReport_24e68f8c:
 
     # y "Mindcontrol?"
-    y ""
+    y "Контроль сознания?"
 
 # game/jobReport.rpy:2570
 translate russia nextReport_2b595a58:
 
     # a "Yeah, like the nanobots. Anyone who listens to a song can be programmed to do something."
-    a ""
+    a "Да, что-то вроде наноботов. Любого, кто слушает песню, можно запрограммировать на всё что угодно."
 
 # game/jobReport.rpy:2571
 translate russia nextReport_2380dcc3:
 
     # a "For now they were only testing fun stuff like forcing people to sing theme songs, but..."
-    a ""
+    a "Пока что они тестировали только забавные вещи. Например: заставляли людей петь тематические песни, но..."
 
 # game/jobReport.rpy:2572
 translate russia nextReport_d3188d3f:
 
     # a "Who knows what they'll do with it in the future..."
-    a ""
+    a "Кто знает, что они сделают в будущем..."
 
 # game/jobReport.rpy:2574
 translate russia nextReport_7ece94c1:
 
     # a "Today we beat up some bad guys! Although technically the Drift Punks are the badguys aswell."
-    a ""
+    a "Сегодня мы побили плохих парней! Хотя технически Дрифт Панки тоже злодеи."
 
 # game/jobReport.rpy:2575
 translate russia nextReport_4942dade:
 
     # a "A rival gang tried to take some of the Punk's ground, so we scared them off and gave them a few bruises. Nothing too bad luckily."
-    a ""
+    a "Конкурирующая банда пыталась захватить часть земли Панков. Мы отпугнули их и набили им несколько синяков. К счастью, ничего серьезного."
 
 # game/jobReport.rpy:2576
 translate russia nextReport_b0f62858:
 
     # a "The Punks have these cool pick-up trucks, modified to have their speakers on it. It's a fight and a party at the same time!"
-    a ""
+    a "У панков есть крутые пикапы, модифицированные крутыми колонками. Это и драка и вечеринка одновременно!"
 
 # game/jobReport.rpy:2578
 translate russia nextReport_b148f49a:
 
     # a "There was some big shot visiting today, but I didn't get to see them."
-    a ""
+    a "Сегодня приезжали какие-то крупные шишки. Но мне не удалось их увидеть."
 
 # game/jobReport.rpy:2579
 translate russia nextReport_882acd6d:
 
     # a "Instead I was stuck in the garage, cleaning the trucks! It was so boring! Just me and a few other college girls getting wet and soapy in our see-through white T-shirts..."
-    a ""
+    a "Вместо этого я застрял в гараже, чистя грузовики! Это было так скучно! Только я и ещё несколько студенток мокрые и мыльные, в прозрачных белых футболках..."
 
 # game/jobReport.rpy:2580
 translate russia nextReport_ae4bfad7_1:
@@ -7234,67 +7234,67 @@ translate russia nextReport_ae4bfad7_1:
 translate russia nextReport_e61f9868:
 
     # y "{b}*Ahem*{/b} I'm going to need a 'full' report on this."
-    y ""
+    y "{b}*Кхм*{/b} Думаю мне понадобиться \"полный\" отчёт об этом."
 
 # game/jobReport.rpy:2582
 translate russia nextReport_0f77755e:
 
     # a "...?"
-    a ""
+    a "...?"
 
 # game/jobReport.rpy:2585
 translate russia nextReport_89f095c1:
 
     # a "Sometimes I think Drift Punk is a little bit scary..."
-    a ""
+    a "Иногда Дрифт Панки меня немного пугают..."
 
 # game/jobReport.rpy:2586
 translate russia nextReport_2838b034:
 
     # a "They're all happy and parties one moment, and next moment they're these cold ruthless machines who do everything by calculated logic."
-    a ""
+    a "В один момент они всё счастливые и весёлые, а в следующий момент они - холодные безжалостные машины, которые всё делают по расчётливой логике."
 
 # game/jobReport.rpy:2587
 translate russia nextReport_103cc895:
 
     # a "Today they robbed a store because they needed some extra money and they were so brutally effecient. They didn't even bring guns."
-    a ""
+    a "Сегодня они ограбили магазин, потому что им нужны были дополнительные деньги. Они были очень жестоки, даже не взяли с собой оружие."
 
 # game/jobReport.rpy:2588
 translate russia nextReport_ad767c78:
 
     # a "They just went in, forced the shop owner to the ground, tied him up, took the money and left. It took less than a minute."
-    a ""
+    a "Они просто вошли, повалили владельца магазина на землю, связали его, забрали все деньги и ушли. Это заняло меньше минуты."
 
 # game/jobReport.rpy:2589
 translate russia nextReport_5cec0ac8:
 
     # a "I guess he wasn't hurt, but it was scary all the same."
-    a ""
+    a "Вроде бы он не пострадал, но это было очень страшно."
 
 # game/jobReport.rpy:2591
 translate russia nextReport_22948b8b:
 
     # a "They were developing ways to drop bombs from drones today..."
-    a ""
+    a "Сегодня они думали о возможности, сбрасывать бомбы с беспилотников..."
 
 # game/jobReport.rpy:2592
 translate russia nextReport_e016a5bc:
 
     # y "That sounds... risky."
-    y ""
+    y "Звучит... опасно."
 
 # game/jobReport.rpy:2593
 translate russia nextReport_12b0e86c:
 
     # a "I managed to sabotage the test flight so they're going back to the drawing board, but I'm not sure if I want to gave these guys dropping bombs from the sky."
-    a ""
+    a "Мне удалось сорвать испытательный полёт. Не хочу чтобы эти парни бомбили город с неба."
 
 # game/jobReport.rpy:2594
 translate russia nextReport_ed552a7a:
 
     # y "Agreed. Drift Punk certainly seems the have the other gangs beat in terms of technology. Let's hope we can keep them in check."
-    y ""
+    y "Согласен. Дрифт Панки, несомненно, превосходят другие банды в плане технологий. Будем надеяться, что мы сможем держать их в узде."
 
 # game/jobReport.rpy:2596
 translate russia nextReport_ba7a7f6c:
@@ -9742,7 +9742,7 @@ translate russia jump2me_6c787212:
 translate russia jump2me_651a8c88:
 
     # a "I'm back from Mathias' place."
-    a ""
+    a "Я вернулась от Матиаса."
 
 # game/jobReport.rpy:3387
 translate russia jump2me_06e95373:
@@ -9754,67 +9754,67 @@ translate russia jump2me_06e95373:
 translate russia jump2me_330eb494:
 
     # y "Well, how was it?"
-    y ""
+    y "Ну, и как всё прошло?"
 
 # game/jobReport.rpy:3389
 translate russia jump2me_07e523ff:
 
     # a y12 "I guess it wasn't {i}that{/i} bad."
-    a y12 ""
+    a y12 "Думаю, это было {i}не так уж и плохо{/i}."
 
 # game/jobReport.rpy:3390
 translate russia jump2me_b5875585:
 
     # a "Mathias seemed surprise when I showed up. Apperantly he didn't think you were serious when you promised him a bikini model."
-    a ""
+    a "Матиас удивился, когда я появилась. Видимо, он не думал, что ты серьёзно, отправишь ему модель в бикини."
 
 # game/jobReport.rpy:3391
 translate russia jump2me_7e251aee:
 
     # y "I like to stick to my word......{w} sometimes."
-    y ""
+    y "Я держу свои слова......{w} иногда."
 
 # game/jobReport.rpy:3392
 translate russia jump2me_12a83406:
 
     # y "So how did his research go?"
-    y ""
+    y "Итак, как прошло его исследование?"
 
 # game/jobReport.rpy:3393
 translate russia jump2me_9cac757b:
 
     # a y34 "Good actually. I ended up serving him soda's and chips in my bikini and he was more than happy to 'repay the favor'. So to speak."
-    a y34 ""
+    a y34 "Довольно, хорошо. В итоге я угостила его содовой и чипсами в своем бикини, и он был более чем счастлив \"отблагодарить за услугу\". Так сказать."
 
 # game/jobReport.rpy:3394
 translate russia jump2me_490b448c:
 
     # a "Anyways, he said that he had a breakthrough and that you should visit him tomorrow."
-    a ""
+    a "В общем, он сказал, что у него произошел прорыв и что ты должен навестить его завтра."
 
 # game/jobReport.rpy:3395
 translate russia jump2me_28dbd469:
 
     # y "I might just do that! Well done, Alex."
-    y ""
+    y "Так и сделаем! Молодец, Алекс."
 
 # game/jobReport.rpy:3396
 translate russia jump2me_89f456c8:
 
     # a y37 "I... didn't actually do much, but thanks I guess."
-    a y37 ""
+    a y37 "Я... я на самом деле практически ничего не сделала, но спасибо наверное."
 
 # game/jobReport.rpy:3397
 translate russia jump2me_c8523499:
 
     # a "Not looking forward to doing it more often."
-    a ""
+    a "Не хочу больше этим заниматься."
 
 # game/jobReport.rpy:3400
 translate russia jump2me_a8d061cf:
 
     # y "How did it go?"
-    y ""
+    y "Ну, и как всё прошло?"
 
 # game/jobReport.rpy:3404
 translate russia jump2me_bf2175c0:
@@ -9874,19 +9874,19 @@ translate russia jump2me_6f74aaaf:
 translate russia jump2me_a112dd98:
 
     # "Alex returns from spending the day relaxing at the mall."
-    ""
+    "Алекс возвращается после того, как провела день, отдыхая в торговом центре."
 
 # game/jobReport.rpy:3444
 translate russia jump2me_23ae0657:
 
     # "Alex returns from spending the day relaxing at the beach."
-    ""
+    "Алекс возвращается после того, как провела день, отдыхая на пляже."
 
 # game/jobReport.rpy:3447
 translate russia jump2me_95324633:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Как отдохнула на пляже?"
 
 # game/jobReport.rpy:3448
 translate russia jump2me_5317b315:
@@ -9898,7 +9898,7 @@ translate russia jump2me_5317b315:
 translate russia jump2me_95324633_1:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Удалось отдохнуть на пляже?"
 
 # game/jobReport.rpy:3453
 translate russia jump2me_5067128e:
@@ -9910,7 +9910,7 @@ translate russia jump2me_5067128e:
 translate russia jump2me_95324633_2:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Как провела время на пляже?"
 
 # game/jobReport.rpy:3458
 translate russia jump2me_7b9d5108:
@@ -9922,7 +9922,7 @@ translate russia jump2me_7b9d5108:
 translate russia jump2me_95324633_3:
 
     # y "Did you have a good time at the beach?"
-    y ""
+    y "Отдохнула?"
 
 # game/jobReport.rpy:3463
 translate russia jump2me_5166d307:
@@ -9934,7 +9934,7 @@ translate russia jump2me_5166d307:
 translate russia jump2me_e59a2385:
 
     # "Alex brought home a Trick or Treat bag today. Check your ITEMS to see what's inside!"
-    ""
+    "Алекс принесла домой сумку \"Кошелек или жизнь\". Проверьте свои ВЕЩИ, чтобы узнать, что внутри!"
 
 # game/jobReport.rpy:3559
 translate russia jobReportFinale_029dbeb4:
