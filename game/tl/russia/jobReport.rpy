@@ -1438,7 +1438,7 @@ translate russia nextReport_3eae658a:
 translate russia nextReport_4abbdbb1:
 
     # s "I'm back from working with the Outsiders."
-    s "Я вернулась от Аутсайдеров."
+    s "Я вернулась после работы у Аутсайдеров."
 
 # game/jobReport.rpy:551
 translate russia nextReport_36222352_2:
@@ -7300,13 +7300,13 @@ translate russia nextReport_ed552a7a:
 translate russia nextReport_ba7a7f6c:
 
     # a "I tried washing a harddrive today..."
-    a ""
+    a "Сегодня я пыталась почистить жесткий диск..."
 
 # game/jobReport.rpy:2597
 translate russia nextReport_e2ef10ec:
 
     # y "Uh oh... Let me guess, they got mad at you."
-    y ""
+    y "Ух-ох... Дай угадаю, они разозлились."
 
 # game/jobReport.rpy:2598
 translate russia nextReport_5758066b:
@@ -7318,109 +7318,109 @@ translate russia nextReport_5758066b:
 translate russia nextReport_97e6732f:
 
     # a "It looked so dirty, I figured it was probably better off in the wash!"
-    a ""
+    a "Он выглядел таким грязным и я решила, что его лучше помыть!"
 
 # game/jobReport.rpy:2600
 translate russia nextReport_b4c9f27b:
 
     # a "I sorta deleted a guy's porn stash..."
-    a ""
+    a "Вроде как, я удалила порно-тайник одного парня..."
 
 # game/jobReport.rpy:2601
 translate russia nextReport_3201dd8c:
 
     # y "Rest in Peace porndrive. I feel his pain."
-    y ""
+    y "Покойся с миром ЖД. Я чувствую его боль."
 
 # game/jobReport.rpy:2603
 translate russia nextReport_528fbfe4:
 
     # a "Pew pew pew!"
-    a ""
+    a "Пиу пиу пиу!"
 
 # game/jobReport.rpy:2604
 translate russia nextReport_dea9e279:
 
     # y "What are you doing?"
-    y ""
+    y "Что ты делаешь?"
 
 # game/jobReport.rpy:2605
 translate russia nextReport_212d687e:
 
     # a "Lazers! The Punks have lazer guns now! And they go: pew pew pew!"
-    a ""
+    a "Лазеры! Теперь у Панков есть лазерные пушки! Пиу пиу пиу!"
 
 # game/jobReport.rpy:2606
 translate russia nextReport_ea162ee2:
 
     # a "I didn't get to hold one, but I saw guys using them. They're cool...!"
-    a ""
+    a "Мне не удалось подержать одно. Но я видела, как парни стреляют из них. Они классные...!"
 
 # game/jobReport.rpy:2607
 translate russia nextReport_68c27551:
 
     # y "Sounds like something to be worried about."
-    y ""
+    y "Появляется повод для беспокойства."
 
 # game/jobReport.rpy:2608
 translate russia nextReport_f37b2324:
 
     # a "Well... all they do now is cause burn wounds. They're not actually strong enough to kill anyone yet."
-    a ""
+    a "Ну... всё, что они сейчас делают, это вызывают ожоги. На самом деле они ещё не достаточно сильны, чтобы убить кого-либо."
 
 # game/jobReport.rpy:2609
 translate russia nextReport_53281b60:
 
     # a "So better they use lazers than normal guns, right?"
-    a ""
+    a "Значит, лучше использовать лазеры, чем обычное оружие, верно?"
 
 # game/jobReport.rpy:2610
 translate russia nextReport_e2de75dd:
 
     # y "You have a point..."
-    y ""
+    y "Тут ты права..."
 
 # game/jobReport.rpy:2612
 translate russia nextReport_4ac4677b:
 
     # a "I don't like techno!"
-    a ""
+    a "Я не люблю техно!"
 
 # game/jobReport.rpy:2613
 translate russia nextReport_d1642ce7_1:
 
     # y "Huh?"
-    y ""
+    y "Хмм?"
 
 # game/jobReport.rpy:2614
 translate russia nextReport_a09f9cc7:
 
     # a "Today the Drift Punk had a 'music education day'. Basically a giant rave party where they played loud techno music!"
-    a ""
+    a "Сегодня у Дрифт Панков был \"день музыкального образования\". По сути, это была гигантская рейв-вечеринка, где играла громкая техно-музыка!"
 
 # game/jobReport.rpy:2615
 translate russia nextReport_bc41641b:
 
     # a "The speakers were so loud, I can still feel the vibration. I don't think I'll be able to sleep tonight."
-    a ""
+    a "Динамики были настолько громкими, что я до сих пор чувствую вибрацию. Я не думаю, что смогу заснуть сегодня ночью."
 
 # game/jobReport.rpy:2616
 translate russia nextReport_1fb2877a:
 
     # y "Better prepare for the dubstep education day then."
-    y ""
+    y "Тогда тебе стоит лучше подготовиться к дню дабстеп-образования."
 
 # game/jobReport.rpy:2617
 translate russia nextReport_899ff223:
 
     # a "{b}*Whines*{/b}"
-    a ""
+    a "{b}*Хнычет*{/b}"
 
 # game/jobReport.rpy:2646
 translate russia nextReport_412ca049:
 
     # a "I'm back from working with the Outsiders."
-    a ""
+    a "Я вернулась после работы у Аутсайдеров."
 
 # game/jobReport.rpy:2650
 translate russia nextReport_759258b7_2:
@@ -7444,19 +7444,19 @@ translate russia nextReport_7d7d2cda_2:
 translate russia nextReport_987ab81e:
 
     # a "They made me do all kinds of weird and scary things!"
-    a ""
+    a "Они заставляли меня делать всякие странные и страшные вещи!"
 
 # game/jobReport.rpy:2678
 translate russia nextReport_dd4dbc77:
 
     # y "Like what?"
-    y ""
+    y "Что на пример?"
 
 # game/jobReport.rpy:2679
 translate russia nextReport_f62d8569:
 
     # a "Like read poetry and talk about how evil big businesses are!"
-    a ""
+    a "Например, читать стихи и говорить о том, на сколько злые предприятия!"
 
 # game/jobReport.rpy:2680
 translate russia nextReport_c98142a2_2:
@@ -7468,157 +7468,157 @@ translate russia nextReport_c98142a2_2:
 translate russia nextReport_232f11a5:
 
     # y "Boo!"
-    y ""
+    y "Буу!"
 
 # game/jobReport.rpy:2683
 translate russia nextReport_fa439b83:
 
     # a "EEP!"
-    a ""
+    a "ИИХХ!"
 
 # game/jobReport.rpy:2684
 translate russia nextReport_a11c9578:
 
     # y "You scare easily, don't you."
-    y ""
+    y "Тебя легко напугать, не так ли?"
 
 # game/jobReport.rpy:2685
 translate russia nextReport_899ff223_1:
 
     # a "{b}*Whines*{/b}"
-    a ""
+    a "{b}*Хнычет*{/b}"
 
 # game/jobReport.rpy:2687
 translate russia nextReport_c10b654a:
 
     # a "So I'm pretty sure there are no mummies in the Outsiders."
-    a ""
+    a "В общем я уверена, что в Аутсайдерах нет мумий."
 
 # game/jobReport.rpy:2688
 translate russia nextReport_faa33939:
 
     # y "You don't say."
-    y ""
+    y "Да ладно."
 
 # game/jobReport.rpy:2689
 translate russia nextReport_91d18eb1:
 
     # a "I saw a guy walk around in bandages, but apperantly he tried breaking in through a broken window and just cut himself all over."
-    a ""
+    a "Видела сегодня парня в бинтах, но, видимо, он пытался проникнуть в дом через разбитое окно и просто порезался."
 
 # game/jobReport.rpy:2690
 translate russia nextReport_dcbba2f4:
 
     # y "That's what you get for trespassing... you get turned into a mummy. Head to your cell for now."
-    y ""
+    y "Вот что значит, за незаконное проникновение... ты превращаешься в мумию. Отправляйся пока в свою комнату."
 
 # game/jobReport.rpy:2692
 translate russia nextReport_c92b9967:
 
     # a "You know the Outsiders are set up at a creepy abandoned amusement park, right?"
-    a ""
+    a "Ты же вкурсе, что Аутсайдеры расположились в жутком заброшенном парке развлечений?"
 
 # game/jobReport.rpy:2693
 translate russia nextReport_249db561:
 
     # y "Yeah...?"
-    y ""
+    y "Даа...?"
 
 # game/jobReport.rpy:2694
 translate russia nextReport_6e99482c:
 
     # a "Someone thought it was a good idea to dress up as a creepy clown today to fit the theme."
-    a ""
+    a "Кто-то решил, что нарядиться сегодня жуткимм клоунами - это хорошая идея, чтобы соответствовать теме."
 
 # game/jobReport.rpy:2695
 translate russia nextReport_4a342547:
 
     # a "Everyone was freaked out and he got his butt kicked for it, but that creepy clownmask is going to give me nightmares..."
-    a ""
+    a "Эта жуткая клоунская маска будет сниться мне в кошмарах..."
 
 # game/jobReport.rpy:2697
 translate russia nextReport_4d6707bd:
 
     # a "The Outsiders are kinda mean..."
-    a ""
+    a "Аутсайдеры довольно сильно разозлились..."
 
 # game/jobReport.rpy:2698
 translate russia nextReport_7f9d6a1d:
 
     # a "They robbed an old man today. Saying he had way too much money anyways."
-    a ""
+    a "Сегодня они ограбили одного старика, говоря, что у него и так слишком много денег."
 
 # game/jobReport.rpy:2699
 translate russia nextReport_24afed41:
 
     # a "But if you take all of the money from a rich man, wouldn't that make him a poor man?"
-    a ""
+    a "Но если забрать все деньги у богатого человека, разве это не сделает его бедным?"
 
 # game/jobReport.rpy:2700
 translate russia nextReport_ea78a718:
 
     # a "If you take from the rich and give to the poor... doesn't that mean you need to give at least a little money back to him?"
-    a ""
+    a "Если брать у богатых и давать бедным... разве это не означает, что ему нужно вернуть хотя бы немного денег?"
 
 # game/jobReport.rpy:2701
 translate russia nextReport_89c3b0fe:
 
     # y "You seem to forget that the Outsiders are criminals."
-    y ""
+    y "Похоже ты забываешь что Аутсайдеры - преступники."
 
 # game/jobReport.rpy:2702
 translate russia nextReport_678803e1:
 
     # a "Oh right..."
-    a ""
+    a "Охх точно..."
 
 # game/jobReport.rpy:2704
 translate russia nextReport_18bf8902:
 
     # a "Ow my back hurts..."
-    a ""
+    a "Аахх как же у меня болит спина..."
 
 # game/jobReport.rpy:2705
 translate russia nextReport_1372b562:
 
     # y "Worked hard?"
-    y ""
+    y "Усердно работала?"
 
 # game/jobReport.rpy:2706
 translate russia nextReport_7a958261:
 
     # a "Yeah they smuggled guns into the city and I had to help out carrying them."
-    a ""
+    a "Да, сегодня я помогала контрабандой ввозить в город оружие."
 
 # game/jobReport.rpy:2707
 translate russia nextReport_197afa81:
 
     # y "More guns... as if we didn't have enough trouble to deal with."
-    y ""
+    y "Больше оружия... как будто у нас и так мало проблем."
 
 # game/jobReport.rpy:2708
 translate russia nextReport_72aa3b18:
 
     # a "Yeah, they were given out to their supplies and will probably hit the streets soon. We gotta be careful."
-    a ""
+    a "Да, они собрались снабдить этим все улицы. Нам стоить быть осторожными."
 
 # game/jobReport.rpy:2711
 translate russia nextReport_9b09f71a:
 
     # a "We watched a horror movie today!"
-    a ""
+    a "Сегодня мы смотрели фильм ужасов!"
 
 # game/jobReport.rpy:2712
 translate russia nextReport_f4cf5e0f:
 
     # y "Poor you."
-    y ""
+    y "Бедняжка."
 
 # game/jobReport.rpy:2713
 translate russia nextReport_212a8280:
 
     # a "Whadda ya mean? I love horror movies."
-    a ""
+    a "Что ты имеешь в виду? Я люблю хорроры."
 
 # game/jobReport.rpy:2714
 translate russia nextReport_64a2b68e:
@@ -7630,49 +7630,49 @@ translate russia nextReport_64a2b68e:
 translate russia nextReport_92f15130:
 
     # y "You love horror movies?"
-    y ""
+    y "Тебе нравятся хорроры?"
 
 # game/jobReport.rpy:2716
 translate russia nextReport_4987dcc6:
 
     # a "Yeah! I know they're not real so it's fine."
-    a ""
+    a "Да! Я же знаю, что там всё не настоящие, так что всё в порядке."
 
 # game/jobReport.rpy:2717
 translate russia nextReport_a40d9ba3:
 
     # a "Real zombies and monsters on the other hand....."
-    a ""
+    a "С другой стороны существуют настоящие зомби и монстры....."
 
 # game/jobReport.rpy:2718
 translate russia nextReport_b17d573e:
 
     # y "Just.... Just go to your cell..."
-    y ""
+    y "Пр... Просто иди в свою комнату..."
 
 # game/jobReport.rpy:2720
 translate russia nextReport_b1cf15f1:
 
     # a "They gave me a big boring cookbook to read today..."
-    a ""
+    a "Сегодня мне дали почитать большую поварённую книгу..."
 
 # game/jobReport.rpy:2721
 translate russia nextReport_1a478db0:
 
     # y "A cookbook?"
-    y ""
+    y "Поварённую книгу?"
 
 # game/jobReport.rpy:2722
 translate russia nextReport_3f2505b0:
 
     # y "Wait... is it the Anarchist Cookbook?"
-    y ""
+    y "Подожди... это \"Поваренная книга анархиста\"?"
 
 # game/jobReport.rpy:2723
 translate russia nextReport_53f84895:
 
     # a "Hmm... yup, I think so."
-    a ""
+    a "Хммм... да, думаю так."
 
 # game/jobReport.rpy:2724
 translate russia nextReport_21c7b44b:
