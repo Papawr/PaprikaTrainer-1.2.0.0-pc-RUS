@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/jobReport.rpy", line 3151: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/tl/russia/jobReport.rpy", line 10303: is not terminated with a newline. (Check strings and parenthesis.)
 (Perhaps you left out a " at the end of the first line.)
-        s g28 "Не будем...?""
+        "Бритни протягивает {color=#ffeda6}Охлаждающий агент{/color} x2.""
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Thu Nov 11 19:47:24 2021
+Mon Nov 29 20:48:59 2021
