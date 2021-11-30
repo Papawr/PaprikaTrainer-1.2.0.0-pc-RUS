@@ -1011,7 +1011,7 @@ translate russia tutSpySelect_71fd6dfe:
 translate russia tutSpySelect_e9d5801a:
 
     # s g37 "All of our Agents just... turned on us. In the middle of school no less! I was busy studying!"
-    s g37 "Все наши агенты просто... предали нас и напали. Да ещё и посреди школы! Вовремя учёбы!"
+    s g37 "Все наши агенты просто... предали нас и напали. Да ещё и посреди школы! Во время учёбы!"
 
 # game/intro.rpy:421
 translate russia tutSpySelect_1db49ca3:
@@ -1719,13 +1719,13 @@ translate russia tutStage4_7597f00a:
 translate russia tutStage4_621f841f:
 
     # "???" "Un moment~... Zis one is with moi~..."
-    "???" "Уно моментик~... Этот с муа~..."
+    "???" "Ун момэ~... Этот с муа~..."
 
 # game/intro.rpy:622
 translate russia tutStage4_6a4f6d74:
 
     # "???" "My my my, look who's made it out of ze asylum~..."
-    "???" "Божечки мои, посмотрите, кто это выбрался из психушки..."
+    "???" "Божечки, посмотрите, кто это выбрался из психушки~..."
 
 # game/intro.rpy:623
 translate russia tutStage4_f868491c:

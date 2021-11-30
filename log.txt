@@ -1,41 +1,339 @@
-Mon Nov 29 20:52:18 2021
+Tue Nov 30 21:44:45 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.8.1895
  
 
 Bootstrap to the start of init.init took 0.24s
 Early init took 0.01s
-Loader init took 0.86s
+Loader init took 0.59s
+Loading error handling took 0.25s
+Loading script took 7.54s
+Loading save slot metadata. took 0.09s
+Loading persistent took 0.01s
+
+File "game/tl/russia/missionScreens.rpy", line 601: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    tim "Вот немного помощи...""
+                               ^
+    
+    # game/missionScreens.rpy:3371
+    translate russia interInteract_85101b22:
+    
+        # "It looks like this can be shot down with the proper equipment."
+        "Похоже, что это можно сбить, но нужен соответствующие оборудование."
+    
+    # game/missionScreens.rpy:3403
+    translate russia interInteract_8003e9e4:
+    
+        # "Hacking Worm activated."
+        "Хакерский червь активирован."
+    
+    # game/missionScreens.rpy:3413
+    translate russia interInteract_07a0a12f:
+    
+        # "Hack succesful. Camera disabled."
+        "Взлом удался. Камера отключена."
+    
+    # game/missionScreens.rpy:3427
+    translate russia interInteract_a048079c:
+    
+        # "Hack failed."
+        "Взлом не удался."
+    
+    # game/missionScreens.rpy:3442
+    translate russia interInteract_49415664:
+    
+        # "It looks like this device can be hacked with the proper gadget."
+        "Похоже, что это устройство можно взломать, но нужно соответствующие приспособление."
+    
+    # game/missionScreens.rpy:3474
+    translate russia interInteract_8003e9e4_1:
+    
+        # "Hacking Worm activated."
+        "Хакерский червь активирован."
+    
+    # game/missionScreens.rpy:3485
+    translate russia interInteract_7e622bba:
+    
+        # "Hack succesful. Laser disabled."
+        "Взлом удался. Лазер отключен."
+    
+    # game/missionScreens.rpy:3494
+    translate russia interInteract_a048079c_1:
+    
+        # "Hack failed."
+        "Взлом не удался."
+    
+    # game/missionScreens.rpy:3500
+    translate russia interInteract_49415664_1:
+    
+        # "It looks like this device can be hacked with the proper gadget."
+        "Похоже, что это устройство можно взломать, но нужно соответствующие приспособление."
+    
+    # game/missionScreens.rpy:3508
+    translate russia interInteract_85101b22_1:
+    
+        # "It looks like this can be shot down with the proper equipment."
+        "Похоже, что это можно сбить, но нужен соответствующие оборудование."
+    
+    # game/missionScreens.rpy:3551
+    translate russia interInteract_c5396715:
+    
+        # "Hack succesful."
+        "Взлом удался."
+    
+    # game/missionScreens.rpy:3574
+    translate russia interInteract_e0b3286b:
+    
+        # "You find the music you need for the party!"
+        "Вы находите музыку, необходимую для вечеринки!"
+    
+    # game/missionScreens.rpy:3588
+    translate russia interInteract_48fd5d60:
+    
+        # "You find the fireworks you need for the party!"
+        "Вы находите фейерверки, необходимые для вечеринки!"
+    
+    # game/missionScreens.rpy:3599
+    translate russia interInteract_9770cee5:
+    
+        # "You find the upcoming test answers."
+        "Вы находите ответы на предстоящий тест."
+    
+    # game/missionScreens.rpy:3604
+    translate russia interInteract_2a4a5c26:
+    
+        # "You find the Outsiders stash of grafitti."
+        "Вы находите тайник Аутсайдеров с граффити."
+    
+    # game/missionScreens.rpy:3609
+    translate russia interInteract_d315c61b:
+    
+        # "You find Drift Punk's hacking codes."
+        "Вы находите коды взлома Дрифит Панков."
+    
+    # game/missionScreens.rpy:3612
+    translate russia interInteract_446d0b43:
+    
+        # "Hack failed. Magnetic lock activated."
+        "Взлом не удался. Магнитный замок активирован."
+    
+    # game/missionScreens.rpy:3617
+    translate russia interInteract_49415664_2:
+    
+        # "It looks like this device can be hacked with the proper gadget."
+        "Похоже, что это устройство можно взломать, но нужно соответствующие приспособление."
+    
+    # game/missionScreens.rpy:3625
+    translate russia interInteract_85101b22_2:
+    
+        # "It looks like this can be shot down with the proper equipment."
+        "Похоже, что это можно сбить, но нужен соответствующие оборудование."
+    
+    # game/missionScreens.rpy:3628
+    translate russia interInteract_0ae9bcd0:
+    
+        # ""
+        ""
+    
+    # game/missionScreens.rpy:3636
+    translate russia interInteract_425006e7:
+    
+        # "gunsound effect"
+        "Звук срабатывающего оружия"
+    
+    # game/missionScreens.rpy:3669
+    translate russia interInteract_03ec7bcc:
+    
+        # "It looks like this can be shot down with the appropriate gadget."
+        "Похоже, что это можно сбить, но нужен соответствующий гаджет."
+    
+    # game/missionScreens.rpy:3708
+    translate russia interInteract_c5396715_1:
+    
+        # "Hack succesful."
+        "Взлом удался."
+    
+    # game/missionScreens.rpy:3731
+    translate russia interInteract_e0b3286b_1:
+    
+        # "You find the music you need for the party!"
+        "Вы находите музыку, необходимую для вечеринки!"
+    
+    # game/missionScreens.rpy:3745
+    translate russia interInteract_48fd5d60_1:
+    
+        # "You find the fireworks you need for the party!"
+        "Вы находите фейерверки, необходимые для вечеринки!"
+    
+    # game/missionScreens.rpy:3756
+    translate russia interInteract_9770cee5_1:
+    
+        # "You find the upcoming test answers."
+        "Вы находите ответы на предстоящий тест."
+    
+    # game/missionScreens.rpy:3761
+    translate russia interInteract_2a4a5c26_1:
+    
+        # "You find the Outsiders stash of grafitti."
+        "Вы находите тайник Аутсайдеров с граффити."
+    
+    # game/missionScreens.rpy:3766
+    translate russia interInteract_d315c61b_1:
+    
+        # "You find Drift Punk's hacking codes."
+        "Вы находите коды взлома Дрифит Панков."
+    
+    # game/missionScreens.rpy:3769
+    translate russia interInteract_a048079c_2:
+    
+        # "Hack failed."
+        "Взлом не удался."
+    
+    # game/missionScreens.rpy:3773
+    translate russia interInteract_49415664_3:
+    
+        # "It looks like this device can be hacked with the proper gadget."
+        "Похоже, что это устройство можно взломать, но нужно соответствующие приспособление."
+    
+    # game/missionScreens.rpy:3806
+    translate russia interInteract_8003e9e4_2:
+    
+        # "Hacking Worm activated."
+        "Хакерский червь активирован."
+    
+    # game/missionScreens.rpy:3816
+    translate russia interInteract_504100fa:
+    
+        # "Hack succesful. Opening gate."
+        "Взлом удался. Ворота открываются."
+    
+    # game/missionScreens.rpy:3827
+    translate russia interInteract_fe656e58:
+    
+        # "Hack failed. You'll have to find another way around."
+        "Взлом не удался. Вам придётся искать другой способ обхода."
+    
+    # game/missionScreens.rpy:3837
+    translate russia interInteract_cf7f84cd:
+    
+        # "A hacking device is needed to get through this. You'll have to find another way around."
+        "Чтобы здесь пройти, вам необходимо хакерское устройство. Придётся искать другой способ входа."
+    
+    # game/missionScreens.rpy:3888
+    translate russia vibratorActive_aec3d36e:
+    
+        # "V.I.B." "Control restored."
+        "V.I.B." "Контроль восстановлен."
+    
+    # game/missionScreens.rpy:3916
+    translate russia vibratorActive_aec3d36e_1:
+    
+        # "V.I.B." "Control restored."
+        "V.I.B." "Контроль восстановлен."
+    
+    # game/missionScreens.rpy:3942
+    translate russia vibratorActive_aec3d36e_2:
+    
+        # "V.I.B." "Control restored."
+        "V.I.B." "Контроль восстановлен."
+    
+    # game/missionScreens.rpy:3972
+    translate russia vibratorActive_aec3d36e_3:
+    
+        # "V.I.B." "Control restored."
+        "V.I.B." "Контроль восстановлен."
+    
+    # game/missionScreens.rpy:4050
+    translate russia gadgetUsed_5cbd17c8:
+    
+        # "Gadgets not unavailable on this floor."
+        "Гаджеты, недоступные на этом этаже."
+    
+    # game/missionScreens.rpy:4053
+    translate russia gadgetUsed_c00e0d92:
+    
+        # "ERROR: Grappling hook not detected. Attempting fix..."
+        "ОШИБКА: Крюк не обнаружен. Пытаюсь исправить..."
+    
+    # game/missionScreens.rpy:4088
+    translate russia gadgetUsed_d8b99d30:
+    
+        # "Agent" "{b}*Cough* *Cough*{/b}"
+        "Агент" "{b}*Кашель* *Кашель*{/b}"
+    
+    # game/missionScreens.rpy:4092
+    translate russia gadgetUsed_159a279d:
+    
+        # "Agent" "{i}'Attack... other... agent...~{/i}'"
+        "Агент" "{i}'Нападение... другой... агент...~{/i}'"
+    
+    # game/missionScreens.rpy:4099
+    translate russia gadgetUsed_1f06b2b8:
+    
+        # "The two agents knock each other out."
+        "Двое агентов вырубают друг друга."
+    
+    # game/missionScreens.rpy:4102
+    translate russia gadgetUsed_5e93a91d:
+    
+        # "Agent" "{i}'I will return to the safehouse....~'{/i}"
+        "Агент" "{i}'Я возвращаюсь в убежище....~'{/i}"
+    
+    # game/missionScreens.rpy:4119
+    translate russia gadgetUsed_b31886ef:
+    
+        # "Agent" "If only I had taken the WOOHP Working-Under-Pressure course!"
+        "Агент" "Если бы я только прошёл курс WOOHP \"Работа под давлением\"!"
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: "Couldn't load nvlib." (can be ignored)
+Interface start took 1.20s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1800, 1200)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'Intel'
+Renderer: 'Intel(R) HD Graphics 615'
+Version: '4.6.0 - Build 26.20.100.7637'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 102.57s
+Early init took 0.00s
+Loader init took 0.51s
 Loading error handling took 0.24s
-Loading script took 4.37s
-Loading save slot metadata. took 0.08s
+Loading script took 4.43s
+Loading save slot metadata. took 0.10s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Set script version to: (7, 4, 6)
-Running init code took 0.83s
-Loading analysis data took 0.93s
-Analyze and compile ATL took 0.13s
+Running init code took 0.63s
+Loading analysis data took 0.61s
+Analyze and compile ATL took 0.21s
 Index archives took 0.00s
-Dump and make backups. took 0.41s
+Dump and make backups. took 0.47s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.49s
+Initial gc. took 0.75s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.39s
+Init translation took 0.41s
 Build styles took 0.01s
-Load screen analysis took 0.53s
-Analyze screens took 0.02s
-Save screen analysis took 0.00s
-Prepare screens took 1.66s
+Load screen analysis took 0.00s
+Analyze screens took 0.41s
+Save screen analysis took 1.31s
+Prepare screens took 1.82s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.87s
+Save bytecode. took 0.00s
 Running _start took 0.01s
 Performance test:
-Interface start took 0.76s
+Interface start took 0.52s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
