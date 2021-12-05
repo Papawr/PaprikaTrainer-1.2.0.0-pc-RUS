@@ -1300,1027 +1300,1027 @@ translate russia workBonusMenu_089e8b87:
 translate russia workBonusMenu_6943c65f:
 
     # cM "Erm... there's a video chat between the 3 biggest gangs in the city... "
-    cM ""
+    cM "Эvм... тут есть видеочат между 3мя крупнейшими бандами в городе..."
 
 # game/script.rpy:3242
 translate russia workBonusMenu_86edd8ea:
 
     # y "And?"
-    y ""
+    y "И?"
 
 # game/script.rpy:3243
 translate russia workBonusMenu_09f27e39:
 
     # cM "Well I was just thinking..."
-    cM ""
+    cM "Ну, я просто подумала..."
 
 # game/script.rpy:3244
 translate russia workBonusMenu_3d25d5eb:
 
     # cM "What if I flashed my tits on livestream?"
-    cM ""
+    cM "Что если, засветить свои сиськи в прямом эфире?"
 
 # game/script.rpy:3248
 translate russia workBonusMenu_d675b2fb:
 
     # y "That's a great idea!"
-    y ""
+    y "Отличная идея!"
 
 # game/script.rpy:3249
 translate russia workBonusMenu_413c4980:
 
     # y "That has got to increase your reputation with the gangs a bit!"
-    y ""
+    y "Это должно немного повысить твою репутацию среди банд!"
 
 # game/script.rpy:3250
 translate russia workBonusMenu_80bdc99d:
 
     # cM "Okay... Okay, I'll do it!"
-    cM ""
+    cM "Ладно... Хорошо, я это сделаю!"
 
 # game/script.rpy:3257
 translate russia workBonusMenu_8ec0bcea:
 
     # y "No! No tit flashing, bad Clover!"
-    y ""
+    y "Нет! Никаких прямых эфиров, плохая Кловер!"
 
 # game/script.rpy:3258
 translate russia workBonusMenu_8bdd87d4:
 
     # cM "But it will be some quick easy reputat-..."
-    cM ""
+    cM "Но это довольно легкий рост репут-..."
 
 # game/script.rpy:3259
 translate russia workBonusMenu_f9dfc410:
 
     # y "You don't want to have a reputation of being quick and easy! Bad Clover!"
-    y ""
+    y "Ты не хочешь иметь репутацию быстрой и легкой! Плохая Кловер!"
 
 # game/script.rpy:3260
 translate russia workBonusMenu_454984ce:
 
     # cM "All right, if you say so."
-    cM ""
+    cM "Лаадно, как скажешь."
 
 # game/script.rpy:3263
 translate russia workBonusMenu_6fff9bd6:
 
     # cM "I think I can score a little extra intel."
-    cM ""
+    cM "Думаю, что у меня получиться заполучить немного дополнительной информации."
 
 # game/script.rpy:3264
 translate russia workBonusMenu_fbb57ff3:
 
     # y "That's good. What do you have?"
-    y ""
+    y "Это хорошо. Что у тебя там?"
 
 # game/script.rpy:3265
 translate russia workBonusMenu_7a44ef99:
 
     # cM "I'm at a spa and just overheard some gangsters drop some info."
-    cM ""
+    cM "Я сейчас не далеко от спа-салона и только что услышала, как пару гангстеров обсуждают что-то важное."
 
 # game/script.rpy:3266
 translate russia workBonusMenu_c9ec8b04:
 
     # cM "I think I can get some extra intel out of them if I offer a massage~..."
-    cM ""
+    cM "Думаю, что смогу разузнать больше, если предложу им массаж~..."
 
 # game/script.rpy:3270
 translate russia workBonusMenu_acad6de6:
 
     # y "Sounds like an easy way to get intel. Do it."
-    y ""
+    y "Звучит как простой способ раздобыть сведения. Вперёд."
 
 # game/script.rpy:3271
 translate russia workBonusMenu_a4e4f194:
 
     # cM "Understood."
-    cM ""
+    cM "Поняла."
 
 # game/script.rpy:3277
 translate russia workBonusMenu_b584513f:
 
     # y "Leave them for now. I'm sure another chance will come around."
-    y ""
+    y "Оставьте их пока. Я уверен, что шанс ещё появится."
 
 # game/script.rpy:3278
 translate russia workBonusMenu_74598e77:
 
     # cM "If you say so."
-    cM ""
+    cM "Как скажешь."
 
 # game/script.rpy:3281
 translate russia workBonusMenu_1d2576fb:
 
     # cM "Er..."
-    cM ""
+    cM "Эмм..."
 
 # game/script.rpy:3282
 translate russia workBonusMenu_f233c925:
 
     # y "Yeah?"
-    y ""
+    y "Что?"
 
 # game/script.rpy:3283
 translate russia workBonusMenu_a75fb888:
 
     # cM "I've been offered $1.000 to star in a bondage show~...."
-    cM ""
+    cM "Мне предложили $1000 за то, чтобы я снялась в бандаж-шоу~...."
 
 # game/script.rpy:3284
 translate russia workBonusMenu_f91d5a34:
 
     # cM "They're gonna undress me and tie me up."
-    cM ""
+    cM "Они собираются раздеть меня и связать."
 
 # game/script.rpy:3285
 translate russia workBonusMenu_faf8387d:
 
     # y "Aaaand fuck you?"
-    y ""
+    y "Аааа трахнуть тебя?"
 
 # game/script.rpy:3286
 translate russia workBonusMenu_f66c9cc4:
 
     # cM "I have no idea..."
-    cM ""
+    cM "Я не знаю..."
 
 # game/script.rpy:3290
 translate russia workBonusMenu_26ab5298:
 
     # y "Sounds like easy money. Go be a play toy for a while."
-    y ""
+    y "Звучит как лёгкие деньги. Иди притворись игрушкой на некоторое время."
 
 # game/script.rpy:3291
 translate russia workBonusMenu_ff8bdc94:
 
     # cM "All right then."
-    cM ""
+    cM "Хорошо."
 
 # game/script.rpy:3296
 translate russia workBonusMenu_c0297aa7:
 
     # y "Sounds like you're about to get gangbanged. Refuse."
-    y ""
+    y "Звучит, как дешёвое предложение на групповушку. Отказывать."
 
 # game/script.rpy:3297
 translate russia workBonusMenu_0d0f949d:
 
     # cM "Might be for the best."
-    cM ""
+    cM "Может быть и к лучшему."
 
 # game/script.rpy:3300
 translate russia workBonusMenu_b53f49e4:
 
     # cM "Clover here. Would it be okay if I showed my tits off a bit today?"
-    cM ""
+    cM "Это Кловер, приём. Ничего, если я сегодня немного посвечу своими сиськами?"
 
 # game/script.rpy:3301
 translate russia workBonusMenu_1bb1cc56:
 
     # y "Okay...?"
-    y ""
+    y "Лаадно...?"
 
 # game/script.rpy:3302
 translate russia workBonusMenu_9984a3a5:
 
     # cM "There's a good atmosphere here today. I bet I could get some loose lips talking~..."
-    cM ""
+    cM "Сегодня здесь царит хорошая атмосфера. Готова поспорить, что смогу разговорить шаловливые языки~..."
 
 # game/script.rpy:3308
 translate russia workBonusMenu_408734f9:
 
     # y "If you think it will help, go for it."
-    y ""
+    y "Если думаешь, что это поможет, действуй."
 
 # game/script.rpy:3309
 translate russia workBonusMenu_cd63707e:
 
     # cM "All right, got it."
-    cM ""
+    cM "Хорошо, поняла."
 
 # game/script.rpy:3315
 translate russia workBonusMenu_3423b36f:
 
     # c "Check this out boys~...."
-    c ""
+    c "Как дела мальчики~...."
 
 # game/script.rpy:3316
 translate russia workBonusMenu_79e097d8:
 
     # "Gangsters" "Clover! Clover! Clover!"
-    "Гангстеры" ""
+    "Гангстеры" "Кловер! Кловер! Кловер!"
 
 # game/script.rpy:3331
 translate russia workBonusMenu_1dc8433d:
 
     # y "Nnnnnnnnnnnnnnnnnope."
-    y ""
+    y "Неееееееееееееееееет."
 
 # game/script.rpy:3332
 translate russia workBonusMenu_31e8a9eb:
 
     # cM "No?"
-    cM ""
+    cM "Нет?"
 
 # game/script.rpy:3333
 translate russia workBonusMenu_d3b3b939:
 
     # y "Nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn-....{nw}"
-    y ""
+    y "Нннннннннннннннннннннннннннннннннннннннннннннннннннннннн-....{nw}"
 
 # game/script.rpy:3334
 translate russia workBonusMenu_f7cd42f3:
 
     # cM "Ugh... weirdo."
-    cM ""
+    cM "Угх... чудак."
 
 # game/script.rpy:3343
 translate russia workBonusMenu_1c2e0e2e:
 
     # aM "Alex here!"
-    aM ""
+    aM "Алекс на месте!"
 
 # game/script.rpy:3344
 translate russia workBonusMenu_e47a015b:
 
     # y "Alex? What's up?"
-    y ""
+    y "Алекс? Что случилось?"
 
 # game/script.rpy:3345
 translate russia workBonusMenu_a62362b4:
 
     # aM "So erm..."
-    aM ""
+    aM "Нуу эмм..."
 
 # game/script.rpy:3346
 translate russia workBonusMenu_320d5a07:
 
     # aM "There's this one really sexy swimsuit for sale at the mall and I've just been dared to try it on."
-    aM ""
+    aM "В торговом центре продается один очень сексуальный купальник, и мне только что предложили его примерить."
 
 # game/script.rpy:3347
 translate russia workBonusMenu_5de1222a:
 
     # aM "In return the guy promised to share some intel."
-    aM ""
+    aM "Взамен парень пообещал поделиться кое-какими сведениями."
 
 # game/script.rpy:3354
 translate russia workBonusMenu_cbfff146:
 
     # y "Go for it. What kind of swimsuit?"
-    y ""
+    y "Давай, вперёд. А что за купальник?"
 
 # game/script.rpy:3355
 translate russia workBonusMenu_8ce3470c:
 
     # aM "Erm... A one piece thong swimsuit..."
-    aM ""
+    aM "Эмм... Цельный купальник со стрингами..."
 
 # game/script.rpy:3356
 translate russia workBonusMenu_ce895a18:
 
     # y "..........."
-    y ""
+    y "..........."
 
 # game/script.rpy:3357
 translate russia workBonusMenu_24800f17:
 
     # y "Not gonna lie, I'm kinda jealous that I'm not there to see it."
-    y ""
+    y "Не буду врать, я немного завидую, что меня там не будет."
 
 # game/script.rpy:3358
 translate russia workBonusMenu_722d46be:
 
     # aM "Check the camera, I'll go put it on!"
-    aM ""
+    aM "Смотри по камерам, пойду переоденусь!"
 
 # game/script.rpy:3364
 translate russia workBonusMenu_d0dfca67:
 
     # a "So how do I look?"
-    a ""
+    a "И, как я выгляжу?"
 
 # game/script.rpy:3365
 translate russia workBonusMenu_b6db739b:
 
     # "Gangster" "Nghhhh~...!"
-    "Гангстер" ""
+    "Гангстер" "Нгххх~...!"
 
 # game/script.rpy:3379
 translate russia workBonusMenu_46e5a597:
 
     # y "Swimsuits are for swimming and I don't think you'll be doing any swimming."
-    y ""
+    y "Купальники предназначены для плавания, а я не думаю, что вы собираетесь поплавать сегодня."
 
 # game/script.rpy:3380
 translate russia workBonusMenu_c47f0590:
 
     # y "So no. Don't put on the swimsuit."
-    y ""
+    y "Так что нет. Не надевай купальник."
 
 # game/script.rpy:3381
 translate russia workBonusMenu_73306339:
 
     # aM "Okay, if you say so, [playerName]."
-    aM ""
+    aM "Хорошо, как скажешь, [playerName]."
 
 # game/script.rpy:3384
 translate russia workBonusMenu_1ed23f83:
 
     # aM "Hey [playerName]. There's this one super sketchie guy who says he'll pay me $50 if he can smell my feet!"
-    aM ""
+    aM "Привет [playerName]. Есть один суперхитрый парень, который говорит, что заплатит мне $50, если сможет понюхать мои ноги!"
 
 # game/script.rpy:3385
 translate russia workBonusMenu_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/script.rpy:3386
 translate russia workBonusMenu_ac17dec1_2:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/script.rpy:3387
 translate russia workBonusMenu_d5217612:
 
     # aM "It's weird, but...{w} It's still 50 bucks."
-    aM ""
+    aM "Это странно...{w} Но это 50 баксов как-никак."
 
 # game/script.rpy:3391
 translate russia workBonusMenu_30be5a73:
 
     # y "Why couldn't it be something normal..."
-    y ""
+    y "Почему это не может быть чем-то нормальным..."
 
 # game/script.rpy:3392
 translate russia workBonusMenu_ad007f89:
 
     # y "Fine, go for it. We'll need the money and just never speak of it again."
-    y ""
+    y "Ладно, действуйте. Нам понадобятся деньги, мы просто никогда больше не будем об этом говорить."
 
 # game/script.rpy:3393
 translate russia workBonusMenu_c2ca5c15:
 
     # aM "Okay~..."
-    aM ""
+    aM "Окей~..."
 
 # game/script.rpy:3400
 translate russia workBonusMenu_0be5ecda:
 
     # y "Alex that's super weird. Get out of there now."
-    y ""
+    y "Алекс, это очень странно. Убирайся оттуда сейчас же."
 
 # game/script.rpy:3401
 translate russia workBonusMenu_5d6302f6:
 
     # aM "No feet smelling?"
-    aM ""
+    aM "Никаких нюханий?"
 
 # game/script.rpy:3402
 translate russia workBonusMenu_c20d9d5d:
 
     # y "No feet smelling."
-    y ""
+    y "Никаких нюханий."
 
 # game/script.rpy:3405
 translate russia workBonusMenu_d1635291:
 
     # aM "What is... 'twerking'?"
-    aM ""
+    aM "Что такое... 'тверк'?"
 
 # game/script.rpy:3406
 translate russia workBonusMenu_ac17dec1_3:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/script.rpy:3407
 translate russia workBonusMenu_53cce76b:
 
     # aM "I've been asked to do some twerking for a diplomatic missions between the gangs."
-    aM ""
+    aM "Меня попросили потверкать для дипломатической миссии между бандами."
 
 # game/script.rpy:3411
 translate russia workBonusMenu_04fb88f0:
 
     # y "I have no idea what it is, but I'm sure you can look it up online."
-    y ""
+    y "Я понятия не имею, что это такое. Но уверен, что ты найдёшь что-нибудь в Интернете."
 
 # game/script.rpy:3412
 translate russia workBonusMenu_8b797804:
 
     # y "So do it."
-    y ""
+    y "Так что вперёд."
 
 # game/script.rpy:3413
 translate russia workBonusMenu_d746607d:
 
     # aM "Aw... okay...~"
-    aM ""
+    aM "Оу... ладно...~"
 
 # game/script.rpy:3421
 translate russia workBonusMenu_7c15a18b:
 
     # y "Twerking...? That sounds painful. Best refuse."
-    y ""
+    y "Тверк...? Звучит болезненно. Лучшие отказать."
 
 # game/script.rpy:3422
 translate russia workBonusMenu_73e3c6db:
 
     # a "All right."
-    a ""
+    a "Хорошо."
 
 # game/script.rpy:3425
 translate russia workBonusMenu_28261612:
 
     # aM "You know those buttjobs we've been practising?"
-    aM ""
+    aM "Помнишь, что мы практиковали с моей задницей?"
 
 # game/script.rpy:3426
 translate russia workBonusMenu_2b3e284d:
 
     # y "Yeees...?"
-    y ""
+    y "Дааа...?"
 
 # game/script.rpy:3427
 translate russia workBonusMenu_aa9ae938:
 
     # aM "Someone here is willing to pay for one."
-    aM ""
+    aM "Кое-кто готов заплатить за это."
 
 # game/script.rpy:3428
 translate russia workBonusMenu_4ad2fe2d:
 
     # y "Really? How much is he offering?"
-    y ""
+    y "Правда? Сколько он предлагает?"
 
 # game/script.rpy:3429
 translate russia workBonusMenu_28c189e5:
 
     # aM "A hundred bucks."
-    aM ""
+    aM "100 баксов."
 
 # game/script.rpy:3433
 translate russia workBonusMenu_e603f4a2_1:
 
     # y "Money for lying down and doing nothing. Go for it!"
-    y ""
+    y "Деньги за то, чтобы лечь и ничего не делать. Вперёд!"
 
 # game/script.rpy:3434
 translate russia workBonusMenu_38f1a7cf:
 
     # aM "But... for a stranger...? I'll do it [playerName], but I don't like it!"
-    aM ""
+    aM "Но... для незнакомца...? Я сделаю это [playerName], но мне это не нравится!"
 
 # game/script.rpy:3435
 translate russia workBonusMenu_3e931dec:
 
     # aM "......................"
-    aM ""
+    aM "......................"
 
 # game/script.rpy:3436
 translate russia workBonusMenu_5dbadf11:
 
     # aM "Okay maybe I like it a little!{w} But just a little bit!"
-    aM ""
+    aM "Ладно, может быть, мне это немного и нравится!{w} Но совсем чуть-чуть!"
 
 # game/script.rpy:3447
 translate russia workBonusMenu_2b7dab5d:
 
     # y "Buttjobs are a rare treasure, not meant to be given out all willy nilly!"
-    y ""
+    y "Твоя попка - это редкое сокровище, оно не предназначено для всех подряд!"
 
 # game/script.rpy:3448
 translate russia workBonusMenu_a2389b69:
 
     # a "{b}*Giggle*{/b} You said willy!"
-    a ""
+    a "{b}*Хихикает*{/b} Что правда, то правда!"
 
 # game/script.rpy:3449
 translate russia workBonusMenu_cf8849f9:
 
     # y "Turn him down, Alex. We'll make money some other way."
-    y ""
+    y "Откажи ему, Алекс. Мы заработаем деньги другим способом."
 
 # game/script.rpy:3452
 translate russia workBonusMenu_f3be3149:
 
     # aM "I get to be a waitress!"
-    aM ""
+    aM "Я стану официанткой!"
 
 # game/script.rpy:3453
 translate russia workBonusMenu_c43f77c7:
 
     # y "You already are a waitress."
-    y ""
+    y "Ты уже работаешь официанткой."
 
 # game/script.rpy:3454
 translate russia workBonusMenu_c82e1d4f:
 
     # aM "But now I get to do it at a party!"
-    aM ""
+    aM "Но теперь я буду работать на вечеринке!"
 
 # game/script.rpy:3455
 translate russia workBonusMenu_77618331:
 
     # aM "Hand out cocktails, cigarettes and snacks!"
-    aM ""
+    aM "Раздавать коктейли, сигареты и закуски!"
 
 # game/script.rpy:3456
 translate russia workBonusMenu_8a3117c9:
 
     # y "Okay.... what's the catch?"
-    y ""
+    y "Окей.... а в чём подвох?"
 
 # game/script.rpy:3457
 translate russia workBonusMenu_72b29711:
 
     # aM "Oh... right, I have to do it naked."
-    aM ""
+    aM "Охх... точно, я буду делать это голой."
 
 # game/script.rpy:3463
 translate russia workBonusMenu_85fc9225:
 
     # y "Hot. I'd say, do it."
-    y ""
+    y "Жарко. Я не против, вперёд."
 
 # game/script.rpy:3464
 translate russia workBonusMenu_ebdcdd79:
 
     # aM "I don't get anything out of it really, except a reputation boost."
-    aM ""
+    aM "Я не получу за это ничего, кроме повышения репутации."
 
 # game/script.rpy:3465
 translate russia workBonusMenu_9d0436af:
 
     # y "That's worth it. Go for it."
-    y ""
+    y "Это того стоит. Действуй."
 
 # game/script.rpy:3471
 translate russia workBonusMenu_7ca26e7a:
 
     # a "Sigars! Cigarettes!"
-    a ""
+    a "Сигары! Сигареты!"
 
 # game/script.rpy:3472
 translate russia workBonusMenu_794bcc77:
 
     # "Gangster" "Hey hottie... are you on the menu?"
-    "Гангстер" ""
+    "Гангстер" "Эй, красотка... А тебя можно заказать?"
 
 # game/script.rpy:3473
 translate russia workBonusMenu_58577f6c:
 
     # a "Tony is that you? How's your girlfriend?"
-    a ""
+    a "Тони, это ты? Как там твоя девушка?"
 
 # game/script.rpy:3474
 translate russia workBonusMenu_fa310edf:
 
     # "Gangster" "A-Alex?! Er.. you never saw me here, okay?"
-    "Гангстер" ""
+    "Гангстер" "А-Алекс?! Эм... ты никогда меня здесь не видела, хорошо?"
 
 # game/script.rpy:3485
 translate russia workBonusMenu_cce20a9b:
 
     # y "Naked waitresses?!"
-    y ""
+    y "Голая официантка?!"
 
 # game/script.rpy:3486
 translate russia workBonusMenu_6ba420a9:
 
     # y "How sleezy!"
-    y ""
+    y "Как подло!"
 
 # game/script.rpy:3487
 translate russia workBonusMenu_8740b2b4:
 
     # aM "But [playerName]...? Aren't we-..."
-    aM ""
+    aM "Но [playerName]...? Разве нам не-..."
 
 # game/script.rpy:3488
 translate russia workBonusMenu_1299c7d2:
 
     # y "The answer is no."
-    y ""
+    y "Мой ответ нет."
 
 # game/script.rpy:3491
 translate russia workBonusMenu_e5a29ff4:
 
     # aM "Stuffed mouths don't talk."
-    aM ""
+    aM "С набитым ртом не разговаривают."
 
 # game/script.rpy:3492
 translate russia workBonusMenu_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/script.rpy:3493
 translate russia workBonusMenu_6fad1870:
 
     # y "What are you, a philosopher?"
-    y ""
+    y "Ты кто, философ?"
 
 # game/script.rpy:3494
 translate russia workBonusMenu_0a24eeb5:
 
     # aM "I heard some bigshots say that. They're looking for some girls to give them blowjobs as they talk about their upcoming heist."
-    aM ""
+    aM "Я слышала, как кто-то сверху говорил так. Они ищут девушек, которые будут делать им минет, пока они будут обсуждать предстоящие ограбление."
 
 # game/script.rpy:3495
 translate russia workBonusMenu_fb1029f8:
 
     # y "Oooh..."
-    y ""
+    y "Оохх..."
 
 # game/script.rpy:3501
 translate russia workBonusMenu_be33b7cf:
 
     # y "Get into that meeting. If you have to suck some dick for it, do it."
-    y ""
+    y "Попади на эту встречу. Даже если для этого нужно отсосать у кого-то."
 
 # game/script.rpy:3502
 translate russia workBonusMenu_cda9cedb:
 
     # aM "Are you sure...?"
-    aM ""
+    aM "Ты уверен...?"
 
 # game/script.rpy:3503
 translate russia workBonusMenu_0ee77766:
 
     # y "Gaining valuable intel in return a 5 minutes blowjob? I'd say that's worth it."
-    y ""
+    y "Ценные сведения в обмен на 5-минутный минет? Думаю, что это того стоит."
 
 # game/script.rpy:3504
 translate russia workBonusMenu_23874321:
 
     # aM "If you say so..."
-    aM ""
+    aM "Как скажешь..."
 
 # game/script.rpy:3509
 translate russia workBonusMenu_3c6c52b4:
 
     # "Gangster" "That's a good girl, Alex."
-    "Гангстер" ""
+    "Гангстер" "Хорошая девочка, Алекс."
 
 # game/script.rpy:3510
 translate russia workBonusMenu_1f72a48a:
 
     # "Gangster" "Best keep this up. We've got loads more of jummy cum for you~..."
-    "Гангстер" ""
+    "Гангстер" "Продолжай в том же духе. У нас ещё много вкусной спермы для тебя~..."
 
 # game/script.rpy:3511
 translate russia workBonusMenu_5758066b:
 
     # a "........................."
-    a ""
+    a "........................."
 
 # game/script.rpy:3523
 translate russia workBonusMenu_600befb5:
 
     # y "It can't be that big of a heist if they let sluts into their secret meetings. Don't do it."
-    y ""
+    y "Это не может быть таким уж большим ограблением, раз они пускают шлюх на тайные встречи. Не стоит этого делать."
 
 # game/script.rpy:3524
 translate russia workBonusMenu_cd8fed92:
 
     # aM "Phew~... Okay!"
-    aM ""
+    aM "Фух~... Хорошо!"
 
 # game/script.rpy:3527
 translate russia workBonusMenu_b0f8508d_1:
 
     # "EVENT NOT VISIBLE TO PLAYER"
-    ""
+    "СОБЫТИЕ НЕ ВИДНО ИГРОКУ"
 
 # game/script.rpy:3529
 translate russia workBonusMenu_123ca587:
 
     # aM "Boobies on display!"
-    aM ""
+    aM "Сиськи на показ!"
 
 # game/script.rpy:3530
 translate russia workBonusMenu_d1642ce7:
 
     # y "Huh?"
-    y ""
+    y "Хух?"
 
 # game/script.rpy:3531
 translate russia workBonusMenu_9b76bbc3:
 
     # aM "It's hot and some of the other girls are also doing it."
-    aM ""
+    aM "Это горячо, и некоторые другие девушки тоже так делают."
 
 # game/script.rpy:3532
 translate russia workBonusMenu_1877f2cb:
 
     # aM "I've been dared to take off my top and flash my tits for a bit of money and intel."
-    aM ""
+    aM "Мне предложили снять топ и показать свои сиськи за небольшие деньги и информацию."
 
 # game/script.rpy:3536
 translate russia workBonusMenu_408734f9_1:
 
     # y "If you think it will help, go for it."
-    y ""
+    y "Если ты считаешь, что это поможет, действуй."
 
 # game/script.rpy:3537
 translate russia workBonusMenu_d52ed590:
 
     # aM "Bouncing boobies on display!"
-    aM ""
+    aM "Прыгающие сиськи!"
 
 # game/script.rpy:3544
 translate russia workBonusMenu_ec8af175:
 
     # a "Bounce bounce bounce!"
-    a ""
+    a "Прыг-скок прыг-скок!"
 
 # game/script.rpy:3545
 translate russia workBonusMenu_ee741be6:
 
     # "You hear a crowd of cheering gangsters in the backgrounds."
-    ""
+    "На заднем плане слышны возгласы бандитов."
 
 # game/script.rpy:3562
 translate russia workBonusMenu_3e07cf67:
 
     # y "Seeing a good pair of tits is like having a fine wine."
-    y ""
+    y "Увидеть хорошую пару сисек - это как выпить хорошего вина."
 
 # game/script.rpy:3563
 translate russia workBonusMenu_2a67dbc0:
 
     # y "You can't just whip them out whenever!"
-    y ""
+    y "Ты не можешь просто взять и трясти своими сиськами когда тебе вздумается!"
 
 # game/script.rpy:3564
 translate russia workBonusMenu_bfd22ea4:
 
     # a "So... No boobies on display then?"
-    a ""
+    a "Значит... никаких сисек?"
 
 # game/script.rpy:3565
 translate russia workBonusMenu_ca96356c:
 
     # y "Not today!"
-    y ""
+    y "Никаких сисек!"
 
 # game/script.rpy:5153
 translate russia statusSetSup_9d1ae406:
 
     # "Set Sam's nanobot suppression levels."
-    ""
+    "Установите уровень подавления наноботов для Сэм."
 
 # game/script.rpy:5157
 translate russia statusSetSup_5951c8f5:
 
     # y "Make sure to keep your nanobots suppressed as much as possible."
-    y ""
+    y "Убедись, что твои наноботы будут подавлены настолько, насколько это возможно."
 
 # game/script.rpy:5158
 translate russia statusSetSup_93490517:
 
     # sM "Understood."
-    sM ""
+    sM "Поняла."
 
 # game/script.rpy:5162
 translate russia statusSetSup_f8fad612:
 
     # y "Keep the nanobots suppressed, but don't overdo it."
-    y ""
+    y "Подави своих наноботов, но не переусердствуй."
 
 # game/script.rpy:5163
 translate russia statusSetSup_2e033cb5:
 
     # sM "Okay, got it."
-    sM ""
+    sM "Хорошо, поняла."
 
 # game/script.rpy:5167
 translate russia statusSetSup_7b1a98a6:
 
     # y "I want to up your nanobot levels a bit. Go easy on the nanobot suppression."
-    y ""
+    y "Я хочу немного повысить твой нано-уровень. Полегче с подавлением наноботов."
 
 # game/script.rpy:5168
 translate russia statusSetSup_dbf013db:
 
     # sM "Okay if you're sure."
-    sM ""
+    sM "Хорошо, если ты уверен."
 
 # game/script.rpy:5171
 translate russia statusSetSup_cc7b1e61:
 
     # "Your spies nano levels will slowly rise over time."
-    ""
+    "Нано-уровень шпионок будет со временем медленно повышаться."
 
 # game/script.rpy:5172
 translate russia statusSetSup_f9eb9899:
 
     # "High nano levels mean your spies will more easily agree to doing sexual actions and will have less of a mood penalty for all actions. However, spies may become more rebellious, steal or even disappear for a few days."
-    ""
+    "Высокий нано-уровень означает, что ваши шпионы будут легче соглашаться на совершение сексуальных действий, штраф за настроение при любых действиях также будут меньше. Однако шпионки могут стать более непослушными, украсть или даже исчезнуть на несколько дней."
 
 # game/script.rpy:5173
 translate russia statusSetSup_3cadc971:
 
     # "Low nano levels means that your spy will make a more steady amount of money, but will take greater mood penalties when asked to preform sex or illigal acts."
-    ""
+    "Низкий нано-уровень означает, что ваши шпионы будет зарабатывать более стабильно. Штрафы за настроение, когда их попросят совершить сексуальные или противозаконные действия, будут больше."
 
 # game/script.rpy:5174
 translate russia statusSetSup_42609b72:
 
     # "Medium nano levels is a steady balance between the two."
-    ""
+    "Средний нано-уровень, это устойчивый баланс между этими двумя показателями."
 
 # game/script.rpy:5175
 translate russia statusSetSup_50f5ef9a:
 
     # "Nano levels can be reduced by having your spies preform sexual acts. Or they can be boosted by injecting them with more nanobots. A spy with low suppression will increase her nanobot levels much faster than one with high suppression as well."
-    ""
+    "Нано-уровень можно снизить, если заставить ваших шпионов совершать сексуальные действия. Так же нано-уровень можно усилить, введя в шпионов больше наноботов. Шпионка с низким уровнем подавления будет увеличивать нано-уровень гораздо быстрее, чем шпионка с высоким уровнем подавления."
 
 # game/script.rpy:5178
 translate russia statusSetSup_cdf2984f:
 
     # "Set Clover's nanobot suppression levels."
-    ""
+    "Установите уровень подавления наноботов для Кловер."
 
 # game/script.rpy:5182
 translate russia statusSetSup_5951c8f5_1:
 
     # y "Make sure to keep your nanobots suppressed as much as possible."
-    y ""
+    y "Убедись, что твои наноботы будут подавлены настолько, насколько это возможно."
 
 # game/script.rpy:5183
 translate russia statusSetSup_edc3fddc:
 
     # cM "Get my naughty on and suppress the nanobots. Got it."
-    cM ""
+    cM "Возбудиться и подавить наноботов. Поняла."
 
 # game/script.rpy:5187
 translate russia statusSetSup_f8fad612_1:
 
     # y "Keep the nanobots suppressed, but don't overdo it."
-    y ""
+    y "Подави своих наноботов, но не переусердствуй."
 
 # game/script.rpy:5188
 translate russia statusSetSup_373e6867:
 
     # cM "Okay, I can do that."
-    cM ""
+    cM "Хорошо, я могу."
 
 # game/script.rpy:5192
 translate russia statusSetSup_7b1a98a6_1:
 
     # y "I want to up your nanobot levels a bit. Go easy on the nanobot suppression."
-    y ""
+    y "Я хочу немного повысить твой нано-уровень. Полегче с подавлением наноботов."
 
 # game/script.rpy:5193
 translate russia statusSetSup_f0c85779:
 
     # cM "Risky, but all right."
-    cM ""
+    cM "Рискованно, но ладно."
 
 # game/script.rpy:5196
 translate russia statusSetSup_cc7b1e61_1:
 
     # "Your spies nano levels will slowly rise over time."
-    ""
+    "Нано-уровень шпионок будет со временем медленно повышаться."
 
 # game/script.rpy:5197
 translate russia statusSetSup_f9eb9899_1:
 
     # "High nano levels mean your spies will more easily agree to doing sexual actions and will have less of a mood penalty for all actions. However, spies may become more rebellious, steal or even disappear for a few days."
-    ""
+    "Высокий нано-уровень означает, что ваши шпионы будут легче соглашаться на совершение сексуальных действий, штраф за настроение при любых действиях также будут меньше. Однако шпионки могут стать более непослушными, украсть или даже исчезнуть на несколько дней."
 
 # game/script.rpy:5198
 translate russia statusSetSup_3cadc971_1:
 
     # "Low nano levels means that your spy will make a more steady amount of money, but will take greater mood penalties when asked to preform sex or illigal acts."
-    ""
+    "Низкий нано-уровень означает, что ваши шпионы будет зарабатывать более стабильно. Штрафы за настроение, когда их попросят совершить сексуальные или противозаконные действия, будут больше."
 
 # game/script.rpy:5199
 translate russia statusSetSup_42609b72_1:
 
     # "Medium nano levels is a steady balance between the two."
-    ""
+    "Средний нано-уровень, это устойчивый баланс между этими двумя показателями."
 
 # game/script.rpy:5200
 translate russia statusSetSup_8cd84526:
 
     # "Nano levels can be reduced by having your spies preform sexual acts. Or they can be boosted by injecting them with more nanobots. A spy with low suppression will increase her nanobot levels much faster than one with high suppression."
-    ""
+    "Нано-уровень можно снизить, если заставить ваших шпионов совершать сексуальные действия. Так же нано-уровень можно усилить, введя в шпионов больше наноботов. Шпионка с низким уровнем подавления будет увеличивать нано-уровень гораздо быстрее, чем шпионка с высоким уровнем подавления."
 
 # game/script.rpy:5203
 translate russia statusSetSup_9fd8fdea:
 
     # "Set Alex's nanobot suppression levels."
-    ""
+    "Установите уровень подавления наноботов для Алекс."
 
 # game/script.rpy:5207
 translate russia statusSetSup_5951c8f5_2:
 
     # y "Make sure to keep your nanobots suppressed as much as possible."
-    y ""
+    y "Убедись, что твои наноботы будут подавлены настолько, насколько это возможно."
 
 # game/script.rpy:5208
 translate russia statusSetSup_8e95353a:
 
     # aM "Oh, I gets to have some fuuuun~...!."
-    aM ""
+    aM "Ох, похоже у меня намечается немного весееееелия~...!"
 
 # game/script.rpy:5212
 translate russia statusSetSup_f8fad612_2:
 
     # y "Keep the nanobots suppressed, but don't overdo it."
-    y ""
+    y "Подави своих наноботов, но не переусердствуй."
 
 # game/script.rpy:5213
 translate russia statusSetSup_927fcf44:
 
     # aM "Okidokie."
-    aM ""
+    aM "Оки-доки."
 
 # game/script.rpy:5217
 translate russia statusSetSup_7b1a98a6_2:
 
     # y "I want to up your nanobot levels a bit. Go easy on the nanobot suppression."
-    y ""
+    y "Я хочу немного повысить твой нано-уровень. Полегче с подавлением наноботов."
 
 # game/script.rpy:5218
 translate russia statusSetSup_d42c948d:
 
     # aM "Hm okay, but only if you're really really sure."
-    aM ""
+    aM "Хм, хорошо, если ты действительно уверены."
 
 # game/script.rpy:5221
 translate russia statusSetSup_cc7b1e61_2:
 
     # "Your spies nano levels will slowly rise over time."
-    ""
+    "Нано-уровень шпионок будет со временем медленно повышаться."
 
 # game/script.rpy:5222
 translate russia statusSetSup_f9eb9899_2:
 
     # "High nano levels mean your spies will more easily agree to doing sexual actions and will have less of a mood penalty for all actions. However, spies may become more rebellious, steal or even disappear for a few days."
-    ""
+    "Высокий нано-уровень означает, что ваши шпионы будут легче соглашаться на совершение сексуальных действий, штраф за настроение при любых действиях также будут меньше. Однако шпионки могут стать более непослушными, украсть или даже исчезнуть на несколько дней."
 
 # game/script.rpy:5223
 translate russia statusSetSup_3cadc971_2:
 
     # "Low nano levels means that your spy will make a more steady amount of money, but will take greater mood penalties when asked to preform sex or illigal acts."
-    ""
+    "Низкий нано-уровень означает, что ваши шпионы будет зарабатывать более стабильно. Штрафы за настроение, когда их попросят совершить сексуальные или противозаконные действия, будут больше."
 
 # game/script.rpy:5224
 translate russia statusSetSup_42609b72_2:
 
     # "Medium nano levels is a steady balance between the two."
-    ""
+    "Средний нано-уровень, это устойчивый баланс между этими двумя показателями."
 
 # game/script.rpy:5225
 translate russia statusSetSup_8cd84526_1:
 
     # "Nano levels can be reduced by having your spies preform sexual acts. Or they can be boosted by injecting them with more nanobots. A spy with low suppression will increase her nanobot levels much faster than one with high suppression."
-    ""
+    "Нано-уровень можно снизить, если заставить ваших шпионов совершать сексуальные действия. Так же нано-уровень можно усилить, введя в шпионов больше наноботов. Шпионка с низким уровнем подавления будет увеличивать нано-уровень гораздо быстрее, чем шпионка с высоким уровнем подавления."
 
 # game/script.rpy:5365
 translate russia mallNotAvailable_20cd6e9e:
 
     # "Shopping not yet available. Work in progress."
-    ""
+    "Покупки пока недоступны. В процессе."
 
 # game/script.rpy:7976
 translate russia purchaseButton_0fa6d9a9:
 
     # y "I don't have enough money to buy this."
-    y ""
+    y "У меня недостаточно денег, чтобы купить это."
 
 # game/script.rpy:12197
 translate russia shopNoCash_5da029c9:
 
     # y "I don't have enough money for that."
-    y ""
+    y "У меня не хватает на это денег."
 
 # game/script.rpy:13322
 translate russia jobTrickOrTreat_00e1b435:
 
     # sM "Trick or Treat!"
-    sM ""
+    sM "Кошелёк или жизнь!"
 
 # game/script.rpy:13327
 translate russia jobTrickOrTreat_ae6ded83:
 
     # cM "Trick or Treat!"
-    cM ""
+    cM "Сладость или гадость!"
 
 # game/script.rpy:13332
 translate russia jobTrickOrTreat_c577c79c:
 
     # aM "Trick or Treat!"
-    aM ""
+    aM "Кошелёк или жизнь!"
 
 translate russia strings:
 

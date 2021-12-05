@@ -3,6 +3,17 @@ default tutStage = 1
 image schoolBG1 = "mission/schoolDistant1.jpg"
 image schoolBG2 = "mission/schoolDistant1.jpg"
 
+label splashscreen:
+scene black with dissolve
+pause 1
+show text "{size=+20}{color=#f10000}АХТУНГ!{/color}\n{/size} \n Игра ещё переводиться!!! \n Статус перевода: \"сырой - не редактированный\" \n Пресутсвуют многочисленные орфографические ошибки и непонятности. \n Советую дождаться полноценного перевода. \n За новостями удобно следить в моём телеграм канале: @papawrtranslate." with dissolve
+pause 10
+show text "Но если ты не терпеливый(ая) и у тебя стольные яйца, то приятной игры. ©Papawr"
+pause 5
+scene black with dissolve
+pause 1
+return
+
 label start:
     label introGame:
         pass
@@ -1482,8 +1493,8 @@ label tutHypno:
 
 
 
-layeredimage spyFallingTut:                                             
-    always: 
+layeredimage spyFallingTut:
+    always:
         "mission/models/spyFallBase1.png"
     if activeSpy == 3:
         "mission/models/sam/spyFallingSuit1.png"
@@ -1726,7 +1737,7 @@ label tutStage6:
 
 
 layeredimage spyBG1ShootingUp:
-    always: 
+    always:
         "mission/models/spyShoot1.png"
     if activeSpy == 1:
         "mission/models/sam/spyFallingSuit1.png"
