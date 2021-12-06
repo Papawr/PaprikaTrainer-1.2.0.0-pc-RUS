@@ -1138,1483 +1138,1482 @@ translate russia spyCameraRed_c1b287b8:
 translate russia spyCameraRed_8394b557:
 
     # c "{i}'The Vitals Indecator Bug, also known as the V.I.B. Highly experimental and remains untested.'{/i} That's some grade A technology for you there..."
-    c "{i}'Витальный жучок-индекатор, также известный как V.I.B. В значительной степени экспериментальный и остается непроверенным.'{/i} That's some grade A technology for you there..."
+    c "{i}'Вибро-индикатор-вредителей, также известный как V.I.B. Экспериментальный, непроверенный.'{/i} Это похоже на технологию высшего класса..."
 
 # game/spycameras.rpy:640
 translate russia spyCameraRed_f7b3bb6c:
 
     # c "Guess we'll have to be the guinea pigs for this one."
-    c ""
+    c "Похоже, мы тут в качестве подопытных кроликов."
 
 # game/spycameras.rpy:644
 translate russia spyCameraRed_8b02da04:
 
     # c "Ah!!"
-    c ""
+    c "Ах!!"
 
 # game/spycameras.rpy:645
 translate russia spyCameraRed_54615e56:
 
     # c "{size=+4}[playerName]!!!!{/size}"
-    c ""
+    c "{size=+4}[playerName]!!!!{/size}"
 
 # game/spycameras.rpy:646
 translate russia spyCameraRed_22a823cd:
 
     # c "......................."
-    c ""
+    c "......................."
 
 # game/spycameras.rpy:647
 translate russia spyCameraRed_230f36ca:
 
     # c "Oh boy I gotta get used to this...!"
-    c ""
+    c "Ох, боже, я должна привыкнуть к этому...!"
 
 # game/spycameras.rpy:662
 translate russia spyCameraRed_3b151806:
 
     # a "So you guys opened a restaurant...?"
-    a ""
+    a "Вы открыли ресторан...?"
 
 # game/spycameras.rpy:663
 translate russia spyCameraRed_cff95b1c:
 
     # s "Yes. It's to keep a low profile and make money. [playerName] will probably ask you to work there every now and then."
-    s ""
+    s "Да. Это для того, чтобы не привлекать внимания и зарабатывать деньги. [playerName], вероятно, будет время от времени отправлять тебя на работу."
 
 # game/spycameras.rpy:664
 translate russia spyCameraRed_8742a2d4:
 
     # c "You have to wear a skimpy uniform, but it's not so bad. The tips are actually pretty good!"
-    c ""
+    c "Приходится носить довольно откровенную униформу, но это не так уж и плохо. Зато чаевые очень хорошие!"
 
 # game/spycameras.rpy:665
 translate russia spyCameraRed_5ae702a6:
 
     # c "The only downside is that customers will slap your ass every now and then."
-    c ""
+    c "Единственный минус - клиенты будут время от времени шлёпать тебя по заднице."
 
 # game/spycameras.rpy:666
 translate russia spyCameraRed_669b52f2:
 
     # a "W-what?! I don't want that!"
-    a ""
+    a "Ч-что?! Я так не хочу!"
 
 # game/spycameras.rpy:669
 translate russia spyCameraRed_0ef670cc:
 
     # a "Eep!"
-    a ""
+    a "Ааргх!"
 
 # game/spycameras.rpy:670
 translate russia spyCameraRed_af55c960:
 
     # c "See? It's not so bad, you'll get used to it."
-    c ""
+    c "Видишь? Это не так уж и плохо, ты привыкнешь."
 
 # game/spycameras.rpy:671
 translate russia spyCameraRed_168cf44c:
 
     # a "Ow~..."
-    a ""
+    a "Оу~..."
 
 # game/spycameras.rpy:681
 translate russia spyCameraRed_77667ffe:
 
     # "You tune in to see what Clover is up to."
-    "Вы смотрите чем занимается"
+    "Вы смотрите чем занимается Кловер."
 
 # game/spycameras.rpy:687
 translate russia spyCameraRed_79162754:
 
     # "Clover isn't at the base at the moment."
-    ""
+    "Кловер сейчас не на базе."
 
 # game/spycameras.rpy:697
 translate russia spyCameraRed_f2a0cb8e:
 
     # c "These cells are bigger than the ones I'm used to by WOOHP..."
-    c ""
+    c "Эти камеры больше, чем те, к которым я привыкла в WOOHP..."
 
 # game/spycameras.rpy:698
 translate russia spyCameraRed_6461fbcd:
 
     # c "I guess crazier get a little more space. There's room for a couch... maybe a hanging chair."
-    c ""
+    c "Похоже сумасшедшим перепадает больше места. Тут есть место для дивана... может быть даже для подвесного кресла."
 
 # game/spycameras.rpy:699
 translate russia spyCameraRed_5986e3a8:
 
     # c "Too bad the door is transparent. Makes me feel like someone is watching me..."
-    c ""
+    c "Жаль, что дверь прозрачная. Постоянно кажется, что за мной кто-то наблюдает..."
 
 # game/spycameras.rpy:700
 translate russia spyCameraRed_87dafd08:
 
     # c "........................"
-    c ""
+    c "........................"
 
 # game/spycameras.rpy:701
 translate russia spyCameraRed_4f230ab2:
 
     # c "Nah you're just being paranoid."
-    c ""
+    c "Нее, ты просто параноик."
 
 # game/spycameras.rpy:708
 translate russia spyCameraRed_628c1256:
 
     # c "{b}*Whines*{/b} I could be going on a date with the cute boy from musical class right now, but instead I'm locked up in here!"
-    c ""
+    c "{b}*Хнычет*{/b} Прямо сейчас я могла быть на свидание с красавчиком из музыкального класса, но вместо этого, я заперта здесь!"
 
 # game/spycameras.rpy:709
 translate russia spyCameraRed_da4db386:
 
     # c "These super villains have the worst timing!"
-    c ""
+    c "Эти суперзлодеи, как всегда, вовремя!"
 
 # game/spycameras.rpy:710
 translate russia spyCameraRed_56dcb8a6:
 
     # c "Atleast I still get to put on my make-u-..."
-    c ""
+    c "По крайней мере, я все еще могу накрасить-..."
 
 # game/spycameras.rpy:711
 translate russia spyCameraRed_2e79719a:
 
     # c "...................."
-    c ""
+    c "...................."
 
 # game/spycameras.rpy:712
 translate russia spyCameraRed_c468f36d:
 
     # c "There's no mirror...{w} Can this day get any worse?"
-    c ""
+    c "Тут нет зеркала...{w} Это худший день в моей жизни!"
 
 # game/spycameras.rpy:719
 translate russia spyCameraRed_a9c93e6c:
 
     # c "Ugh, what villains did they lock up in here?! It smells like fish!"
-    c ""
+    c "Угх, каких злодеев они здесь запирали?! Тут пахнет рыбой!"
 
 # game/spycameras.rpy:720
 translate russia spyCameraRed_91323bb7:
 
     # c "Let's do some exploring~...."
-    c ""
+    c "Посмотрим~...."
 
 # game/spycameras.rpy:721
 translate russia spyCameraRed_25f1417d:
 
     # c "Hmm... Nothing....{w} Nothing....{w} Wait... what's this?"
-    c ""
+    c "Хмм... Ничего...{w} И тут ничего....{w} Стоп... а это что?"
 
 # game/spycameras.rpy:722
 translate russia spyCameraRed_1cfcf6dd:
 
     # c "It's a newspaper article that reads 'We should all bow down to our whale overlords'."
-    c ""
+    c "Газетная статья, тут написано: \"Мы все должны склониться перед нашими китовыми владыками\"."
 
 # game/spycameras.rpy:723
 translate russia spyCameraRed_c2be8bbd:
 
     # c "............................."
-    c ""
+    c "............................."
 
 # game/spycameras.rpy:730
 translate russia spyCameraRed_9e3368f6:
 
     # c "Nooooo!"
-    c ""
+    c "Нееееет!"
 
 # game/spycameras.rpy:731
 translate russia spyCameraRed_d9d207cd:
 
     # c "The city being over taken over is one thing, but a bad hair day two days in a row?!"
-    c ""
+    c "То, что город захватили - это одно, но плохая прическа два дня подряд?!"
 
 # game/spycameras.rpy:732
 translate russia spyCameraRed_70c80949:
 
     # c "What almighty cosmic force did I piss off to be this cursed?!"
-    c ""
+    c "Какую могущественную космическую силу я разозлила, чтобы меня так прокляли?!"
 
 # game/spycameras.rpy:733
 translate russia spyCameraRed_0a77ce4d:
 
     # "Clover is seen frantically straightening out her hair."
-    ""
+    "Кловер судорожно расправляет волосы."
 
 # game/spycameras.rpy:741
 translate russia spyCameraRed_8787a91a:
 
     # c "Today has been crazy!"
-    c ""
+    c "Сегодня был сумасшедший день!"
 
 # game/spycameras.rpy:742
 translate russia spyCameraRed_dd6ce678:
 
     # c "I've gotten so much work done. Gold star for Clover!"
-    c ""
+    c "Я так много успела сделать. Золотую звёздочку мне!"
 
 # game/spycameras.rpy:743
 translate russia spyCameraRed_57c8803d:
 
     # c "Maybe I should work hard more often. I didn't know it could be this rewarding!"
-    c ""
+    c "Может мне, стоит почаще усердно работать. Я и не знала, что это может быть настолько полезным!"
 
 # game/spycameras.rpy:744
 translate russia spyCameraRed_ef6bf47f:
 
     # c "................................"
-    c ""
+    c "................................"
 
 # game/spycameras.rpy:745
 translate russia spyCameraRed_18aff809:
 
     # c "But probably not. They say stress causes wrinkles."
-    c ""
+    c "Нее, навряд ли. Говорят, что стресс вызывает морщины."
 
 # game/spycameras.rpy:752
 translate russia spyCameraRed_c0e39607:
 
     # c "Not having to go to school is pretty cool, but I miss seeing all the cute boys..."
-    c ""
+    c "Не ходить в школу конечно, здорово, но я скучаю по симпатичным мальчикам..."
 
 # game/spycameras.rpy:753
 translate russia spyCameraRed_a63f5a6f:
 
     # c "Whoever's behind this attack will pay from keeping me from my true love....{w}s!"
-    c ""
+    c "Кто бы ни стоял за этим нападением, он заплатит за то, что разлучил меня с моей настоящей любовью!"
 
 # game/spycameras.rpy:754
 translate russia spyCameraRed_26d51a49:
 
     # c "Well at least the mall is still open, so it's not all bad."
-    c ""
+    c "По крайней мере, торговый центр всё ещё открыт. Всё не так плохо."
 
 # game/spycameras.rpy:761
 translate russia spyCameraRed_b3f03065:
 
     # c "I wonder what [playerName] thought when he saw me naked..."
-    c ""
+    c "Интересно, что подумал [playerName], когда увидел меня голой..."
 
 # game/spycameras.rpy:762
 translate russia spyCameraRed_edcec7a6:
 
     # c "Tsk, I know what he thought. He was going 'DAAAAAAYUM'!"
-    c ""
+    c "Кажись знаю, он такой \"ЕЕЕЕЕЕББББААААТТТЬЬ\"!"
 
 # game/spycameras.rpy:763
 translate russia spyCameraRed_065cb8e4:
 
     # c "And who can blame him. He's a lucky guy."
-    c ""
+    c "И за что его винить. Он везунчик."
 
 # game/spycameras.rpy:770
 translate russia spyCameraRed_13cfde54:
 
     # c "Where did I leave that toe clipper?!"
-    c ""
+    c "Где я оставила маникюрные ножницы?!"
 
 # game/spycameras.rpy:771
 translate russia spyCameraRed_87dafd08_1:
 
     # c "........................"
-    c ""
+    c "........................"
 
 # game/spycameras.rpy:772
 translate russia spyCameraRed_ecda4f32:
 
     # c "SERIOUSLY! WHERE DID I LEAVE THAT FREAKING TOE CLIPPER!"
-    c ""
+    c "серьезно! где я оставила эти чертовы ножницы!"
 
 # game/spycameras.rpy:773
 translate russia spyCameraRed_70b8186c:
 
     # "You see Clover frantically turn over her bed."
-    ""
+    "Вы смотрите, как Кловер судорожно роится в своей кровати."
 
 # game/spycameras.rpy:781
 translate russia spyCameraRed_99506aad:
 
     # c "Oh wait, that's it..."
-    c ""
+    c "Оох, стоп, вот же они..."
 
 # game/spycameras.rpy:782
 translate russia spyCameraRed_e841ff22:
 
     # c "Windows. That's what this place is missing."
-    c ""
+    c "Окна. Вот чего здесь не хватает."
 
 # game/spycameras.rpy:783
 translate russia spyCameraRed_096d6157:
 
     # c "Too bad we're underground..."
-    c ""
+    c "Жаль, что мы под землей..."
 
 # game/spycameras.rpy:784
 translate russia spyCameraRed_d8675b53:
 
     # c "Maybe I'll look into getting some posters or paintings."
-    c ""
+    c "Может стоит попробовать купить постеры или картины."
 
 # game/spycameras.rpy:793
 translate russia spyCameraRed_b3a8a231:
 
     # "Clover is looking in a mirror."
-    ""
+    "Кловер смотрит в зеркало."
 
 # game/spycameras.rpy:794
 translate russia spyCameraRed_c00408de:
 
     # c "Man look at you two."
-    c ""
+    c "Только посмотрите на них."
 
 # game/spycameras.rpy:795
 translate russia spyCameraRed_4b2f3c22:
 
     # c "No wonder [playerName] likes to play with you guys. I've got the best tits in Beverly Hills."
-    c ""
+    c "Неудивительно, что [playerName] любит с вами играть. У меня самые лучшие сиськи в Беверли-Хиллз."
 
 # game/spycameras.rpy:796
 translate russia spyCameraRed_14e3f15d:
 
     # "She bounces her breasts up and down a few times."
-    ""
+    "Она несколько раз подбрагивает на месте. Её грудь весело покачивается вверх и вниз."
 
 # game/spycameras.rpy:797
 translate russia spyCameraRed_775418d9:
 
     # c "Jiggle, jiggle..."
-    c ""
+    c "Прыг-скок, прыг-скок..."
 
 # game/spycameras.rpy:805
 translate russia spyCameraRed_30bc13e8:
 
     # c "I wish the tabletop game store didn't burn down..."
-    c ""
+    c "Надеюсь что магазин настольных игр не сгорел до тла...  "
 
 # game/spycameras.rpy:806
 translate russia spyCameraRed_17abac63:
 
     # c "Now where am I going to get my glow in the dark dice...?"
-    c ""
+    c "И где мне теперь взять кубики, которые светятся в темноте...?"
 
 # game/spycameras.rpy:807
 translate russia spyCameraRed_b9571cdb:
 
     # c "Oh! And I can't forget about my online game later tonight.{w} Busy busy."
-    c ""
+    c "Оох! И нельзя забыват об онлайн-игре сегодня вечером."
 
 # game/spycameras.rpy:809
 translate russia spyCameraRed_68f54a4a:
 
     # c "The boredom is killing me. I really need a hobby."
-    c ""
+    c "Я умираю от скуки. Мне действительно нужно хобби."
 
 # game/spycameras.rpy:810
 translate russia spyCameraRed_4ec88fe6:
 
     # c "Knitting. No, I'm not a grandma yet."
-    c ""
+    c "Вязание. Нет, я ещё не бабушка."
 
 # game/spycameras.rpy:811
 translate russia spyCameraRed_1cdb6c4a:
 
     # c "Gardening. Having one insane plant lady running around is enough."
-    c ""
+    c "Садоводство. У нас уже есть одна безумная женщина-растениевод, думаю одной достаточно."
 
 # game/spycameras.rpy:812
 translate russia spyCameraRed_4196616f:
 
     # c "Checking out hot boys on the beach. Now that I can do~...{w} I hope [playerName] gives me a day off again soon."
-    c ""
+    c "Разглядывать горячих парней на пляже. Теперь, когда я могу~...{w} Надеюсь, [playerName] скоро снова даст мне выходной."
 
 # game/spycameras.rpy:819
 translate russia spyCameraRed_0a28f8de:
 
     # c "Ah~... ahhh~...! ♥♥♥"
-    c ""
+    c "Оох~... ааххх~...! ♥♥♥"
 
 # game/spycameras.rpy:820
 translate russia spyCameraRed_0c23f38d:
 
     # c "Fuck me, daddy~... ♥"
-    c ""
+    c "Трахни меня, папочка~... ♥"
 
 # game/spycameras.rpy:821
 translate russia spyCameraRed_ec93016c:
 
     # c "Oh man this is so good, thank you [playerName]!!"
-    c ""
+    c "Ого, это так вкусно, спасибо [playerName]!!!"
 
 # game/spycameras.rpy:830
 translate russia spyCameraRed_8126ce8e:
 
     # "Clover is preparing her toothbrush."
-    ""
+    "Кловер достаёт зубную щетку."
 
 # game/spycameras.rpy:831
 translate russia spyCameraRed_108590b8:
 
     # c "Ugh... lemme brush my teeth..."
-    c ""
+    c "Угх... дай-ка я почищу зубы..."
 
 # game/spycameras.rpy:832
 translate russia spyCameraRed_ff76c37f:
 
     # c "Blowjobs are fun, but they taste so bad..."
-    c ""
+    c "Минет - это конечно весело, но на вкус это не очень..."
 
 # game/spycameras.rpy:833
 translate russia spyCameraRed_dada6838:
 
     # c r18 "I wonder if it feels the same for men as it feels for women..."
-    c r18 ""
+    c r18 "Я удивлюсь, если мужчины чувствуют то же самое что и женщины..."
 
 # game/spycameras.rpy:840
 translate russia spyCameraRed_bc3c44f2:
 
     # c r12 "I want some VR glasses. I don't think they deliver to warzones though...."
-    c r12 ""
+    c r12 "Я хочу очки виртуальной реальности. Но не думаю, что их доставят в зону боевых действий, хотя..."
 
 # game/spycameras.rpy:841
 translate russia spyCameraRed_2bd7fd4a:
 
     # c "Guess I'm stucking watching funny videos online..."
-    c ""
+    c "Похоже, мне придётся дальше смотреть смешные видео в Интернете..."
 
 # game/spycameras.rpy:842
 translate russia spyCameraRed_b5e0805c:
 
     # c "Hey... what's this ERP thing people are talking... about..."
-    c ""
+    c "Эй... Что такое ERP, о котором все люди говорят..."
 
 # game/spycameras.rpy:843
 translate russia spyCameraRed_ea2b7c24:
 
     # c r29 "Oh...{w} Oooooh.{w} So that's what ERP is...."
-    c r29 ""
+    c r29 "Ох...{w} Ооооохх.{w} Так вот что такое ERP...."
 
 # game/spycameras.rpy:850
 translate russia spyCameraRed_c4a21256:
 
     # c r11 "I kinda wanna give another boobjob..."
-    c r11 ""
+    c r11 "Я вроде как хочу сделать пайзури ещё раз..."
 
 # game/spycameras.rpy:851
 translate russia spyCameraRed_750c710a:
 
     # c r23 "I can't believe how reluctant I was to give one before. These are so hot..."
-    c r23 ""
+    c r23 "Не могу поверить, как я раньше не хотел этого делать. Это так возбуждает..."
 
 # game/spycameras.rpy:852
 translate russia spyCameraRed_6ae50cea:
 
     # c "And when he cums on your face~...♥{w} {b}*Sighs*{/b} You're such a hoe Clover..."
-    c ""
-
+    c "А когда они кончают на твоё лицо~...♥{w} {b}*Вздох*{/b} Ты такая шлюха Кловер..."
 # game/spycameras.rpy:859
 translate russia spyCameraRed_a21b9c47:
 
     # c r14 "Oof~... going undercover with the Drift Punk is cool, but they turn their music up so loud..."
-    c r14 ""
+    c r14 "Ууф~... работать под прикрытием у Дрифт Панков довольно круто, но они включают свою музыку слишком громко..."
 
 # game/spycameras.rpy:860
 translate russia spyCameraRed_6fdcc039:
 
     # c "I don't think I'll get a lot of sleep tonight...!"
-    c ""
+    c "Не думаю, что мне удастся поспать сегодня...!"
 
 # game/spycameras.rpy:861
 translate russia spyCameraRed_4d0eb34e:
 
     # c r13 "All in all, I got to go undercover in a pretty awesome gang."
-    c r13 ""
+    c r13 "В общем, мне довелось поработать под прикрытием в довольно крутой банде."
 
 # game/spycameras.rpy:873
 translate russia spyCameraRed_9c562400:
 
     # "Clover is taking a shower."
-    ""
+    "Кловер принимает душ."
 
 # game/spycameras.rpy:874
 translate russia spyCameraRed_207fd3b7:
 
     # c "Oh man... I should get one of those wall mounted dildos for in here."
-    c ""
+    c "Боже... Мне нужно купить один из этих настенных фаллоимитаторов."
 
 # game/spycameras.rpy:875
 translate russia spyCameraRed_ba73ce86:
 
     # c "Okay... step back Clover!{w} You already have a dildo and the VIB. You're not going to build up an arsenal of sex toys."
-    c ""
+    c "Ладно Кловер... притормози!{w} У тебя уже есть фаллоимитатор и VIB. Ты же не собираешься собрать целый арсенал секс-игрушек."
 
 # game/spycameras.rpy:876
 translate russia spyCameraRed_30e6b701:
 
     # c "At least not yet~.... ♥"
-    c ""
+    c "По крайней мере, пока~.... ♥"
 
 # game/spycameras.rpy:886
 translate russia spyCameraRed_0eae8262:
 
     # c r11 "I can't believe I'm fucking, [playerName]..."
-    c r11 ""
+    c r11 "Не могу поверить, что я трахаюсь, [playerName]..."
 
 # game/spycameras.rpy:887
 translate russia spyCameraRed_340716c7:
 
     # c r23 "He is pretty cute in his own way~..."
-    c r23 ""
+    c r23 "Он по-своему довольно милый~..."
 
 # game/spycameras.rpy:888
 translate russia spyCameraRed_29cad27d:
 
     # c r14 "Ngh~... and that body~..."
-    c r14 ""
+    c r14 "Нгх~... а это тело~..."
 
 # game/spycameras.rpy:889
 translate russia spyCameraRed_c5f9b1b8:
 
     # c "Maybe I should stop chasing after boys and get myself a {i}man{/i}."
-    c ""
+    c "Может, мне стоит перестать гоняться за мальчиками и завести себе {i}мужчину{/i}."
 
 # game/spycameras.rpy:898
 translate russia spyCameraRed_fd0847df:
 
     # c "Showering is nice, but I wish we could bring a hottub in here..."
-    c ""
+    c "Душ - это конечно хорошо, но я бы хотела, чтобы мы могли принести сюда джакузи..."
 
 # game/spycameras.rpy:899
 translate russia spyCameraRed_74113d36:
 
     # c "Ngh~... I miss going to the spa..."
-    c ""
+    c "Нгх~... Как же я скучаю по спа..."
 
 # game/spycameras.rpy:900
 translate russia spyCameraRed_b41904db:
 
     # c "I'm a little jealous of Sam. She and the Aces can go into those fancy expensive spa's that haven't been destroyed yet..."
-    c ""
+    c "Я немного завидую Сэм. Она и Тузы могут пойти в те шикарные дорогие спа-салоны, которые ещё не разрушили..."
 
 # game/spycameras.rpy:907
 translate russia spyCameraRed_c5a734b8:
 
     # "Clover is on her phone."
-    "сидит за телефоном."
+    "Кловер сидит за телефоном."
 
 # game/spycameras.rpy:908
 translate russia spyCameraRed_0358181e:
 
     # c "69 ways to please your man."
-    c ""
+    c "69 способов доставить удовольствие своему мужчине."
 
 # game/spycameras.rpy:909
 translate russia spyCameraRed_c2022906:
 
     # c r23 "I bet I can guess what number 69 is going to be~...."
-    c r23 ""
+    c r23 "Спорим, я смогу угадать, каким будет номер 69~...."
 
 # game/spycameras.rpy:910
 translate russia spyCameraRed_8d79f447:
 
     # c "{i}'Cook him a nice dinner'{/i}"
-    c ""
+    c "{i}'Приготовьте ему вкусный ужин'{/i}"
 
 # game/spycameras.rpy:911
 translate russia spyCameraRed_68fec295:
 
     # c r18 "Oh... not what I expected..."
-    c r18 ""
+    c r18 "Ох... это не то, чего я ожидала..."
 
 # game/spycameras.rpy:919
 translate russia spyCameraRed_134ffd0a:
 
     # c "I feel like I'm going to be walking bow-legged for a while..."
-    c ""
+    c "Чувствую, что какое-то время я буду ходить только на носочках..."
 
 # game/spycameras.rpy:920
 translate russia spyCameraRed_41216256:
 
     # c "Anything to satisfy a man.... right Clover...?"
-    c ""
+    c "Всё что угодно, чтобы удовлетворить мужчину.... Да, Кловер...?"
 
 # game/spycameras.rpy:921
 translate russia spyCameraRed_63a29ceb:
 
     # c "{b}*Sighs*{/b} I guess I shouldn't complain. It's a pretty interesting way to reduce my nanobots...♥"
-    c ""
+    c "{b}*Вздох*{/b} Думаю, мне не стоит жаловаться. Это довольно интересный способ усмерить моих наноботов....♥"
 
 # game/spycameras.rpy:928
 translate russia spyCameraRed_4a8e9e80:
 
     # c "Maybe I should do some push-ups to improve my strength... or jumping rope to improve my agility..."
-    c ""
+    c "Может мне, стоит поотжиматься, чтобы улучшить свою силу... или попрыгать на скакалке, чтобы улучшить свою ловкость..."
 
 # game/spycameras.rpy:929
 translate russia spyCameraRed_24e1aa67:
 
     # c "I guess I could read a book to improve my intelligence..."
-    c ""
+    c "Думаю, можно почитать книгу, чтобы улучшить свой интеллект..."
 
 # game/spycameras.rpy:930
 translate russia spyCameraRed_dc4528e3:
 
     # c ".........................."
-    c ""
+    c ".........................."
 
 # game/spycameras.rpy:931
 translate russia spyCameraRed_7da9c818:
 
     # c "None of these things sounds very fun... It's so much easier in a game..."
-    c ""
+    c "Хмм... В играх все эти вещи звучат веселее и гораздо проще..."
 
 # game/spycameras.rpy:940
 translate russia spyCameraRed_c616ef06:
 
     # c "I sometimes wonder if this is a two-way mirror..."
-    c ""
+    c "Иногда я думаю, не является ли это зеркало двусторонним..."
 
 # game/spycameras.rpy:941
 translate russia spyCameraRed_0ff61bd4:
 
     # c "[playerName] can you see me right now...?"
-    c ""
+    c "[playerName] ты меня сейчас видишь...?"
 
 # game/spycameras.rpy:942
 translate russia spyCameraRed_e286886e:
 
     # c "........................................."
-    c ""
+    c "........................................."
 
 # game/spycameras.rpy:945
 translate russia spyCameraRed_48ea4b73:
 
     # c "I'm just being paranoid...."
-    c ""
+    c "Я просто параною...."
 
 # game/spycameras.rpy:952
 translate russia spyCameraRed_5aa78952:
 
     # c "I miss going to the beach..."
-    c ""
+    c "Я скучаю по пляжу..."
 
 # game/spycameras.rpy:953
 translate russia spyCameraRed_3ab5d576:
 
     # c "I mean.. I still go there, but there's always that nagging feeling in the back of your mind."
-    c ""
+    c "Я имею в виду... Я всё ещё хожу туда, но всегда есть это ноющее чувство в глубине души."
 
 # game/spycameras.rpy:954
 translate russia spyCameraRed_28d45b2c:
 
     # c "Like a gang could should up and attack you when you least expect it."
-    c ""
+    c "А вдруг другая банда нападёт, когда я меньше всего этого ожидаю."
 
 # game/spycameras.rpy:955
 translate russia spyCameraRed_c2be8bbd_1:
 
     # c "............................."
-    c ""
+    c "............................."
 
 # game/spycameras.rpy:956
 translate russia spyCameraRed_c97d2b03:
 
     # c "Come to think of it, I used to have that feeling before the riots broke out aswell... {w}Being a spy does that to you."
-    c ""
+    c "Если подумать, у меня бывали такие мысли и до того, как начались беспорядки... {w}Быть шпионом - трудно."
 
 # game/spycameras.rpy:958
 translate russia spyCameraRed_5477efbe:
 
     # "NOT YET IN."
-    ""
+    "ЕЩЁ ДЕЛАЕТСЯ."
 
 # game/spycameras.rpy:979
 translate russia spyCameraYellow_344d6c00:
 
     # s "So you're saying there's a whale themed villain out there...?"
-    s ""
+    s "То есть, ты хочешь сказать, что есть злодей с китовой тематикой...?"
 
 # game/spycameras.rpy:980
 translate russia spyCameraYellow_32b2947f:
 
     # a "No, a whale biologist themed villain. She's not an actual whale."
-    a ""
+    a "Нет, злодей - китовый биолог. Она не настоящий кит."
 
 # game/spycameras.rpy:981
 translate russia spyCameraYellow_799a0d50:
 
     # s "Oh okay. For a second there I th-..."
-    s ""
+    s "А, хорошо. На секунду я-..."
 
 # game/spycameras.rpy:982
 translate russia spyCameraYellow_cfa1a445:
 
     # a "Her boyfriend is."
-    a ""
+    a "Но её парень - кит."
 
 # game/spycameras.rpy:983
 translate russia spyCameraYellow_297d93f3:
 
     # c "What?"
-    c ""
+    c "Что?"
 
 # game/spycameras.rpy:984
 translate russia spyCameraYellow_65b4e610:
 
     # a "She's dating a whale."
-    a ""
+    a "Она встречается с китом."
 
 # game/spycameras.rpy:985
 translate russia spyCameraYellow_bda28dda:
 
     # c ".................."
-    c ""
+    c ".................."
 
 # game/spycameras.rpy:986
 translate russia spyCameraYellow_32a67ecb:
 
     # c "I'm beginning to see why these guys were locked up in an insane asylum."
-    c ""
+    c "Я начинаю потихоньку понимать, почему их запирали в психушке."
 
 # game/spycameras.rpy:996
 translate russia spyCameraYellow_caf1322b:
 
     # "You tune in to see what Alex is up to."
-    "Вы смотрите чем занимается"
+    "Вы смотрите чем занимается Алекс."
 
 # game/spycameras.rpy:1002
 translate russia spyCameraYellow_b231353b:
 
     # "Alex isn't at the base at the moment."
-    ""
+    "Алекс сейчас не на базе."
 
 # game/spycameras.rpy:1012
 translate russia spyCameraYellow_5d3bb143:
 
     # a "I wonder what it's like being a shark..."
-    a ""
+    a "Интересно, каково это - быть акулой..."
 
 # game/spycameras.rpy:1013
 translate russia spyCameraYellow_d50dd76f:
 
     # a "................................."
-    a ""
+    a "................................."
 
 # game/spycameras.rpy:1014
 translate russia spyCameraYellow_5df380c0:
 
     # a "{b}*Snickers*{/b}"
-    a ""
+    a "{b}*Хихикает*{/b}"
 
 # game/spycameras.rpy:1015
 translate russia spyCameraYellow_aa7984a6:
 
     # y "(Another rifiting look inside the mind of Alex...)"
-    y ""
+    y "(В эфире рубрика: \"Захватывающие мысли Алекс\"...)"
 
 # game/spycameras.rpy:1024
 translate russia spyCameraYellow_007a0b5d:
 
     # a "You have to be a big girl, Alex!"
-    a ""
+    a "Ты взрослая девочка, Алекс!"
 
 # game/spycameras.rpy:1025
 translate russia spyCameraYellow_82670d4e:
 
     # a "Next time [playerName] asks to see your boobies, you tell him {b}'no'{/b}."
-    a ""
+    a "В следующий раз когда [playerName] попросит тебя показать грудь, просто скажи ему {b}'нет'{/b}."
 
 # game/spycameras.rpy:1026
 translate russia spyCameraYellow_02bf3155:
 
     # a "Only you get to see them!{w} And Sam...{w} And Clover..."
-    a ""
+    a "Только тебе можно на них смотреть!{w} И Сэм...{w} И Алекс..."
 
 # game/spycameras.rpy:1027
 translate russia spyCameraYellow_29fa94b5:
 
     # a "But nobody else!"
-    a ""
+    a "Но больше никто!"
 
 # game/spycameras.rpy:1034
 translate russia spyCameraYellow_7b0e2134:
 
     # a "I don't understand why everyone's fighting..."
-    a ""
+    a "Я не понимаю, почему все друг с другом сражаются..."
 
 # game/spycameras.rpy:1035
 translate russia spyCameraYellow_0974f236:
 
     # a "Are these nanobots really that dangerous...?"
-    a ""
+    a "Неужели эти наноботы настолько опасны...?"
 
 # game/spycameras.rpy:1036
 translate russia spyCameraYellow_31be4b07:
 
     # a "You have to be tough, Alex! {w}Everyone is relying on you! Together with your friends and [playerName] you will retake the city!"
-    a ""
+    a "Ты должна быть жёстче, Алекс! {w}Все полагаются на тебя! Вместе со своими друзьями и [playerName] у тебя получится вернуть город!"
 
 # game/spycameras.rpy:1043
 translate russia spyCameraYellow_f8dd4687:
 
     # a "..............."
-    a ""
+    a "..............."
 
 # game/spycameras.rpy:1044
 translate russia spyCameraYellow_db6bad06:
 
     # a "This is actually a cool bed~..."
-    a ""
+    a "На самом деле это классная кровать~..."
 
 # game/spycameras.rpy:1045
 translate russia spyCameraYellow_4c63b9ac:
 
     # a "I bet I could stack pillows and make it a pillow fortress!"
-    a ""
+    a "Наверняка я смогу сложить подушки и сделать из них крепость!"
 
 # game/spycameras.rpy:1046
 translate russia spyCameraYellow_1e5adfad:
 
     # a "I'll just borrow some pillows from the empty cells.{w} Call me Queen Alex! Ruler of the underground!"
-    a ""
+    a "Я просто позаимствую несколько подушек из пустых камер.{w} Зовите меня Королевой Алекс! Правительницей подземелья!"
 
 # game/spycameras.rpy:1053
 translate russia spyCameraYellow_33a05a3f:
 
     # a "It's pretty late..."
-    a ""
+    a "Уже довольно поздно..."
 
 # game/spycameras.rpy:1054
 translate russia spyCameraYellow_16bef785:
 
     # a "But I really want a milkshake..."
-    a ""
+    a "Но я очень хочу молочный коктейль..."
 
 # game/spycameras.rpy:1055
 translate russia spyCameraYellow_c258939d:
 
     # a "I wonder if [playerName] would get angry if I snuck upstairs to the bar~...."
-    a ""
+    a "Интересно, рассердится ли [playerName], если я проберусь наверх в бар~...."
 
 # game/spycameras.rpy:1063
 translate russia spyCameraYellow_ffc4b1fa:
 
     # "Alex is sitting on her bed."
-    ""
+    "Алекс сидит на своей кровати."
 
 # game/spycameras.rpy:1064
 translate russia spyCameraYellow_5758066b:
 
     # a "........................."
-    a ""
+    a "........................."
 
 # game/spycameras.rpy:1065
 translate russia spyCameraYellow_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/spycameras.rpy:1066
 translate russia spyCameraYellow_5758066b_1:
 
     # a "........................."
-    a ""
+    a "........................."
 
 # game/spycameras.rpy:1067
 translate russia spyCameraYellow_b9211878:
 
     # y "(What is she doing...?)"
-    y ""
+    y "(Что она делает...?)"
 
 # game/spycameras.rpy:1068
 translate russia spyCameraYellow_22688bef:
 
     # a "........................"
-    a ""
+    a "........................"
 
 # game/spycameras.rpy:1069
 translate russia spyCameraYellow_e6d37669:
 
     # a "Huh?{w} Oh! I was daydreaming again!"
-    a ""
+    a "Хух?{w} Ох! Я опять замечталась!"
 
 # game/spycameras.rpy:1070
 translate russia spyCameraYellow_b0c40d85:
 
     # a "How many hours passed this time....?"
-    a ""
+    a "Сколько часов прошло....?"
 
 # game/spycameras.rpy:1077
 translate russia spyCameraYellow_772df709:
 
     # "Alex is playing a game on her phone."
-    ""
+    "Алекс играет на своём телефоне."
 
 # game/spycameras.rpy:1078
 translate russia spyCameraYellow_dfdf1d23:
 
     # a "Crush, crush, crush, crush~...."
-    a ""
+    a "Бум, крах, бабах, тых~...."
 
 # game/spycameras.rpy:1079
 translate russia spyCameraYellow_1f71e5bb:
 
     # a "CRUSH, CRUSH, CRUSH, CRUSH!"
-    a ""
+    a "БУДЫМС, БДЫЩЬ, ТЫДЫХ, КАБЫМС!"
 
 # game/spycameras.rpy:1080
 translate russia spyCameraYellow_f5b99aef:
 
     # a "Hah! Take that empty calories! You won't be tempting me anymore!"
-    a ""
+    a "Хах! Получите жалкие калории! Вы больше не будете меня искушать!"
 
 # game/spycameras.rpy:1087
 translate russia spyCameraYellow_8151a9e3:
 
     # a "So your plan for not showing your nudies didn't exactly work..."
-    a ""
+    a "Получается, мой план: не показывать свою наготу, не совсем сработал..."
 
 # game/spycameras.rpy:1088
 translate russia spyCameraYellow_72c1a09a:
 
     # a "Oh well, in for a nickle in for a buck I guess."
-    a ""
+    a "Надеюсь, что на этом всё закончится, это же не какая-то порно-пародия."
 
 # game/spycameras.rpy:1089
 translate russia spyCameraYellow_5758066b_2:
 
     # a "........................."
-    a ""
+    a "........................."
 
 # game/spycameras.rpy:1090
 translate russia spyCameraYellow_07b6c053:
 
     # a "I feel like I got that saying wrong..."
-    a ""
+    a "Ведь так...?"
 
 # game/spycameras.rpy:1098
 translate russia spyCameraYellow_4f007f3d:
 
     # "Alex is looking in a mirror."
-    ""
+    "Алекс смотрит в зеркало."
 
 # game/spycameras.rpy:1099
 translate russia spyCameraYellow_8569b0bf:
 
     # a "I can kinda get why [playerName] likes looking at these..."
-    a ""
+    a "Я понимаю, почему [playerName] нравится смотреть на это..."
 
 # game/spycameras.rpy:1100
 translate russia spyCameraYellow_4c0fd858:
 
     # a "Bounce!"
-    a ""
+    a "Прыг!"
 
 # game/spycameras.rpy:1101
 translate russia spyCameraYellow_6a5b75f1:
 
     # "Alex hops on the spot, causing her tits to jiggle up and down."
-    ""
+    "Алекс подпрыгивает на месте, заставляя свои сиськи покачиваться вверх-вниз."
 
 # game/spycameras.rpy:1102
 translate russia spyCameraYellow_2f31d807:
 
     # a "Bounce! Bounce!"
-    a ""
+    a "Прыг! Скок!"
 
 # game/spycameras.rpy:1103
 translate russia spyCameraYellow_5ea16a3d:
 
     # y "(........................)"
-    y ""
+    y "(........................)"
 
 # game/spycameras.rpy:1104
 translate russia spyCameraYellow_b1b72a1a:
 
     # a "Bounce! Bounce! Bounce!"
-    a ""
+    a "Прыг! Прыг! Прыг!"
 
 # game/spycameras.rpy:1105
 translate russia spyCameraYellow_6208b3ad:
 
     # y "(Alex you're killing me and you don't even know it...)"
-    y ""
+    y "(Алекс, ты меня убиваешь, и даже не подозреваешь об этом...)"
 
 # game/spycameras.rpy:1113
 translate russia spyCameraYellow_3bf54cc1:
 
     # "Alex is reading her phone."
-    "Сэм сидит в телефоне."
+    "Алекс сидит в телефоне."
 
 # game/spycameras.rpy:1114
 translate russia spyCameraYellow_da415c0d:
 
     # a "Buttjobs~....."
-    a ""
+    a "Глютеальный секс между ягодиц~....."
 
 # game/spycameras.rpy:1115
 translate russia spyCameraYellow_062cd336:
 
     # a "Lemme check this video..."
-    a ""
+    a "Так, что это за видео..."
 
 # game/spycameras.rpy:1116
 translate russia spyCameraYellow_6d807c8c:
 
     # a "..............................."
-    a ""
+    a "..............................."
 
 # game/spycameras.rpy:1117
 translate russia spyCameraYellow_a96b3456:
 
     # a "This shouldn't be too har-..."
-    a ""
+    a "Это не должно быть слишком труд-..."
 
 # game/spycameras.rpy:1118
 translate russia spyCameraYellow_4fecbbb3:
 
     # a "!!!"
-    a ""
+    a "!!!"
 
 # game/spycameras.rpy:1119
 translate russia spyCameraYellow_3c35a8aa:
 
     # a "Noooo, that's not suppose to go there!"
-    a ""
+    a "Нееет, это не... не туда!!"
 
 # game/spycameras.rpy:1120
 translate russia spyCameraYellow_1bdacd86:
 
     # a "Oh no, there's another one!"
-    a ""
+    a "Оох нет, ещё один!"
 
 # game/spycameras.rpy:1121
 translate russia spyCameraYellow_98473547:
 
     # a "They're so big, how does she even breath?!"
-    a ""
+    a "Они такие большие, как она вообще дышит?!"
 
 # game/spycameras.rpy:1122
 translate russia spyCameraYellow_b3841ecb:
 
     # "You see a traumatized Alex throw her phone into the corner of the room."
-    ""
+    "Вы видите, как травмированная Алекс бросает свой телефон в угол комнаты."
 
 # game/spycameras.rpy:1130
 translate russia spyCameraYellow_54a45c0f:
 
     # a "I think I'm gonna walk around naked from now on..."
-    a ""
+    a "Думаю, с этого момента я буду ходить голой..."
 
 # game/spycameras.rpy:1131
 translate russia spyCameraYellow_abcf8823:
 
     # a "Everyone here has already seen my nudies and I don't have to do the laundry as often!"
-    a ""
+    a "Все здесь уже видели меня голой, а ещё мне больше нужно будет так часто стирать!"
 
 # game/spycameras.rpy:1132
 translate russia spyCameraYellow_e74340a3:
 
     # a "I'm gonna tell Clover!"
-    a ""
+    a "Скажу Кловер!"
 
 # game/spycameras.rpy:1135
 translate russia spyCameraYellow_398d6ae6:
 
     # a "Distant: CLOVER!"
-    a ""
+    a "Из далека: КЛОВЕР!"
 
 # game/spycameras.rpy:1136
 translate russia spyCameraYellow_fde5ba3a:
 
     # c "Distant: Alex? Why are you naked?!"
-    c ""
+    c "Из далека: Алекс? Почему ты раздета?!"
 
 # game/spycameras.rpy:1143
 translate russia spyCameraYellow_da4189fb:
 
     # a "I wonder how Jerry is doing right now..."
-    a ""
+    a "Интересно, как Джерри сейчас себя чувствует..."
 
 # game/spycameras.rpy:1144
 translate russia spyCameraYellow_f9c6453c:
 
     # a "I must work extra hard! We'll free the city and then safe Jerry!"
-    a ""
+    a "Нужно работать усерднее! Мы освободим город, а затем спасём Джерри!"
 
 # game/spycameras.rpy:1145
 translate russia spyCameraYellow_22688bef_1:
 
     # a "........................"
-    a ""
+    a "........................"
 
 # game/spycameras.rpy:1146
 translate russia spyCameraYellow_df1a5247:
 
     # a "I just hope he's not hurt..."
-    a ""
+    a "Надеюсь, что он не пострадал..."
 
 # game/spycameras.rpy:1153
 translate russia spyCameraYellow_08165958:
 
     # a "Hmpf~..."
-    a ""
+    a "Хмпф~..."
 
 # game/spycameras.rpy:1154
 translate russia spyCameraYellow_bd3c02d9:
 
     # a "Why is it so hard to find a boyfriend who shares my interest!"
-    a ""
+    a "Почему так трудно найти парня, который разделял бы мои интересы!"
 
 # game/spycameras.rpy:1155
 translate russia spyCameraYellow_d8bcf0f8:
 
     # a "He's gotta be a athletic, fun-loving, good looking....{w} and a pony."
-    a ""
+    a "Он должен быть спортивным, весёлым, симпатичным....{w} и быть пони."
 
 # game/spycameras.rpy:1156
 translate russia spyCameraYellow_d2230f58:
 
     # a "I don't know what {i}'beastiality'{/i}means, but I'm sure they're just overreacting."
-    a ""
+    a "Я не знаю, что означает {i}'зоофилия'{/i}, но я уверена, что они просто слишком остро реагируют."
 
 # game/spycameras.rpy:1164
 translate russia spyCameraYellow_bd6ef86b:
 
     # a "Blowjob is such a silly word..."
-    a ""
+    a "Минет - такое глупое слово..."
 
 # game/spycameras.rpy:1165
 translate russia spyCameraYellow_37c3cc87:
 
     # a "You don't do a whole lot of blowing..."
-    a ""
+    a "Я не так часто сосу..."
 
 # game/spycameras.rpy:1166
 translate russia spyCameraYellow_f3f612d5:
 
     # a "Wait! Maybe I've been doing it wrong! Next time I'll blow really hard!"
-    a ""
+    a "Подождите! Может я делал это неправильно! В следующий раз я буду сосать сильнее!"
 
 # game/spycameras.rpy:1167
 translate russia spyCameraYellow_4c92332f:
 
     # a "I just hope [playerName] doesn't blow up like a balloon..."
-    a ""
+    a "Надеюсь, что [playerName] не скукожится как пакетик из-под сока..."
 
 # game/spycameras.rpy:1174
 translate russia spyCameraYellow_65f2ea08:
 
     # a "Boobjobs, blowjobs, buttjobs... [playerName] is sure letting us to a lot of jobs..."
-    a ""
+    a "Пайзури, минет, глютеальный секс... У [playerName], несомненно много заданий для нас..."
 
 # game/spycameras.rpy:1175
 translate russia spyCameraYellow_67e9ec09:
 
     # a "I wonder if he'll actually pay us for them..."
-    a ""
+    a "Интересно, заплатит ли он нам за их выполнения..."
 
 # game/spycameras.rpy:1176
 translate russia spyCameraYellow_7a193c47:
 
     # a "I'll ask him, next time I see him!"
-    a ""
+    a "Спрошу у него, когда увижу его в следующий раз!"
 
 # game/spycameras.rpy:1183
 translate russia spyCameraYellow_e0115d4b:
 
     # a "I should get a gun!"
-    a ""
+    a "Мне стоит купить оружие!"
 
 # game/spycameras.rpy:1184
 translate russia spyCameraYellow_2dd68d32:
 
     # a "It would make my job so much easier. Just point and pull the trigger and BOOM! All your problems are gone!"
-    a ""
+    a "Это значительно облегчит мою работу. Просто наводишься, спускаешь курок и БУМ! Все твои проблемы исчезли!"
 
 # game/spycameras.rpy:1185
 translate russia spyCameraYellow_e7c3216a:
 
     # a "Well there's the whole worry about killing people of course..."
-    a ""
+    a "Ну, конечно, у меня есть опасения по поводу убийства людей..."
 
 # game/spycameras.rpy:1186
 translate russia spyCameraYellow_300f78d5:
 
     # a "Maybe I'll just get a toy gun! Best of both worlds!"
-    a ""
+    a "Может, стоит просто купить игрушечный пистолет! Идеальная комбинация!"
 
 # game/spycameras.rpy:1194
 translate russia spyCameraYellow_1daf0844:
 
     # a "I miss my guitar..."
-    a ""
+    a "Я скучаю по своей гитаре..."
 
 # game/spycameras.rpy:1195
 translate russia spyCameraYellow_c2b8eb75:
 
     # a "I saw one in the mall yesterday, but I can't waste our money on that..."
-    a ""
+    a "Я видела вчера одину в торговом центре, но я не могу тратить наши деньги на это..."
 
 # game/spycameras.rpy:1196
 translate russia spyCameraYellow_9f8bbf39:
 
     # a "Still..."
-    a ""
+    a "Тем не менее..."
 
 # game/spycameras.rpy:1197
 translate russia spyCameraYellow_ca3f4967:
 
     # "Alex proceeds to rock out to an air guitar."
-    ""
+    "Алекс продолжает играть на воздушной гитаре."
 
 # game/spycameras.rpy:1204
 translate russia spyCameraYellow_a55accb5:
 
     # a "I do love you Mr. Wiggles, but nothing compares to a real dick."
-    a ""
+    a "Я люблю вас, мистер. Вигглс, но ничто не сравнится с настоящим членом."
 
 # game/spycameras.rpy:1205
 translate russia spyCameraYellow_1bc79060:
 
     # a "Don't be jealous, okay?"
-    a ""
+    a "Не ревнуй, ладно?"
 
 # game/spycameras.rpy:1213
 translate russia spyCameraYellow_05333c36:
 
     # a y20 "Having sex... does that make me a slut?"
-    a y20 ""
+    a y20 "Занятие сексом... делает ли это меня шлюхой?"
 
 # game/spycameras.rpy:1214
 translate russia spyCameraYellow_63689ba0:
 
     # a y16 "Or do I need to have loads of it...?"
-    a y16 ""
+    a y16 "Или для этого его должно быть много...?"
 
 # game/spycameras.rpy:1215
 translate russia spyCameraYellow_faca12ee:
 
     # a "Maybe I need to have loads of it with lots of people..."
-    a ""
+    a "Может его должно быть много и с большим количеством людей..."
 
 # game/spycameras.rpy:1216
 translate russia spyCameraYellow_e67cfefa:
 
     # a y19 "Man, being a slut is hard."
-    a y19 ""
+    a y19 "Боже, быть шлюхой тяжело."
 
 # game/spycameras.rpy:1223
 translate russia spyCameraYellow_f62e0871:
 
     # "Maybe I should read up on sex..."
-    ""
+    "Может, мне стоит почитать о сексе..."
 
 # game/spycameras.rpy:1224
 translate russia spyCameraYellow_713357ed:
 
     # a "Let's see here... {i}'10 interesting sex positions'{/i}."
-    a ""
+    a "Посмотрим... {i}'10 интересных поз для секса'{/i}."
 
 # game/spycameras.rpy:1225
 translate russia spyCameraYellow_7b5d4a7e:
 
     # "Alex looks confused and turns her head."
-    ""
+    "Алекс выглядит смущенной и поворачивает голову."
 
 # game/spycameras.rpy:1226
 translate russia spyCameraYellow_74c64111:
 
     # a y16 "But where does that...?"
-    a y16 ""
+    a y16 "Но где это...?"
 
 # game/spycameras.rpy:1227
 translate russia spyCameraYellow_100bc2b2:
 
     # a y29 "Wait... I thought you were only suppose to have one of those..."
-    a y29 ""
+    a y29 "Подождите... Я думала, что может быть только одна..."
 
 # game/spycameras.rpy:1228
 translate russia spyCameraYellow_0a9949b8:
 
     # a "This one looks interesting, but we don't have a ceiling fan..."
-    a ""
+    a "Эта выглядит интересно, но у нас нет потолочного вентилятора..."
 
 # game/spycameras.rpy:1229
 translate russia spyCameraYellow_fda814f2:
 
     # a y28 "I'm pretty sure this one is illigal!"
-    a y28 ""
+    a y28 "Я уверена, что вот эта точно незаконная!"
 
 # game/spycameras.rpy:1230
 translate russia spyCameraYellow_a81a8b65:
 
     # a y21 "..................."
-    a y21 ""
+    a y21 "..................."
 
 # game/spycameras.rpy:1231
 translate russia spyCameraYellow_a98770f9:
 
     # a "Sex is complicated..."
-    a ""
+    a "Секс - это сложно..."
 
 # game/spycameras.rpy:1238
 translate russia spyCameraYellow_8cce196f:
 
     # a y5 "I want to call mom and dad..."
-    a y5 ""
+    a y5 "Я хочу позвонить маме и папе..."
 
 # game/spycameras.rpy:1239
 translate russia spyCameraYellow_1db3ca0b:
 
     # a "The girls told me to stay undercover though..."
-    a ""
+    a "Девочки сказали мне оставаться под прикрытием, хотя..."
 
 # game/spycameras.rpy:1240
 translate russia spyCameraYellow_d59f3814:
 
     # a "{b}*Sniff*{/b} They must be so worried..."
-    a ""
+    a "{b}*Шмыг*{/b} Они наверное беспокоиться..."
 
 # game/spycameras.rpy:1247
 translate russia spyCameraYellow_953f50d1:
 
     # a "Ah~... Ahhh~... deeper Mr. Wiggles~... ♥♥♥"
-    a ""
+    a "Оох~... Ааах~... глубже мистер Вигглс~... ♥♥♥"
 
 # game/spycameras.rpy:1248
 translate russia spyCameraYellow_5c7a2395:
 
     # a "Deeper~... fill me up~...!"
-    a ""
+    a "Глуубже~... заполни меня~...!"
 
 # game/spycameras.rpy:1249
 translate russia spyCameraYellow_3dab16df:
 
     # a "Ahhhhhh!! ♥♥♥♥♥"
-    a ""
+    a "Ааааахххх!! ♥♥♥♥♥"
 
 # game/spycameras.rpy:1250
 translate russia spyCameraYellow_df9267ff:
 
     # a "{b}*Pant* *Pant* *Pant*{/b}"
-    a ""
+    a "{b}*Пыхтит* *Пыхтит* *Пыхтит*{/b}"
 
 # game/spycameras.rpy:1251
 translate russia spyCameraYellow_0b26ded2:
 
     # a "Best... gift... ever!"
-    a ""
+    a "Лучший... подарок... на свете!"
 
 # game/spycameras.rpy:1260
 translate russia spyCameraYellow_07e32e3f:
 
     # a "Looks like not even my butt is safe now..."
-    a ""
+    a "Похоже, теперь даже моя задница в опасности..."
 
 # game/spycameras.rpy:1261
 translate russia spyCameraYellow_80910417:
 
     # a "Maybe Mr. Wiggles will help me practise~... ♥"
-    a ""
+    a "Может мистер Вигглс поможет мне попрактиковаться~... ♥"
 
 # game/spycameras.rpy:1265
 translate russia spyCameraYellow_7a7af3a9:
 
     # a "Ooooh Mr. Wiggles~....!"
-    a ""
+    a "Ооохх мистер Вигглс~....!"
 
 # game/spycameras.rpy:1266
 translate russia spyCameraYellow_d6cbebb2:
 
     # a "I have a surprise for youuuuu~...."
-    a ""
+    a "У меня есть сюрприз для теееебя~...."
 
 # game/spycameras.rpy:1273
 translate russia spyCameraYellow_2b6972bc:
 
     # a "{b}*Sighs*{/b} Reading dark and depressing poetry is nice and all, but sometimes I wish I could read something less cynical."
-    a ""
+    a "{b}*Вздох*{/b} Читать мрачную и депрессивную поэзию приятно и всё такое, но иногда мне хочется почитать что-нибудь менее циничное."
 
 # game/spycameras.rpy:1274
 translate russia spyCameraYellow_8f56f9e6:
 
     # a "Maybe I could borrow some comics from Clover~..."
-    a ""
+    a "Может мне стоит одолжить пару комиксов у Кловер~..."
 
 # game/spycameras.rpy:1275
 translate russia spyCameraYellow_ff290fbf:
 
     # a "She doesn't need to know they're missing~... ♥"
-    a ""
+    a "Ей не обязательно знать, что они пропали~... ♥"
 
 # game/spycameras.rpy:1282
 translate russia spyCameraYellow_802bf623:
 
     # a "Hm... I wonder how I become a {i}'big tittied goth gf'{/i}."
-    a ""
+    a "Хм... Интересно, как мне стать {i}'девушкой-готом с большими сиськами'{/i}."
 
 # game/spycameras.rpy:1283
 translate russia spyCameraYellow_18b70875:
 
     # a "Big titties. {w}Check."
-    a ""
+    a "Большие сиськи. {w}Чек."
 
 # game/spycameras.rpy:1284
 translate russia spyCameraYellow_5f792fe4:
 
     # a "Goth... {w}half-check."
-    a ""
+    a "Гот... {w} Пол-чека."
 
 # game/spycameras.rpy:1285
 translate russia spyCameraYellow_a9e06009:
 
     # a "GF... {w}I'll need to get a BF first..."
-    a ""
+    a "Девушка-гот... {w}Сначала мне нужно найти себе парня-гота..."
 
 # game/spycameras.rpy:1286
 translate russia spyCameraYellow_3dfca8c2:
 
     # a "But I don't think [playerName] would let me have any..."
-    a ""
+    a "Но не думаю, что [playerName] разрешит мне..."
 
 # game/spycameras.rpy:1293
 translate russia spyCameraYellow_f3b46812:
 
     # a "I hope [playerName] will ask me to have sex again soon..."
-    a ""
+    a "Надеюсь, что [playerName] скоро снова предложит мне заняться сексом..."
 
 # game/spycameras.rpy:1294
 translate russia spyCameraYellow_17cfc09b:
 
     # a "It's so much fun!"
-    a ""
+    a "Это так весело!"
 
 # game/spycameras.rpy:1295
 translate russia spyCameraYellow_4e8d918a:
 
     # "Alex is visibly shaking with excitement."
-    ""
+    "Алекс заметно дрожит от волнения."
 
 # game/spycameras.rpy:1296
 translate russia spyCameraYellow_e9ede90a:
 
     # a "I want to do it every day and in all kinds of positions!"
-    a ""
+    a "Я хочу делать это каждый день, в самых разных позах!"
 
 # game/spycameras.rpy:1298
 translate russia spyCameraYellow_14045a4b:
 
     # "NOT YET IN"
-    ""
+    "ЕЩЁ ДЕЛАЕТСЯ."
 
 # game/spycameras.rpy:1309
 translate russia spyCameraYellow_ce026793:
 
     # "OOP, YOU'RE NOT SUPPOSE TO SEE THIS. JUMPING TO BASE."
-    ""
+    "ОЙ, ВЫ НЕ ДОЛЖЕН ЭТО ВИДЕТЬ. ВОЗВРАЩАЕМСЯ НА БАЗУ."
 
 translate russia strings:
 
