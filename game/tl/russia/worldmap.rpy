@@ -4,703 +4,703 @@
 translate russia skipIntro_3699dd22:
 
     # "Which spy would you like to start with?"
-    ""
+    "С какой шпионки вы хотите начать?"
 
 # game/worldmap.rpy:43
 translate russia worldmap_47de9938:
 
     # "The next Landgrab is seven days away. If you want to participate make sure you free some WOOHP agents."
-    ""
+    "До следующей \"войны за территорию\" осталось семь дней. Если вы хотите принять участие, убедитесь, что вы освободили пару агентов WOOHP."
 
 # game/worldmap.rpy:54
 translate russia worldmap_2ad6bf5b:
 
     # "WARNING: INCOMING LANDGRAB!"
-    ""
+    "ВНИМАНИЕ: \"ВОЙНА ЗА ТЕРРИТОРИЮ\" ПРИБЛИЖАЕТСЯ!"
 
 # game/worldmap.rpy:56
 translate russia worldmap_4f198b89:
 
     # "You don't have enough freed agents to participate in the landgrab. Craft Hypno Earrings and capture some agents during missions."
-    ""
+    "У вас недостаточно свободных агентов, чтобы участвовать в \"войне за территорию\". Создайте Гипно-серьги и захватите несколько агентов во время миссий."
 
 # game/worldmap.rpy:70
 translate russia worldmap_9d5771bd:
 
     # "Achievement unlocked.{w} Unlock all mission zones."
-    ""
+    "Достижение разблокировано.{w} Разблокируйте все зоны миссий."
 
 # game/worldmap.rpy:77
 translate russia worldmap_38ec1d6b:
 
     # "Achievement unlocked.{w} Unlock full nanobot control."
-    ""
+    "Достижение разблокировано.{w} Разблокируйте полный контроль наноботами."
 
 # game/worldmap.rpy:84
 translate russia worldmap_9f1b7209:
 
     # "Achievement unlocked.{w} Claim the first ever Jester Card reward."
-    ""
+    "Достижение разблокировано.{w} Получите свою первую награду в \"Картах шутах\"."
 
 # game/worldmap.rpy:91
 translate russia worldmap_f56aec03:
 
     # "Achievement unlocked.{w} Input the Orange Trainer secret code into the ATM."
-    ""
+    "Достижение разблокировано.{w} Введите секретный код \"Orange Trainer\" в банкомате."
 
 # game/worldmap.rpy:98
 translate russia worldmap_b6707286:
 
     # "Achievement unlocked.{w} Bang the Slut Shaming Santa's wife during Christmas."
-    ""
+    "Достижение разблокировано.{w} Трахни жену Санты во время Рождества."
 
 # game/worldmap.rpy:105
 translate russia worldmap_c3aaaa56:
 
     # "Achievement unlocked.{w} Restore Zukkerthroth's shrines and have him violate the girls."
-    ""
+    "Достижение разблокировано.{w} Восстановите святыни Цуккертрота и заставьте его насиловать девушек."
 
 # game/worldmap.rpy:112
 translate russia worldmap_a4e06e7f:
 
     # "Achievement unlocked.{w} Get $10.000."
-    ""
+    "Достижение разблокировано.{w} Заработайте $10.000."
 
 # game/worldmap.rpy:119
 translate russia worldmap_1077e12c:
 
     # "Achievement unlocked.{w} Learn the secrets of making the perfect milkshake."
-    ""
+    "Достижение разблокировано.{w} Узнайте секреты приготовления идеального молочного коктейля."
 
 # game/worldmap.rpy:126
 translate russia worldmap_7f445485:
 
     # "Achievement unlocked.{w} Retake all the floors of WOOHP HQ."
-    ""
+    "Достижение разблокировано.{w} Захватите все этажи штаб-квартиры WOOHP."
 
 # game/worldmap.rpy:144
 translate russia worldmap_2f435999:
 
     # "ALERT! Your notoriety has dropped to critical levels!"
-    ""
+    "ВНИМАНИЕ! Ваша известность упала до критического уровня!"
 
 # game/worldmap.rpy:145
 translate russia worldmap_ace385e8:
 
     # "The only way to recover is by sending your girls on a several day crime spree!"
-    ""
+    "Единственный способ восстановить известность - это отправить девушек на несколько дней совершать преступление!"
 
 # game/worldmap.rpy:148
 translate russia worldmap_0b2cc3e9:
 
     # y "Emergency meeting!"
-    y ""
+    y "Экстренное совещание!"
 
 # game/worldmap.rpy:155
 translate russia worldmap_305f1fac:
 
     # y "Drop everything you're doing!!! Go and commit crimes!"
-    y ""
+    y "Бросьте всё, чем вы сейчас занимаетесь!!! Идите и совершайте преступления!"
 
 # game/worldmap.rpy:160
 translate russia worldmap_2f23c5c6:
 
     # "You send your spies out!"
-    ""
+    "Вы отправляете своих шпионов!"
 
 # game/worldmap.rpy:169
 translate russia worldmap_cd26a563:
 
     # y "(I'm sure it'll be fi-...)"
-    y ""
+    y "(Уверен, что всё будет хо-...)"
 
 # game/worldmap.rpy:172
 translate russia worldmap_78981955:
 
     # "???" "This is where they're hiding!"
-    "???" ""
+    "???" "Так вот где они прячутся!"
 
 # game/worldmap.rpy:173
 translate russia worldmap_36546dc6:
 
     # y "What the...?!"
-    y ""
+    y "Что за...?!"
 
 # game/worldmap.rpy:182
 translate russia worldmap_690d4e1f:
 
     # "Agent" "Suspect found!"
-    "Agent" ""
+    "Агент" "Подозреваемый найден!"
 
 # game/worldmap.rpy:183
 translate russia worldmap_b56594a7:
 
     # "Agent" "Get him!"
-    "Agent" ""
+    "Агент" "Держите его!"
 
 # game/worldmap.rpy:184
 translate russia worldmap_c164ca17:
 
     # y "Uh oh..."
-    y ""
+    y "Ух оох..."
 
 # game/worldmap.rpy:203
 translate russia worldmap_2ad6bf5b_1:
 
     # "WARNING: INCOMING LANDGRAB!"
-    ""
+    "ВНИМАНИЕ: \"ВОЙНА ЗА ТЕРРИТОРИЮ\" ПРИБЛИЖАЕТСЯ!"
 
 # game/worldmap.rpy:242
 translate russia worldmap_ef39e9f6:
 
     # y "Maybe I should go for a walk today."
-    y ""
+    y "Может пойти на прогулку сегодня?"
 
 # game/worldmap.rpy:259
 translate russia worldmap_78b482a0:
 
     # y "We're running low on intel. Best plan some missions to WOOHP HQ and have my spies gather some."
-    y ""
+    y "У нас мало свединий. Лучше всего спланировать несколько миссий в штаб-квартиру WOOHP и поручить моим шпионкам собрать информацию."
 
 # game/worldmap.rpy:376
 translate russia clubMapSelect_67580b2c:
 
     # "Sam's morale is too low to go to work."
-    ""
+    "У Сэм слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:397
 translate russia clubMapSelect_fedb79d7:
 
     # y "I should probably discuss the situation with her first."
-    y ""
+    y "Наверное, сначала нужно обсудить эту ситуацию с ней."
 
 # game/worldmap.rpy:401
 translate russia clubMapSelect_b3fe33af:
 
     # sM "Sure, I can help clean."
-    sM ""
+    sM "Конечно, я могу помочь с уборкой."
 
 # game/worldmap.rpy:415
 translate russia clubMapSelect_fedb79d7_1:
 
     # y "I should probably discuss the situation with her first."
-    y ""
+    y "Наверное, сначала нужно обсудить эту ситуацию с ней."
 
 # game/worldmap.rpy:420
 translate russia clubMapSelect_2c3b8f48:
 
     # y "I haven't picked her up a uniform from the mall yet."
-    y ""
+    y "Я ещё не забрал её форму из торгового центра."
 
 # game/worldmap.rpy:425
 translate russia clubMapSelect_0a6ba78b:
 
     # "Clover's morale is too low to go to work."
-    ""
+    "У Кловер слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:446
 translate russia clubMapSelect_dd67a337:
 
     # y "I should probably discuss the situation with Clover first."
-    y ""
+    y "Наверное, сначала нужно обсудить эту ситуацию с Кловер."
 
 # game/worldmap.rpy:465
 translate russia clubMapSelect_e167fc14:
 
     # "Alex's morale is too low to go to work."
-    ""
+    "У Алекс слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:486
 translate russia clubMapSelect_8841b3ec:
 
     # y "I should probably discuss the situation with Alex first."
-    y ""
+    y "Наверное, сначала нужно обсудить эту ситуацию с Алекс."
 
 # game/worldmap.rpy:503
 translate russia clubMapSelect_2c3b8f48_1:
 
     # y "I haven't picked her up a uniform from the mall yet."
-    y ""
+    y "Я ещё не забрал её форму из торгового центра."
 
 # game/worldmap.rpy:510
 translate russia breakMapSelect_23804d2d:
 
     # "There are no captured Agents controlled by nanobots."
-    ""
+    "Захваченных Агентов под контролем наноботов, нет."
 
 # game/worldmap.rpy:524
 translate russia breakMapSelect_de719bd8:
 
     # sM "Ugh... I hate this~...."
-    sM ""
+    sM "Угх... Ненавижу это~...."
 
 # game/worldmap.rpy:528
 translate russia breakMapSelect_23804d2d_1:
 
     # "There are no captured Agents controlled by nanobots."
-    ""
+    "Захваченных Агентов под контролем наноботов, нет."
 
 # game/worldmap.rpy:542
 translate russia breakMapSelect_6e8121dc:
 
     # cM "Fine, but they better not get touchy!"
-    cM ""
+    cM "Ладно, но пусть держат свои руки при себе!"
 
 # game/worldmap.rpy:546
 translate russia breakMapSelect_23804d2d_2:
 
     # "There are no captured Agents controlled by nanobots."
-    ""
+    "Захваченных Агентов под контролем наноботов, нет."
 
 # game/worldmap.rpy:560
 translate russia breakMapSelect_39d17b92:
 
     # aM "{b}*Gulp*{/b} Well if you say so..."
-    aM ""
+    aM "{b}*Глоть*{/b} Раз ты так говоришь..."
 
 # game/worldmap.rpy:565
 translate russia mallMapSelect_b629519d:
 
     # "Give Sam some time off to spend at the mall?"
-    ""
+    "Дать Сэм немного свободного времени, чтобы она провела его в торговом центре?"
 
 # game/worldmap.rpy:578
 translate russia mallMapSelect_cb98fa1d:
 
     # "Give Clover some time off to spend at the mall?"
-    ""
+    "Дать Кловер немного свободного времени, чтобы она провела его в торговом центре?"
 
 # game/worldmap.rpy:591
 translate russia mallMapSelect_a6ec2fa8:
 
     # "Give Alex some time off to spend at the mall?"
-    ""
+    "Дать Алекс немного свободного времени, чтобы она провела его в торговом центре?"
 
 # game/worldmap.rpy:606
 translate russia beachMapSelect_b329ca76:
 
     # "Give Sam some time off to spend at the beach?"
-    ""
+    "Дать Сэм немного свободного времени, чтобы она провела его на пляже?"
 
 # game/worldmap.rpy:619
 translate russia beachMapSelect_7c5dd288:
 
     # "Give Clover some time off to spend at the beach?"
-    ""
+    "Дать Кловер немного свободного времени, чтобы она провела его на пляже?"
 
 # game/worldmap.rpy:632
 translate russia beachMapSelect_5ce0b46a:
 
     # "Give Alex some time off to spend at the beach?"
-    ""
+    "Дать Алекс немного свободного времени, чтобы она провела его на пляже?"
 
 # game/worldmap.rpy:649
 translate russia crimeMapSelect_67580b2c:
 
     # "Sam's morale is too low to go to work."
-    ""
+    "У Сэм слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:657
 translate russia crimeMapSelect_eab089e1:
 
     # sM "All right, nobody be a hero!"
-    sM ""
+    sM "Ладно, никто не будет героем!"
 
 # game/worldmap.rpy:667
 translate russia crimeMapSelect_0c02f41a:
 
     # sM "As long as nobody gets hurt."
-    sM ""
+    sM "Лишь бы никто не пострадал."
 
 # game/worldmap.rpy:677
 translate russia crimeMapSelect_773b89ac:
 
     # sM "If I really have to..."
-    sM ""
+    sM "Если я и правда должна..."
 
 # game/worldmap.rpy:685
 translate russia crimeMapSelect_0a6ba78b:
 
     # "Clover's morale is too low to go to work."
-    ""
+    "У Кловер слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:693
 translate russia crimeMapSelect_26a757f7:
 
     # cM "Guns are a girl's best friend~..."
-    cM ""
+    cM "Оружие - лучшее друзья девушек~..."
 
 # game/worldmap.rpy:703
 translate russia crimeMapSelect_c9605c90:
 
     # cM "Fine, but I'm not actually shooting someone!"
-    cM ""
+    cM "Ладно, я же не собираюсь стрелять в кого-то! "
 
 # game/worldmap.rpy:713
 translate russia crimeMapSelect_ce9b2827:
 
     # cM "I really don't want to... Let's just get this over with."
-    cM ""
+    cM "Я действительно не хочу... Давайте просто покончим с этим."
 
 # game/worldmap.rpy:721
 translate russia crimeMapSelect_e167fc14:
 
     # "Alex's morale is too low to go to work."
-    ""
+    "У Алекс слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:729
 translate russia crimeMapSelect_abc57a05:
 
     # aM "I'm gonna shoot somebody!"
-    aM ""
+    aM "Я сейчас кого-нибудь пристрелю!"
 
 # game/worldmap.rpy:739
 translate russia crimeMapSelect_da1c7094:
 
     # aM "Okay... but I'm keeping the safety on..."
-    aM ""
+    aM "Хорошо... но я не сниму с предохранителя..."
 
 # game/worldmap.rpy:749
 translate russia crimeMapSelect_d5c8a961:
 
     # aM "Rob a store? Well... okay, but only if nobody gets hurt."
-    aM ""
+    aM "Ограбить магазин? Ну... хорошо, но только если никто не пострадает."
 
 # game/worldmap.rpy:756
 translate russia crimeMapSelect_7f9156b6:
 
     # "Your spies nanobot levels are too low for this. Visit the STATUS screen to decide how much or how little they should focus on suppressing them."
-    ""
+    "Уровень наноботов у ваших шпионов слишком низкий для этого. Посетите экран СТАТУС, чтобы настроить уровень подавления наноботов."
 
 # game/worldmap.rpy:761
 translate russia crimeMapSelect_67580b2c_1:
 
     # "Sam's morale is too low to go to work."
-    ""
+    "У Сэм слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:769
 translate russia crimeMapSelect_ca29ba73:
 
     # sM "I love driving cars!"
-    sM ""
+    sM "Я люблю водить машины!"
 
 # game/worldmap.rpy:779
 translate russia crimeMapSelect_d47fbf08:
 
     # sM "Well that'll get us some money I guess."
-    sM ""
+    sM "Ну дума это поможет нам заработать немного денег."
 
 # game/worldmap.rpy:789
 translate russia crimeMapSelect_75ab964b:
 
     # sM "Fine..."
-    sM ""
+    sM "Отлично..."
 
 # game/worldmap.rpy:797
 translate russia crimeMapSelect_0a6ba78b_1:
 
     # "Clover's morale is too low to go to work."
-    ""
+    "У Кловер слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:805
 translate russia crimeMapSelect_ac47d068:
 
     # cM "Reckless driving for the win!"
-    cM ""
+    cM "Безрассудное вождение, вперёд!"
 
 # game/worldmap.rpy:815
 translate russia crimeMapSelect_fe129040:
 
     # cM "I don't feel right stealing somebody's car... but I did always want to have a pink one."
-    cM ""
+    cM "Мне не хочется воровать чью-то машину... но я всегда хотела себе розовую."
 
 # game/worldmap.rpy:825
 translate russia crimeMapSelect_8f1f762e:
 
     # cM "Well if I have to..."
-    cM ""
+    cM "Ну, если мне придется..."
 
 # game/worldmap.rpy:833
 translate russia crimeMapSelect_e167fc14_1:
 
     # "Alex's morale is too low to go to work."
-    ""
+    "У Алекс слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:841
 translate russia crimeMapSelect_5510fb0c:
 
     # aM "Beep! Beep! Outta the way!"
-    aM ""
+    aM "Бип! Бип! С дороги!"
 
 # game/worldmap.rpy:851
 translate russia crimeMapSelect_2b447114:
 
     # aM "Are you sure? I failed my car exam three times."
-    aM ""
+    aM "Ты уверен? Я трижды провалила экзамен по вождению."
 
 # game/worldmap.rpy:861
 translate russia crimeMapSelect_bd2ef1db:
 
     # aM "But that's somebody's car... Well okay..."
-    aM ""
+    aM "Но это же чья-то машина... Ну ладно..."
 
 # game/worldmap.rpy:868
 translate russia crimeMapSelect_7f9156b6_1:
 
     # "Your spies nanobot levels are too low for this. Visit the STATUS screen to decide how much or how little they should focus on suppressing them."
-    ""
+    "Уровень наноботов у ваших шпионов слишком низкий для этого. Посетите экран СТАТУС, чтобы настроить уровень подавления наноботов."
 
 # game/worldmap.rpy:873
 translate russia crimeMapSelect_67580b2c_2:
 
     # "Sam's morale is too low to go to work."
-    ""
+    "У Сэм слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:881
 translate russia crimeMapSelect_514f52b5:
 
     # sM "Time to start an inferno!"
-    sM ""
+    sM "Время разжечь ад!"
 
 # game/worldmap.rpy:891
 translate russia crimeMapSelect_0c02f41a_1:
 
     # sM "As long as nobody gets hurt."
-    sM ""
+    sM "Хоть бы никто не пострадал."
 
 # game/worldmap.rpy:901
 translate russia crimeMapSelect_104f1122:
 
     # sM "Well... just a small one, okay?"
-    sM ""
+    sM "Нуу... только маленькую, ладно?"
 
 # game/worldmap.rpy:909
 translate russia crimeMapSelect_0a6ba78b_2:
 
     # "Clover's morale is too low to go to work."
-    ""
+    "У Кловер слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:917
 translate russia crimeMapSelect_039a6f5d:
 
     # cM "♫♪Fire, fire. Burns much brighter, when oxygen is the supplier.♫♪"
-    cM ""
+    cM "♫♪Fire, fire. Burns much brighter, when oxygen is the supplier.♫♪"
 
 # game/worldmap.rpy:927
 translate russia crimeMapSelect_cd18657b:
 
     # cM "As long as it doesn't spread, it should be fine."
-    cM ""
+    cM "Если он не распространиться, всё должно быть в порядке."
 
 # game/worldmap.rpy:937
 translate russia crimeMapSelect_f176d410:
 
     # cM "Burn somebody's property...? Fine, as long as nobody gets hurt."
-    cM ""
+    cM "Сжечь чью-то собственность...? Ладно, если никто не пострадал."
 
 # game/worldmap.rpy:945
 translate russia crimeMapSelect_e167fc14_2:
 
     # "Alex's morale is too low to go to work."
-    ""
+    "У Алекс слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:953
 translate russia crimeMapSelect_fc8cd70d:
 
     # aM "I was getting cold anyways!"
-    aM ""
+    aM "Мне всё равно было холодно!"
 
 # game/worldmap.rpy:963
 translate russia crimeMapSelect_13edd23f:
 
     # aM "The Outsiders showed me how to do it... Well all right, if I have to..."
-    aM ""
+    aM "Аутсайдеры показали мне, как это делается... Ладно, если нужно..."
 
 # game/worldmap.rpy:973
 translate russia crimeMapSelect_dd0d58de:
 
     # aM "A fire?! But that's dangerous!{w} Well just a small one then..."
-    aM ""
+    aM "Пожар?! Но это же опасно!{w} Только если совсем небольшой..."
 
 # game/worldmap.rpy:979
 translate russia crimeMapSelect_7f9156b6_2:
 
     # "Your spies nanobot levels are too low for this. Visit the STATUS screen to decide how much or how little they should focus on suppressing them."
-    ""
+    "Уровень наноботов у ваших шпионов слишком низкий для этого. Посетите экран СТАТУС, чтобы настроить уровень подавления наноботов."
 
 # game/worldmap.rpy:984
 translate russia crimeMapSelect_67580b2c_3:
 
     # "Sam's morale is too low to go to work."
-    ""
+    "У Сэм слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:992
 translate russia crimeMapSelect_2b338024:
 
     # sM "Could always use a bit of extra cash~..."
-    sM ""
+    sM "Дополнительные денег, лишними не будут~..."
 
 # game/worldmap.rpy:1002
 translate russia crimeMapSelect_b69f9297:
 
     # sM "It's for a good cause."
-    sM ""
+    sM "Это же воблаго."
 
 # game/worldmap.rpy:1012
 translate russia crimeMapSelect_1013ede9:
 
     # sM "I hope I don't have to hurt anyone..."
-    sM ""
+    sM "Надеюсь, мне не придётся причинять никому боль..."
 
 # game/worldmap.rpy:1020
 translate russia crimeMapSelect_0a6ba78b_3:
 
     # "Clover's morale is too low to go to work."
-    ""
+    "У Кловер слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:1028
 translate russia crimeMapSelect_5129fa8c:
 
     # cM "Could always use some extra Benjamins!"
-    cM ""
+    cM "Всегда можно использовать несколько дополнительных бенджаминов!"
 
 # game/worldmap.rpy:1038
 translate russia crimeMapSelect_a761e22c:
 
     # cM "I'm sure they won't notice a few bucks missing."
-    cM ""
+    cM "Я уверена, что они не заметят пропажи пары баксов."
 
 # game/worldmap.rpy:1048
 translate russia crimeMapSelect_d6428666:
 
     # cM "Taking money from people feels wrong..."
-    cM ""
+    cM "Воровать деньги у людей... это так не правильно..."
 
 # game/worldmap.rpy:1056
 translate russia crimeMapSelect_e167fc14_3:
 
     # "Alex's morale is too low to go to work."
-    ""
+    "У Алекс слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:1064
 translate russia crimeMapSelect_f5412e44:
 
     # aM "I'm gonna buy candy with this money!"
-    aM ""
+    aM "Куплю на эти деньги конфеты!"
 
 # game/worldmap.rpy:1074
 translate russia crimeMapSelect_4a0339ce:
 
     # aM "If this is what it takes, then fine."
-    aM ""
+    aM "Если это то, что нужно... тогда ладно."
 
 # game/worldmap.rpy:1084
 translate russia crimeMapSelect_a7b1fc2b:
 
     # aM "But that's somebody else's money..."
-    aM ""
+    aM "Но это же чужие деньги..."
 
 # game/worldmap.rpy:1090
 translate russia crimeMapSelect_7f9156b6_3:
 
     # "Your spies nanobot levels are too low for this. Visit the STATUS screen to decide how much or how little they should focus on suppressing them."
-    ""
+    "Уровень наноботов у ваших шпионов слишком низкий для этого. Посетите экран СТАТУС, чтобы настроить уровень подавления наноботов."
 
 # game/worldmap.rpy:1095
 translate russia crimeMapSelect_67580b2c_4:
 
     # "Sam's morale is too low to go to work."
-    ""
+    "У Сэм слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:1103
 translate russia crimeMapSelect_55c3023d:
 
     # sM "Time to bring out my artistic form!"
-    sM ""
+    sM "Пришло время проявить свои артистические способности!"
 
 # game/worldmap.rpy:1113
 translate russia crimeMapSelect_ce7a340b:
 
     # sM "I guess spray painting isn't that bad."
-    sM ""
+    sM "Похоже что, граффити это не так уж и плоха."
 
 # game/worldmap.rpy:1123
 translate russia crimeMapSelect_8acb6f1a:
 
     # sM "I hope I won't get in trouble for this."
-    sM ""
+    sM "Надеюсь, у меня не будет из-за этого неприятностей."
 
 # game/worldmap.rpy:1131
 translate russia crimeMapSelect_0a6ba78b_4:
 
     # "Clover's morale is too low to go to work."
-    ""
+    "У Кловер слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:1139
 translate russia crimeMapSelect_3e040008:
 
     # cM "Let's paint the town red... literally!"
-    cM ""
+    cM "Давайте раскрасим город в красивые цвета... буквально!"
 
 # game/worldmap.rpy:1149
 translate russia crimeMapSelect_67f4f53e:
 
     # cM "Well I guess it doesn't really hurt anyone.."
-    cM ""
+    cM "Думаю, это не должно никому навредит..."
 
 # game/worldmap.rpy:1159
 translate russia crimeMapSelect_43418593:
 
     # cM "This stuff better not stain my clothes."
-    cM ""
+    cM "Надеюсь эта штука не запачкает мою одежду."
 
 # game/worldmap.rpy:1167
 translate russia crimeMapSelect_e167fc14_4:
 
     # "Alex's morale is too low to go to work."
-    ""
+    "У Алекс слишком низки моральный дух, чтобы идти на работу."
 
 # game/worldmap.rpy:1175
 translate russia crimeMapSelect_9abbafe6:
 
     # aM "Gonna let my artistic soul run free!"
-    aM ""
+    aM "Дам волю своей творческой душе!"
 
 # game/worldmap.rpy:1185
 translate russia crimeMapSelect_949c8a8f:
 
     # aM "A little bit of paint never hurt anyone... I think."
-    aM ""
+    aM "Немного краски никогда никому не повредит... Наверное."
 
 # game/worldmap.rpy:1195
 translate russia crimeMapSelect_4375e4ba:
 
     # aM "Fine... but I won't paint anything scary! Maybe a smiley... or a butterfly!"
-    aM ""
+    aM "Ладно... но я не буду рисовать ничего страшного! Может быть, смайлик... или бабочку!"
 
 # game/worldmap.rpy:1201
 translate russia crimeMapSelect_7f9156b6_4:
 
     # "Your spies nanobot levels are too low for this. Visit the STATUS screen to decide how much or how little they should focus on suppressing them."
-    ""
+    "Уровень наноботов у ваших шпионов слишком низкий для этого. Посетите экран СТАТУС, чтобы настроить уровень подавления наноботов."
 
 # game/worldmap.rpy:1206
 translate russia acesMapSelect_a17ef027:
 
     # "No spy selected."
-    ""
+    "Шпион не выбран."
 
 # game/worldmap.rpy:1259
 translate russia acesMapSelect_53ced590:
 
     # "Sam's morale is low and she refuses to work."
-    ""
+    "У Сэм низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1263
 translate russia acesMapSelect_c75ec9d1:
 
     # "You order Sam to work against her will."
-    ""
+    "Вы отправляете Сэм работать против её воли."
 
 # game/worldmap.rpy:1267
 translate russia acesMapSelect_82788dda:
@@ -712,217 +712,217 @@ translate russia acesMapSelect_82788dda:
 translate russia acesMapSelect_5444408e:
 
     # "Clover's morale is low and she refuses to work."
-    ""
+    "У Кловер низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1290
 translate russia acesMapSelect_798433db:
 
     # "You order Clover to work against her will."
-    ""
+    "Вы отправляете Кловер работать против её воли."
 
 # game/worldmap.rpy:1295
 translate russia acesMapSelect_68ff750a:
 
     # c "Understood!"
-    c ""
+    c "Поняла!"
 
 # game/worldmap.rpy:1314
 translate russia acesMapSelect_fa4d3340:
 
     # "Alex's morale is low and she refuses to work."
-    ""
+    "У Алекс низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1318
 translate russia acesMapSelect_58d47189:
 
     # "You order Alex to work against her will."
-    ""
+    "Вы отправляете Алекс работать против её воли."
 
 # game/worldmap.rpy:1323
 translate russia acesMapSelect_1d6117ed:
 
     # aM "You got it!"
-    aM ""
+    aM "Получилось!"
 
 # game/worldmap.rpy:1343
 translate russia punkMapSelect_a17ef027:
 
     # "No spy selected."
-    ""
+    "Шпион не выбран."
 
 # game/worldmap.rpy:1348
 translate russia punkMapSelect_53ced590:
 
     # "Sam's morale is low and she refuses to work."
-    ""
+    "У Сэм низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1352
 translate russia punkMapSelect_c75ec9d1:
 
     # "You order Sam to work against her will."
-    ""
+    "Вы отправляете Сэм работать против её воли."
 
 # game/worldmap.rpy:1356
 translate russia punkMapSelect_218a4e14:
 
     # sM "Going incognito!"
-    sM ""
+    sM "Я инкогнито!"
 
 # game/worldmap.rpy:1430
 translate russia punkMapSelect_5444408e:
 
     # "Clover's morale is low and she refuses to work."
-    ""
+    "У Кловер низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1434
 translate russia punkMapSelect_798433db:
 
     # "You order Clover to work against her will."
-    ""
+    "Вы отправляете Кловер работать против её воли."
 
 # game/worldmap.rpy:1439
 translate russia punkMapSelect_7e52c6db:
 
     # cM "Let's do crime the scientific way!"
-    cM ""
+    cM "Давайте совершать преступления научными способами!"
 
 # game/worldmap.rpy:1458
 translate russia punkMapSelect_fa4d3340:
 
     # "Alex's morale is low and she refuses to work."
-    ""
+    "У Алекс низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1462
 translate russia punkMapSelect_58d47189:
 
     # "You order Alex to work against her will."
-    ""
+    "Вы отправляете Алекс работать против её воли."
 
 # game/worldmap.rpy:1467
 translate russia punkMapSelect_9ee33446:
 
     # aM "Books check. Beats double check!"
-    aM ""
+    aM "Книги проверила."
 
 # game/worldmap.rpy:1487
 translate russia harbingerMapSelect_a17ef027:
 
     # "No spy selected."
-    ""
+    "Шпион не выбран."
 
 # game/worldmap.rpy:1491
 translate russia harbingerMapSelect_53ced590:
 
     # "Sam's morale is low and she refuses to work."
-    ""
+    "У Сэм низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1495
 translate russia harbingerMapSelect_c75ec9d1:
 
     # "You order Sam to work against her will."
-    ""
+    "Вы отправляете Сэм работать против её воли."
 
 # game/worldmap.rpy:1499
 translate russia harbingerMapSelect_dc7d6725:
 
     # s "Bring out the spray paints!"
-    s ""
+    s "Доставайте баллончики с краской!"
 
 # game/worldmap.rpy:1518
 translate russia harbingerMapSelect_5444408e:
 
     # "Clover's morale is low and she refuses to work."
-    ""
+    "У Кловер низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1522
 translate russia harbingerMapSelect_798433db:
 
     # "You order Clover to work against her will."
-    ""
+    "Вы отправляете Кловер работать против её воли."
 
 # game/worldmap.rpy:1527
 translate russia harbingerMapSelect_04b51bef:
 
     # cM "Bustin' some heads!"
-    cM ""
+    cM "Взорвать пару голов!"
 
 # game/worldmap.rpy:1582
 translate russia harbingerMapSelect_fa4d3340:
 
     # "Alex's morale is low and she refuses to work."
-    ""
+    "У Алекс низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1586
 translate russia harbingerMapSelect_58d47189:
 
     # "You order Alex to work against her will."
-    ""
+    "Вы отправляете Алекс работать против её воли."
 
 # game/worldmap.rpy:1591
 translate russia harbingerMapSelect_e638b9e7:
 
     # aM "Ima bust out my skateboard for this one!"
-    aM ""
+    aM "Ради этого я достану свой скейтборд!"
 
 # game/worldmap.rpy:1613
 translate russia epinesMapSelect_a17ef027:
 
     # "No spy selected."
-    ""
+    "Шпион не выбран."
 
 # game/worldmap.rpy:1617
 translate russia epinesMapSelect_53ced590:
 
     # "Sam's morale is low and she refuses to work."
-    ""
+    "У Сэм низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1621
 translate russia epinesMapSelect_c75ec9d1:
 
     # "You order Sam to work against her will."
-    ""
+    "Вы отправляете Сэм работать против её воли."
 
 # game/worldmap.rpy:1625
 translate russia epinesMapSelect_8e668572:
 
     # sM "Time to smell the roses."
-    sM ""
+    sM "Время понюхать розы."
 
 # game/worldmap.rpy:1642
 translate russia epinesMapSelect_5444408e:
 
     # "Clover's morale is low and she refuses to work."
-    ""
+    "У Кловер низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1646
 translate russia epinesMapSelect_798433db:
 
     # "You order Clover to work against her will."
-    ""
+    "Вы отправляете Кловер работать против её воли."
 
 # game/worldmap.rpy:1651
 translate russia epinesMapSelect_94e85ae0:
 
     # cM "Time to bloom!"
-    cM ""
+    cM "Время расцветать!"
 
 # game/worldmap.rpy:1668
 translate russia epinesMapSelect_fa4d3340:
 
     # "Alex's morale is low and she refuses to work."
-    ""
+    "У Алекс низкое моральное состояние, она отказывается работать."
 
 # game/worldmap.rpy:1672
 translate russia epinesMapSelect_58d47189:
 
     # "You order Alex to work against her will."
-    ""
+    "Вы отправляете Алекс работать против её воли."
 
 # game/worldmap.rpy:1677
 translate russia epinesMapSelect_232906df:
 
     # aM "Let's do some buzzing around."
-    aM ""
+    aM "Давайте немного пожужжим."
 
 # game/worldmap.rpy:1697
 translate russia finaleMapSelect_5d6073d5:
@@ -934,409 +934,409 @@ translate russia finaleMapSelect_5d6073d5:
 translate russia finaleMapSelect_3b282126:
 
     # kim "Let's have a look around..."
-    kim ""
+    kim "Осмотримся..."
 
 # game/worldmap.rpy:1709
 translate russia finaleMapSelect_c5333243:
 
     # sil "Peek-a-boo, anyone in zhere...?"
-    sil ""
+    sil "Ку-ку, есть тут кто-нибудь...?"
 
 # game/worldmap.rpy:1715
 translate russia finaleMapSelect_23592a37:
 
     # O5O "DOING AS I'M TOLD!"
-    O5O ""
+    O5O "ДЕЛАЮ, ЧТО МНЕ ГОВОРЯТ!"
 
 # game/worldmap.rpy:1747
 translate russia hacker_7da152ce:
 
     # sM "Off I go then."
-    sM ""
+    sM "Тогда я ухожу."
 
 # game/worldmap.rpy:1768
 translate russia hacker_2cfb9372:
 
     # y "I don't have a swimsuit for her to wear."
-    y ""
+    y "У меня нет купальника для неё."
 
 # game/worldmap.rpy:1773
 translate russia hacker_dbf534e6:
 
     # cM "I can't believe I'm going out like this...!"
-    cM ""
+    cM "Не могу поверить, что я пойду в таком виде...!"
 
 # game/worldmap.rpy:1796
 translate russia hacker_0f08f7d5:
 
     # aM "I'm going to the beach!{w} No wait, I'm going to Mathias!"
-    aM ""
+    aM "Я пойду на пляж!{w} Нет, стоп, я иду к Матиасу!"
 
 # game/worldmap.rpy:1817
 translate russia hacker_2cfb9372_1:
 
     # y "I don't have a swimsuit for her to wear."
-    y ""
+    y "У меня нет купальника для неё."
 
 # game/worldmap.rpy:1822
 translate russia hacker_65604366:
 
     # cM "Off I go then."
-    cM ""
+    cM "Тогда я пошла."
 
 # game/worldmap.rpy:1843
 translate russia hacker_9ce29353:
 
     # "I don't have a swimsuit for her to wear."
-    ""
+    "У меня нет купальника для неё."
 
 # game/worldmap.rpy:1862
 translate russia hacker_22646401:
 
     # aM "Off I go then."
-    aM ""
+    aM "Тогда я пойду."
 
 # game/worldmap.rpy:1869
 translate russia hacker_9ce29353_1:
 
     # "I don't have a swimsuit for her to wear."
-    ""
+    "У меня нет купальника для неё."
 
 # game/worldmap.rpy:1880
 translate russia hackSkipIntro_d317b3a0:
 
     # y "Hey Mathias. Can you help me out?"
-    y ""
+    y "Привет, Матиас. Можешь мне помочь?"
 
 # game/worldmap.rpy:1881
 translate russia hackSkipIntro_82890a6a:
 
     # mat "Of course. What do you need?"
-    mat ""
+    mat "Конечно. Что тебе нужно?"
 
 # game/worldmap.rpy:1882
 translate russia hackSkipIntro_ecf0c955:
 
     # y "I'm trying to get a message out there. Talking about Beverly Hills hottest new stripclub."
-    y ""
+    y "Я пытаюсь распространить слушок о новом горячем стриптиз-клубе в Беверли-Хиллз."
 
 # game/worldmap.rpy:1883
 translate russia hackSkipIntro_7ab022bb:
 
     # mat "New stripclub...?{w} Wait... don't tell me you're opening one."
-    mat ""
+    mat "Новый стриптиз-клуб...?{w} Подожди... только не говори мне, что ты его открываешь."
 
 # game/worldmap.rpy:1884
 translate russia hackSkipIntro_176ba4e0:
 
     # y "Sure am. Can you spread the word a bit?"
-    y ""
+    y "Конечно я. Не мог бы ты немного распространить эту информацию?"
 
 # game/worldmap.rpy:1885
 translate russia hackSkipIntro_fd81f502:
 
     # mat "I could...."
-    mat ""
+    mat "Я могу..."
 
 # game/worldmap.rpy:1886
 translate russia hackSkipIntro_eac78079:
 
     # y "You get a free membership to the club."
-    y ""
+    y "Ты получишь бесплатное членство в этом клубе."
 
 # game/worldmap.rpy:1887
 translate russia hackSkipIntro_ae303834:
 
     # mat "Deal!"
-    mat ""
+    mat "Договорились!"
 
 # game/worldmap.rpy:1893
 translate russia hackSkipIntro_2a71b411:
 
     # y "(That takes care of the advertisement...)"
-    y ""
+    y "(Он позаботится о рекламе...)"
 
 # game/worldmap.rpy:1899
 translate russia hackSkipIntro_d8c73f19:
 
     # mat "Nothing new to report. Decrypting is going as planned."
-    mat ""
+    mat "Ничего нового. Расшифровка идёт по плану."
 
 # game/worldmap.rpy:1902
 translate russia hackSkipIntro_28e01b8b:
 
     # mat "I've started making progress, but it will take some time until I got anything new for ya."
-    mat ""
+    mat "Я начал делать успехи, но пройдет некоторое время, прежде чем у меня появится что-то новое для тебя."
 
 # game/worldmap.rpy:1905
 translate russia hackSkipIntro_f4616ea2:
 
     # mat "I'm getting closer to decrypting the next gadget. Check back soon."
-    mat ""
+    mat "Я почти закончил с расшифровкой следующего гаджета. Свяжись со мной в ближайшее время."
 
 # game/worldmap.rpy:1914
 translate russia hackSkipIntro_ce6a5ea1:
 
     # mat "Good news, my dude. I managed to crack a blueprint inside the database."
-    mat ""
+    mat "Хорошие новости, дружище. Мне удалось взломать чертёж в базе данных."
 
 # game/worldmap.rpy:1920
 translate russia hackSkipIntro_c5918c2a:
 
     # y "Awesome! What is it?"
-    y ""
+    y "Потрясающе! Что это такое?"
 
 # game/worldmap.rpy:1921
 translate russia hackSkipIntro_631407c7:
 
     # mat "Erm..."
-    mat ""
+    mat "Эмм..."
 
 # game/worldmap.rpy:1922
 translate russia hackSkipIntro_79f0f310:
 
     # y "Well?"
-    y ""
+    y "Ну?"
 
 # game/worldmap.rpy:1923
 translate russia hackSkipIntro_c690055a:
 
     # mat "Now where did I keep that USB..."
-    mat ""
+    mat "Где же этот USB..."
 
 # game/worldmap.rpy:1924
 translate russia hackSkipIntro_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/worldmap.rpy:1925
 translate russia hackSkipIntro_0115dc81:
 
     # mat "Okay... I may have misplaced it for a moment..."
-    mat ""
+    mat "Ладно... Возможно, я его потерял..."
 
 # game/worldmap.rpy:1926
 translate russia hackSkipIntro_ccdfead2:
 
     # y "What?!"
-    y ""
+    y "Что?!"
 
 # game/worldmap.rpy:1927
 translate russia hackSkipIntro_4ad604b1:
 
     # mat "Don't panic, I'm sure I'll find it again, come back later and I'll have it for you."
-    mat ""
+    mat "Не паникуй. Уверен, что найду его снова. Приходи по позже, и я отдам его тебе."
 
 # game/worldmap.rpy:1928
 translate russia hackSkipIntro_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/worldmap.rpy:1934
 translate russia hackSkipIntro_29dd3e34:
 
     # y "Maybe I should focus on freeing another spy before coming back to Mathias."
-    y ""
+    y "Может мне, стоит сосредоточиться на освобождении ещё одного шпиона, прежде чем возвращаться к Матиасу."
 
 # game/worldmap.rpy:1939
 translate russia hackSkipIntro_afeb81e6:
 
     # mat "It's equipment. Something called the V.I.B. check your crafting bench to make it."
-    mat ""
+    mat "Это оборудование. Что-то под названием V.I.B. проверь свой верстак, чтобы сделать его."
 
 # game/worldmap.rpy:1940
 translate russia hackSkipIntro_33fe0bcb:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1944
 translate russia hackSkipIntro_7d3b7732:
 
     # mat "It's a gadget this time. Some sort of distraction powder bomb."
-    mat ""
+    mat "На этот раз это гаджет. Что-то вроде отвлекающей гранаты."
 
 # game/worldmap.rpy:1945
 translate russia hackSkipIntro_33fe0bcb_1:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1948
 translate russia hackSkipIntro_70a41229:
 
     # mat "Looks like some sort of Hacking Tool. Check your craftingbench to begin construction."
-    mat ""
+    mat "Похоже на какой-то инструмент для взлома. Проверь свой верстак, чтобы сделать его."
 
 # game/worldmap.rpy:1950
 translate russia hackSkipIntro_33fe0bcb_2:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1954
 translate russia hackSkipIntro_fa41550c:
 
     # mat "It's a gadget this time. A flashbang belt that can disorientate enemies."
-    mat ""
+    mat "На этот раз это гаджет. Пояс со светошумовыми гранатами, они могут дезориентировать врагов."
 
 # game/worldmap.rpy:1955
 translate russia hackSkipIntro_33fe0bcb_3:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1958
 translate russia hackSkipIntro_4cb86314:
 
     # mat "Looks like some sort of Infrared Glasses. Check your craftingbench to begin construction."
-    mat ""
+    mat "Похоже на инфракрасные очки. Проверь свой верстак, чтобы сделать их."
 
 # game/worldmap.rpy:1960
 translate russia hackSkipIntro_33fe0bcb_4:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1964
 translate russia hackSkipIntro_67a5156d:
 
     # mat "It's a gadget this time. A remote controlled drone with a camera. You can use this to see if there are enemies inside a room before you enter."
-    mat ""
+    mat "Похоже это снова гаджет. Дроны с камерой и на дистанционном управлении. С их помощью можно узнать, есть ли в комнате враги, прежде чем войти в неё."
 
 # game/worldmap.rpy:1965
 translate russia hackSkipIntro_33fe0bcb_5:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1968
 translate russia hackSkipIntro_0e1c6cbb:
 
     # mat "Looks like some sort of Non-leathal gun. Check your craftingbench to begin construction."
-    mat ""
+    mat "Похоже на какой-то пистолет несмертельного действия. Проверь свой верстак, чтобы сделать его."
 
 # game/worldmap.rpy:1970
 translate russia hackSkipIntro_33fe0bcb_6:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1975
 translate russia hackSkipIntro_417d8941:
 
     # mat "You're in luck, it's two gadgets this time that go with the Multitool Revolver. The afrodisiac dart makes the target more susceptible to charming and the poison dart disorientates enemies. Making blocking their attacks easier."
-    mat ""
+    mat "Тебе повезло: на этот раз к многофункциональному револьверу прилагаются два гаджета. Дротик с афродизиаком делает цель более восприимчивой к очарованию, а дротик с ядом дезориентирует врагов. Это облегчит блокировку их атак."
 
 # game/worldmap.rpy:1976
 translate russia hackSkipIntro_33fe0bcb_7:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1979
 translate russia hackSkipIntro_8d229e1d:
 
     # mat "Looks like some sort of Grappling Hook. Check your craftingbench to begin construction."
-    mat ""
+    mat "Похоже это крюк \"Кошка\" для захвата. Проверь свой верстак, чтобы сделать его."
 
 # game/worldmap.rpy:1981
 translate russia hackSkipIntro_33fe0bcb_8:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1985
 translate russia hackSkipIntro_321844a9:
 
     # mat "It's a gadget this time. It's a stealth bracelet that makes you fade into the background. It's not perfect, but will probably lower your detection rating if you spy gets caught during a mission."
-    mat ""
+    mat "Это снова гаджет. Браслет-невидимка, который позволит вам раствориться на заднем плане. Он не идеален, но вероятно, снизит ваш рейтинг обнаружения, если ваш шпион будет пойман во время миссии."
 
 # game/worldmap.rpy:1986
 translate russia hackSkipIntro_33fe0bcb_9:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1990
 translate russia hackSkipIntro_e7306aea:
 
     # mat "It's a gadget this time. A really cool one, it's a jetpack! Use it during missions to fly and skip a few floors."
-    mat ""
+    mat "Это очень крутой гаджет. Реактивный ранец! Он позволит вам пропустить пару этажей во время миссий."
 
 # game/worldmap.rpy:1991
 translate russia hackSkipIntro_33fe0bcb_10:
 
     # mat "If you need any materials to craft it, stop by, all right?"
-    mat ""
+    mat "Если тебе понадобятся материалы для изготовления, заходи, хорошо?"
 
 # game/worldmap.rpy:1993
 translate russia hackSkipIntro_b1005692:
 
     # mat "Looks like those are all the available items in the database, but er... Feel free to keep sending your girls by to model for me, and I'll pay you money!"
-    mat ""
+    mat "Похоже, что это всё что есть в базе данных, но эм... Не стесняйся и дальше посылать своих девушек ко мне в качестве моделей... За деньги разумеется!"
 
 # game/worldmap.rpy:1994
 translate russia hackSkipIntro_067d7918:
 
     # y "Gotten used to the glamerous lifestyle, eh?"
-    y ""
+    y "Привык к гламурному образу жизни, да?"
 
 # game/worldmap.rpy:1995
 translate russia hackSkipIntro_f477df3b:
 
     # mat "Yeah...."
-    mat ""
+    mat "Даа..."
 
 # game/worldmap.rpy:2004
 translate russia gadgetUpgrade_214cb025:
 
     # "Upgrade your V.I.B. to avoid your spies making any sound to give away their position."
-    ""
+    "Повысьте уровень V.I.B. чтобы ваши шпионы не издавали никаких звуков, выдающих их местоположение."
 
 # game/worldmap.rpy:2011
 translate russia gadgetUpgrade_c5a7e31e:
 
     # "You develop a new upgrade for your V.I.B.!"
-    ""
+    "Вы разработали новое улучшение для V.I.B.!"
 
 # game/worldmap.rpy:2012
 translate russia gadgetUpgrade_55a65367:
 
     # "When using the V.I.B. during missions you no longer alert guards."
-    ""
+    "Теперь при использовании V.I.B. во время миссий, охранна не обратит на вас внимания."
 
 # game/worldmap.rpy:2015
 translate russia gadgetUpgrade_32ffdcaf:
 
     # y "I don't have enough money to develop this upgrade."
-    y ""
+    y "У меня нет денег для этого улучшения."
 
 # game/worldmap.rpy:2020
 translate russia gadgetUpgrade_08fbf743:
 
     # "Upgrade your hacking tool to make hacking easier."
-    ""
+    "Чтобы облегчить взлом, улучшите соответсвующий инструмент."
 
 # game/worldmap.rpy:2027
 translate russia gadgetUpgrade_9bc4bf7f:
 
     # "You develop a new upgrade for your Hacking Tool!"
-    ""
+    "Вы разработали новое улучшение для инструмента взлома!"
 
 # game/worldmap.rpy:2028
 translate russia gadgetUpgrade_6da6c2fa:
 
     # "Your Hacking Tool has a higher chance of being succesful during missions."
-    ""
+    "Инструмент взлома имеет больший шанс на успех во время миссий."
 
 # game/worldmap.rpy:2031
 translate russia gadgetUpgrade_32ffdcaf_1:
 
     # y "I don't have enough money to develop this upgrade."
-    y ""
+    y "У меня нет денег для этого улучшения."
 
 # game/worldmap.rpy:2036
 translate russia gadgetUpgrade_8ae0f530:
@@ -1366,7 +1366,7 @@ translate russia gadgetUpgrade_182fa3af:
 translate russia gadgetUpgrade_82c9bf0b:
 
     # "You develop a new upgrade for your AC Drones!"
-    ""
+    "Вы разработали новое улучшение дронов!"
 
 # game/worldmap.rpy:2059
 translate russia gadgetUpgrade_2cbd6c13:
@@ -1378,7 +1378,7 @@ translate russia gadgetUpgrade_2cbd6c13:
 translate russia gadgetUpgrade_32ffdcaf_2:
 
     # y "I don't have enough money to develop this upgrade."
-    y ""
+    y "У меня нет денег для этого улучшения."
 
 # game/worldmap.rpy:2076
 translate russia hackSkipShop_99f6ae12:
@@ -3742,7 +3742,7 @@ translate russia explore_783db362:
 translate russia explore_3c149b9f:
 
     # "Agent" "Locked and loaded! Ready to cause some destruction, fellow agent?!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3622
 translate russia explore_34d328b1:
@@ -3754,7 +3754,7 @@ translate russia explore_34d328b1:
 translate russia explore_35f94d05:
 
     # "Agent" "That is the right answer! Did you bring your own gun?"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3626
 translate russia explore_e405ec21:
@@ -3766,7 +3766,7 @@ translate russia explore_e405ec21:
 translate russia explore_2b0b94c5:
 
     # "Agent" "An Agent without a gun, is like a fleshlight without a battery!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3628
 translate russia explore_f48806a8:
@@ -3778,7 +3778,7 @@ translate russia explore_f48806a8:
 translate russia explore_e3317360:
 
     # "Agent" "I know what I said!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3630
 translate russia explore_54a4faa7:
@@ -3790,13 +3790,13 @@ translate russia explore_54a4faa7:
 translate russia explore_a193f065:
 
     # "Agent" "Inside is a militia of citizens that have banded together to fight back!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3632
 translate russia explore_cfc58fae:
 
     # "Agent" "A tactful elegant solution is required!{w} Which is why we're going to burn down city hall with them inside!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3633
 translate russia explore_ae4bfad7_2:
@@ -3832,7 +3832,7 @@ translate russia explore_80cb6fa8:
 translate russia randomExplore4_17af14e1:
 
     # "Agent" "A copy of the latest iSpy Magazine?!{w} Oh boy! You shouldn't have!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3646
 translate russia randomExplore4_f3b9d17b:
@@ -3844,25 +3844,25 @@ translate russia randomExplore4_f3b9d17b:
 translate russia randomExplore4_eaefa228:
 
     # "Agent" "Look at the combat gear on this one! She could poke someone's eye out with those!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3648
 translate russia randomExplore4_528b869a:
 
     # "Agent" "This magazine sure is distractin-..."
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3649
 translate russia randomExplore4_1f8f20be:
 
     # "Agent" "............................"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3650
 translate russia randomExplore4_59ce2649:
 
     # "Agent" "Wait... what am I doing here again?"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3651
 translate russia randomExplore4_e08d4630:
@@ -3874,7 +3874,7 @@ translate russia randomExplore4_e08d4630:
 translate russia randomExplore4_b94fad22:
 
     # "Agent" "That is awful! I am a awful being!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3653
 translate russia randomExplore4_27cb76c9:
@@ -3886,7 +3886,7 @@ translate russia randomExplore4_27cb76c9:
 translate russia randomExplore4_fd131ea6:
 
     # "Agent" "Sounds like a plan! The days of careless disregard for human life are behind me now!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3655
 translate russia randomExplore4_5fb56418:
@@ -3898,7 +3898,7 @@ translate russia randomExplore4_5fb56418:
 translate russia randomExplore4_71f269fc:
 
     # "Agent" "Basements are dark and depressing. Just like my lovelife!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3660
 translate russia randomExplore4_53d1037c:
@@ -3934,7 +3934,7 @@ translate russia randomExplore4_dde1127c:
 translate russia randomExplore4_48e8d068:
 
     # "Agent" "You were given a diplomacy course by WOOHP?"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3679
 translate russia randomExplore4_aae8d2b2:
@@ -3946,7 +3946,7 @@ translate russia randomExplore4_aae8d2b2:
 translate russia randomExplore4_709b7192:
 
     # "Agents" "Wow! Us normal grunts normally aren't given something as fancy as 'schooling'. We are in awe and amazed by your superior knowledge!"
-    "Agents" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3681
 translate russia randomExplore4_9500a0b4:
@@ -3964,7 +3964,7 @@ translate russia randomExplore4_b3262773:
 translate russia randomExplore4_92d322b2:
 
     # "Agent" "Please fellow agent! Show us how diplomacy will solve this situation!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3684
 translate russia randomExplore4_9a78f174:
@@ -3988,7 +3988,7 @@ translate russia randomExplore4_6dbd9ff6:
 translate russia randomExplore4_53b789fd:
 
     # "Agent" "It seems that all those expensive lessons have paid off!{w} We even have prisoners now!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3693
 translate russia randomExplore4_8141bb14:
@@ -4000,7 +4000,7 @@ translate russia randomExplore4_8141bb14:
 translate russia randomExplore4_3c452b3b:
 
     # "Agent" "We are going to practise our diplomancy on them!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3695
 translate russia randomExplore4_e014e19f:
@@ -4012,7 +4012,7 @@ translate russia randomExplore4_e014e19f:
 translate russia randomExplore4_c4f5d160:
 
     # "Agent" "Farewell fellow agent. You have taught us a lot today!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3697
 translate russia randomExplore4_24f43bdb:
@@ -4066,7 +4066,7 @@ translate russia randomExplore4_71b978b3:
 translate russia randomExplore4_99be29cd:
 
     # "Agent" "That sounds like an excuse!{w} You have received your dosis of nanobots, right?"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3736
 translate russia randomExplore4_5d78bf8e:
@@ -4078,19 +4078,19 @@ translate russia randomExplore4_5d78bf8e:
 translate russia randomExplore4_4b82a235:
 
     # "Agent" "Don't worry fellow agent. It won't hurt a bit, and they'll give you a lollipop afterwards."
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3738
 translate russia randomExplore4_14181b58:
 
     # "Agent" "At least they say they will.{w} But they lie."
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3740
 translate russia randomExplore4_ece8091e:
 
     # "Agent" "{size=+10}THEY LIE!{/size}"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3741
 translate russia randomExplore4_30c0e788:
@@ -4108,7 +4108,7 @@ translate russia randomExplore4_e3b00ebf:
 translate russia randomExplore4_f6aa9b8a:
 
     # "Agent" "Let's meet up later and discuss the latest baseball game!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3744
 translate russia randomExplore4_cdb4738b:
@@ -4120,7 +4120,7 @@ translate russia randomExplore4_cdb4738b:
 translate russia randomExplore4_f3027c30:
 
     # "Agent" "Your sarcasm wasn't lost on me! Take care now, fellow Agent!"
-    "Agent" ""
+    "Агент" ""
 
 # game/worldmap.rpy:3746
 translate russia randomExplore4_d5c2b6ed_1:

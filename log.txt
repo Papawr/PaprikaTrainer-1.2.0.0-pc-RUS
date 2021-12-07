@@ -1,41 +1,41 @@
-Tue Dec  7 11:39:27 2021
+Tue Dec  7 21:46:10 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
  
 
-Bootstrap to the start of init.init took 0.34s
+Bootstrap to the start of init.init took 0.18s
 Early init took 0.01s
-Loader init took 1.03s
-Loading error handling took 0.34s
-Loading script took 8.81s
-Loading save slot metadata. took 1.79s
-Loading persistent took 0.07s
+Loader init took 0.93s
+Loading error handling took 0.23s
+Loading script took 9.27s
+Loading save slot metadata. took 1.38s
+Loading persistent took 0.04s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Set script version to: (7, 4, 6)
-Running init code took 0.65s
-Loading analysis data took 0.60s
+Running init code took 0.51s
+Loading analysis data took 0.54s
 Analyze and compile ATL took 0.21s
 Index archives took 0.00s
-Dump and make backups. took 0.36s
+Dump and make backups. took 0.28s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.47s
+Initial gc. took 0.39s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.01s
+Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.38s
+Init translation took 0.34s
 Build styles took 0.01s
 Load screen analysis took 0.00s
-Analyze screens took 0.24s
-Save screen analysis took 0.57s
-Prepare screens took 1.60s
+Analyze screens took 0.21s
+Save screen analysis took 0.53s
+Prepare screens took 1.41s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.68s
+Save bytecode. took 0.00s
 Running _start took 0.01s
 Performance test:
-Interface start took 0.80s
+Interface start took 0.62s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
