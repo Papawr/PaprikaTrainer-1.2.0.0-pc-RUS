@@ -5919,13 +5919,13 @@ translate russia tutStage8_cd68f9d3:
 translate russia tutStage8_640fbe83:
 
     # y "So how did it go?"
-    y "И как все прошло?"
+    y "И как всё прошло?"
 
 # game/intro.rpy:2561
 translate russia tutStage8_e3fae95d:
 
     # s g10 "Well... {w}They're a bunch of vain idiots. Most of them don't even bother stealing money, simply because they don't need it."
-    s g10 "Нуу... {w}Кучка тщеславных идиотов. Большинство из них даже не утруждают себя кражей денег, просто потому что они у низ уже есть."
+    s g10 "Нуу... {w}Кучка тщеславных идиотов. Большинство из них даже не утруждают себя кражей денег, просто потому что они у них уже есть."
 
 # game/intro.rpy:2562
 translate russia tutStage8_2d583e92:
@@ -5979,19 +5979,19 @@ translate russia tutStage8_b2b23773:
 translate russia tutStage8_b3763f28:
 
     # "You spend some time reading through the report."
-    "Ты тратишь некоторое время на чтение отчёта."
+    "Вы тратите некоторое время на чтение отчёта."
 
 # game/intro.rpy:2575
 translate russia tutStage8_08259ab7:
 
     # y "Hmm...{w} Ah, they mention a back entrance into the school."
-    y "Хмм...{w} Они говорят о чёрном входе у школы."
+    y "Хмм...{w} Тут говориться о чёрном входе в школе."
 
 # game/intro.rpy:2576
 translate russia tutStage8_0facdf66:
 
     # y "This should give us enough intel to sneak in again"
-    y "Думаю, этого достаточно чтобы вновь пробраться туда."
+    y "Думаю, этого достаточно, чтобы вновь туда пробраться."
 
 # game/intro.rpy:2577
 translate russia tutStage8_1212de06:
@@ -6015,13 +6015,13 @@ translate russia tutStage8_09f736a6:
 translate russia tutStage8_28107bb2:
 
     # s "How do we get that...?"
-    s "И как нам получить денег...?"
+    s "И где нам взять деньги...?"
 
 # game/intro.rpy:2581
 translate russia tutStage8_be993034:
 
     # s g35 "Working for the Aces isn't a reliable way to make money. They're so rich that they forget to pay you for work you've done."
-    s g35 "Работа на \"Тузов\" не является надежным способом заработка. Они настолько богаты, что забывают заплатить за работу."
+    s g35 "Работа на \"Тузов\" - не надежный способ заработка. Они настолько богаты, что забывают заплатить за работу."
 
 # game/intro.rpy:2582
 translate russia tutStage8_692be6fa:
@@ -6045,13 +6045,13 @@ translate russia tutStage8_b2b23773_1:
 translate russia tutStage8_370b9e19:
 
     # y "Wait... the gangs are hoping to open up another neutral zone?"
-    y "Подожди... банды надеются открыть ещё одну нейтральную зону?"
+    y "Подожди... банды хотят открыть ещё одну нейтральную зону?"
 
 # game/intro.rpy:2586
 translate russia tutStage8_d88d5a75:
 
     # s g29 "Oh right! The only neutral zone right now is the mall. They'd like a hangout spot where they can relax."
-    s g29 "О, точно! Единственная нейтральная зона сейчас - это торговый центр. Они хотели бы иметь место, где можно расслабиться."
+    s g29 "О, точно! Единственная нейтральная зона сейчас - это торговый центр. Они хотят место, где можно будет расслабиться."
 
 # game/intro.rpy:2587
 translate russia tutStage8_1984a35a:

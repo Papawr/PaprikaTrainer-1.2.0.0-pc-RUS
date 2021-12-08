@@ -1366,7 +1366,7 @@ translate russia workBonusMenu_454984ce:
 translate russia workBonusMenu_6fff9bd6:
 
     # cM "I think I can score a little extra intel."
-    cM "Думаю, что у меня получиться заполучить немного дополнительной информации."
+    cM "Думаю, что у меня получится заполучить немного дополнительной информации."
 
 # game/script.rpy:3264
 translate russia workBonusMenu_fbb57ff3:
