@@ -4,7 +4,7 @@
 translate russia reloadGun_9c731a0f:
 
     # "Afro Dart Loaded. Ready to fire."
-    "Афро-Дротик заряжен. Готов стрелять."
+    "Дротик с афродизиаком заряжен. Готов стрелять."
 
 # game/mission.rpy:330
 translate russia reloadGun_38ddbc3d:
@@ -472,7 +472,7 @@ translate russia spyShootHigh_03ec7bcc:
 translate russia spyShootHigh_abdbaeed:
 
     # "Mission.rpy - An error has occurred. Please report this to Exiscoming."
-    "Mission.rpy - Произошла ошибка. Пожалуйста, сообщите об этом в Exiscoming."
+    "Mission.rpy - Произошла ошибка. Пожалуйста, сообщите об этом Exiscoming."
 
 translate russia strings:
 

@@ -3442,181 +3442,181 @@ translate russia explore_3f14525b_3:
 translate russia explore_029e1d58:
 
     # "You quickly find yourself in the fancier part of town, down in the south west."
-    ""
+    "Вы довольно быстро оказываетесь в шикарной части города, на юго-западе."
 
 # game/worldmap.rpy:3537
 translate russia explore_d4f9892c:
 
     # "Aces Chick" "Oh my God! You should {i}'totally'{/i} buy this new outfit! It would look {i}'so'{/i} cute on you!"
-    "Aces Chick" ""
+    "Девушка Туз" "Боже мой! Тебе и правда {i}'стоит'{/i} купить этот новый аутфит! Это будет смотреться на тебе так {i}'мило'{/i}!"
 
 # game/worldmap.rpy:3538
 translate russia explore_9cb332d0:
 
     # "Aces Guy" "I don't know... It's showing off my midriff and I'm not huge on the point shoes either..."
-    "Aces Guy" ""
+    "Парень Туз" "Я не знаю... Он выставляет мой живот на напоказ, и я не в восторге от остроносых туфлей..."
 
 # game/worldmap.rpy:3539
 translate russia explore_cf2d7f40:
 
     # "Aces Chick" "Don't be silly! It's the latest in the 'Bitch on a leash' fashion line!"
-    "Aces Chick" ""
+    "Девушка Туз" "Не глупи! Это же последний писк моды \"Сучка на поводке\"!"
 
 # game/worldmap.rpy:3540
 translate russia explore_f5882188:
 
     # "Aces Guy" "Yeah you see... I don't know how I feel about that either."
-    "Aces Guy" ""
+    "Парень Туз" "Ага... Даже не знаю, как к этому относиться."
 
 # game/worldmap.rpy:3541
 translate russia explore_a4f9d198:
 
     # "Aces Chick" "Oh my God, you are such a whiner! Just go buy the stupid outfit and don't forget the collar!"
-    "Aces Chick" ""
+    "Девушка Туз" "Боже, какой же ты нытик! Просто иди и купи этот дурацкий наряд, и не забудь про ошейник!"
 
 # game/worldmap.rpy:3542
 translate russia explore_4534140e:
 
     # "Aces Chick" "Then afterwards, we're going to dye your hair and as thanks you can come carry our shoppingbags."
-    "Aces Chick" ""
+    "Девушка Туз" "После, мы покрасим тебе волосы, а в качестве благодарности ты сможешь носить наши сумки с покупками."
 
 # game/worldmap.rpy:3543
 translate russia explore_eca2becd:
 
     # y "Kptshhh! Looks like someone's being pussywhipped!"
-    y ""
+    y "Тыдыщ! Похоже, кому-то влетело!"
 
 # game/worldmap.rpy:3544
 translate russia explore_4ff0dc8f:
 
     # "Aces Guy" "You gotta help me man. This girl wants me to buy a G-string and wear heels!"
-    "Aces Guy" ""
+    "Парень Туз" "Ты должен мне помочь. Эта девушка хочет, чтобы я купил G-стринги и носил каблуки!"
 
 # game/worldmap.rpy:3547
 translate russia explore_3505ad27:
 
     # y "Why do you want your boyfriend to look like a cuckhold beta bitch?"
-    y ""
+    y "Почему ты хочешь, чтобы твой парень выглядел как куколд?"
 
 # game/worldmap.rpy:3548
 translate russia explore_769fbdd9:
 
     # "Aces Chick" "Oh, he's not my boyfriend. We're totes besties!"
-    "Aces Chick" ""
+    "Девушка Туз" "Оо, он не мой парень. Мы с ним просто лучшие подружки!"
 
 # game/worldmap.rpy:3549
 translate russia explore_11d9c0fa:
 
     # "Aces Guy" "{b}*Groans*{/b}"
-    "Aces Guy" ""
+    "Парень Туз" "{b}*Стонет*{/b}"
 
 # game/worldmap.rpy:3550
 translate russia explore_0f7b7d5f:
 
     # "Aces Chick" "And I want him to look pretty and cute! It's for {i}'his'{/i} sake, you know! I'm doing him a favor."
-    "Aces Chick" ""
+    "Девушка Туз" "Я хочу, чтобы он выглядел красивым и милым! Это всё {i}'ради него'{/i}, понимаешь! Я делаю ему одолжение."
 
 # game/worldmap.rpy:3551
 translate russia explore_824c64ac:
 
     # "Aces Guy" "(Kill me please...!)"
-    "Aces Guy" ""
+    "Парень Туз" "(Убей меня, пожалуйста...!)"
 
 # game/worldmap.rpy:3552
 translate russia explore_83596190:
 
     # y "Okay... I think I see what's going on here."
-    y ""
+    y "Ладно... Кажется, я понимаю, что здесь происходит."
 
 # game/worldmap.rpy:3553
 translate russia explore_5d33441d:
 
     # y "First of, stop being such a total pussy and letting this girl boss you around."
-    y ""
+    y "Прежде всего, перестань быть полным слабаком и позволять этой девушке командовать тобой."
 
 # game/worldmap.rpy:3554
 translate russia explore_e3d9e2c2:
 
     # "Aces Guy" "Wait, now it's my fault?!"
-    "Aces Guy" ""
+    "Парень Туз" "Подожди, теперь это моя вина?!"
 
 # game/worldmap.rpy:3555
 translate russia explore_81b8f59f:
 
     # y "Just tell this bird that you want to smash, and if she says no then go find somebody else instead of dressing like a gimp."
-    y ""
+    y "Просто скажи ей что хочешь выебать её, и если она откажет, тогда иди и найди кого-нибудь другого, вместо того чтобы одеваться как придурок."
 
 # game/worldmap.rpy:3556
 translate russia explore_5702e5a2:
 
     # y "And you stop being such a controlling freak and leading him on!"
-    y ""
+    y "А ты перестань быть властивой сукой и просто дай ему на конец!"
 
 # game/worldmap.rpy:3557
 translate russia explore_ae007044:
 
     # "Aces Chick" "Leading him on?! {b}*Scoffs*{/b} Get real. My little baby just wants to be friends and you're being really rude right n-..."
-    "Aces Chick" ""
+    "Девушка Туз" "Дать ему?! {b}*Насмехаться*{/b} Разуй глаза. Мой маленький мальчик просто хочет дружить, а ты ведёшь себя очень гру-..."
 
 # game/worldmap.rpy:3558
 translate russia explore_cdbd1f07:
 
     # "Aces Guy" "No! He's right!"
-    "Aces Guy" ""
+    "Парень Туз" "Нет! Он прав!"
 
 # game/worldmap.rpy:3559
 translate russia explore_5ca9518e:
 
     # "Aces Guy" "What happened to me?! I used to be a quarterback in highschool! When did I turn into such a push-over?!"
-    "Aces Guy" ""
+    "Парень Туз" "Что со мной стало?! Я был квотербеком в школе! Когда я успел стать таким податливым?!"
 
 # game/worldmap.rpy:3560
 translate russia explore_40d10592:
 
     # "Aces Guy" "This chick is crazy and I'm getting the fuck out of here. Carry your own damn shopping bags from now on!"
-    "Aces Guy" ""
+    "Парень Туз" "Эта баба сумасшедшая, я сваливаю отсюда. Носит теперь сама свои чертовы пакеты с покупками!"
 
 # game/worldmap.rpy:3561
 translate russia explore_d9cd2b1d:
 
     # "Aces Chick" "B-but...!"
-    "Aces Chick" ""
+    "Девушка Туз" "Н-но...!"
 
 # game/worldmap.rpy:3562
 translate russia explore_256a9634:
 
     # "The Aces Guy drops the clothes and walks away."
-    ""
+    "Парень из Тузов бросает одежду и уходит."
 
 # game/worldmap.rpy:3563
 translate russia explore_d04be6b6:
 
     # "Aces Chick" "Oh my God... He's never stood up against me before!{w} I so want him right now."
-    "Aces Chick" ""
+    "Девушка Туз" "Боже мой... Он никогда раньше не выступал против меня!{w} Я так хочу его прямо сейчас."
 
 # game/worldmap.rpy:3564
 translate russia explore_632edff0:
 
     # "Picking up her clothes, the girl quickly chases after the guy."
-    ""
+    "Собрав свою одежду, девушка быстро побежала за парнем."
 
 # game/worldmap.rpy:3565
 translate russia explore_9e6f414a:
 
     # "Aces Chick" "Wait babe! Wait for meeee~....!"
-    "Aces Chick" ""
+    "Девушка Туз" "Подожди, малыш! Подождите меняяяя~....!"
 
 # game/worldmap.rpy:3566
 translate russia explore_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/worldmap.rpy:3567
 translate russia explore_fe74ad46:
 
     # y "(Did the world go crazy while I was in jail or is it just this city...?)"
-    y ""
+    y "(Мир сошёл с ума пока я был в тюрьме, или только этот город...?)"
 
 # game/worldmap.rpy:3570
 translate russia explore_ed1ee26a_2:
@@ -3634,79 +3634,79 @@ translate russia explore_3f14525b_4:
 translate russia explore_3dad3a67:
 
     # y "What? Your masculinity is tied to your fashion style?"
-    y ""
+    y "Что? Разве мужественность может быть связана со стилем одежды?"
 
 # game/worldmap.rpy:3584
 translate russia explore_711ce790:
 
     # "Aces Guy" "Well... no, but..."
-    "Aces Guy" ""
+    "Парень Туз" "Нууу... нет, но..."
 
 # game/worldmap.rpy:3585
 translate russia explore_2a2dd3ef:
 
     # y "Give it a try. It could be liberating to be more in touch with your feminine side!"
-    y ""
+    y "Попробуй. Это тебя раскрепостит, может ты станешь ближе к своей женской стороне!"
 
 # game/worldmap.rpy:3586
 translate russia explore_503f8679:
 
     # "Aces Guy" "I don't know if I really wan-.."
-    "Aces Guy" ""
+    "Парень Туз" "Не знаю, действительно ли я хо-..."
 
 # game/worldmap.rpy:3587
 translate russia explore_495638ec:
 
     # "Aces Chick" "See? What did I tell you? People will sense your confidence when walking around like this!"
-    "Aces Chick" ""
+    "Девушка Туз" "Видишь? Что я тебе говорила? Люди будут чувствовать твою уверенность, когда ты будешь ходить в таком виде!"
 
 # game/worldmap.rpy:3588
 translate russia explore_6fd07809:
 
     # "Aces Guy" "I guess it does take confidence to carry a ballgag around your neck..."
-    "Aces Guy" ""
+    "Парень Туз" "Наверное, нужно быть уверенным в себе, чтобы носить ошейник на шее..."
 
 # game/worldmap.rpy:3589
 translate russia explore_f30765b2:
 
     # "Aces Guy" "Okay, you know what! Fine! I will try to be more sissy!"
-    "Aces Guy" ""
+    "Парень Туз" "Ладно, знаете что! Хорошо! Я постараюсь быть более нежным!"
 
 # game/worldmap.rpy:3590
 translate russia explore_a92adda6:
 
     # "The guy picks up the shopping bags and runs off."
-    ""
+    "Парень берёт пакеты с покупками и убегает."
 
 # game/worldmap.rpy:3591
 translate russia explore_f358cb0c_1:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/worldmap.rpy:3592
 translate russia explore_9607b114:
 
     # y "You owe me."
-    y ""
+    y "Ты мне должна."
 
 # game/worldmap.rpy:3593
 translate russia explore_96501064:
 
     # "Aces Chick" "Hell yeah I do. Here's something for your trouble."
-    "Aces Chick" ""
+    "Девушка Туз" "Да, чёрт возьми. Вот тебе моя благодарность. "
 
 # game/worldmap.rpy:3597
 translate russia explore_0e238826:
 
     # "Tucking the money into your hands, she winks at you."
-    ""
+    "Подмигивая она кладёт деньги в вашу руку."
 
 # game/worldmap.rpy:3598
 translate russia explore_42ceee1f:
 
     # "Aces Chick" "Call me~...."
-    "Aces Chick" ""
+    "Девушка Туз" "Позвони мне~..."
 
 # game/worldmap.rpy:3601
 translate russia explore_ed1ee26a_3:
@@ -3724,193 +3724,193 @@ translate russia explore_3f14525b_5:
 translate russia explore_3e86c06d:
 
     # y "I wonder what I'll run into toda-..."
-    y ""
+    y "Интересно, с чем я столкнусь сего-..."
 
 # game/worldmap.rpy:3615
 translate russia explore_f6f1da0b:
 
     # "Suddenly a group of WOOHP Agent turn the corner!"
-    ""
+    "Неожиданно из-за угла появляется группа агентов WOOHP!"
 
 # game/worldmap.rpy:3616
 translate russia explore_783db362:
 
     # y "(Crap..!)"
-    y ""
+    y "(Чёрт..!)"
 
 # game/worldmap.rpy:3621
 translate russia explore_3c149b9f:
 
     # "Agent" "Locked and loaded! Ready to cause some destruction, fellow agent?!"
-    "Агент" ""
+    "Агент" "Заряжены и во всеоружии! Готов к разрушениям, коллега?!"
 
 # game/worldmap.rpy:3622
 translate russia explore_34d328b1:
 
     # y "Er...."
-    y ""
+    y "Эмм..."
 
 # game/worldmap.rpy:3625
 translate russia explore_35f94d05:
 
     # "Agent" "That is the right answer! Did you bring your own gun?"
-    "Агент" ""
+    "Агент" "Это правильный ответ! У тебя есть оружие?"
 
 # game/worldmap.rpy:3626
 translate russia explore_e405ec21:
 
     # y "Actually, I don't have one of those yet."
-    y ""
+    y "Вообще-то ещё нет."
 
 # game/worldmap.rpy:3627
 translate russia explore_2b0b94c5:
 
     # "Agent" "An Agent without a gun, is like a fleshlight without a battery!"
-    "Агент" ""
+    "Агент" "Агент без оружия - это как фонарик без батарейки!"
 
 # game/worldmap.rpy:3628
 translate russia explore_f48806a8:
 
     # y "Did you just say fleshli-...?"
-    y ""
+    y "Ты только что сказал фона-...?"
 
 # game/worldmap.rpy:3629
 translate russia explore_e3317360:
 
     # "Agent" "I know what I said!"
-    "Агент" ""
+    "Агент" "Я знаю, что я сказал!"
 
 # game/worldmap.rpy:3630
 translate russia explore_54a4faa7:
 
     # "You join the group of agents as they make their way to city hall."
-    ""
+    "Вы присоединяетесь к группе агентов и держите путь в мэрию."
 
 # game/worldmap.rpy:3631
 translate russia explore_a193f065:
 
     # "Agent" "Inside is a militia of citizens that have banded together to fight back!"
-    "Агент" ""
+    "Агент" "Внутри находятся ополчение граждан, которые объединились, чтобы дать отпор!"
 
 # game/worldmap.rpy:3632
 translate russia explore_cfc58fae:
 
     # "Agent" "A tactful elegant solution is required!{w} Which is why we're going to burn down city hall with them inside!"
-    "Агент" ""
+    "Агент" "Требуется тактичное и элегантное решение!{w} Вот почему мы собираемся сжечь мэрию вместе с людьми!"
 
 # game/worldmap.rpy:3633
 translate russia explore_ae4bfad7_2:
 
     # y "!!!"
-    y ""
+    y "!!!"
 
 # game/worldmap.rpy:3634
 translate russia explore_aeedd445:
 
     # y "(So I'm still one of the good guys, right...?{w} Let me check my moral compass real quick.)"
-    y ""
+    y "(Так я всё ещё один из хороших парней, верно...?{w} Проверю-ка свой моральный компас.)"
 
 # game/worldmap.rpy:3635
 translate russia explore_c1fb6b3c:
 
     # y ".........{w}.........{w}.........{w}"
-    y ""
+    y ".........{w}.........{w}.........{w}"
 
 # game/worldmap.rpy:3636
 translate russia explore_d9f7cc13:
 
     # y "(Yeah okay, that's definitely a terrible thing to do. I should stop them.)"
-    y ""
+    y "(Да, конечно это ужасный поступок. Я должен остановить их.)"
 
 # game/worldmap.rpy:3637
 translate russia explore_80cb6fa8:
 
     # y "Now hang on just a moment. Instead of burning them alive..."
-    y ""
+    y "Подождите минутку. Вместо того, чтобы сжечь их заживо..."
 
 # game/worldmap.rpy:3644
 translate russia randomExplore4_17af14e1:
 
     # "Agent" "A copy of the latest iSpy Magazine?!{w} Oh boy! You shouldn't have!"
-    "Агент" ""
+    "Агент" "Копия последнего журнала iSpy?!{w} О, Боже! Не стоило!"
 
 # game/worldmap.rpy:3646
 translate russia randomExplore4_f3b9d17b:
 
     # "The agents gather around and begin flipping through the magazine."
-    ""
+    "Агенты собираются вокруг журнала и начинают его рассматривать."
 
 # game/worldmap.rpy:3647
 translate russia randomExplore4_eaefa228:
 
     # "Agent" "Look at the combat gear on this one! She could poke someone's eye out with those!"
-    "Агент" ""
+    "Агент" "Только посмотрите на её боевое снаряжение! Она может кому-нибудь выколоть глаз!"
 
 # game/worldmap.rpy:3648
 translate russia randomExplore4_528b869a:
 
     # "Agent" "This magazine sure is distractin-..."
-    "Агент" ""
+    "Агент" "Этот журнал так отвлека-..."
 
 # game/worldmap.rpy:3649
 translate russia randomExplore4_1f8f20be:
 
     # "Agent" "............................"
-    "Агент" ""
+    "Агент" "............................"
 
 # game/worldmap.rpy:3650
 translate russia randomExplore4_59ce2649:
 
     # "Agent" "Wait... what am I doing here again?"
-    "Агент" ""
+    "Агент" "Стоп... А я снова здесь делаю?"
 
 # game/worldmap.rpy:3651
 translate russia randomExplore4_e08d4630:
 
     # y "You were about to kill a town center full of people."
-    y ""
+    y "Вы собирались сжечь полную людей мерию."
 
 # game/worldmap.rpy:3652
 translate russia randomExplore4_b94fad22:
 
     # "Agent" "That is awful! I am a awful being!"
-    "Агент" ""
+    "Агент" "Это ужасно! Я - монстр!"
 
 # game/worldmap.rpy:3653
 translate russia randomExplore4_27cb76c9:
 
     # y "You could come work for me to redeem yourself."
-    y ""
+    y "Ты можешь поработать на меня, чтобы искупить свою вину."
 
 # game/worldmap.rpy:3654
 translate russia randomExplore4_fd131ea6:
 
     # "Agent" "Sounds like a plan! The days of careless disregard for human life are behind me now!"
-    "Агент" ""
+    "Агент" "Звучит как план! Дни беспечного пренебрежения к человеческим жизням уже позади!"
 
 # game/worldmap.rpy:3655
 translate russia randomExplore4_5fb56418:
 
     # y "Good, head into the milkshake bar and await further orders in the basement."
-    y ""
+    y "Отлично, отправляйся в бар с молочными коктейлями и жди дальнейших распоряжений в подвале."
 
 # game/worldmap.rpy:3656
 translate russia randomExplore4_71f269fc:
 
     # "Agent" "Basements are dark and depressing. Just like my lovelife!"
-    "Агент" ""
+    "Агент" "Подвалы - это тёмное и унылое место. Прямо как моя интимная жизнь!"
 
 # game/worldmap.rpy:3660
 translate russia randomExplore4_53d1037c:
 
     # "The Agent heads back to the Milkshake Bar."
-    ""
+    "Агент отправляется в бар."
 
 # game/worldmap.rpy:3662
 translate russia randomExplore4_56c06470:
 
     # "It soon turns evening as you return to the base."
-    ""
+    "Вскоре наступает вечер, когда вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3671
 translate russia randomExplore4_3f14525b:
@@ -3922,109 +3922,109 @@ translate russia randomExplore4_3f14525b:
 translate russia randomExplore4_6e8deb0c:
 
     # "You don't have a dirty magazine to distract the Agents with."
-    ""
+    "У вас нет развратного журнала, чтобы отвлечь агентов."
 
 # game/worldmap.rpy:3677
 translate russia randomExplore4_dde1127c:
 
     # y "This sounds like a job for diplomacy!"
-    y ""
+    y "Время дипломатии!"
 
 # game/worldmap.rpy:3678
 translate russia randomExplore4_48e8d068:
 
     # "Agent" "You were given a diplomacy course by WOOHP?"
-    "Агент" ""
+    "Агент" "Ты прошёл курс дипломатии в WOOHP?"
 
 # game/worldmap.rpy:3679
 translate russia randomExplore4_aae8d2b2:
 
     # y "Er...{w} yes."
-    y ""
+    y "Эмм...{w} да."
 
 # game/worldmap.rpy:3680
 translate russia randomExplore4_709b7192:
 
     # "Agents" "Wow! Us normal grunts normally aren't given something as fancy as 'schooling'. We are in awe and amazed by your superior knowledge!"
-    "Агент" ""
+    "Агент" "Ого! У нас рядовых, обычно не бывает возможности заниматься такими причудами, как \"обучение\". Мы восхищенны и поражены вашими знаниями!"
 
 # game/worldmap.rpy:3681
 translate russia randomExplore4_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/worldmap.rpy:3682
 translate russia randomExplore4_b3262773:
 
     # y "Are you being sarcastic right now, ooor...?"
-    y ""
+    y "Это сарказм, не так ли...?"
 
 # game/worldmap.rpy:3683
 translate russia randomExplore4_92d322b2:
 
     # "Agent" "Please fellow agent! Show us how diplomacy will solve this situation!"
-    "Агент" ""
+    "Агент" "Пожалуйста, коллега! Покажи нам, как дипломатия поможет решить эту ситуацию!"
 
 # game/worldmap.rpy:3684
 translate russia randomExplore4_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/worldmap.rpy:3688
 translate russia randomExplore4_17c0633c:
 
     # "You head into the Town Hall."
-    ""
+    "Вы направляетесь в мэрию."
 
 # game/worldmap.rpy:3689
 translate russia randomExplore4_6dbd9ff6:
 
     # "After explaining how everyone inside is about to die, the militia seems more willing to cooperate as they throw down their weapons and surrender."
-    ""
+    "После объяснения, что всё, кто находится внутри, скоро умрут, ополченцы, похоже, готовы сотрудничать. Они бросают оружие и сдаются."
 
 # game/worldmap.rpy:3692
 translate russia randomExplore4_53b789fd:
 
     # "Agent" "It seems that all those expensive lessons have paid off!{w} We even have prisoners now!"
-    "Агент" ""
+    "Агент" "Похоже, что все эти дорогие уроки окупились!{w} У нас теперь даже есть заключенные!"
 
 # game/worldmap.rpy:3693
 translate russia randomExplore4_8141bb14:
 
     # y "What are you going to do with them?"
-    y ""
+    y "Что вы собираетесь с ними делать?"
 
 # game/worldmap.rpy:3694
 translate russia randomExplore4_3c452b3b:
 
     # "Agent" "We are going to practise our diplomancy on them!"
-    "Агент" ""
+    "Агент" "Мы собираемся попрактиковаться на них в дипломатии!"
 
 # game/worldmap.rpy:3695
 translate russia randomExplore4_e014e19f:
 
     # y "Yeah.... I don't wanna know what you mean by that."
-    y ""
+    y "Аааага.... Не хочу знать, что ты имеешь в виду."
 
 # game/worldmap.rpy:3696
 translate russia randomExplore4_c4f5d160:
 
     # "Agent" "Farewell fellow agent. You have taught us a lot today!"
-    "Агент" ""
+    "Агент" "Прощайте, коллега. Сегодня вы многому нас научили!"
 
 # game/worldmap.rpy:3697
 translate russia randomExplore4_24f43bdb:
 
     # "You quickly get out of there as the Agents march into city hall."
-    ""
+    "Пока Агенты маршируют в мэрию, вы быстро сматываетесь оттуда."
 
 # game/worldmap.rpy:3702
 translate russia randomExplore4_b7a7888a:
 
     # "At night you return to the base."
-    ""
+    "Уже ночью вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3712
 translate russia randomExplore4_3f14525b_1:
@@ -4036,19 +4036,19 @@ translate russia randomExplore4_3f14525b_1:
 translate russia randomExplore4_bae460ac:
 
     # y "That sounds like a great idea! {w}....{w} And talking about burning down a house, I think I left the oven on. You guys have fun now!"
-    y ""
+    y "Это отличная идея! {w}....{w} И говоря о поджоге, мне кажется, что я оставил духовку включённой. Веселитесь, ребята!"
 
 # game/worldmap.rpy:3716
 translate russia randomExplore4_d5c2b6ed:
 
     # "You quickly leave the scene before the violence erupts."
-    ""
+    "Вы быстро покидаете место происшествия, пока всё не началось."
 
 # game/worldmap.rpy:3721
 translate russia randomExplore4_b7a7888a_1:
 
     # "At night you return to the base."
-    ""
+    "Уже ночью вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3731
 translate russia randomExplore4_3f14525b_2:
@@ -4060,79 +4060,79 @@ translate russia randomExplore4_3f14525b_2:
 translate russia randomExplore4_71b978b3:
 
     # y "Yeah~... So I left the oven on aaand~..."
-    y ""
+    y "Ага~... Нуу я оставил духовку включенной и~..."
 
 # game/worldmap.rpy:3735
 translate russia randomExplore4_99be29cd:
 
     # "Agent" "That sounds like an excuse!{w} You have received your dosis of nanobots, right?"
-    "Агент" ""
+    "Агент" "Звучит как оправдание!{w} Ты же получили свою дозу наноботов, верно?"
 
 # game/worldmap.rpy:3736
 translate russia randomExplore4_5d78bf8e:
 
     # y "Erm..."
-    y ""
+    y "Эмм..."
 
 # game/worldmap.rpy:3737
 translate russia randomExplore4_4b82a235:
 
     # "Agent" "Don't worry fellow agent. It won't hurt a bit, and they'll give you a lollipop afterwards."
-    "Агент" ""
+    "Агент" "Не волнуйтесь, коллега. Это будет совсем не больно, и после этого они дадут вам леденец."
 
 # game/worldmap.rpy:3738
 translate russia randomExplore4_14181b58:
 
     # "Agent" "At least they say they will.{w} But they lie."
-    "Агент" ""
+    "Агент" "По крайней мере они так говорят.{w} Но они врут."
 
 # game/worldmap.rpy:3740
 translate russia randomExplore4_ece8091e:
 
     # "Agent" "{size=+10}THEY LIE!{/size}"
-    "Агент" ""
+    "Агент" "{size=+10}ОНИ ВРУТ!{/size}"
 
 # game/worldmap.rpy:3741
 translate russia randomExplore4_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/worldmap.rpy:3742
 translate russia randomExplore4_e3b00ebf:
 
     # y "Well, better go get me that injection then!"
-    y ""
+    y "Нуу, тогда лучше пойти и сделать эту инъекцию!"
 
 # game/worldmap.rpy:3743
 translate russia randomExplore4_f6aa9b8a:
 
     # "Agent" "Let's meet up later and discuss the latest baseball game!"
-    "Агент" ""
+    "Агент" "Давай встретимся позже и обсудим последнюю бейсбольную игру!"
 
 # game/worldmap.rpy:3744
 translate russia randomExplore4_cdb4738b:
 
     # y "Oh yeah... I would love that..."
-    y ""
+    y "Оо да... С удовольствием..."
 
 # game/worldmap.rpy:3745
 translate russia randomExplore4_f3027c30:
 
     # "Agent" "Your sarcasm wasn't lost on me! Take care now, fellow Agent!"
-    "Агент" ""
+    "Агент" "Ваш сарказм не прошёл для меня бесследно! Берегите себя, коллега!"
 
 # game/worldmap.rpy:3746
 translate russia randomExplore4_d5c2b6ed_1:
 
     # "You quickly leave the scene before the violence erupts."
-    ""
+    "Вы быстро покидаете место происшествия, пока всё не началось."
 
 # game/worldmap.rpy:3750
 translate russia randomExplore4_b7a7888a_2:
 
     # "At night you return to the base."
-    ""
+    "Уже ночью вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3760
 translate russia randomExplore4_3f14525b_3:
@@ -4144,97 +4144,97 @@ translate russia randomExplore4_3f14525b_3:
 translate russia randomExplore4_4cd002ba:
 
     # "You casually walk past through the downtown area. Pretending not to notice the signs of violence and destruction around you."
-    ""
+    "Вы случайно проходите по центру города. Притворяетесь, что не замечаете признаков бойни и разрушений вокруг себя."
 
 # game/worldmap.rpy:3767
 translate russia randomExplore4_391061ea:
 
     # y "Dumpty dumpty dum..."
-    y ""
+    y "Шалтай-болтай шалт..."
 
 # game/worldmap.rpy:3769
 translate russia randomExplore4_71696473:
 
     # "Girl" "Stick 'em up!"
-    "Girl" ""
+    "Девушка" "Руки вверх!"
 
 # game/worldmap.rpy:3770
 translate russia randomExplore4_8fbe3d14:
 
     # y "GAH!"
-    y ""
+    y "ГАХ!"
 
 # game/worldmap.rpy:3771
 translate russia randomExplore4_0b6260f2:
 
     # "Out of nowhere a girl with a loaded shotgun comes at you, holding you at gunpoint."
-    ""
+    "Как из ниоткуда на вас налетает девушка с заряженным ружьем и держит вас на мушке."
 
 # game/worldmap.rpy:3772
 translate russia randomExplore4_0f962995:
 
     # y "(Oh crap, oh crap!)"
-    y ""
+    y "(Вот чёрт, вот дерьмо!)"
 
 # game/worldmap.rpy:3775
 translate russia randomExplore4_5cad0f23:
 
     # "Girl" "................................"
-    "Girl" ""
+    "Девушка" "................................"
 
 # game/worldmap.rpy:3776
 translate russia randomExplore4_e714ab3b:
 
     # "Girl" "Coupon?"
-    "Girl" ""
+    "Девушка" "Купон?"
 
 # game/worldmap.rpy:3777
 translate russia randomExplore4_13e0c564:
 
     # y "What...?"
-    y ""
+    y "Что...?"
 
 # game/worldmap.rpy:3778
 translate russia randomExplore4_2d7bae7b:
 
     # "Girl" "Would you like a coupon for a free smoothie from the mall?"
-    "Girl" ""
+    "Девушка" "Хотите получить купон на бесплатный смузи из торгового центра?"
 
 # game/worldmap.rpy:3779
 translate russia randomExplore4_acd34653:
 
     # y "Damn it girl! Sure I'll take your coupon, just stop pointing that gun at me!"
-    y ""
+    y "Чёрт возьми! Конечно я возьму твой купон, только не направляй на меня пушку!"
 
 # game/worldmap.rpy:3780
 translate russia randomExplore4_3b0c8f02:
 
     # "Girl" "Sorry about that! With people too afraid to leave their house, getting rid of these coupons has been a real pain. I had to change up my tactics a bit!"
-    "Girl" ""
+    "Девушка" "Извините за это! Поскольку люди боятся выходить из дома, избавиться от этих купонов стало настоящей проблемой. Мне пришлось немного изменить свою тактику!"
 
 # game/worldmap.rpy:3781
 translate russia randomExplore4_b850f632:
 
     # "Girl" "I'm not getting paid for my part-time job unless I hand out 'all' of these coupons, so I have to get creative."
-    "Girl" ""
+    "Девушка" "Мне не заплатят за подработку, если я не раздам \"все\" эти купоны, поэтому я проявляю изобретательность."
 
 # game/worldmap.rpy:3782
 translate russia randomExplore4_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/worldmap.rpy:3783
 translate russia randomExplore4_afeb28ce:
 
     # "Girl" "{i}'Have a smoothilicious day!'{/i}"
-    "Girl" ""
+    "Девушка" "{i}'Смузивительного вам дня!'{/i}"
 
 # game/worldmap.rpy:3787
 translate russia randomExplore4_9224774a:
 
     # "You got {color=C91A1A}Smoothie Coupon{/color} x1."
-    ""
+    "Вы получили {color=C91A1A}Купон на смузи{/color} x1."
 
 # game/worldmap.rpy:3797
 translate russia randomExplore4_3f14525b_4:
@@ -4246,223 +4246,223 @@ translate russia randomExplore4_3f14525b_4:
 translate russia randomExplore4_c6b56140:
 
     # "You stumble upon a roadblock. You can find a way around or grab a shortcut through this dark, shady looking alley."
-    ""
+    "Вы натыкаетесь на препятствие. Можете поискать обход или пойти коротким путём через этот темный переулок."
 
 # game/worldmap.rpy:3803
 translate russia randomExplore4_d39623d7:
 
     # "What could possible go wrong? You head into the alley without a care in the world."
-    ""
+    "Что может пойти не так? Вы направляетесь в переулок, не заботясь ни о чём на свете."
 
 # game/worldmap.rpy:3806
 translate russia randomExplore4_58f89da4:
 
     # "Voice 1" "Pssst, did you get the stuff?"
-    "Voice 1" ""
+    "Голос 1" "Пссс, ты принёс стафф?"
 
 # game/worldmap.rpy:3807
 translate russia randomExplore4_8291dc29:
 
     # "Voice 2" "Dude, stop calling it 'the stuff'. I brought your stupid Japanese magazine. Now pay up."
-    "Voice 2" ""
+    "Голос 2" "Чувак, перестань называть это \"стаффом\". Я принёс твой дурацкий японский журнал. Теперь плати."
 
 # game/worldmap.rpy:3808
 translate russia randomExplore4_de4ea6e0:
 
     # "Voice 1" "Yes~... Hamdarusojamia-sama might actually touch hands with Ai-san in this chapter!"
-    "Voice 1" ""
+    "Голос 1" "Конечно~... Хамдарусоямия-сама может дотронуться до руки Аи-сан в этой главе!"
 
 # game/worldmap.rpy:3809
 translate russia randomExplore4_6fc87a82:
 
     # "Voice 2" "Whatever dude. Didn't they have vigorous sex in like... issue 1?"
-    "Voice 2" ""
+    "Голос 2" "Плевать, чувак. Разве они не занимались бурным сексом в... 1 выпуске?"
 
 # game/worldmap.rpy:3810
 translate russia randomExplore4_e21aa354:
 
     # "Voice 1" "You uncultured swine! Ai-sempai would never do that! That was a mimic sent by hell itself to impregnate girls of questionable age to repopulate hell's army of lolis!!"
-    "Voice 1" ""
+    "Голос 1" "Бескультурная свинья! Аи-семпай никогда бы так не поступила! Это был мимик, посланный самим адом! Он оплодотворяет девушек сомнительного возраста для пополнения адской армии лолей!!"
 
 # game/worldmap.rpy:3811
 translate russia randomExplore4_65857cc2:
 
     # "Voice 1" "Since then, Hamdarusojamia has gone on a journey of selfdiscovery and they both fell in love, but have been too afraid to tell each other!"
-    "Voice 1" ""
+    "Голос 1" "С тех пор как Хамдарусоджамия отправился в путешествие для самопознания, они оба влюбились друг в друга, но боялись признаться об этом!"
 
 # game/worldmap.rpy:3812
 translate russia randomExplore4_3e1f7857:
 
     # "Voice 2" "For over 200 issues?"
-    "Voice 2" ""
+    "Голос 2" "За более 200 выпусков?"
 
 # game/worldmap.rpy:3813
 translate russia randomExplore4_f8b5111e:
 
     # "Voice 1" "LOVE TAKES TIME YOU INGRATE! YOU CAN'T RUSH LOVE!"
-    "Voice 1" ""
+    "Голос 1" "ЛЮБОВЬ ТРЕБУЕТ ВРЕМЕНИ, НЕБЛАГОДАРНЫЙ! ЛЮБОВЬ НЕЛЬЗЯ ТОРОПИТЬ!"
 
 # game/worldmap.rpy:3814
 translate russia randomExplore4_3456cd1b:
 
     # "Voice 2" "Whatever dude, just pay me for your Japanese smut so I can get out of here."
-    "Voice 2" ""
+    "Голос 2" "Неважно, чувак. Просто заплати мне за свою японскую пошлятину, и я пойду отсюда."
 
 # game/worldmap.rpy:3815
 translate russia randomExplore4_144c899c:
 
     # "You sneak up to the two making the transaction."
-    ""
+    "Вы подкрадываетесь к этим двоим."
 
 # game/worldmap.rpy:3816
 translate russia randomExplore4_a4051242:
 
     # "Voice 1" "You were followed! {w}SMOKE BOMB!"
-    "Voice 1" ""
+    "Голос 1" "За тобой следили! {w}ДЫМОВАЯ БОМБА!"
 
 # game/worldmap.rpy:3819
 translate russia randomExplore4_a5ecf551:
 
     # "Voice 2" "{b}*Cough* *Cough*{/b} Great job dude, you scared him away!"
-    "Voice 2" ""
+    "Голос 2" "{b}*Кхех* *Кхех*{/b} Отлично чувак, ты отпугнул его!"
 
 # game/worldmap.rpy:3820
 translate russia randomExplore4_417ed297:
 
     # "Voice 2" "Take the stupid magazine, I'm going back to dealing something less weird."
-    "Voice 2" ""
+    "Голос 2" "Забирай этот дурацкий журнал, а я вернусь к чему-нибудь менее странному."
 
 # game/worldmap.rpy:3823
 translate russia randomExplore4_5f60ba9a:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/worldmap.rpy:3825
 translate russia randomExplore4_fbc2bd9f:
 
     # "You got {color=C91A1A}Dirty Magazine{/color} x1"
-    ""
+    "Вы получили {color=C91A1A}Развратный журнал{/color} x1"
 
 # game/worldmap.rpy:3826
 translate russia randomExplore4_05ee3a28:
 
     # "The rest of the day is uneventful as you make your way back home."
-    ""
+    "Остаток дня проходит без происшествий, пока вы не возвращаетесь домой."
 
 # game/worldmap.rpy:3829
 translate russia randomExplore4_1545e24c:
 
     # y "I've seen Batman. No way am I going to start sneaking through dark alleys."
-    y ""
+    y "Я смотрел Бэтмена. Я ни за что не пойду по темному переулку."
 
 # game/worldmap.rpy:3830
 translate russia randomExplore4_eab84c56:
 
     # "You decided to take the long way round."
-    ""
+    "Вы решили пойти длинным путём."
 
 # game/worldmap.rpy:3833
 translate russia randomExplore4_1c06e3da:
 
     # "Angry Man" "ME SMASH!"
-    "Angry Man" ""
+    "Злой мужик" "Я КРУШИТЬ!"
 
 # game/worldmap.rpy:3834
 translate russia randomExplore4_210c9755:
 
     # "Thug 1" "Dude, do you think we gave him too much?"
-    "Бандит 1" ""
+    "Бандит 1" "Чувак, тебе не кажется, что мы переборщили?"
 
 # game/worldmap.rpy:3835
 translate russia randomExplore4_d25465a0:
 
     # "Angry Man" "ME TAKE OVER WASHINGTON! ME PUSH THROUGH FISCAL REFORMS!"
-    "Angry Man" ""
+    "Злой мужик" "Я ЗАХВАТИТЬ ВАШИНГТОН! Я ПРОВЕСТИ ФИНАНСОВАЯ РЕФОРМЫ!"
 
 # game/worldmap.rpy:3836
 translate russia randomExplore4_0ca47603:
 
     # "Thug 2" "I dunno dude, maybe you shouldn't have given him an extra dose of nanobots."
-    "Бандит 2" ""
+    "Бандит 2" "Не знаю, чувак. Может, не стоило давать ему дополнительную дозу наноботов."
 
 # game/worldmap.rpy:3837
 translate russia randomExplore4_3b744b3b:
 
     # "Thug 2" "It says here to not give more than a single dosis at a time. How much did you give him?"
-    "Бандит 2" ""
+    "Бандит 2" "Здесь говорится, что не следует делать больше одной дозы за раз. Сколько ты ему ввёл?"
 
 # game/worldmap.rpy:3838
 translate russia randomExplore4_b94cda78:
 
     # "Thug 1" "................................."
-    "Бандит 1" ""
+    "Бандит 1" "................................."
 
 # game/worldmap.rpy:3839
 translate russia randomExplore4_e1dd21d0:
 
     # "Thug 2" "How many....?"
-    "Бандит 2" ""
+    "Бандит 2" "Сколько...?"
 
 # game/worldmap.rpy:3840
 translate russia randomExplore4_a9d9da02:
 
     # "Thug 1" "A dozen....{w} or two."
-    "Бандит 1" ""
+    "Бандит 1" "Дюжину...{w} или две."
 
 # game/worldmap.rpy:3841
 translate russia randomExplore4_cbb7f9c0:
 
     # "Thug 2" "Two dozen?! That guy is filled it up to the brim with nanobots now! No wonder he tries to take over the world!"
-    "Бандит 2" ""
+    "Бандит 2" "Два десятка?! Этот парень заполнен до краев наноботами! Неудивительно, что он пытается захватить мир!"
 
 # game/worldmap.rpy:3842
 translate russia randomExplore4_056182d8:
 
     # "Angry Man" "DRAIN THE SWAMP! CUT COSTS AND INCREASE SPENDING! ME FOR PRESIDENT!"
-    "Angry Man" ""
+    "Злой мужик" "ОСУШИТЬ БОЛОТО! СОКРАТИТЬ РАСХОДЫ И УВЕЛИЧИТЬ ЗАТРАТЫ! Я В ПРЕЗИДЕНТЫ!"
 
 # game/worldmap.rpy:3843
 translate russia randomExplore4_6bacc000:
 
     # "Thug 2" "Best get rid of your last injector, we shouldn't be messing around with that stuff."
-    "Бандит 2" ""
+    "Бандит 2" "Лучше избавьтесь от последнего инжектора, нам не стоит возиться с этой штукой."
 
 # game/worldmap.rpy:3844
 translate russia randomExplore4_d1f0423a:
 
     # "Thug 1" "What will we do with him?"
-    "Бандит 1" ""
+    "Бандит 1" "А с ним что делать?"
 
 # game/worldmap.rpy:3845
 translate russia randomExplore4_210b5cc5:
 
     # "Thug 2" "He'll calm down once he finds out that you can't become president without nepotism."
-    "Бандит 2" ""
+    "Бандит 2" "Он успокоится, когда узнает, что нельзя стать президентом без кумовства."
 
 # game/worldmap.rpy:3846
 translate russia randomExplore4_af827acc:
 
     # "The thugs toss a small injector on the floor and walk off."
-    ""
+    "Бандиты бросают на пол маленький инжектор и уходят."
 
 # game/worldmap.rpy:3849
 translate russia randomExplore4_df25b227:
 
     # y "Yoink!"
-    y ""
+    y "Опа!"
 
 # game/worldmap.rpy:3851
 translate russia randomExplore4_8c5747f7:
 
     # "You got {color=C91A1A}Small Nanobot Injector{/color} x1"
-    ""
+    "Вы получили {color=C91A1A}Маленький инжектор наноботов{/color} x1"
 
 # game/worldmap.rpy:3853
 translate russia randomExplore4_05ee3a28_1:
 
     # "The rest of the day is uneventful as you make your way back home."
-    ""
+    "Остаток дня проходит без происшествий, пока вы возвращаетесь домой."
 
 # game/worldmap.rpy:3863
 translate russia randomExplore4_3f14525b_5:
@@ -4474,109 +4474,109 @@ translate russia randomExplore4_3f14525b_5:
 translate russia randomExplore4_4d532033:
 
     # "You pass through the market. It looks deserted with only one of two brave merchants around."
-    ""
+    "Вы проходите через рынок. Он выглядит пустым, вокруг только один отважный торговец."
 
 # game/worldmap.rpy:3869
 translate russia randomExplore4_8b2c7804:
 
     # "Milkman" "Come get your milk here!"
-    "Milkman" ""
+    "Молочник" "Молоко! Свежее молоко!"
 
 # game/worldmap.rpy:3870
 translate russia randomExplore4_8239182e:
 
     # y ".....?"
-    y ""
+    y ".....?"
 
 # game/worldmap.rpy:3871
 translate russia randomExplore4_336207d4:
 
     # "Milkman" "You sir! Finest milk in all of Beverly Hills! Care for a glass?"
-    "Milkman" ""
+    "Молочник" "Вы, сэр! Лучшее молоко во всем Беверли-Хиллз! Выпьете стаканчик?"
 
 # game/worldmap.rpy:3872
 translate russia randomExplore4_f71fb90a:
 
     # y "You're selling milk at a market?"
-    y ""
+    y "Вы продаёте молоко на рынке?"
 
 # game/worldmap.rpy:3873
 translate russia randomExplore4_fdf48b55:
 
     # "Milkman" "It's a family tradition! My family has been selling milk on the market for over two hundred years!"
-    "Milkman" ""
+    "Молочник" "Это семейная традиция! Моя семья продает молоко на рынке уже более двухсот лет!"
 
 # game/worldmap.rpy:3874
 translate russia randomExplore4_a7247a8d:
 
     # y "You know there are supermarkets now, right?"
-    y ""
+    y "Вы ведь в курсе, что сейчас есть супермаркеты?"
 
 # game/worldmap.rpy:3875
 translate russia randomExplore4_45df15ff:
 
     # "Milkman" "{b}*Scoffs*{/b} Supermarkets! They only sell boring old COWMILK!"
-    "Milkman" ""
+    "Молочник" "{b}*Насмехается*{/b} Супермаркеты! Они продают старое скучное КОРОВЬЕ МОЛОКО!"
 
 # game/worldmap.rpy:3876
 translate russia randomExplore4_432f6d4f:
 
     # y "Isn't that were milk comes from~...?"
-    y ""
+    y "Разве это не нормально~...?"
 
 # game/worldmap.rpy:3884
 translate russia randomExplore4_39ac51bf:
 
     # "Milkman" "Now if you want to treat yourself, you'll buy some of the finest [randMilkName] milk!"
-    "Milkman" ""
+    "Молочник" "Теперь, если вы захотите побаловать себя, можете купить самое лучшие [randMilkName] молоко!"
 
 # game/worldmap.rpy:3885
 translate russia randomExplore4_9a78f174_1:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/worldmap.rpy:3889
 translate russia randomExplore4_f0b81594:
 
     # y "I actually don't have enough money for that."
-    y ""
+    y "У меня недостаточно денег."
 
 # game/worldmap.rpy:3890
 translate russia randomExplore4_666d64fb:
 
     # "Milkman" "Oh well! Better lucky next time!"
-    "Milkman" ""
+    "Молочник" "Ну что ж! Приходите в следующий раз!"
 
 # game/worldmap.rpy:3892
 translate russia randomExplore4_4e83232e:
 
     # y "Against my better judgement..."
-    y ""
+    y "Вопреки моему здравому смыслу..."
 
 # game/worldmap.rpy:3894
 translate russia randomExplore4_2cc05401:
 
     # "You bought {color=e400c7}Exotic Milk{/color}! Your cooking skill went up by 1"
-    ""
+    "Вы купили {color=e400c7}экзотическое молоко{/color}! Ваш навык кулинарии повысился на 1"
 
 # game/worldmap.rpy:3897
 translate russia randomExplore4_a7dd7888:
 
     # y "That sounds disgusting! Good day sir!"
-    y ""
+    y "Звучит отвратительно! Хорошего дня, сэр!"
 
 # game/worldmap.rpy:3898
 translate russia randomExplore4_9c9aeefa:
 
     # "Milkman" "Oh you'll be back! They'll all be back!"
-    "Milkman" ""
+    "Молочник" "Оо, ты вернёшься! Они все возвращаются!"
 
 # game/worldmap.rpy:3901
 translate russia randomExplore4_27b4aafe:
 
     # "The rest of the day passes uneventful and you decide to return to the base."
-    ""
+    "Остаток дня проходит без происшествий, и вы решаете вернуться на базу."
 
 # game/worldmap.rpy:3911
 translate russia randomExplore4_3f14525b_6:
@@ -4588,7 +4588,7 @@ translate russia randomExplore4_3f14525b_6:
 translate russia randomExplore4_7f420850:
 
     # "You decide to pay a visit to the local hospital."
-    "Ты решил посетить местную больницу."
+    "Вы решили посетить местную больницу."
 
 # game/worldmap.rpy:3916
 translate russia randomExplore4_9a78f174_2:
@@ -4642,7 +4642,7 @@ translate russia randomExplore4_7cebdb90:
 translate russia randomExplore4_a12bfc27:
 
     # "You receive 1 {color=#ffeda6}Medkit{/color}!"
-    "Ты получил 1 {color=#ffeda6}Аптечку{/color}!"
+    "Вы получаете 1 {color=#ffeda6}Аптечку{/color}!"
 
 # game/worldmap.rpy:3928
 translate russia randomExplore4_f7b5e847:
@@ -4660,49 +4660,49 @@ translate russia randomExplore4_3f14525b_7:
 translate russia exploreLoot_3b576c88:
 
     # "Digging through the supply crate you find [randLoot] food."
-    "Покопавшись в ящике с припасами, ты нашёл [randLoot]."
+    "Покопавшись в ящике с припасами, вы находите [randLoot] еды."
 
 # game/worldmap.rpy:3955
 translate russia exploreLoot_aaa26ce6:
 
     # "After stashing it, you return to the base."
-    ""
+    "Положив всё в сумку, вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3960
 translate russia exploreLoot_5d7acfbb:
 
     # "Digging through the supply crate you find [randLoot] water."
-    ""
+    "Покопавшись в ящике с припасами, вы находите [randLoot] воды."
 
 # game/worldmap.rpy:3961
 translate russia exploreLoot_aaa26ce6_1:
 
     # "After stashing it, you return to the base."
-    ""
+    "Положив всё в сумку, вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3966
 translate russia exploreLoot_5fbe81e4:
 
     # "Digging through the supply crate you find [randLoot] toys."
-    ""
+    "Покопавшись в ящике с припасами, вы находите [randLoot] игрушки."
 
 # game/worldmap.rpy:3967
 translate russia exploreLoot_b6b45fcf:
 
     # "After stashing them, you return to the base."
-    ""
+    "Положив всё в сумку, вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3972
 translate russia exploreLoot_c78aa0b0:
 
     # "Digging through the supply crate you find [randLoot] clothes."
-    ""
+    "Покопавшись в ящике с припасами, вы находите [randLoot] одежду."
 
 # game/worldmap.rpy:3973
 translate russia exploreLoot_b6b45fcf_1:
 
     # "After stashing them, you return to the base."
-    ""
+    "Положив всё в сумку, вы возвращаетесь на базу."
 
 # game/worldmap.rpy:3983
 translate russia exploreLoot_3f14525b:
@@ -4714,61 +4714,61 @@ translate russia exploreLoot_3f14525b:
 translate russia exploreLoot_429d1e10:
 
     # "You don't find anything interest, but overhear two gangsters talking."
-    ""
+    "Вы не находите ничего интересного, но слышите разговор двух гангстеров."
 
 # game/worldmap.rpy:3988
 translate russia exploreLoot_1afaccd7:
 
     # "Gangster 1" "I hate guard duty!"
-    "Gangster 1" ""
+    "Гангстер 1" "Я ненавижу караулы!"
 
 # game/worldmap.rpy:3989
 translate russia exploreLoot_f52b4010:
 
     # "Gangster 2" "Are... are you serious right now?"
-    "Gangster 2" ""
+    "Гангстер 2" "Это... это ты сейчас серьезно?"
 
 # game/worldmap.rpy:3990
 translate russia exploreLoot_f6cd5818:
 
     # "Gangster 2" "Guard duty is probably the best thing that could've happened! Haven't you heard what happened to the last supply run team?"
-    "Gangster 2" ""
+    "Гангстер 2" "Караул - это, наверное, лучшее, что могло произойти! Разве ты не слышали, что случилось с последней командой снабжения?"
 
 # game/worldmap.rpy:3991
 translate russia exploreLoot_bc3a2a5b:
 
     # "Gangster 1" "No, what happened to them?"
-    "Gangster 1" ""
+    "Гангстер 1" "Нет, что с ними произошло?"
 
 # game/worldmap.rpy:3992
 translate russia exploreLoot_53a14d6c:
 
     # "Gangster 2" "Got chewed up by plants in that forest of the freaky plant lady!"
-    "Gangster 2" ""
+    "Гангстер 2" "Их загрызли растения, в лесу той причудливой растительной бабы!"
 
 # game/worldmap.rpy:3993
 translate russia exploreLoot_f4ea30c0:
 
     # "Gangster 1" "Oh God, are they okay?"
-    "Gangster 1" ""
+    "Гангстер 1" "Оо Боже, они в порядке?"
 
 # game/worldmap.rpy:3994
 translate russia exploreLoot_8d7c5cdd:
 
     # "Gangster 2" "Ever fallen in stinging nettle? Okay, now imagine every inch of you got covered in it."
-    "Gangster 2" ""
+    "Гангстер 2" "Ты когда-нибудь падал в жгучую крапиву? Теперь представь, что каждый сантиметр твоего тела покрыта этим."
 
 # game/worldmap.rpy:3995
 translate russia exploreLoot_567c5e49:
 
     # "Gangster 1" "Ouch..."
-    "Gangster 1" ""
+    "Гангстер 1" "Уфф..."
 
 # game/worldmap.rpy:3996
 translate russia exploreLoot_895e64d9:
 
     # "Gangster 2" "Told ya guard duty ain't that bad."
-    "Gangster 2" ""
+    "Гангстер 2" "Говорил же, что караул, это не так уж и плохо."
 
 # game/worldmap.rpy:4002
 translate russia exploreLoot_3f14525b_1:
@@ -4780,103 +4780,103 @@ translate russia exploreLoot_3f14525b_1:
 translate russia exploreLoot_d793bd71:
 
     # "Walking down the road you see a group of gangsters nervously talking to each other."
-    ""
+    "Идя по дороге, вы замечаете группу бандитов, нервно переговаривающихся друг с другом."
 
 # game/worldmap.rpy:4007
 translate russia exploreLoot_4540f1d5:
 
     # "Gangster" "We could really use...{w} Huh?"
-    "Gangster" ""
+    "Гангстер" "Мы могли бы использовать...{w} Хмм?"
 
 # game/worldmap.rpy:4008
 translate russia exploreLoot_0328ff79:
 
     # "Gangster" "Hey you're one of those WOOHP agents, right?"
-    "Gangster" ""
+    "Гангстер" "Эй, ты же один из тех агентов WOOHP, верно?"
 
 # game/worldmap.rpy:4009
 translate russia exploreLoot_59ef7561:
 
     # "Gangster" "We're gonna rob a pawn store, but we're short one person."
-    "Gangster" ""
+    "Гангстер" "Мы собираемся ограбить ломбард, но у нас не хватает одного человека."
 
 # game/worldmap.rpy:4010
 translate russia exploreLoot_f7ff84a8:
 
     # "Gangster" "If you join in, we can promise you a share of the loot."
-    "Gangster" ""
+    "Гангстер" "Если присоединишься, мы обещаем тебе долю от добычи."
 
 # game/worldmap.rpy:4014
 translate russia exploreLoot_3c801129:
 
     # y "Daddy could use a new pair of shoes!"
-    y ""
+    y "Папочке не помешала бы новая пара ботинок!"
 
 # game/worldmap.rpy:4015
 translate russia exploreLoot_24bc85f7:
 
     # "Together with the gangsters you storm into the shop."
-    ""
+    "Вместе с бандитами вы врываетесь в магазин."
 
 # game/worldmap.rpy:4017
 translate russia exploreLoot_bb33e6d6:
 
     # "Gangster" "OKAY, NOBODY MOVE!"
-    "Gangster" ""
+    "Гангстер" "НЕКОМУ НЕ ДВИГАТЬСЯ!"
 
 # game/worldmap.rpy:4020
 translate russia exploreLoot_4c2e9f3c:
 
     # "Gangster" "That went smoothly. Take your pick."
-    "Gangster" ""
+    "Гангстер" "Всё прошло гладко. Выбирай."
 
 # game/worldmap.rpy:4024
 translate russia exploreLoot_ec7f0991:
 
     # y "I'll take the valuables."
-    y ""
+    y "Я возьму ценности."
 
 # game/worldmap.rpy:4025
 translate russia exploreLoot_1b78533f:
 
     # "Gangster" "Fair enough, you've earned you share."
-    "Gangster" ""
+    "Гангстер" "Справедливо, ты заслужил свою долю."
 
 # game/worldmap.rpy:4029
 translate russia exploreLoot_4286c481:
 
     # y "I'll take these clothes."
-    y ""
+    y "Я беру эту одежду."
 
 # game/worldmap.rpy:4030
 translate russia exploreLoot_61cc0ac2:
 
     # "Gangster" "Good choice. There's some good stuff in there."
-    "Gangster" ""
+    "Гангстер" "Отличный выбор. Там есть парочка хороших вещей."
 
 # game/worldmap.rpy:4034
 translate russia exploreLoot_e04c351b:
 
     # y "I'll take those."
-    y ""
+    y "Я возьму это."
 
 # game/worldmap.rpy:4035
 translate russia exploreLoot_fed02d8a:
 
     # "Gangster" "Er... sure. Whatever you say."
-    "Gangster" ""
+    "Гангстер" "Эмм... хорошо. Как скажешь."
 
 # game/worldmap.rpy:4038
 translate russia exploreLoot_6ccfff90:
 
     # y "Maybe another time."
-    y ""
+    y "Может быть в следующий раз."
 
 # game/worldmap.rpy:4039
 translate russia exploreLoot_9f887b52:
 
     # "The gangsters shrug and turn away."
-    ""
+    "Бандиты пожимают плечами и отворачиваются."
 
 # game/worldmap.rpy:4046
 translate russia exploreLoot_3f14525b_2:
@@ -4888,205 +4888,205 @@ translate russia exploreLoot_3f14525b_2:
 translate russia exploreLoot_6251b2cf:
 
     # y "Let's take a nice uplifting walk around downtown."
-    y ""
+    y "Давайте совершим приятную бодрящую прогулку по центру города."
 
 # game/worldmap.rpy:4052
 translate russia exploreLoot_60bcb780:
 
     # "Voice" "You know it's a warzone out here, right?"
-    "Voice" ""
+    "Голос" "Ты же знаешь, что здесь зона боевых действий, да?"
 
 # game/worldmap.rpy:4053
 translate russia exploreLoot_5c0d1263:
 
     # y "Yup, nothing like a walk amongst friendly people to help rejuvenate my faith in humanity."
-    y ""
+    y "Да, ничто так не помогает восстановить веру в человечество, как прогулка среди дружелюбных людей."
 
 # game/worldmap.rpy:4054
 translate russia exploreLoot_3dc60592:
 
     # "Voice" "Dude, seriously. There's gunfire, take cover or something!"
-    "Voice" ""
+    "Голос" "Чувак, серьезно. Там стрельба, спрячься или ещё что-нибудь!"
 
 # game/worldmap.rpy:4056
 translate russia exploreLoot_d11a3085:
 
     # y "Man have you seen the sky? It's a beautiful green color today."
-    y ""
+    y "Чувак, ты видел небо? Сегодня он красивого зелёного цвета."
 
 # game/worldmap.rpy:4057
 translate russia exploreLoot_19fffd90:
 
     # "Voice" "Gree-...?"
-    "Voice" ""
+    "Голос" "Зелё-...?"
 
 # game/worldmap.rpy:4060
 translate russia exploreLoot_ed93ea16:
 
     # "Voice" "!!!"
-    "Voice" ""
+    "Голос" "!!!"
 
 # game/worldmap.rpy:4061
 translate russia exploreLoot_c06ef026:
 
     # "Voice" "WHAT?!"
-    "Voice" ""
+    "Голос" "ЧТО?!"
 
 # game/worldmap.rpy:4062
 translate russia exploreLoot_0b695425:
 
     # y "It's been a while since I felt this good~..."
-    y ""
+    y "Давно мне не было так хорошо~..."
 
 # game/worldmap.rpy:4063
 translate russia exploreLoot_4a02ec40:
 
     # "Voice" "Are you having an episode?! Why is the sky gree-..."
-    "Voice" ""
+    "Голос" "Ты под кайфом?! Почему небо зелё-..."
 
 # game/worldmap.rpy:4066
 translate russia exploreLoot_e10c0d78:
 
     # "Voice" "Is that the main menu image?!"
-    "Voice" ""
+    "Голос" "Это изображение главного меню?!"
 
 # game/worldmap.rpy:4067
 translate russia exploreLoot_e9ca7d76:
 
     # y "You should relax and take in the atmosphere, man."
-    y ""
+    y "Ты должен расслабиться и проникнуться атмосферой, чувак."
 
 # game/worldmap.rpy:4068
 translate russia exploreLoot_8b79b873:
 
     # y "Just let it guide you as you drift on by~...."
-    y ""
+    y "Просто позволь ему направить тебя, пока ты дрейфуешь~...."
 
 # game/worldmap.rpy:4069
 translate russia exploreLoot_dbd45db2:
 
     # sil "{size=-20}Mon ami? Oh non, not you too..!{/size}"
-    sil ""
+    sil "{size=-20}Мон ами? Ох, нет, и ты туда же..!{/size}"
 
 # game/worldmap.rpy:4070
 translate russia exploreLoot_288a90df:
 
     # "Voice" "I'm the voice in your head and even {b}{i}I{/i}{/b} am freaked out right now! Stop being so mellow!"
-    "Voice" ""
+    "Голос" "Я - голос в твоей голове, и даже {b}{i}Я{/i}{/b} сейчас напуган! Перестань быть такой тряпкой!"
 
 # game/worldmap.rpy:4071
 translate russia exploreLoot_4b9b4e47:
 
     # y "Heh heh~... {i}'mellow'{/i}. That's a funny word~..."
-    y ""
+    y "Хе-хе~... {i}'тряпка'{/i}. Какое забавное слово~..."
 
 # game/worldmap.rpy:4072
 translate russia exploreLoot_c4146bd2:
 
     # sil "{size=-20}Zher is nothing to worry about, I got you..!{/size}"
-    sil ""
+    sil "{size=-20}Здесь не о чем беспокоиться, я с тобой...{/size}"
 
 # game/worldmap.rpy:4073
 translate russia exploreLoot_dde8053b:
 
     # y "Hey, I think I'm hearing voices~..."
-    y ""
+    y "Эй, мне кажется или я слышу голоса~..."
 
 # game/worldmap.rpy:4074
 translate russia exploreLoot_ebfd58dc:
 
     # "Voice" "YOU THINK?!"
-    "Voice" ""
+    "Голос" "ТЕБЕ КАЖЕТСЯ?!"
 
 # game/worldmap.rpy:4077
 translate russia exploreLoot_c4d1fc47:
 
     # y "Oh hey Silva!"
-    y ""
+    y "Оо, привет Сильва!"
 
 # game/worldmap.rpy:4078
 translate russia exploreLoot_2bbc272d:
 
     # sil "Sprechen sie Deutsch? Ich bin eine kleine Teetasse!"
-    sil ""
+    sil "Sprechen sie Deutsch? Ich bin eine kleine Teetasse! (Ты говоришь по-немецки? Я маленькая чашечка чая!)"
 
 # game/worldmap.rpy:4079
 translate russia exploreLoot_5dbbf96b:
 
     # y "Silva speaking German?! Now that's abnormal!"
-    y ""
+    y "Сильва говорит по-немецки?! Это ненормально!"
 
 # game/worldmap.rpy:4080
 translate russia exploreLoot_4e25118d:
 
     # "Voice" "Silva?! {w}Wait... Silva... oh no..."
-    "Voice" ""
+    "Голос" "Сильва?! {w}Стоп... Сильва... ох нет..."
 
 # game/worldmap.rpy:4081
 translate russia exploreLoot_20ecf2c4:
 
     # sil "{size=-20}Here... ze antidote..!{/size}"
-    sil ""
+    sil "{size=-20}Вот... антидот..!{/size}"
 
 # game/worldmap.rpy:4082
 translate russia exploreLoot_dc8a91bf:
 
     # y "What was tha-...."
-    y ""
+    y "Подождите это-...."
 
 # game/worldmap.rpy:4088
 translate russia exploreLoot_f5ca05e8:
 
     # y "Ugh....~"
-    y ""
+    y "Угх....~"
 
 # game/worldmap.rpy:4090
 translate russia exploreLoot_e241965b:
 
     # sil "Oh mon ami, are you okay? I am so sorry!"
-    sil ""
+    sil "Ох мон ами, ты в проядке? Мне очень жаль."
 
 # game/worldmap.rpy:4091
 translate russia exploreLoot_ccd7ff69:
 
     # y "Sil...? What on earth happened...?"
-    y ""
+    y "Сил...? Что случилось...?"
 
 # game/worldmap.rpy:4092
 translate russia exploreLoot_a00b1a1a:
 
     # sil "I may have unleashed a hallucinogenic on the city by mistake~..."
-    sil ""
+    sil "Возможно, я по ошибке выпустила галлюциногенное облако на весь город~..."
 
 # game/worldmap.rpy:4093
 translate russia exploreLoot_55129e60:
 
     # y "Oh... {w}So I'm not actually crazy?"
-    y ""
+    y "Ох... {w}Значит, я не сумасшедший?"
 
 # game/worldmap.rpy:4094
 translate russia exploreLoot_1ea1c939:
 
     # "Voice" "Ugh... I feel sick. What did I miss?"
-    "Voice" ""
+    "Голос" "Угх... Мне плохо. Что я пропустил?"
 
 # game/worldmap.rpy:4095
 translate russia exploreLoot_be61f8dd:
 
     # y "Nope. Still hearing voices. Still crazy."
-    y ""
+    y "Нет. Я всё ещё слышу голоса. Я всё ещё сумасшедший."
 
 # game/worldmap.rpy:4096
 translate russia exploreLoot_e38a568b:
 
     # sil "Here~... take my hand. I zhall take you home."
-    sil ""
+    sil "Вот~... возьми меня за руку. Я отвезу тебя домой."
 
 # game/worldmap.rpy:4097
 translate russia exploreLoot_c5292b61:
 
     # y "Ich spreche kein Deutsch~..."
-    y ""
+    y "Ich spreche kein Deutsch~... (Я не говорю по-немецки~...)"
 
 # game/worldmap.rpy:4107
 translate russia exploreLoot_3f14525b_3:
@@ -5110,73 +5110,73 @@ translate russia exploreLoot_3f14525b_4:
 translate russia exploreLoot_6fe9d175:
 
     # "You come across a plundered DIY store."
-    ""
+    "Вы натыкаетесь на разграбленный магазин \"Сделай сам\"."
 
 # game/worldmap.rpy:4123
 translate russia exploreLoot_4149ffc5:
 
     # y "Anything left....?"
-    y ""
+    y "Что-нибудь осталось....?"
 
 # game/worldmap.rpy:4124
 translate russia exploreLoot_e1b5e204:
 
     # "Most of the store is empty, but you find some hammers, screwdrivers and nails."
-    ""
+    "Большая часть магазина разграблена, но вы находите несколько молотков, отверток и гвоздей."
 
 # game/worldmap.rpy:4126
 translate russia exploreLoot_709b8139:
 
     # y "Perhaps these will come in useful at one point."
-    y ""
+    y "Может мне это когда-нибудь и пригодятся."
 
 # game/worldmap.rpy:4128
 translate russia exploreLoot_96b79c7e:
 
     # "You decided to not look inside."
-    ""
+    "Вы решаете не заглядывать внутрь."
 
 # game/worldmap.rpy:4129
 translate russia exploreLoot_2d99e164:
 
     # "........................"
-    ""
+    "........................"
 
 # game/worldmap.rpy:4130
 translate russia exploreLoot_75342614:
 
     # "Shady Man" "Pst, hey buddy."
-    "Shady Man" ""
+    "Человек в тени" "Пст, эй чувак."
 
 # game/worldmap.rpy:4131
 translate russia exploreLoot_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/worldmap.rpy:4132
 translate russia exploreLoot_0669649c:
 
     # "Shady Man" "Wanna buy some...{w} weeeeed?"
-    "Shady Man" ""
+    "Человек в тени" "Хочешь купить...{w} трааааввыыы?"
 
 # game/worldmap.rpy:4133
 translate russia exploreLoot_4e83232e:
 
     # y "Against my better judgement..."
-    y ""
+    y "Вопреки моему здравому смыслу..."
 
 # game/worldmap.rpy:4134
 translate russia exploreLoot_462ccac8:
 
     # "Shady Man" "I got my hands on some Goldthorn. Thirty bucks."
-    "Shady Man" ""
+    "Человек в тени" "С вас 30 баксов за \"Золотарник\"."
 
 # game/worldmap.rpy:4135
 translate russia exploreLoot_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/worldmap.rpy:4139
 translate russia exploreLoot_5453a797:
@@ -5188,31 +5188,31 @@ translate russia exploreLoot_5453a797:
 translate russia exploreLoot_ac85c7e4:
 
     # "Shady Man" "Better luck next time."
-    "Shady Man" ""
+    "Человек в тени" "Приходите в другой раз."
 
 # game/worldmap.rpy:4145
 translate russia exploreLoot_de75f64e:
 
     # "You bought {color=#ffeda6}Goldthorn{/color}."
-    ""
+    "Вы купили {color=#ffeda6}Золотарник{/color}."
 
 # game/worldmap.rpy:4146
 translate russia exploreLoot_d7f10e16:
 
     # "Shady Man" "Pleasure doing business...."
-    "Shady Man" ""
+    "Человек в тени" "Приятно иметь с вами дело...."
 
 # game/worldmap.rpy:4148
 translate russia exploreLoot_8bdd3039:
 
     # "Shady Man" "Your loss..."
-    "Shady Man" ""
+    "Человек в тени" "Много чего теряете..."
 
 # game/worldmap.rpy:4149
 translate russia exploreLoot_2941d652:
 
     # "You decide to head back to the base."
-    ""
+    "Вы решаете вернуться на базу."
 
 # game/worldmap.rpy:4158
 translate russia exploreLoot_3f14525b_5:
@@ -5224,91 +5224,91 @@ translate russia exploreLoot_3f14525b_5:
 translate russia exploreLoot_84183f69:
 
     # "You come across a plundered pharmacy."
-    ""
+    "Вы натыкаетесь на разграбленную аптеку."
 
 # game/worldmap.rpy:4163
 translate russia exploreLoot_784578f0:
 
     # "Man" "I need... I need....~ !"
-    "Man" ""
+    "Мужчина" "Мне нужно... Мне нужен....~!"
 
 # game/worldmap.rpy:4164
 translate russia exploreLoot_50e3558f:
 
     # y "Oh man, are you all right?"
-    y ""
+    y "Оо боже, ты в порядке?"
 
 # game/worldmap.rpy:4165
 translate russia exploreLoot_4ccd20a1:
 
     # "Man" "It's been three days...."
-    "Man" ""
+    "Мужчина" "Прошло уже три дня...."
 
 # game/worldmap.rpy:4166
 translate russia exploreLoot_5aa68f43:
 
     # y "You poor man! What do you need? Asthma medication? Diabetes insulin?"
-    y ""
+    y "Бедняга! Что вам нужно? Лекарства от астмы? Диабетический инсулин?"
 
 # game/worldmap.rpy:4167
 translate russia exploreLoot_5ea9d365:
 
     # "Man" "I need....{w} MORPHINE!"
-    "Man" ""
+    "Мужчина" "Мне нужен....{w} МОРФИЙ!"
 
 # game/worldmap.rpy:4168
 translate russia exploreLoot_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/worldmap.rpy:4169
 translate russia exploreLoot_affc5fd7:
 
     # y "You don't look in pain..."
-    y ""
+    y "Ты вроде не так сильно страдаешь..."
 
 # game/worldmap.rpy:4170
 translate russia exploreLoot_d7ddfe5a:
 
     # "Man" "You don't understand...!"
-    "Man" ""
+    "Мужчина" "Ты не понимаешь...!"
 
 # game/worldmap.rpy:4171
 translate russia exploreLoot_5de88b6e:
 
     # "Man" "I plundered this farmacy three days ago, and have swallow, injected and sniffed everything there was on the shelves. Now I have nothing left!"
-    "Man" ""
+    "Мужчина" "Я ограбил эту аптеку три дня назад и проглотил, вколол и обнюхал всё, что было на полках. Теперь у меня ничего не осталось!"
 
 # game/worldmap.rpy:4172
 translate russia exploreLoot_05bf074c:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/worldmap.rpy:4173
 translate russia exploreLoot_0783654a:
 
     # y "Time for a detox my friend. Let me relieve you of anything you have left."
-    y ""
+    y "Время детоксикации, мой друг. Позволь мне освободить тебя от всего, что у тебя осталось."
 
 # game/worldmap.rpy:4174
 translate russia exploreLoot_42c411cd:
 
     # "Man" "Noooooo!"
-    "Man" ""
+    "Мужчина" "Нееееет!"
 
 # game/worldmap.rpy:4176
 translate russia exploreLoot_2c6fd154:
 
     # "You confiscate {color=#ffeda6}Nanobot Injector{/color} x1"
-    ""
+    "Вы конфискуете {color=#ffeda6}Инжектор наноботов{/color} x1"
 
 # game/worldmap.rpy:4178
 translate russia exploreLoot_2941d652_1:
 
     # "You decide to head back to the base."
-    ""
+    "Вы решаете вернуться на базу."
 
 # game/worldmap.rpy:4187
 translate russia exploreLoot_3f14525b_6:
@@ -5320,61 +5320,61 @@ translate russia exploreLoot_3f14525b_6:
 translate russia exploreLoot_5d1476c4:
 
     # "You come across a burned down supermarket."
-    ""
+    "Вы наткнулись на сгоревший супермаркет."
 
 # game/worldmap.rpy:4193
 translate russia exploreLoot_bc799277:
 
     # "You risk going into the burned out building in search of food."
-    ""
+    "Вы решаете зайти в сгоревшее здание и поискать еды."
 
 # game/worldmap.rpy:4195
 translate russia exploreLoot_ecf6977e:
 
     # "Most of it seems burned or spoiled, but after a while you find some preserved food!"
-    ""
+    "Большинство из них оказывается сгоревшей или испорченной, но через некоторое время вы находите сохранившиеся продукты!"
 
 # game/worldmap.rpy:4200
 translate russia exploreLoot_f343f518:
 
     # "You brave the ruined building a bit longer."
-    ""
+    "Вы ещё немного бродите по разрушенному зданию."
 
 # game/worldmap.rpy:4201
 translate russia exploreLoot_7d5c059e:
 
     # y "I feel like I'm tempting fate here..."
-    y ""
+    y "Мне кажется, что я искушаю судьбу..."
 
 # game/worldmap.rpy:4202
 translate russia exploreLoot_f1394384:
 
     # "Through the charcoaled ruins you can make out the remains of the deepfreeze section."
-    ""
+    "Сквозь обугленные руины можно разглядеть остатки морозильной секции."
 
 # game/worldmap.rpy:4203
 translate russia exploreLoot_cd1b72cf:
 
     # y "Oh what do we have here..."
-    y ""
+    y "Ох, что это у нас тут..."
 
 # game/worldmap.rpy:4205
 translate russia exploreLoot_f7115079:
 
     # "You find some bottled water!"
-    ""
+    "Вы находите воду в бутылках!"
 
 # game/worldmap.rpy:4208
 translate russia exploreLoot_6d21e2fa:
 
     # "Not wanting to take your chances anymore, you decide to quickly get out."
-    ""
+    "Не желая больше рисковать, вы решаете быстро выйти на ружу."
 
 # game/worldmap.rpy:4210
 translate russia exploreLoot_6d21e2fa_1:
 
     # "Not wanting to take your chances anymore, you decide to quickly get out."
-    ""
+    "Не желая больше рисковать, вы решаете быстро выйти на ружу."
 
 # game/worldmap.rpy:4219
 translate russia exploreLoot_3f14525b_7:
@@ -5386,19 +5386,19 @@ translate russia exploreLoot_3f14525b_7:
 translate russia exploreLoot_f15168df:
 
     # "You decide not to enter."
-    ""
+    "Вы решаете не входить."
 
 # game/worldmap.rpy:4223
 translate russia exploreLoot_9e95d1fb:
 
     # "As you continue walking you come across a broken vending machine! There still seems to be some bottled water left."
-    ""
+    "Продолжая идти, вы натыкаетесь на сломанный торговый автомат! Кажется внутри ещё осталось немного воды в бутылках."
 
 # game/worldmap.rpy:4226
 translate russia exploreLoot_5e7a1540:
 
     # "The rest of the day remains uneventful."
-    ""
+    "Остаток дня прошёл без происшествий."
 
 # game/worldmap.rpy:4235
 translate russia exploreLoot_3f14525b_8:
@@ -5410,139 +5410,139 @@ translate russia exploreLoot_3f14525b_8:
 translate russia atmTentacle_822d621d:
 
     # y "Look at these shrines! Zukkerthroth must be pleased."
-    y ""
+    y "Посмотрите на эти святыни! Цуккертрот должен быть доволен."
 
 # game/worldmap.rpy:4249
 translate russia atmTentacle_c109edb2:
 
     # c "Oh hello there, [playerName]."
-    c ""
+    c "Приветствую тебя, [playerName]."
 
 # game/worldmap.rpy:4250
 translate russia atmTentacle_3aaa6f5f:
 
     # y "Girls! You're just in time to celebrate our glorious lord's return!"
-    y ""
+    y "Девочки! Вы как раз вовремя, чтобы отпраздновать возвращение нашего великого господина!"
 
 # game/worldmap.rpy:4251
 translate russia atmTentacle_e539912c:
 
     # s g16 "Glorious lor-...?"
-    s g16 ""
+    s g16 "Виликий госп-...?"
 
 # game/worldmap.rpy:4252
 translate russia atmTentacle_ae233741:
 
     # "Zukkerthroth" "{b}*Intergalactic squeels of joy*{/b}"
-    "Zukkerthroth" ""
+    "Цуккертрот" "{b}* Межгалактический визг радости*{/b}"
 
 # game/worldmap.rpy:4253
 translate russia atmTentacle_e076329a:
 
     # a y30 "W-what was that...?!"
-    a y30 ""
+    a y30 "Ч-что это было...?!"
 
 # game/worldmap.rpy:4254
 translate russia atmTentacle_feaacd86:
 
     # y "ZUKKERTHROTH NOW IS THE TIME FOR YOU TO RETURN!"
-    y ""
+    y "ЦУККЕРТРОТ СЕЙЧАС САМОЕ ВРЕМЯ ДЛЯ ВАШЕГО ВОЗВРАЩЕНИЯ!"
 
 # game/worldmap.rpy:4255
 translate russia atmTentacle_1dc41dcc:
 
     # y "I PRESENT YOU WITH THESE THREE YOUNG MAIDENS! DEFLOWER THEM WITH YOUR THOUSAND TENTACLES OF COMPASSION!"
-    y ""
+    y "ПРЕДСТАВЛЯЮ ВАМ ЭТИХ ТРЕХ ЮНЫХ ДЕВ! ОСКВЕРНИТЕ ИХ С ПОМОЩЬЮ ТЫСЯЧИ ВАШИХ ЩУПАЛЕЦ СОСТРАДАНИЯ!"
 
 # game/worldmap.rpy:4256
 translate russia atmTentacle_1a32eb83:
 
     # a y28 "Deflower...?"
-    a y28 ""
+    a y28 "Осквернить...?"
 
 # game/worldmap.rpy:4257
 translate russia atmTentacle_ddc7759b:
 
     # s g30 "Tentacles?!"
-    s g30 ""
+    s g30 "Щупальца?!"
 
 # game/worldmap.rpy:4258
 translate russia atmTentacle_ba86a6b3:
 
     # "Zukkerthrot" "{b}*Low roar*{/b}"
-    "Zukkerthrot" ""
+    "Цуккертрот" "{b}*Низкий рёв*{/b}"
 
 # game/worldmap.rpy:4259
 translate russia atmTentacle_65bf3b8f:
 
     # c r42 "[playerName], what did you do?!"
-    c r42 ""
+    c r42 "[playerName], что ты наделал?!"
 
 # game/worldmap.rpy:4261
 translate russia atmTentacle_f1d684d4:
 
     # s "What is that thing?!"
-    s ""
+    s "Что это за штука?!"
 
 # game/worldmap.rpy:4262
 translate russia atmTentacle_6eb13d96:
 
     # a "It's got my hair!"
-    a ""
+    a "Мои волосы!"
 
 # game/worldmap.rpy:4263
 translate russia atmTentacle_9849de63:
 
     # c r40 "Put me down!"
-    c r40 ""
+    c r40 "Отпусти меня!"
 
 # game/worldmap.rpy:4264
 translate russia atmTentacle_ec1c9a7b:
 
     # "What unfurls is a scene straight out of a Japanese porn.{w} You grab your popcorn and your camera."
-    ""
+    "Разворачивается сцена прямо из японского порно.{w} Вы хватаете попкорн и камеру."
 
 # game/worldmap.rpy:4265
 translate russia atmTentacle_66c0d00a:
 
     # s "Ahh! Ah! Ah! Ahhh! ♥♥♥"
-    s ""
+    s "Ахх! Аа! Ах! Аааах! ♥♥♥"
 
 # game/worldmap.rpy:4266
 translate russia atmTentacle_280fd3ad:
 
     # c "Oooh yes, Oh my God! ♥♥♥ Ah! Ah! Oh! ♥♥♥♥♥"
-    c ""
+    c "Ооо да, о мой бог! ♥♥♥ Ахх! Аах! Ох! ♥♥♥♥♥"
 
 # game/worldmap.rpy:4267
 translate russia atmTentacle_df1a4d6a:
 
     # a "{b}*Muffled*{/b} I can't fit any more!"
-    a ""
+    a "{b}*Приглушённо*{/b} В меня больше не влезет!"
 
 # game/worldmap.rpy:4268
 translate russia atmTentacle_a4ed8196:
 
     # a "Well okay... maybe one mo-... AHHH! ♥♥♥♥♥"
-    a ""
+    a "Нуу ладно... может один-... АААХ! ♥♥♥♥♥"
 
 # game/worldmap.rpy:4269
 translate russia atmTentacle_6d0939c7:
 
     # y "Neat."
-    y ""
+    y "Мило."
 
 # game/worldmap.rpy:4281
 translate russia atmTentacle_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/worldmap.rpy:4288
 translate russia atmTentacle_87041e73:
 
     # "You couldn't find anything of interest."
-    ""
+    "Вы не смогли найти ничего интересного."
 
 # game/worldmap.rpy:4293
 translate russia atmTentacle_e697107c:
@@ -5566,229 +5566,229 @@ translate russia atmTentacle_873252cd:
 translate russia atmTentacle_7ac60944:
 
     # "You spend some time cleaning up the shrine and putting back the miniature tentacle monsters right side up."
-    ""
+    "Вы тратите некоторое время на то, чтобы привести святилище в порядок. Вы ставите миниатюрные статуи щупалец на их места."
 
 # game/worldmap.rpy:4300
 translate russia atmTentacle_fd6b0676:
 
     # y "There we go..."
-    y ""
+    y "Вот так..."
 
 # game/worldmap.rpy:4301
 translate russia atmTentacle_16d44d8d:
 
     # "{b}*Grateful noises from beyond time and space.*{/b}"
-    ""
+    "{b}*Благодарные звуки за пределами времени и пространства.*{/b}"
 
 # game/worldmap.rpy:4307
 translate russia atmTentacle_6d68a919:
 
     # y "Oh well, I'll deal with this later."
-    y ""
+    y "Разберусь с этим позже."
 
 # game/worldmap.rpy:4308
 translate russia atmTentacle_77e512d1:
 
     # "You decide to head back home instead."
-    ""
+    "Вы решаете вернуться домой."
 
 # game/worldmap.rpy:4326
 translate russia halloweenEvent_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/worldmap.rpy:4331
 translate russia halloweenEvent_a2b07691:
 
     # "???" "OooooOOOOOOooooooo~...."
-    "???" ""
+    "???" "УууууУУУуУУУуууу~...."
 
 # game/worldmap.rpy:4332
 translate russia halloweenEvent_215ea3ee:
 
     # y "....?"
-    y ""
+    y "....?"
 
 # game/worldmap.rpy:4334
 translate russia halloweenEvent_26ea494f:
 
     # "???" "OOOOOooooooOOOOOOooooo~.....!{w} I'm a ghoooooooost!"
-    "???" ""
+    "???" "УУУУУУууууууууУУУУУуууу~.....!{w} Я прииииииизрааааак!"
 
 # game/worldmap.rpy:4335
 translate russia halloweenEvent_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/worldmap.rpy:4336
 translate russia halloweenEvent_5b5bcb67:
 
     # y "Ironically not the craziest thing I've seen today."
-    y ""
+    y "Как ни странно, но это не самая безумная вещь, которую я видел сегодня."
 
 # game/worldmap.rpy:4337
 translate russia halloweenEvent_6f49727c:
 
     # "???" "I am the ghost of Christmas long long ago, in a galaxy far far awaaaaay~......"
-    "???" ""
+    "???" "Я призрак Рождества, в далёкой-далёкой галактике~......"
 
 # game/worldmap.rpy:4338
 translate russia halloweenEvent_ff1d0d6f:
 
     # y "Okay, just to be sure. Are you a {i}'real'{/i} ghost or another one of my hallucinations?"
-    y ""
+    y "Ладно, просто чтобы убедиться. Ты {i}'настоящий'{/i} призрак или ещё одна из моих галлюцинаций?"
 
 # game/worldmap.rpy:4339
 translate russia halloweenEvent_c8cf4751:
 
     # "Spirit" "Fucked if I knoooooOOOOOooooOOOow~...."
-    "Spirit" ""
+    "Призрак" "Хрен знаааААААаеееЕЕЕееЕЕет.~...."
 
 # game/worldmap.rpy:4340
 translate russia halloweenEvent_ce895a18:
 
     # y "..........."
-    y ""
+    y "..........."
 
 # game/worldmap.rpy:4341
 translate russia halloweenEvent_29537288:
 
     # "Spirit" "I've come to show you the error of your ways and show you the true meaning of Christmaaaaaaaas~...."
-    "Spirit" ""
+    "Призрак" "Я пришёл, чтобы указать тебе на ошибки твоего пути и показать истинное значение Рождестваааааа~...."
 
 # game/worldmap.rpy:4342
 translate russia halloweenEvent_5d5f79f4:
 
     # y "It's October."
-    y ""
+    y "Сейчас октябрь."
 
 # game/worldmap.rpy:4343
 translate russia halloweenEvent_e1ba23cd:
 
     # "Spirit" "What?"
-    "Spirit" ""
+    "Призрак" "Что?"
 
 # game/worldmap.rpy:4344
 translate russia halloweenEvent_087208f9:
 
     # y "It's October. {w}You're early."
-    y ""
+    y "Сейчас октябрь. {w} Ты рано."
 
 # game/worldmap.rpy:4345
 translate russia halloweenEvent_8117bdc2:
 
     # "Spirit" "..............."
-    "Spirit" ""
+    "Призрак" "..............."
 
 # game/worldmap.rpy:4346
 translate russia halloweenEvent_d5215cf7:
 
     # "Spirit" "I travelled all this way and showed up at the wrong time?{w} Next you'll be telling me your name isn't Harold."
-    "Spirit" ""
+    "Призрак" "Я проделал весь этот путь и появился в неподходящее время?{w} Ещё скажи что тебя не Гарольд зовут?!"
 
 # game/worldmap.rpy:4347
 translate russia halloweenEvent_64a2b68e:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/worldmap.rpy:4348
 translate russia halloweenEvent_6cd5b357:
 
     # "Spirit" "You're not Harold, are you...?"
-    "Spirit" ""
+    "Призрак" "Ты не Гарольд, да...?"
 
 # game/worldmap.rpy:4349
 translate russia halloweenEvent_306e101e:
 
     # y "Sorry buddy, this just isn't your day."
-    y ""
+    y "Извини приятель, просто сегодня не твой день."
 
 # game/worldmap.rpy:4350
 translate russia halloweenEvent_91a54768:
 
     # y "Best go back to the afterlife or something."
-    y ""
+    y "Лучше вернись в загробный мир или откуда ты там."
 
 # game/worldmap.rpy:4351
 translate russia halloweenEvent_75321442:
 
     # "Spirit" "Oh I'm not dead, I just say that to mess with people."
-    "Spirit" ""
+    "Призрак" "Оо так я не умер, я просто говорю так, чтобы подшутить над людьми."
 
 # game/worldmap.rpy:4352
 translate russia halloweenEvent_64a2b68e_1:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/worldmap.rpy:4353
 translate russia halloweenEvent_bff80c91:
 
     # "Spirit" "I'm just really bored, okay? I'm stuck floating through space without anyone to talk to!"
-    "Spirit" ""
+    "Призрак" "Мне просто очень скучно, понятно? Я застрял в космосе, и мне не с кем поговорить!"
 
 # game/worldmap.rpy:4354
 translate russia halloweenEvent_285f694f:
 
     # "Spirit" "For all I know, you might just be a figment of my imagination!"
-    "Spirit" ""
+    "Призрак" "Насколько я знаю, ты можешь быть просто плодом моего воображения!"
 
 # game/worldmap.rpy:4355
 translate russia halloweenEvent_398ac510:
 
     # y "You could be one of mine!"
-    y ""
+    y "Это ты можешь быть моим!"
 
 # game/worldmap.rpy:4356
 translate russia halloweenEvent_3d3f2e69:
 
     # "Spirit" "..........................."
-    "Spirit" ""
+    "Призрак" "..........................."
 
 # game/worldmap.rpy:4357
 translate russia halloweenEvent_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/worldmap.rpy:4358
 translate russia halloweenEvent_e92260c7:
 
     # y "So you wanna go play cards or something?"
-    y ""
+    y "Так ты хочешь сыграть в карты или ещё во что-нибудь?"
 
 # game/worldmap.rpy:4359
 translate russia halloweenEvent_a843a983:
 
     # "Spirit" "Yeah okay."
-    "Spirit" ""
+    "Призрак" "Да давай."
 
 # game/worldmap.rpy:4364
 translate russia halloweenEvent_15f1b090:
 
     # "You spend the rest of the day playing cards with your new ghost buddy."
-    ""
+    "Остаток дня вы проводите за игрой в карты со своим новым приятелем-призраком."
 
 # game/worldmap.rpy:4365
 translate russia halloweenEvent_7ac6ec81:
 
     # "Spirit" "You've activated my trap card!"
-    "Spirit" ""
+    "Призрак" "Ты активировал мою карту-ловушку!"
 
 # game/worldmap.rpy:4366
 translate russia halloweenEvent_0245008c:
 
     # y "We're playing UNO!"
-    y ""
+    y "Мы играем в UNO!"
 
 # game/worldmap.rpy:4368
 translate russia halloweenEvent_9f22fd8f:
 
     # "In the evening you decide to go back to the base."
-    ""
+    "Вечером вы решаете вернуться на базу."
 
 # game/worldmap.rpy:4374
 translate russia halloweenEvent_3f14525b:
@@ -5800,139 +5800,139 @@ translate russia halloweenEvent_3f14525b:
 translate russia halloweenEvent_34d5447b_1:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/worldmap.rpy:4387
 translate russia halloweenEvent_a6fd77a8:
 
     # "Spirit" "OooooOOOOOOooooooo~...."
-    "Spirit" ""
+    "Призрак" "УууууУУУуУУУуууу~...."
 
 # game/worldmap.rpy:4389
 translate russia halloweenEvent_77d87ffa:
 
     # "Spirit" "OooooOOOO-....{w} Oh, it's you again."
-    "Spirit" ""
+    "Призрак" "УуууУУУу-...{w} Оо, это снова ты."
 
 # game/worldmap.rpy:4390
 translate russia halloweenEvent_b1330cb7:
 
     # y "Hey. Still here?"
-    y ""
+    y "Привет. Всё ещё здесь?"
 
 # game/worldmap.rpy:4391
 translate russia halloweenEvent_9e928852:
 
     # "Spirit" "Yeah I tried calling my travel agent.{w} Then I realized I didn't have a travel agent, so I've just been busy knocking over trashcans and scaring dogs."
-    "Spirit" ""
+    "Призрак" "Да, я пытался дозвониться до своего турагентство.{w} Потом я понял, что у меня нет турагентство, поэтому я был занят тем, что опрокидывал мусорки и пугал собак."
 
 # game/worldmap.rpy:4392
 translate russia halloweenEvent_0c44b0d5:
 
     # y "Wanna play cards?"
-    y ""
+    y "Хочешь сыграть в карты?"
 
 # game/worldmap.rpy:4393
 translate russia halloweenEvent_054b3ff7:
 
     # "Spirit" "Yes...."
-    "Spirit" ""
+    "Призрак" "Да..."
 
 # game/worldmap.rpy:4399
 translate russia halloweenEvent_ba89f7e5:
 
     # "You spend the day playing games with the spirit."
-    ""
+    "Вы проводите день, играя в игры с призраком."
 
 # game/worldmap.rpy:4405
 translate russia halloweenEvent_4dfbc0ff:
 
     # y "Checkmate!"
-    y ""
+    y "Шах и мат!"
 
 # game/worldmap.rpy:4407
 translate russia halloweenEvent_06f2e2ad:
 
     # "Spirit" "Man I suck at monopoly...!"
-    "Spirit" ""
+    "Призрак" "Я отстойно играю в монополию...!"
 
 # game/worldmap.rpy:4408
 translate russia halloweenEvent_c7515a46:
 
     # "The spirit throws away his 20-sided dice."
-    ""
+    "Призрак выбрасывает свой 20-гранный кубик."
 
 # game/worldmap.rpy:4409
 translate russia halloweenEvent_92e09fd3:
 
     # y "So what do you wanna play next?"
-    y ""
+    y "Так и во что ты хочешь сиграть теперь?"
 
 # game/worldmap.rpy:4410
 translate russia halloweenEvent_205787f9:
 
     # "Spirit" "How about some Pazaak?"
-    "Spirit" ""
+    "Призрак" "Как насчёт Пазаака?"
 
 # game/worldmap.rpy:4411
 translate russia halloweenEvent_692be6fa:
 
     # y "............"
-    y ""
+    y "............"
 
 # game/worldmap.rpy:4412
 translate russia halloweenEvent_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/worldmap.rpy:4413
 translate russia halloweenEvent_d2c8ab24:
 
     # "Spirit" "Oh you might not have that over here."
-    "Spirit" ""
+    "Призрак" "Оу у вас здесь такого нет."
 
 # game/worldmap.rpy:4414
 translate russia halloweenEvent_37006d81:
 
     # "Spirit" "Do you have podracing on this planet?"
-    "Spirit" ""
+    "Призрак" "А подрейсинг на этой планете есть?"
 
 # game/worldmap.rpy:4415
 translate russia halloweenEvent_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/worldmap.rpy:4416
 translate russia halloweenEvent_bdff3020:
 
     # "Spirit" "Stripclubs?"
-    "Spirit" ""
+    "Призрак" "Стрип-клубы?"
 
 # game/worldmap.rpy:4417
 translate russia halloweenEvent_19b29571:
 
     # y "We have those!"
-    y ""
+    y "Они у нас есть!"
 
 # game/worldmap.rpy:4418
 translate russia halloweenEvent_32218621:
 
     # "Spirit" "Hell yeah!"
-    "Spirit" ""
+    "Призрак" "Да, чёрт возьми!"
 
 # game/worldmap.rpy:4424
 translate russia halloweenEvent_e94633bb:
 
     # "You spend the rest of the day with the spirit."
-    ""
+    "Остаток дня вы проводите с призраком."
 
 # game/worldmap.rpy:4426
 translate russia halloweenEvent_8295f4d7:
 
     # "In the evening you say goodbye and return to the base."
-    ""
+    "Вечером вы прощаетесь и возвращаетесь на базу."
 
 # game/worldmap.rpy:4432
 translate russia halloweenEvent_3f14525b_1:
@@ -5944,97 +5944,97 @@ translate russia halloweenEvent_3f14525b_1:
 translate russia halloweenEvent_038354f9:
 
     # y "So you see ZUKKERTHROTH, Destroyer of Moons, this is how you set up your dating profile. I don't think you have a creditcard, so I gave you mine. Don't go too crazy with it, all right?"
-    y ""
+    y "Итак, тут написано: ЦУККЕРТРОТ, разрушитель лун. Вот как создаётся профиль для знакомств. Я не думаю, что у вас есть кредитная карточка, поэтому я дал вам свою. Не сходите с ума от этого, хорошо?"
 
 # game/worldmap.rpy:4446
 translate russia halloweenEvent_e0ab1501:
 
     # y "Now remember that most humans can't see you, so don't be disappointed if they ghost you.{w} Also stay away from anime chicks, they only want you for your tentacles."
-    y ""
+    y "Помните, что большинство людей вас не видит, так что не расстраивайтесь, если они сочтут вас за призрака.{w} Также держитесь подальше от анимешниц, они хотят только ваши щупальца."
 
 # game/worldmap.rpy:4448
 translate russia halloweenEvent_197472d2:
 
     # "Spirit" "Hey again. I was hoping to find you he-....{w}ARGHHH!!!!"
-    "Spirit" ""
+    "Призрак" "Привет снова. Я надеялся найти тебя зд-.... {W} ААРРГГХХ!!!!"
 
 # game/worldmap.rpy:4450
 translate russia halloweenEvent_9263fe0b:
 
     # "Spirit" "WHAT IS THAT?!"
-    "Spirit" ""
+    "Призрак" "ЧТО ЭТО ТАКОЕ?!"
 
 # game/worldmap.rpy:4451
 translate russia halloweenEvent_d1642ce7:
 
     # y "Huh?"
-    y ""
+    y "Хм?"
 
 # game/worldmap.rpy:4452
 translate russia halloweenEvent_909fb5e2:
 
     # "Spirit" "THAT! That dripping thing with the thousand arms and eyes!"
-    "Spirit" ""
+    "Призрак" "ЭТО! Это капающая штука с тысячами рук и глазами!"
 
 # game/worldmap.rpy:4453
 translate russia halloweenEvent_8fca7822:
 
     # y "{b}*Gasp!*{/b}{w} ZUKKERTROTH, He can see you!"
-    y ""
+    y "{b}*Вздох!*{/b}{w} ЦУККЕРТРОТ, Он тебя видит!"
 
 # game/worldmap.rpy:4454
 translate russia halloweenEvent_df414f53:
 
     # "Zukkerthroth" "{b}*Happy puppy noices*{w} *followed by the screams of a billion damned souls*"
-    "Zukkerthroth" ""
+    "Цуккертрот" "{b}*Звуки счастливых щенков*{w} *затем крики миллиарда проклятых душ*"
 
 # game/worldmap.rpy:4455
 translate russia halloweenEvent_aea264f3:
 
     # "Spirit" "You know this thing...?"
-    "Spirit" ""
+    "Призрак" "Ты знаком с этой штукой...?"
 
 # game/worldmap.rpy:4456
 translate russia halloweenEvent_cac03458:
 
     # y "Of course, I've been a long time acolyte of the Tentacle Cult.{w} We have a bookclub."
-    y ""
+    y "Конечно, я уже долгое время являюсь прислужником культа Щупальца.{w} У нас есть книжный клуб."
 
 # game/worldmap.rpy:4457
 translate russia halloweenEvent_bc10b120:
 
     # "Spirit" "Er.... It's nice to meet you...."
-    "Spirit" ""
+    "Призрак" "Эмм... Приятно познакомиться...."
 
 # game/worldmap.rpy:4458
 translate russia halloweenEvent_987c8976:
 
     # "Spirit" "Not sure if I'm willing to become a cultist just yet though..."
-    "Spirit" ""
+    "Призрак" "Не уверен, готов ли я стать культистом, но..."
 
 # game/worldmap.rpy:4459
 translate russia halloweenEvent_29d792fb:
 
     # y "He sometimes grands his followers powers. Like turning invisible and sneaking into the girl's lockerroom."
-    y ""
+    y "Иногда он наделяет своих последователей силой. Например: превращает в невидимку и позволяет пробраться в женскую раздевалку."
 
 # game/worldmap.rpy:4461
 translate russia halloweenEvent_8aa1494b:
 
     # "Spirit" "HALLELUJA, I'VE FOUND MY GOD!"
-    "Spirit" ""
+    "Призрак" "ХАЛЛЕЛУЯ, Я НАШЁЛ СВОЕГО БОГА!"
 
 # game/worldmap.rpy:4469
 translate russia halloweenEvent_6cf5f1c8:
 
     # "The three of you spend the rest of the day sneaking into lockerrooms and playing pranks on unsuspecting victims."
-    ""
+    "Вы втроём проводите остаток дня, пробираясь в раздевалки и разыгрывая ничего не подозревающих жертв."
 
 # game/worldmap.rpy:4471
 translate russia halloweenEvent_8295f4d7_1:
 
     # "In the evening you say goodbye and return to the base."
-    ""
+    "Вечером вы прощаетесь и возвращаетесь на базу."
 
 # game/worldmap.rpy:4477
 translate russia halloweenEvent_3f14525b_2:
@@ -6046,235 +6046,235 @@ translate russia halloweenEvent_3f14525b_2:
 translate russia eventHall1_bc8a5baa:
 
     # y "Hey man, how've you been?"
-    y ""
+    y "Привет чувак, как дела?"
 
 # game/worldmap.rpy:4507
 translate russia eventHall1_b348ee02:
 
     # "Spirit" "Same old. I'm pretty sure I gave someone a heartattack earlier."
-    "Spirit" ""
+    "Призрак" "Всё по-старому. Уверен, что у кого-то случился сердечный приступ."
 
 # game/worldmap.rpy:4508
 translate russia eventHall1_87dc5395:
 
     # y "You gotta be careful with tha-..."
-    y ""
+    y "Тебе нужно быть осторожнее с эт-..."
 
 # game/worldmap.rpy:4509
 translate russia eventHall1_15343a98:
 
     # s "[playerName], there you are!"
-    s ""
+    s "[playerName], вот ты где!"
 
 # game/worldmap.rpy:4510
 translate russia eventHall1_215ea3ee:
 
     # y "....?"
-    y ""
+    y "....?"
 
 # game/worldmap.rpy:4511
 translate russia eventHall1_0f71783f:
 
     # y "Oh that's one of the spies I talked to you about. Sam, over here!"
-    y ""
+    y "Оо, это одна из шпионок, о которых я тебе рассказывал. Сэм, сюда!"
 
 # game/worldmap.rpy:4523
 translate russia eventHall1_85dfd406:
 
     # "Spirit" "!!!"
-    "Spirit" ""
+    "Призрак" "!!!"
 
 # game/worldmap.rpy:4524
 translate russia eventHall1_cb798734:
 
     # "Spirit" "Ahso-....?"
-    "Spirit" ""
+    "Призрак" "Асо-....?"
 
 # game/worldmap.rpy:4525
 translate russia eventHall1_9a8c5e56:
 
     # "Spirit" "........................."
-    "Spirit" ""
+    "Призрак" "........................."
 
 # game/worldmap.rpy:4526
 translate russia eventHall1_c7a5ddbd:
 
     # s " Is... is that a ghost...?!"
-    s ""
+    s "Это... призрак...?!"
 
 # game/worldmap.rpy:4527
 translate russia eventHall1_5518d253:
 
     # y "He's my new friend!"
-    y ""
+    y "Он мой новый друг."
 
 # game/worldmap.rpy:4528
 translate russia eventHall1_19dec3cf:
 
     # s g30 "O-oh... er... nice to meet you...?"
-    s g30 ""
+    s g30 "О-ох... эм... приятно познакомиться...?"
 
 # game/worldmap.rpy:4529
 translate russia eventHall1_1e8af3b3:
 
     # "Spirit" "....................."
-    "Spirit" ""
+    "Призрак" "....................."
 
 # game/worldmap.rpy:4530
 translate russia eventHall1_1d9e9c02:
 
     # s g16 "......?"
-    s g16 ""
+    s g16 "......?"
 
 # game/worldmap.rpy:4531
 translate russia eventHall1_a76be94a:
 
     # s g29 "Are you...{w} sad...?"
-    s g29 ""
+    s g29 "Ты...{w} грустный...?"
 
 # game/worldmap.rpy:4533
 translate russia eventHall1_0309278a:
 
     # "Spirit" "..................."
-    "Spirit" ""
+    "Призрак" "..................."
 
 # game/worldmap.rpy:4534
 translate russia eventHall1_4a49e4d5:
 
     # "Spirit" "You remind me of an old friend...{w} One I haven't seen in a very long time..."
-    "Spirit" ""
+    "Призрак" "Ты напоминила мне старого друга...{w} Которого я не видел очень давно..."
 
 # game/worldmap.rpy:4535
 translate russia eventHall1_b1312ae3:
 
     # "Spirit" "I'm sorry...{w} I don't feel like hanging out today."
-    "Spirit" ""
+    "Призрак" "Извини...{w} Мне не хочется сегодня тусоваться."
 
 # game/worldmap.rpy:4538
 translate russia eventHall1_e548c61f:
 
     # s "He-... He disappeared...."
-    s ""
+    s "Оон-... Он исчез...."
 
 # game/worldmap.rpy:4539
 translate russia eventHall1_ef1826ce:
 
     # s "Was it something I said...?"
-    s ""
+    s "Я что-то не так сказала...?"
 
 # game/worldmap.rpy:4540
 translate russia eventHall1_ac459099:
 
     # y "I don't know..."
-    y ""
+    y "Не знаю..."
 
 # game/worldmap.rpy:4541
 translate russia eventHall1_f66d4d78:
 
     # y "......?"
-    y ""
+    y "......?"
 
 # game/worldmap.rpy:4542
 translate russia eventHall1_1ac98536:
 
     # y "Hey what's this...?"
-    y ""
+    y "Эй, что это...?"
 
 # game/worldmap.rpy:4556
 translate russia eventHall1_30c169a3:
 
     # "You find a new tattoo design."
-    ""
+    "Вы находите новый дизайн татуировки."
 
 # game/worldmap.rpy:4562
 translate russia eventHall1_a0957dfd:
 
     # "You find a pile of candy."
-    ""
+    "Вы находите кучу конфет."
 
 # game/worldmap.rpy:4567
 translate russia eventHall1_043d4aa2:
 
     # y "There's a note here aswell..."
-    y ""
+    y "Здесь ещё и записка..."
 
 # game/worldmap.rpy:4568
 translate russia eventHall1_88b4c00b:
 
     # y "{i}'Hey buddy, if you're reading this, then I've gone back to my own galaxy.{w} In the spirit of things, I've left you some tattoo designs for your girls.{w} I hope we'll meet again some day, for now I must say farewell. I have an orange friend to find.'{/i}"
-    y ""
+    y "{i}'Привет, приятель, если ты читаешь это, значит, я вернулся в свою собственную галактику.{w} В качестве подарка я оставил несколько эскизов с татуировками для твоих девушек.{w} Я надеюсь, что когда-нибудь мы встретимся снова, а пока я должен попрощаться. Мне нужно найти оранжевого друга.'{/i}"
 
 # game/worldmap.rpy:4569
 translate russia eventHall1_c7236fff:
 
     # y "{i}'-Spirit of Christmas Past'{/i}"
-    y ""
+    y "{i}'-Призрак прошедшего Рождества'{/i}"
 
 # game/worldmap.rpy:4570
 translate russia eventHall1_d3a59cb5:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/worldmap.rpy:4572
 translate russia eventHall1_a8fee35b:
 
     # s "He's gone....?"
-    s ""
+    s "Он ушёл...?"
 
 # game/worldmap.rpy:4577
 translate russia eventHall1_0ab16323:
 
     # s "!!!"
-    s ""
+    s "!!!"
 
 # game/worldmap.rpy:4578
 translate russia eventHall1_aadaabd2:
 
     # s "Heh... [playerName]. What was that all about?"
-    s ""
+    s "Хех... [playerName]. Что это было?"
 
 # game/worldmap.rpy:4579
 translate russia eventHall1_ac459099_1:
 
     # y "I don't know..."
-    y ""
+    y "Я не знаю..."
 
 # game/worldmap.rpy:4580
 translate russia eventHall1_21de531b:
 
     # y "Well regardless, it's getting late. Let's head back to the base."
-    y ""
+    y "Неважно, уже поздно. Давай вернёмся на базу."
 
 # game/worldmap.rpy:4582
 translate russia eventHall1_ffe0a782:
 
     # s "You think that he lost someone...?"
-    s ""
+    s "Думаешь что он потерял кого-то...?"
 
 # game/worldmap.rpy:4583
 translate russia eventHall1_ac459099_2:
 
     # y "I don't know..."
-    y ""
+    y "Я не знаю..."
 
 # game/worldmap.rpy:4584
 translate russia eventHall1_21de531b_1:
 
     # y "Well regardless, it's getting late. Let's head back to the base."
-    y ""
+    y "Неважно, уже поздно. Давай вернёмся на базу."
 
 # game/worldmap.rpy:4586
 translate russia eventHall1_19cd6070:
 
     # y "I guess so..."
-    y ""
+    y "Наверное..."
 
 # game/worldmap.rpy:4587
 translate russia eventHall1_0544ea61:
 
     # y "Come, let's go back to the base."
-    y ""
+    y "Пойдемте, вернёмся на базу."
 
 # game/worldmap.rpy:4600
 translate russia eventHall1_3f14525b:
@@ -6286,679 +6286,679 @@ translate russia eventHall1_3f14525b:
 translate russia eventHall1_bc8a5baa_1:
 
     # y "Hey man, how've you been?"
-    y ""
+    y "Привет, как дела?"
 
 # game/worldmap.rpy:4618
 translate russia eventHall1_0e733e78:
 
     # "Spirit" "Not bad. Have you run into the chick handing out coupons yet? She tried to threaten me with a gun!"
-    "Spirit" ""
+    "Призрак" "Неплохо. Уже успел столкнуться с девушкой, раздающей купоны? Она пыталась угрожать мне пушкой!"
 
 # game/worldmap.rpy:4619
 translate russia eventHall1_6646a2c8:
 
     # "Spirit" "When I told her I was the ghost of Christmas past, she mistook me for Santa Claus and gave me her wishlist...."
-    "Spirit" ""
+    "Призрак" "Я сказал ей, что я призрак прошедшего Рождества. А она приняла меня за Санта-Клауса и дала свой список желаний....."
 
 # game/worldmap.rpy:4620
 translate russia eventHall1_eb95ed3a:
 
     # y "Yeah we got a bit of a gang problem over here..."
-    y ""
+    y "Да, у нас тут небольшая проблема с бандами..."
 
 # game/worldmap.rpy:4621
 translate russia eventHall1_2c30d9e3:
 
     # y "Up for having some fun? I heard a new tiddie bar opened up recently."
-    y ""
+    y "Хочешь повеселиться? Я слышал, что недавно открылся новый сисько-бар."
 
 # game/worldmap.rpy:4622
 translate russia eventHall1_32218621:
 
     # "Spirit" "Hell yeah!"
-    "Spirit" ""
+    "Призрак" "Да, чёрт возьми!"
 
 # game/worldmap.rpy:4635
 translate russia eventHall1_a55df4ea:
 
     # "Spirit" "Hey... isn't this {i}'your'{/i} bar?"
-    "Spirit" ""
+    "Призрак" "Эй... разве это не {i}'твой'{/i} бар?"
 
 # game/worldmap.rpy:4636
 translate russia eventHall1_beecaf64:
 
     # y "It sure is! And I don't have to pay to eat here!"
-    y ""
+    y "Так точно! И мне не нужно платить, чтобы поесть здесь!"
 
 # game/worldmap.rpy:4637
 translate russia eventHall1_b46f932c:
 
     # "Spirit" "So I'm a bit light on this universe's currency, soooo...."
-    "Spirit" ""
+    "Призрак" "У меня немного не хватает валюты этой вселенной, так чтооо...."
 
 # game/worldmap.rpy:4638
 translate russia eventHall1_2d900900:
 
     # y "No worries, I'll spot you."
-    y ""
+    y "Не волнуйся, я угощаю."
 
 # game/worldmap.rpy:4645
 translate russia eventHall1_a93d85c2:
 
     # s "Welcome to MEGA MILK, how may I serv-..."
-    s ""
+    s "Добро пожаловать в МЕГА МОЛОКО, что я мог-..."
 
 # game/worldmap.rpy:4646
 translate russia eventHall1_18ffeb76:
 
     # s g1 "Oh, hi [playerName]. "
-    s g1 ""
+    s g1 "О, привет [playerName]."
 
 # game/worldmap.rpy:4648
 translate russia eventHall1_dae12795:
 
     # y "Sam? Didn't I send you off on a different job?"
-    y ""
+    y "Сэм? Разве я не отправлял тебя на другую работу?"
 
 # game/worldmap.rpy:4649
 translate russia eventHall1_a239141c:
 
     # s "Yeah, I'll go in a minute, I still have some things to take care off around the...{w} bar....?"
-    s ""
+    s "Да, я пойду через минутку, у меня ещё есть дела, о которых нужно позаботиться...{w} в баре....?"
 
 # game/worldmap.rpy:4651
 translate russia eventHall1_8f4b7d21:
 
     # y "Hey Sam. How's the bar been today?"
-    y ""
+    y "Привет, Сэм. Как сегодня в баре дела?"
 
 # game/worldmap.rpy:4652
 translate russia eventHall1_2eccdab5:
 
     # s "Hm, it's fine. Nothing much to....{w} report...?"
-    s ""
+    s "Хм, всё в порядке. Особо ничего....{w} докладывать...?"
 
 # game/worldmap.rpy:4657
 translate russia eventHall1_1fd8279c:
 
     # "Spirit" "Hey."
-    "Spirit" ""
+    "Призрак" "Привет."
 
 # game/worldmap.rpy:4662
 translate russia eventHall1_9fa6809f:
 
     # s "Is that a ghost?!"
-    s ""
+    s "Это призрак?!"
 
 # game/worldmap.rpy:4663
 translate russia eventHall1_2b5410e9:
 
     # y "Oh right, Sam, meet the Ghost of Christmas past.{w} Ghost of Christmas Past, this is Sam."
-    y ""
+    y "О да, Сэм, познакомься с Призраком прошедшего Рождества.{w} Призрак прошедшего Рождества, это Сэм."
 
 # game/worldmap.rpy:4664
 translate russia eventHall1_a156d68c:
 
     # s g30 "A p-pleasure to meet you...?"
-    s g30 ""
+    s g30 "П-пприятно познакомиться...?"
 
 # game/worldmap.rpy:4665
 translate russia eventHall1_97e94341:
 
     # "Sam takes your order and heads off."
-    ""
+    "Сэм принимает ваш заказ и уходит."
 
 # game/worldmap.rpy:4668
 translate russia eventHall1_4e3eb060:
 
     # y "Can you even eat in your ghost form?"
-    y ""
+    y "Ты вообще можешь кушать в своей призрачной форме?"
 
 # game/worldmap.rpy:4669
 translate russia eventHall1_5e600c52:
 
     # "Spirit" "Guess we're about to find out!"
-    "Spirit" ""
+    "Призрак" "Похоже, мы скоро это узнаем!"
 
 # game/worldmap.rpy:4670
 translate russia eventHall1_a1d4f0c6:
 
     # "Spirit" "Even then, just the sight of food will be welcome. The place I'm at doesn't really have....{w} Anything."
-    "Spirit" ""
+    "Призрак" "Даже если, один только вид еды меня порадует. В том месте, где я нахожусь, нет.....{w} ничего."
 
 # game/worldmap.rpy:4671
 translate russia eventHall1_2fc0cf49:
 
     # y "Sounds awful. Doesn't your galaxy have fast food?"
-    y ""
+    y "Звучит ужасно. Разве в твоей галактике нет фастфуда?"
 
 # game/worldmap.rpy:4672
 translate russia eventHall1_9086d6b7:
 
     # "Spirit" "Oh yeah we do. I'm even friends with the galaxy 6th largest supplier of fast food... {w}or... {i}'was'{/i} friends with her, I should say."
-    "Spirit" ""
+    "Призрак" "Оо, конечно. Я даже дружу с 6-м по величине поставщиком фаст-фуда в галактике... {w}или... {i}'дружил'{/i} с ней."
 
 # game/worldmap.rpy:4673
 translate russia eventHall1_a583bd3c:
 
     # "Spirit" "I sorta helped this crazy redhead blow her up in a firey explosion...."
-    "Spirit" ""
+    "Призрак" "Я вроде как помог этой сумасшедшей взорвать себя огненным взрывом...."
 
 # game/worldmap.rpy:4674
 translate russia eventHall1_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/worldmap.rpy:4675
 translate russia eventHall1_c8f6e093:
 
     # y "So where are you now?"
-    y ""
+    y "Так где ты сейчас?"
 
 # game/worldmap.rpy:4676
 translate russia eventHall1_e9304ab2:
 
     # "Spirit" "On my space station. Or what's left of it. Trying desperately to repair it...{w} By myself."
-    "Spirit" ""
+    "Призрак" "На моей космической станции. Или то, что осталось от неё. Отчаянно пытаюсь её починить...{w} В одиночку."
 
 # game/worldmap.rpy:4677
 translate russia eventHall1_32505b4d:
 
     # y "And how's that coming along?"
-    y ""
+    y "И как идут дела?"
 
 # game/worldmap.rpy:4678
 translate russia eventHall1_3d3f2e69:
 
     # "Spirit" "..........................."
-    "Spirit" ""
+    "Призрак" "..........................."
 
 # game/worldmap.rpy:4679
 translate russia eventHall1_eca4d7e6:
 
     # "Spirit" "You wouldn't so happen to know anything about hyperdrive technology, would you...?"
-    "Spirit" ""
+    "Призрак" "Ты случайно ничего не знаешь о технологии гипердвигателя...?"
 
 # game/worldmap.rpy:4680
 translate russia eventHall1_83705f25:
 
     # y "Nope."
-    y ""
+    y "Неа."
 
 # game/worldmap.rpy:4681
 translate russia eventHall1_0a314a4b:
 
     # "Spirit" "In that case, it's going pretty terrible."
-    "Spirit" ""
+    "Призрак" "В таком случае, всё идет довольно ужасно."
 
 # game/worldmap.rpy:4682
 translate russia eventHall1_51e7272b:
 
     # "Spirit" "I might have to give up the dream of being a criminal kingpin. Go back to smuggling, maybe go see some old friends."
-    "Spirit" ""
+    "Призрак" "Возможно, мне придётся отказаться от мечты стать криминальным авторитетом. Вернусь к контрабанде, может навещу старых друзей."
 
 # game/worldmap.rpy:4683
 translate russia eventHall1_2841ee75:
 
     # "Spirit" ".............................."
-    "Spirit" ""
+    "Призрак" ".............................."
 
 # game/worldmap.rpy:4684
 translate russia eventHall1_d9539f90:
 
     # "Spirit" "Man, it's been so long. I wonder how she's been..."
-    "Spirit" ""
+    "Призрак" "Столько времени прошло. Интересно, как она..."
 
 # game/worldmap.rpy:4685
 translate russia eventHall1_18ca1a17:
 
     # y "She?"
-    y ""
+    y "Она?"
 
 # game/worldmap.rpy:4686
 translate russia eventHall1_2e803d61:
 
     # "Spirit" "It's a long story..."
-    "Spirit" ""
+    "Призрак" "Это долгая история..."
 
 # game/worldmap.rpy:4687
 translate russia eventHall1_c3ccc292:
 
     # "Spirit" "Hey buddy... I think... I think it's time for me to go back to my own galaxy."
-    "Spirit" ""
+    "Призрак" "Эй, приятель... Я думаю... Думаю, мне пора возвращаться в свою галактику."
 
 # game/worldmap.rpy:4688
 translate russia eventHall1_c1091523:
 
     # y "You're leaving already?"
-    y ""
+    y "Ты уже уезжаешь?"
 
 # game/worldmap.rpy:4689
 translate russia eventHall1_7178835b:
 
     # "Spirit" "Yeah, I can't keep running away from my problems. It's been fun, but tensions are rising in my galaxy..."
-    "Spirit" ""
+    "Призрак" "Да, я не могу продолжать убегать от своих проблем. Это было весело, но напряжение в моей галактике растёт..."
 
 # game/worldmap.rpy:4690
 translate russia eventHall1_22a69c9a:
 
     # "Spirit" "Tell Zukkerthroth I said goodbye, all right?"
-    "Spirit" ""
+    "Призрак" "Попрощайся с Цуккертрото за меня, хорошо?"
 
 # game/worldmap.rpy:4691
 translate russia eventHall1_9589208c:
 
     # y "I'm sorry to see you go, man."
-    y ""
+    y "Мне жаль, что ты уходишь, чувак."
 
 # game/worldmap.rpy:4692
 translate russia eventHall1_6cbbfdcc:
 
     # "Spirit" "Me too, but I'm sure we'll bump into eachother again someday. Take care, all right?"
-    "Spirit" ""
+    "Призрак" "Я тоже, но я уверен, что когда-нибудь мы снова встретимся. Береги себя, хорошо?"
 
 # game/worldmap.rpy:4693
 translate russia eventHall1_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/worldmap.rpy:4694
 translate russia eventHall1_3ae7d240:
 
     # y "Okay buddy. Take care."
-    y ""
+    y "Хорошо, приятель. Берегите себя."
 
 # game/worldmap.rpy:4695
 translate russia eventHall1_330c3f96:
 
     # "Spirit" "And remember, the joy of Christmas lives inside you! {size=-5}Something something Tiny Tim{/size}, {size=-10}someting something giant turkey{/size}{size=-15}, something something God bless us all or whatever....{/size}"
-    "Spirit" ""
+    "Призрак" "И помни, что праздник Рождества живёт внутри вас! {size=-5}Something something Tiny Tim{/size}, {size=-10}someting something giant turkey{/size}{size=-15}, something something God bless us all or whatever....{/size}"
 
 # game/worldmap.rpy:4698
 translate russia eventHall1_17239e49:
 
     # y "................................................."
-    y ""
+    y "................................................."
 
 # game/worldmap.rpy:4710
 translate russia eventHall1_c4a36b6a:
 
     # y "....................................."
-    y ""
+    y "....................................."
 
 # game/worldmap.rpy:4711
 translate russia eventHall1_441f43d4:
 
     # "There's nobody here."
-    ""
+    "Здесь никого нет."
 
 # game/worldmap.rpy:4731
 translate russia christmasUpdate_7b3fcdef:
 
     # y "Good morning gir-...."
-    y ""
+    y "Доброе утро, дев-...."
 
 # game/worldmap.rpy:4733
 translate russia christmasUpdate_e00fab45:
 
     # "Girls" "It's Christmas!!!!"
-    "Girls" ""
+    "Девушки" "Рождество!!!!"
 
 # game/worldmap.rpy:4734
 translate russia christmasUpdate_6bd1f6c8:
 
     # y "Er...!!!"
-    y ""
+    y "Эмм...!!!"
 
 # game/worldmap.rpy:4735
 translate russia christmasUpdate_1e3dfa5f:
 
     # "{b}♫♪*Loud Christmas music blaring*♫♪{/b}"
-    ""
+    "{b}♫♪*Громкая рождественская музыка*♫♪{/b}"
 
 # game/worldmap.rpy:4736
 translate russia christmasUpdate_ae4bfad7:
 
     # y "!!!"
-    y ""
+    y "!!!"
 
 # game/worldmap.rpy:4737
 translate russia christmasUpdate_c670d80d:
 
     # y "Okay okay! Go have a merry old time somewhere else! {w}Humbug!"
-    y ""
+    y "Ладно, ладно! Идите, веселитесь в другом месте! {w}Карамелька!"
 
 # game/worldmap.rpy:4739
 translate russia christmasUpdate_7e44d2ac:
 
     # s "Don't forget to check out the mall for some seasonal outfits!"
-    s ""
+    s "Не забудь заглянуть в торговый центр за сезонными нарядами!"
 
 # game/worldmap.rpy:4741
 translate russia christmasUpdate_c0029a8b:
 
     # c "Don't forget to check out the mall for some seasonal outfits!"
-    c ""
+    c "Не забудь заглянуть в торговый центр за сезонными нарядами!"
 
 # game/worldmap.rpy:4743
 translate russia christmasUpdate_c2b33131:
 
     # a "Don't forget to check out the mall for some seasonal outfits!"
-    a ""
+    a "Не забудь заглянуть в торговый центр за сезонными нарядами!"
 
 # game/worldmap.rpy:4756
 translate russia christmasUpdate_036c6382:
 
     # y "Bah.... Humbug... What's so good about Christmas anyways...?"
-    y ""
+    y "Бах.... Карамелька... Что хорошего в Рождестве вообще...?"
 
 # game/worldmap.rpy:4757
 translate russia christmasUpdate_3027b876:
 
     # "{size=-16}{b}*Whisper*{/b} Ho Ho Ho {b}*Whisper*{/b}{/size}"
-    ""
+    "{size=-16}{b}*Шёпот*{/b} Хоу Хоу Хоу {b}*Шёпот*{/b}{/size}"
 
 # game/worldmap.rpy:4758
 translate russia christmasUpdate_215ea3ee:
 
     # y "....?"
-    y ""
+    y "....?"
 
 # game/worldmap.rpy:4759
 translate russia christmasUpdate_c2d68369:
 
     # "{size=-12}{b}*Whisper*{/b} Ho Ho Ho {b}*Whisper*{/b}{/size}"
-    ""
+    "{size=-12}{b}*Шёпот*{/b} Хоу Хоу Хоу {b}*Шёпот*{/b}{/size}"
 
 # game/worldmap.rpy:4760
 translate russia christmasUpdate_1c021bd2:
 
     # y "Is somebody there...?"
-    y ""
+    y "Здесь кто-нибудь есть...?"
 
 # game/worldmap.rpy:4762
 translate russia christmasUpdate_cd63f86d:
 
     # "{size=+8}{b}*Whisper*{/b} Ho Ho Ho {b}*whisper*{/b}{/size}"
-    ""
+    "{size=+8}{b}*Шёпот*{/b} Хоу Хоу Хоу {b}*Шёпот*{/b}{/size}"
 
 # game/worldmap.rpy:4767
 translate russia christmasUpdate_e0491a21:
 
     # y "AHH!{w} Oh.... You're just some kind of mall santa..."
-    y ""
+    y "АХХ!{w} Ох.... Ты просто Санта из торгового центра...."
 
 # game/worldmap.rpy:4768
 translate russia christmasUpdate_82b058f5:
 
     # santa "YOUR MOTHER IS A HOE!"
-    santa ""
+    santa "ТВОЯ МАТЬ - ШЛЮХА!"
 
 # game/worldmap.rpy:4769
 translate russia christmasUpdate_36546dc6:
 
     # y "What the...?!"
-    y ""
+    y "Что за...?!"
 
 # game/worldmap.rpy:4770
 translate russia christmasUpdate_298a17d2:
 
     # santa "I am the Slut Shaming Santa! I have my naughty list of {size=+6}{b}SLUTS{/b}{/size}. {w}Your mother is on there."
-    santa ""
+    santa "Я - Санта, порицатель шлюх! У меня есть список непристойных {size=+6}{b}ШЛЮХ{/b}{/size}. {w}Там есть твоя мать."
 
 # game/worldmap.rpy:4771
 translate russia christmasUpdate_22d2a587:
 
     # santa "And you better believe I checked it twice, cause your momma is HOT!"
-    santa ""
+    santa "Поверь мне, я дважды проверил это. Ведь твоя мамочка - ГОРЯЧАЯ ШТУЧКА!"
 
 # game/worldmap.rpy:4772
 translate russia christmasUpdate_39aecb7d:
 
     # y "Listen, I don't know who you are but..."
-    y ""
+    y "Слушай, я не знаю кто ты, но..."
 
 # game/worldmap.rpy:4773
 translate russia christmasUpdate_7d91373d:
 
     # santa "Now let's have a look at Sam, Clover and Alex now, shall we?!"
-    santa ""
+    santa "А теперь давай посмотрим на Сэм, Кловер и Алекса, а?!"
 
 # game/worldmap.rpy:4774
 translate russia christmasUpdate_11c3905f:
 
     # y "Wait how do you know....?"
-    y ""
+    y "Подожди, откуда ты знаешь....?"
 
 # game/worldmap.rpy:4775
 translate russia christmasUpdate_f441e4d9:
 
     # santa "................."
-    santa ""
+    santa "................."
 
 # game/worldmap.rpy:4778
 translate russia christmasUpdate_052cd50c:
 
     # santa "Hm... the list says they're not slutty at all!"
-    santa ""
+    santa "Хм... в списке говорится, что они совсем не шлюхи!"
 
 # game/worldmap.rpy:4779
 translate russia christmasUpdate_7515a67e:
 
     # y "Tell me about it."
-    y ""
+    y "Расскажи поподробней."
 
 # game/worldmap.rpy:4780
 translate russia christmasUpdate_2a98b918:
 
     # santa "Well this is no good at all! How can I slut shame them if they're all a bunch of stuck up prudes!"
-    santa ""
+    santa "Это совсем нехорошо! Как я могу порицать их, если они все - заносчивые тихони!"
 
 # game/worldmap.rpy:4781
 translate russia christmasUpdate_aa2e137c:
 
     # santa "Come, sit on my lap and tell uncle Santa about it."
-    santa ""
+    santa "Давай, садись ко мне на колени и расскажи об этом дяде Санте."
 
 # game/worldmap.rpy:4782
 translate russia christmasUpdate_0d3393fd:
 
     # y "I don't really want t-...."
-    y ""
+    y "Я не очень хочу-...."
 
 # game/worldmap.rpy:4784
 translate russia christmasUpdate_edc48338:
 
     # santa "{size=+10}LAP!{/b}"
-    santa ""
+    santa "{size=+10}НА КОЛЕНИ!{/b}"
 
 # game/worldmap.rpy:4785
 translate russia christmasUpdate_0e2e1e33:
 
     # y "Ahh!"
-    y ""
+    y "Ааа!"
 
 # game/worldmap.rpy:4789
 translate russia christmasUpdate_7079cd2b:
 
     # "A quick explaination later."
-    ""
+    "После краткого объяснения."
 
 # game/worldmap.rpy:4793
 translate russia christmasUpdate_62f88ce5:
 
     # santa "It sounds like your spies are slut material, but they haven't reached their peak-thotness yet."
-    santa ""
+    santa "Похоже, что твои шпионки, могут стать отличными шлюхами, но они ещё не достигли своего пика сексуальности."
 
 # game/worldmap.rpy:4794
 translate russia christmasUpdate_72d9e494:
 
     # santa "Know what they need. A little bit of....{i}'Holiday Spirit'{/i}"
-    santa ""
+    santa "Знайешь, что им нужно. Немного....{i}'праздничного духа'{/i}"
 
 # game/worldmap.rpy:4795
 translate russia christmasUpdate_027a4fb8:
 
     # "The Slut Shaming Santa hands you a syringe."
-    ""
+    "Санта протягивает вам шприц."
 
 # game/worldmap.rpy:4796
 translate russia christmasUpdate_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/worldmap.rpy:4797
 translate russia christmasUpdate_822f689e:
 
     # y "Is this heroine?"
-    y ""
+    y "Это героин?"
 
 # game/worldmap.rpy:4798
 translate russia christmasUpdate_5cc2bd1f:
 
     # santa "NO YOU IDIOT!"
-    santa ""
+    santa "НЕТ, ИДИОТ!"
 
 # game/worldmap.rpy:4799
 translate russia christmasUpdate_0eb4385e:
 
     # santa "Trust me, give this to your girls and it will bring out their inner SLUT!"
-    santa ""
+    santa "Поверь, дай это своим шпионкам, и это раскроет их внутренних ШЛЮХ!"
 
 # game/worldmap.rpy:4800
 translate russia christmasUpdate_3e6d3a6f:
 
     # y "Er.. well thank y-..."
-    y ""
+    y "Эмм.. ладно спа-..."
 
 # game/worldmap.rpy:4801
 translate russia christmasUpdate_f5b96b39:
 
     # santa "LIKE YOUR MOMMA!"
-    santa ""
+    santa "ПРЯМ КАК ТВОЯ МАМКА!"
 
 # game/worldmap.rpy:4803
 translate russia christmasUpdate_f5050989:
 
     # santa "As I thought, they've begun on their journey of sluttiness!"
-    santa ""
+    santa "Как я и думал, они уже на путь своего распутства!"
 
 # game/worldmap.rpy:4804
 translate russia christmasUpdate_aae9fe8e:
 
     # y "If you say so..."
-    y ""
+    y "Как скажешь... "
 
 # game/worldmap.rpy:4805
 translate russia christmasUpdate_601fb2da:
 
     # y "(Weirdo)."
-    y ""
+    y "(Чудак)."
 
 # game/worldmap.rpy:4806
 translate russia christmasUpdate_219a2290:
 
     # y "Wait, aren't you the Slut Shaming Santa? Shouldn't you be opposed to them being slutty?"
-    y ""
+    y "Подождите, разве ты не Санта, порицатель шлюх? Разве ты не должен быть против того, чтобы они становились распутными?"
 
 # game/worldmap.rpy:4807
 translate russia christmasUpdate_ee0b185b:
 
     # santa "Without sluts I'd be out of a job! The more sluts the more I get to shame, so it's a win-win for me."
-    santa ""
+    santa "Без шлюх я бы остался без работы! Чем больше шлюх, тем больше я буду порицать, так что для меня это беспроигрышный вариант."
 
 # game/worldmap.rpy:4808
 translate russia christmasUpdate_46dbc93f:
 
     # santa "You deserve a reward for your dilligent slutiness training. Here!"
-    santa ""
+    santa "Ты заслужила награду за свое усердное обучение распутству. Вот!"
 
 # game/worldmap.rpy:4809
 translate russia christmasUpdate_0c7ea997:
 
     # "The santa hands you a box filled with gadget materials."
-    ""
+    "Санта вручает вам коробку, с материалами для гаджетов."
 
 # game/worldmap.rpy:4810
 translate russia christmasUpdate_ffa2cd92:
 
     # y "Oh... Thanks, this will actually really help."
-    y ""
+    y "Оо... Спасибо, это действительно поможет."
 
 # game/worldmap.rpy:4811
 translate russia christmasUpdate_5d6a78b8:
 
     # santa "Don't thank me. I'm off to visit YOUR MOTHER now! That fucking slut!"
-    santa ""
+    santa "Не благодари. Пойду навещу ТВОЮ МАМАШУ! Эта чёртова шлюха!"
 
 # game/worldmap.rpy:4812
 translate russia christmasUpdate_6ea1f90a:
 
     # y "Stop talking about my mother!"
-    y ""
+    y "Хватит говорить о моей матери!"
 
 # game/worldmap.rpy:4813
 translate russia christmasUpdate_58b09f61:
 
     # santa "Now I must be off, there are many more sluts that need shaming!"
-    santa ""
+    santa "Теперь мне пора идти, есть ещё много шлюх, которых нужно пристыдить!"
 
 # game/worldmap.rpy:4824
 translate russia christmasUpdate_1984a35a:
 
     # y "....."
-    y ""
+    y "....."
 
 # game/worldmap.rpy:4825
 translate russia christmasUpdate_a878451a:
 
     # y "He flew off...."
-    y ""
+    y "Свалил..."
 
 # game/worldmap.rpy:4826
 translate russia christmasUpdate_d6b94992:
 
     # y "Sometimes I wonder if I really am crazy, or if the world went insane when I was locked up."
-    y ""
+    y "Иногда я задаюсь вопросом, действительно ли я сумасшедший, или мир сошёл с ума, пока я сидел."
 
 # game/worldmap.rpy:4828
 translate russia christmasUpdate_46449833:
 
     # "Voice" "Best not to think about it too much.{w} So what's in that syringe?"
-    "Voice" ""
+    "Голос" "Лучше не думать об этом слишком много.{w} Так, что же в этом шприце?"
 
 # game/worldmap.rpy:4829
 translate russia christmasUpdate_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/worldmap.rpy:4830
 translate russia christmasUpdate_93fb70f0:
 
     # y "Hey is this...?"
-    y ""
+    y "Это что...?"
 
 # game/worldmap.rpy:4837
 translate russia christmasUpdate_ac1175b0:
 
     # y "It's a nanobot injector.{w} This might come in handy."
-    y ""
+    y "Инжектор наноботов.{w} Это может пригодиться."
 
 # game/worldmap.rpy:4838
 translate russia christmasUpdate_44b5aef4:
 
     # "You put away the syringe and spend the rest of the day being grumpy about Christmas."
-    ""
+    "Вы убираете шприц и проводите остаток дня, раздражаясь по поводу Рождества."
 
 # game/worldmap.rpy:4839
 translate russia christmasUpdate_d0df2c4c:
 
     # "When it gets late you head back to the base."
-    ""
+    "Когда становится поздно, вы возвращаетесь на базу."
 
 # game/worldmap.rpy:4849
 translate russia christmasUpdate_3f14525b:
@@ -6970,775 +6970,775 @@ translate russia christmasUpdate_3f14525b:
 translate russia christmasUpdate_edc803c4:
 
     # "Voice" "Well at least you got some free gadget materials out of it."
-    "Voice" ""
+    "Голос" "Ну, по крайней мере, ты получили бесплатные материалы для гаджетов."
 
 # game/worldmap.rpy:4853
 translate russia christmasUpdate_7cbb33e4:
 
     # y "True."
-    y ""
+    y "Ага."
 
 # game/worldmap.rpy:4862
 translate russia christmasUpdate_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/worldmap.rpy:4863
 translate russia christmasUpdate_264f7092:
 
     # y "Look at all these wasteful decorations. The bright colors hurt my eyes. The candy canes are giving me cavities just by looking at them!{w} Bah, humbug!"
-    y ""
+    y "Только посмотри на все эти дорогие украшения. У меня глаза вянут от яркого цвета. От одного взгляда на эти конфеты у меня кариес появляется!{w} фу, карамель!"
 
 # game/worldmap.rpy:4864
 translate russia christmasUpdate_8abf9b47:
 
     # "You angerly walk into the bookstore."
-    ""
+    "Вы сердито входите в книжный магазин."
 
 # game/worldmap.rpy:4868
 translate russia christmasUpdate_54a41366:
 
     # "Clerk" "Welcome to the store! Happy Holida-..."
-    "Продавщица" ""
+    "Продавщица" "Добро пожаловать! С праздник-..."
 
 # game/worldmap.rpy:4869
 translate russia christmasUpdate_8b21a9c8:
 
     # y "HUMBUG!"
-    y ""
+    y "КАРАМЕЛЬ!"
 
 # game/worldmap.rpy:4871
 translate russia christmasUpdate_5232cba4:
 
     # "Clerk" "..........."
-    "Продавщица" ""
+    "Продавщица" "..........."
 
 # game/worldmap.rpy:4872
 translate russia christmasUpdate_e1c80875:
 
     # "Clerk" "Not a fan of the holidays then?"
-    "Продавщица" ""
+    "Продавщица" "Не любишь праздники?"
 
 # game/worldmap.rpy:4873
 translate russia christmasUpdate_cf1cb1e7:
 
     # y "I don't like this stupid holiday. The hats, the trees, the.... everything."
-    y ""
+    y "Мне не нравится этот дурацкий праздник. Шляпы, деревья, это.... всё."
 
 # game/worldmap.rpy:4875
 translate russia christmasUpdate_a8d86714:
 
     # "Clerk" "Maybe you should visit the mall Santa we hired this year! I think I hear him now!"
-    "Продавщица" ""
+    "Продавщица" "Может тебе, стоит пойти к Санте из торгового центра, которого мы наняли в этом году! Кажется, я его слышу!"
 
 # game/worldmap.rpy:4876
 translate russia christmasUpdate_4fb0fdf1:
 
     # "???" "Hoe hoe hoe!"
-    "???" ""
+    "???" "Хоу хоу хоу!"
 
 # game/worldmap.rpy:4877
 translate russia christmasUpdate_40ab7b77:
 
     # y "Uh oh, not him again..."
-    y ""
+    y "Ох, только не он..."
 
 # game/worldmap.rpy:4879
 translate russia christmasUpdate_8bb8e1a9:
 
     # santa "BOOK STORE CASHIER GIRL!"
-    santa ""
+    santa "ПРОДАВЩИЦА КНИЖНОГО МАГАЗИНА!"
 
 # game/worldmap.rpy:4880
 translate russia christmasUpdate_19304285:
 
     # "Clerk" "Oh hi san-..."
-    "Продавщица" ""
+    "Продавщица" "Ох привет Сан-..."
 
 # game/worldmap.rpy:4881
 translate russia christmasUpdate_aef1831d:
 
     # santa "YOU'RE A HOE!"
-    santa ""
+    santa "ТЫ ШЛЮХА!"
 
 # game/worldmap.rpy:4882
 translate russia christmasUpdate_01a5efcf:
 
     # "Clerk" "What...?"
-    "Продавщица" ""
+    "Продавщица" "Что...?"
 
 # game/worldmap.rpy:4883
 translate russia christmasUpdate_65f39016:
 
     # santa "YOU'RE A HOE AND YOU SELL HOE BOOKS!"
-    santa ""
+    santa "ТЫ ШЛЮХА И ПРОДАЁШЬ ШЛЮЩИЕ ДЕНЬГИ!"
 
 # game/worldmap.rpy:4884
 translate russia christmasUpdate_1accdd6a:
 
     # santa "HOE TOYS, HOE OUTFITS TO YOUR HOE CUSTOMERS!"
-    santa ""
+    santa "ШЛЮЩИЕ ИГРУШКИ, ШЛЮЩИЕ НАРЯДЫ ДЛЯ ТВОИХ ШЛЮЩИИХ ПОКУПАТИЛЕЙ!"
 
 # game/worldmap.rpy:4886
 translate russia christmasUpdate_bad3280d:
 
     # "Clerk" "Well I mean... you're not wrong, bu-..."
-    "Продавщица" ""
+    "Продавщица" "Ну, я... Ты прав, но-..."
 
 # game/worldmap.rpy:4887
 translate russia christmasUpdate_0f511487:
 
     # santa "YOU'RE GOING TO DIE ALONE AND SAD, WISHING YOU HADN'T BEEN SUCH A HOE IN LIFE!"
-    santa ""
+    santa "ТЫ УМРЕШЬ В ОДИНОЧЕСТВЕ И ПЕЧАЛИ, ЖАЛЕЯ О ТОМ ЧТО ТЫ НЕ БЫЛА ТАКОЙ ШЛЮХОЙ В ЖИЗНИ!"
 
 # game/worldmap.rpy:4889
 translate russia christmasUpdate_e57fef7c:
 
     # "Clerk" "B-but....!"
-    "Продавщица" ""
+    "Продавщица" "Н-но...!"
 
 # game/worldmap.rpy:4890
 translate russia christmasUpdate_caca3f10:
 
     # santa "AND NAUGHTY GIRLS GET COAL!"
-    santa ""
+    santa "А НЕПРИСТОЙНЫЕ ДЕВОЧКИ ПОЛУЧАЮТ УГОЛЬ!"
 
 # game/worldmap.rpy:4892
 translate russia christmasUpdate_0bff84a1:
 
     # "The Santa dropped a sack of coal all over the floor."
-    ""
+    "Санта бросает мешок угля на пол."
 
 # game/worldmap.rpy:4893
 translate russia christmasUpdate_22a3c252:
 
     # "Clerk" "Hey!"
-    "Продавщица" ""
+    "Продавщица" "Эй!"
 
 # game/worldmap.rpy:4894
 translate russia christmasUpdate_d7ae7514:
 
     # santa "NOW TRY TO BE LESS OF A HOE NEXT YEAR!"
-    santa ""
+    santa "ТЕПЕРЬ ПОСТАРАЙСЯ БЫТЬ МЕНЬШЕЙ ШЛЮХОЙ В СЛЕДУЮЩЕМ ГОДУ!"
 
 # game/worldmap.rpy:4895
 translate russia christmasUpdate_bbd3e0da:
 
     # santa "SANTA AWAY!"
-    santa ""
+    santa "САНТА УШЁЛ!"
 
 # game/worldmap.rpy:4900
 translate russia christmasUpdate_a52b2993:
 
     # "Clerk" "....................."
-    "Продавщица" ""
+    "Продавщица" "....................."
 
 # game/worldmap.rpy:4901
 translate russia christmasUpdate_96aebb3f:
 
     # "Clerk" "I think I lost my holiday spirit as well now...{w} Humbug..."
-    "Продавщица" ""
+    "Продавщица" "Теперь у меня тоже пропало праздничное настроение....{w} Карамелька..."
 
 # game/worldmap.rpy:4910
 translate russia christmasUpdate_d5e010b7:
 
     # y "Let's see what Sil is up to today..."
-    y ""
+    y "Давайте посмотрим, чем Сил сегодня занимается..."
 
 # game/worldmap.rpy:4913
 translate russia christmasUpdate_b7d32cf2:
 
     # "???" "Hoe hoe hoe~...."
-    "???" ""
+    "???" "Хоу хоу хоу~...."
 
 # game/worldmap.rpy:4914
 translate russia christmasUpdate_1a1c9647:
 
     # y "Oh no, not here too!"
-    y ""
+    y "О нет, и здесь тоже!"
 
 # game/worldmap.rpy:4916
 translate russia christmasUpdate_ed37076b:
 
     # sil "Oh, bonjour mon ami."
-    sil ""
+    sil "Ох, бонжур мон ами."
 
 # game/worldmap.rpy:4917
 translate russia christmasUpdate_cf856609:
 
     # y "Sil...? What are you doing?"
-    y ""
+    y "Сил...? Чем ты занимаешься?"
 
 # game/worldmap.rpy:4918
 translate russia christmasUpdate_d4c22003:
 
     # sil "Oh not much, I am just trying out my new hoe to till the soil."
-    sil ""
+    sil "Да так, просто пробую свою новую мотыгу для обработки почвы."
 
 # game/worldmap.rpy:4919
 translate russia christmasUpdate_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/worldmap.rpy:4920
 translate russia christmasUpdate_8d27fc59:
 
     # y "Well at least there's no Christmas decorations over here."
-    y ""
+    y "Ну, по крайней мере, здесь нет рождественских украшений."
 
 # game/worldmap.rpy:4921
 translate russia christmasUpdate_be93a42a:
 
     # sil "Oh, but you'd be wrong! I'm planting a pine tree right now!"
-    sil ""
+    sil "Ох, ты ошибаешься! Я сейчас сожу сосну!"
 
 # game/worldmap.rpy:4922
 translate russia christmasUpdate_21818681:
 
     # sil "I don't really like humans, but even I love human traditions like Christmas!"
-    sil ""
+    sil "Я не очень люблю людей, но даже я люблю человеческие традиции, такие как Рождество!"
 
 # game/worldmap.rpy:4923
 translate russia christmasUpdate_152173c3:
 
     # sil "Want to help me decor-....?"
-    sil ""
+    sil "Хочешь помочь мне в офор-....?"
 
 # game/worldmap.rpy:4924
 translate russia christmasUpdate_fc4ff074:
 
     # y "Shh!{w} You hear that...?"
-    y ""
+    y "Шшш!{w} Слышишь...?"
 
 # game/worldmap.rpy:4925
 translate russia christmasUpdate_3027b876_1:
 
     # "{size=-16}{b}*Whisper*{/b} Ho Ho Ho {b}*Whisper*{/b}{/size}"
-    ""
+    "{size=-16}{b}*Шёпот*{/b} Хоу Хоу Хоу {b}*Шёпот*{/b}{/size}"
 
 # game/worldmap.rpy:4926
 translate russia christmasUpdate_b3cf27ce:
 
     # y "Oh no..."
-    y ""
+    y "Ооо нет..."
 
 # game/worldmap.rpy:4927
 translate russia christmasUpdate_3a2ff630:
 
     # sil "What iz zhat?"
-    sil ""
+    sil "Что это?"
 
 # game/worldmap.rpy:4928
 translate russia christmasUpdate_511ebde3:
 
     # santa "HOE HOE HOE!"
-    santa ""
+    santa "ХОУ ХОУ ХОУ!"
 
 # game/worldmap.rpy:4931
 translate russia christmasUpdate_5e85a51b:
 
     # santa "AND WHAT DO WE HAVE HERE?! SOME KIND OF VEGAN PROSTITUTE?!"
-    santa ""
+    santa "И ЧТО МЫ ИМЕЕМ?! КАКАЯ-ТО ВЕГАНСКАЯ ПРОСТИТУТКА?!"
 
 # game/worldmap.rpy:4932
 translate russia christmasUpdate_9c6c002b:
 
     # sil "I'm sorry, what?!"
-    sil ""
+    sil "Простите, что?!"
 
 # game/worldmap.rpy:4933
 translate russia christmasUpdate_0bbbba26:
 
     # santa "IF THERE'S ONE THING THAT I HATE MORE THAN HOES, IT'S HIPPY HOES!{w} GET A JOB HIPPY!"
-    santa ""
+    santa "ЕСЛИ Я ЧТО-ТО И НЕНАВИЖУ БОЛЬШЕ, ЧЕМ ШЛЮХ, ТАК ЭТО ШЛЮХ-ХИППИ!{w} НАЙДИ РАБОТУ, ХИППИ!"
 
 # game/worldmap.rpy:4934
 translate russia christmasUpdate_0ce86d29:
 
     # sil "Iz this a friend of yours?"
-    sil ""
+    sil "Это твой друг?"
 
 # game/worldmap.rpy:4935
 translate russia christmasUpdate_309d76b5:
 
     # y "No, he's been terrorizing the town for a while now."
-    y ""
+    y "Нет, он уже какое-то время терроризирует город."
 
 # game/worldmap.rpy:4936
 translate russia christmasUpdate_ef452504:
 
     # sil "In that case, I might introduce him to my plants...."
-    sil ""
+    sil "В таком случае, я могла бы познакомить его с моими растениями....."
 
 # game/worldmap.rpy:4937
 translate russia christmasUpdate_18288956:
 
     # santa "I HEARD PLANTS GROW BETTER IF YOU TALK TO THEM!{w} BUT I BET YOU JUST MOAN AT THEM WHILE YOU JERK OFF TO IMAGES OF SPINAGE!"
-    santa ""
+    santa "Я СЛЫШАЛ, ЧТО РАСТЕНИЯ РАСТУТ ЛУЧШЕ, ЕСЛИ С НИМИ РАЗГОВАРИВАТЬ!{w} НО Я УВЕРЕН, ЧТО ТЫ ПРОСТО СТОНЕШЬ НА НИХ, ПОКА ДРОЧИШЬ НА ОБРАЗ ШПИНАТА!"
 
 # game/worldmap.rpy:4938
 translate russia christmasUpdate_ca2d8bee:
 
     # sil "{b}*Gasp*{/b}! Don't zay such unseemly things in front of ze young buds!"
-    sil ""
+    sil "{b}*Вздох*{/b}! Не говори таких непристойностей перед моими малышами!"
 
 # game/worldmap.rpy:4939
 translate russia christmasUpdate_a3f070cd:
 
     # santa "NO WONDER YOU LIKE PLANTS! I KNOW WHAT YOU DO TO THOSE EGGPLANTS!!!"
-    santa ""
+    santa "НЕУДИВИТЕЛЬНО, ЧТО ТЫ ЛЮБИШЬ РАСТЕНИЯ! Я ЗНАЮ, ЧТО ТЫ ДЕЛАЕШЬ С ЭТИМИ БАКЛАЖАНАМИ!!!"
 
 # game/worldmap.rpy:4940
 translate russia christmasUpdate_80564183:
 
     # sil "Zhat is it! No more Ms. Nice Gal! {w}Plants, eat zhat uncouth mad man!"
-    sil ""
+    sil "Всё! Ты меня задолбал! {w}Растения, съешьте этого неотесанного безумца!"
 
 # game/worldmap.rpy:4941
 translate russia christmasUpdate_1b981c2e:
 
     # santa "HAH! YOU CAN'T KILL SANTA CLAUSE! SANTA AWAAAAAAY!"
-    santa ""
+    santa "ХАХ! ТЫ НЕ СМОЖЕШЬ УБИТЬ САНТА КЛАУСА! САНТА УШЁЁЁЁЛ!"
 
 # game/worldmap.rpy:4944
 translate russia christmasUpdate_cf178336:
 
     # sil "................."
-    sil ""
+    sil "................."
 
 # game/worldmap.rpy:4945
 translate russia christmasUpdate_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/worldmap.rpy:4946
 translate russia christmasUpdate_cf463740:
 
     # y "You still want my help decorating your Christmas tree?"
-    y ""
+    y "Ты всё ещё хочешь, чтобы я помог тебе украсить ёлку?"
 
 # game/worldmap.rpy:4947
 translate russia christmasUpdate_0e59660c:
 
     # sil "No, Christmas is stupid!{w} Now if you will excuse me, I'm going to cry into a lettuce..."
-    sil ""
+    sil "Нет, Рождество - это глупость!{w} А теперь, если ты меня извинишь, я пойду поплачу в Салат-Латук..."
 
 # game/worldmap.rpy:4953
 translate russia christmasUpdate_7b455017:
 
     # y "Maybe I should do some exploring to get my head off of things."
-    y ""
+    y "Может мне стоит развеяться и прогулятся по округе."
 
 # game/worldmap.rpy:4960
 translate russia christmasUpdate_591f81b9:
 
     # y "Let's see what Mathias is up to to-...."
-    y ""
+    y "Давайте посмотрим, чем занимается Мат-...."
 
 # game/worldmap.rpy:4961
 translate russia christmasUpdate_651a23c2:
 
     # "You cautiously look around."
-    ""
+    "Вы настороженно оглядываетесь по сторонам."
 
 # game/worldmap.rpy:4962
 translate russia christmasUpdate_dc8b0890:
 
     # y "...up to today."
-    y ""
+    y "...Матиас."
 
 # game/worldmap.rpy:4966
 translate russia christmasUpdate_858b6f0c:
 
     # y "Hey Mathias, what's going on with you today?"
-    y ""
+    y "Привет, Матиас, чем занят?"
 
 # game/worldmap.rpy:4967
 translate russia christmasUpdate_338c1760:
 
     # mat "Oh hey, not much. I made a new frien-..."
-    mat ""
+    mat "Оо, привет, ничем особо. У меня появился новый дру-..."
 
 # game/worldmap.rpy:4968
 translate russia christmasUpdate_ad5d5444:
 
     # y "Is it Santa Claus?"
-    y ""
+    y "Это Санта Клаус?"
 
 # game/worldmap.rpy:4969
 translate russia christmasUpdate_e595d526:
 
     # mat "Er... How did you kno-...?"
-    mat ""
+    mat "Эмм... Как ты узнал-...?"
 
 # game/worldmap.rpy:4970
 translate russia christmasUpdate_511ebde3_1:
 
     # santa "HOE HOE HOE!"
-    santa ""
+    santa "ХОУ ХОУ ХОУ!"
 
 # game/worldmap.rpy:4973
 translate russia christmasUpdate_48d7ead0:
 
     # santa "FANCY SEEING YOU HERE!"
-    santa ""
+    santa "НЕ ОЖИДАЛ ТЕБЯ ЗДЕСЬ ВСТРЕТИТЬ!"
 
 # game/worldmap.rpy:4974
 translate russia christmasUpdate_a0209137:
 
     # y "Oh goddamn it. Can you get out of here already?"
-    y ""
+    y "Да чёрт возьми. Можешь уже оставить меня и всех остальных в покое?"
 
 # game/worldmap.rpy:4975
 translate russia christmasUpdate_1de5c5f8:
 
     # santa "NOT AS LONG AS THERE ARE SLUTS WORTH SHAMING!{w} TAKE THIS GUY FOR EXAMPLE! HE HAS ENTIRE HARDDRIVE FULL OF SLUTS!"
-    santa ""
+    santa "НЕТ, ПОКА ЕСТЬ ШЛЮХИ, КОТОРЫХ МОЖНО СТЫДИТЬ!{w} НАПРИМЕР ЭТО ПАРЕНЬ! У НЕГО ВЕСЬ ЖЕСТКИЙ ДИСК ЗАБИТ ШЛЮХАМИ!"
 
 # game/worldmap.rpy:4976
 translate russia christmasUpdate_10dc55fb:
 
     # mat "Er...."
-    mat ""
+    mat "Эм..."
 
 # game/worldmap.rpy:4977
 translate russia christmasUpdate_549c649f:
 
     # santa "HE HAS SO MANY SLUTS, I'M SURPRISED HE'S NOT ONE HIMSELF!"
-    santa ""
+    santa "У НЕГО ТАК МНОГО ШЛЮХ, ЧТО Я УДИВЛЁН, КАК ОН САМ НЕ СТАЛ ОДНОЙ ИЗ НИХ!"
 
 # game/worldmap.rpy:4978
 translate russia christmasUpdate_d3568e57:
 
     # mat "I could get a girlfriend if I wante-..."
-    mat ""
+    mat "Я могу найти себе девушку, если захо-..."
 
 # game/worldmap.rpy:4979
 translate russia christmasUpdate_47bf7a51:
 
     # santa "BUT HE'S TOO MUCH OF A SCARED PUSSY TO ASK A GIRL OUT ON A DATE!"
-    santa ""
+    santa "НО ОН СЛИШКОМ ССЫКУН, ЧТОБЫ ПРИГЛАСИТЬ ДЕВУШКУ НА СВИДАНИЕ!"
 
 # game/worldmap.rpy:4980
 translate russia christmasUpdate_bde4298a:
 
     # mat "Dude! Not cool!"
-    mat ""
+    mat "Чувак! Это не круто!"
 
 # game/worldmap.rpy:4981
 translate russia christmasUpdate_b49c1ef0:
 
     # santa "WELL I'LL LEAVE YOU TWO LOSERS TO CRY IT OUT WHILE I GO AND DO SOMETHING THAT'S ACTUALLY IMPORTANT!"
-    santa ""
+    santa "НУ, ОСТАВЛЮ ВАС ДВОИХ НЕУДАЧНИКОВ ПЛАКАТЬ, ПОКА Я ПОЙДУ И ЗАЙМУСЬ ЧЕМ-ТО ДЕЙСТВИТЕЛЬНО ВАЖНЫМ!"
 
 # game/worldmap.rpy:4982
 translate russia christmasUpdate_5819c5ee:
 
     # y "Like shame sluts?"
-    y ""
+    y "Например: унижением шлюх?"
 
 # game/worldmap.rpy:4983
 translate russia christmasUpdate_433c04de:
 
     # santa "EXACTLY! SANTA AWAAAAAY~....!"
-    santa ""
+    santa "В ТОЧКУ! САНТА УШЁЁЁЁЁЛ~....!"
 
 # game/worldmap.rpy:4991
 translate russia christmasUpdate_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/worldmap.rpy:4992
 translate russia christmasUpdate_22bf1846:
 
     # mat "...................."
-    mat ""
+    mat "...................."
 
 # game/worldmap.rpy:4993
 translate russia christmasUpdate_8817b5bd:
 
     # mat "I could totally get a girlfriend..."
-    mat ""
+    mat "Я и правда могу завести себе девушку..."
 
 # game/worldmap.rpy:4994
 translate russia christmasUpdate_e288aa3d:
 
     # mat "Man this is the worst Christmas ever...."
-    mat ""
+    mat "Это худшее Рождество в истории...."
 
 # game/worldmap.rpy:4997
 translate russia christmasUpdate_66404870:
 
     # y "(This Santa is really getting on everyone's nerves.)"
-    y ""
+    y "(Этот Санта действительно действует всем на нервы)."
 
 # game/worldmap.rpy:4998
 translate russia christmasUpdate_714201cd:
 
     # y "(I think it's time to put a stop to him...)"
-    y ""
+    y "(Думаю, пора его остановить...)"
 
 # game/worldmap.rpy:5002
 translate russia christmasUpdate_c2e32fdc:
 
     # y "Hm... No Santa around today. I might have to do some more exploring."
-    y ""
+    y "Хм... Сегодня без Санта. Нужно прогуляться."
 
 # game/worldmap.rpy:5010
 translate russia christmasUpdate_41efcbe0:
 
     # y "Plane Ticket: {w}Check."
-    y ""
+    y "Билет на самолёт: {w}Чек."
 
 # game/worldmap.rpy:5011
 translate russia christmasUpdate_7b02d74e:
 
     # y "Warm clothing:{w} Check."
-    y ""
+    y "Теплая одежда:{w} Чек."
 
 # game/worldmap.rpy:5012
 translate russia christmasUpdate_2b7082f8:
 
     # y "Camera:{w} Check."
-    y ""
+    y "Камера:{w} Чек."
 
 # game/worldmap.rpy:5014
 translate russia christmasUpdate_8c6d614b:
 
     # santa "GOING SOMEWHERE FUCKBOY?!"
-    santa ""
+    santa "КУДА-ТО СОБРАЛСЯ?!"
 
 # game/worldmap.rpy:5015
 translate russia christmasUpdate_d0773410:
 
     # y "Yes, as far away from you as possible."
-    y ""
+    y "Да, как можно дальше от тебя."
 
 # game/worldmap.rpy:5016
 translate russia christmasUpdate_2532a4b7:
 
     # santa "HAH! RUN ALL YOU WANT, I'LL BE HERE WAITING FOR YOU WHEN YOU COME BACK!"
-    santa ""
+    santa "ХАХ! БЕГИ СКОЛЬКО ХОЧЕШЬ, Я БУДУ ЖДАТЬ ТЕБЯ ЗДЕСЬ, КОГДА ТЫ ВЕРНЁШЬСЯ!"
 
 # game/worldmap.rpy:5017
 translate russia christmasUpdate_38e74052:
 
     # y "(I'm counting on it.)"
-    y ""
+    y "(Я на это рассчитываю.)"
 
 # game/worldmap.rpy:5023
 translate russia christmasUpdate_b81e32c5:
 
     # "Now leaving for destination: The North Pole."
-    ""
+    "Отправляетесь к месту назначения: Северный полюс."
 
 # game/worldmap.rpy:5026
 translate russia christmasUpdate_40aa4eef:
 
     # "???" "Oh! Who are you?"
-    "???" ""
+    "???" "Ох! Ты кто?"
 
 # game/worldmap.rpy:5027
 translate russia christmasUpdate_498a278a:
 
     # "???" "Oh my~.... {b}*Giggles*{/b}"
-    "???" ""
+    "???" "О мой~.... {b}*Хихикает*{/b}"
 
 # game/worldmap.rpy:5028
 translate russia christmasUpdate_473ffe54:
 
     # "???" "Yes! Harder, harder! Ahhh!"
-    "???" ""
+    "???" "Даа! Сильнее, сильнее! Аааххх!"
 
 # game/worldmap.rpy:5029
 translate russia christmasUpdate_83686fb8:
 
     # "???" "Oohh! Ooohhhh! Ooooooohhh! ♥♥♥♥♥♥"
-    "???" ""
+    "???" "Оохх! ААааахХХХ! ОоООАаааХХХ! ♥♥♥♥♥♥"
 
 # game/worldmap.rpy:5036
 translate russia christmasUpdate_165ec6d7:
 
     # santa "LOOK WHO'S BACK! ENJOYED YOUR LITTLE HOLIDAY?!"
-    santa ""
+    santa "ПОСМОТРИТЕ, КТО ВЕРНУЛСЯ! НАСЛАДИЛСЯ СВОИМ МАЛЕНЬКИМ ПРАЗДНИКОМ?!"
 
 # game/worldmap.rpy:5037
 translate russia christmasUpdate_35bfb54c:
 
     # y "Sure did."
-    y ""
+    y "Конечно."
 
 # game/worldmap.rpy:5038
 translate russia christmasUpdate_0f557bbb:
 
     # santa "AND NOW YOU'RE BACK! JUST LIKE I PREDICTED! I WENT BY YOUR MOMMA'S HOUSE AT LEAST TWICE WHILE YOU WERE AWAY!"
-    santa ""
+    santa "ТЕПЕРЬ ТЫ ВЕРНУЛСЯ! КАК Я И ПРЕДСКАЗЫВАЛ! Я ЗАХОДИЛ К ТВОЕЙ МАМЕ КАК МИНИМУМ ДВАЖДЫ, ПОКА ТЕБЯ НЕ БЫЛО!"
 
 # game/worldmap.rpy:5039
 translate russia christmasUpdate_93460562:
 
     # y "That's nice."
-    y ""
+    y "Ну и хорошо."
 
 # game/worldmap.rpy:5040
 translate russia christmasUpdate_2ef546a8:
 
     # santa "WHERE DID YOU GO ANYWAYS?"
-    santa ""
+    santa "КУДА ТЫ ВООБЩЕ ХОДИЛ?"
 
 # game/worldmap.rpy:5041
 translate russia christmasUpdate_3541e69f:
 
     # y "The North Pole."
-    y ""
+    y "На северный полюс."
 
 # game/worldmap.rpy:5042
 translate russia christmasUpdate_7cf396af:
 
     # santa "THE WHAT?!"
-    santa ""
+    santa "НА ЧТО?!"
 
 # game/worldmap.rpy:5043
 translate russia christmasUpdate_9633aa89:
 
     # y "Yeah, very rude of you to leave your wife all alone on Christmas. Luckily I was there to show Mrs. Claus the true meaning of Christmas."
-    y ""
+    y "Да, очень грубо с твоей стороны, оставить жену одну на Рождество. К счастью, я был там, чтобы показать Миссис. Клаус истинный смысл Рождества."
 
 # game/worldmap.rpy:5044
 translate russia christmasUpdate_73677c58:
 
     # "You show Santa the picture you took of Mrs. Claus."
-    ""
+    "Вы показываете Санте фотографию, которую вы сделали с Миссис. Клаус."
 
 # game/worldmap.rpy:5050
 translate russia christmasUpdate_8f0f4c1d:
 
     # santa "THAT HOE!"
-    santa ""
+    santa "ЭТА ШЛЮХА!"
 
 # game/worldmap.rpy:5051
 translate russia christmasUpdate_ac82f65c:
 
     # santa "DON'T THINK THIS IS OVER! YOU HAVEN'T SEEN THE LAST OF MEEEEEE!"
-    santa ""
+    santa "НЕ ДУМАЙ, ЧТО ЭТО КОНЕЦ! МЫ ВИДИМСЯ НЕ В ПОСЛЕДНИЙ РАЗ!"
 
 # game/worldmap.rpy:5059
 translate russia christmasUpdate_9a0d11e7:
 
     # s "Oh, [playerName] there you are!"
-    s ""
+    s "Оо, [playerName], вот ты где!"
 
 # game/worldmap.rpy:5060
 translate russia christmasUpdate_6c86581a:
 
     # s "I was wondering where you were! Where did you go?"
-    s ""
+    s "Мне было интересно, куда ты пропал! Где ты был?"
 
 # game/worldmap.rpy:5061
 translate russia christmasUpdate_3c7a5e3a:
 
     # y "To find the true meaning of Chrismas."
-    y ""
+    y "Я искал истинное значение Рождества."
 
 # game/worldmap.rpy:5062
 translate russia christmasUpdate_01e460cd:
 
     # s "And did you find it?"
-    s ""
+    s "И как, нашёл?"
 
 # game/worldmap.rpy:5063
 translate russia christmasUpdate_8d8afbe2:
 
     # y "I sure did. Come, let's decorate the bar."
-    y ""
+    y "Конечно. Пойдём, украсим бар."
 
 # game/worldmap.rpy:5064
 translate russia christmasUpdate_fab10b7c:
 
     # s "{b}*Cheers*{/b}"
-    s ""
+    s "{b}*Одобрительные возгласы*{/b}"
 
 # game/worldmap.rpy:5068
 translate russia christmasUpdate_495629a3:
 
     # c "Oh, [playerName] there you are!"
-    c ""
+    c "Оо, [playerName], вот ты где!"
 
 # game/worldmap.rpy:5069
 translate russia christmasUpdate_5856283c:
 
     # c "I was wondering where you were! Where did you go?"
-    c ""
+    c "Мне было интересно, куда ты пропал! Где ты был?"
 
 # game/worldmap.rpy:5070
 translate russia christmasUpdate_3c7a5e3a_1:
 
     # y "To find the true meaning of Chrismas."
-    y ""
+    y "Я искал истинное значение Рождества."
 
 # game/worldmap.rpy:5071
 translate russia christmasUpdate_824719d6:
 
     # c "And did you find it?"
-    c ""
+    c "И как, нашёл?"
 
 # game/worldmap.rpy:5072
 translate russia christmasUpdate_8d8afbe2_1:
 
     # y "I sure did. Come, let's decorate the bar."
-    y ""
+    y "Конечно. Пойдём, украсим бар."
 
 # game/worldmap.rpy:5073
 translate russia christmasUpdate_72d89bbf:
 
     # c "{b}*Cheers*{/b}"
-    c ""
+    c "{b}*Одобрительные возгласы*{/b}"
 
 # game/worldmap.rpy:5077
 translate russia christmasUpdate_2c2751e8:
 
     # a "Oh, [playerName] there you are!"
-    a ""
+    a "Оо, [playerName], вот ты где!"
 
 # game/worldmap.rpy:5078
 translate russia christmasUpdate_e931fb29:
 
     # a "I was wondering where you were! Where did you go?"
-    a ""
+    a "Мне было интересно, куда ты пропал! Где ты был?"
 
 # game/worldmap.rpy:5079
 translate russia christmasUpdate_3c7a5e3a_2:
 
     # y "To find the true meaning of Chrismas."
-    y ""
+    y "Я искал истинное значение Рождества."
 
 # game/worldmap.rpy:5080
 translate russia christmasUpdate_7767060a:
 
     # a "And did you find it?"
-    a ""
+    a "И как, нашёл?"
 
 # game/worldmap.rpy:5081
 translate russia christmasUpdate_8d8afbe2_2:
 
     # y "I sure did. Come, let's decorate the bar."
-    y ""
+    y "Конечно. Пойдём, украсим бар."
 
 # game/worldmap.rpy:5082
 translate russia christmasUpdate_c2ba2c3c:
 
     # a "{b}*Cheers*{/b}"
-    a ""
+    a "{b}*Одобрительные возгласы*{/b}"
 
 # game/worldmap.rpy:5109
 translate russia finaleAirportAssault_ff08c869:
 
     # "ERROR. You're not suppose to read this. worldmap.rpy - end of script detected"
-    ""
+    "ОШИБКА. Вы не должны это видеть. worldmap.rpy - обнаружен конец сценария"
 
 translate russia strings:
 
@@ -8176,7 +8176,7 @@ translate russia strings:
 
     # game/worldmap.rpy:4136
     old "Buy the goldthorn ($30)"
-    new "Купить терновник ($30)"
+    new "Купить золотарник ($30)"
 
     # game/worldmap.rpy:4191
     old "Scavenge for food"

@@ -100,7 +100,7 @@ translate russia nightCycle_996f5409:
 translate russia nightCycle_6d589ff2:
 
     # "The Landgrab is over. Remember that you can click the Agents button at the top of the screen to see how many days until the next Landgrab."
-    "Landgrab (Захват земли) окончен. Помни, что ты можешь нажать кнопку Agents в верхней части экрана, чтобы узнать, сколько дней осталось до следующего Landgrab."
+    "Война за территории окончена. Помните, что вы можете нажать кнопку Agents в верхней части экрана, чтобы узнать, сколько дней осталось до следующей битвы."
 
 # game/nightcycle.rpy:663
 translate russia nightCycle_959e051f:
