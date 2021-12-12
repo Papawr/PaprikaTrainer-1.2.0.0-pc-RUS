@@ -34,7 +34,7 @@ translate russia samCall_1595a5b0:
 translate russia samCall_33ba4511:
 
     # s "I guess I might aswell call you Boss."
-    s "Думаю, я смогу называть тебя Боссом."
+    s "Думаю, я могу называть тебя Боссом."
 
 # game/social.rpy:77
 translate russia samCall_ccce8564:
@@ -58,13 +58,13 @@ translate russia samCall_09cc82a4:
 translate russia samCall_d5beea9e:
 
     # s "Okay fine, I'll call you my Master from now on."
-    s "Ладно, хорошо, с этого момента я буду называть тебя своим хозяином."
+    s "Ладно, хорошо, с этого момента я буду называть тебя своим Хозяином."
 
 # game/social.rpy:88
 translate russia samCall_039d309f:
 
     # s "Girl? Er... sure why not."
-    s "Девушка? Эм... хорошо, почему бы и нет."
+    s "Детка? Эм... хорошо, почему бы и нет."
 
 # game/social.rpy:91
 translate russia samCall_f842149d:
@@ -82,19 +82,19 @@ translate russia samCall_a1607eaf:
 translate russia samCall_73a384ed:
 
     # s "I'm not your or anyone's bitch. So you can just forget it!"
-    s "Я не твоя и ничья либо сука. Так что забудь об этом!"
+    s "Я не твоя и ничья либо сучка. Так что забудь об этом!"
 
 # game/social.rpy:98
 translate russia samCall_5c055076:
 
     # s "Bitch...? Like those girls online who wear the collars...?"
-    s "Сукой...? Как тех девушек в интернете, которые носят ошейники...?"
+    s "Сучкой...? Как тех девушек в интернете, которые носят ошейники...?"
 
 # game/social.rpy:99
 translate russia samCall_df0b179f:
 
     # s "I dunno. I guess I wouldn't mind if you called me Bitch."
-    s "Не знаю. Наверное я не буду возражать, если ты будешь звать меня Сукой."
+    s "Не знаю. Наверное я не буду возражать, если ты будешь звать меня Сучкой."
 
 # game/social.rpy:102
 translate russia samCall_09069c44:
@@ -112,7 +112,7 @@ translate russia samCall_88ac9a71:
 translate russia samCall_df92d5d8:
 
     # s "Heh heh~... Whore, huh?"
-    s "Хех хех~... Шлюхой, хм?"
+    s "Хех хех~... Шлюхой, да?"
 
 # game/social.rpy:107
 translate russia samCall_73569e20:
@@ -124,7 +124,7 @@ translate russia samCall_73569e20:
 translate russia samCall_6dd0428a:
 
     # s "Heh... Okay! I'll be your Whore, [playerName]!"
-    s "Хех... Ладно! Я буду твоей шлюхой, [playerName]!"
+    s "Хех... Ладно! Я буду твоей Шлюхой, [playerName]!"
 
 # game/social.rpy:111
 translate russia samCall_9041e854:
@@ -136,7 +136,7 @@ translate russia samCall_9041e854:
 translate russia samCall_4244910b:
 
     # s "I'm still a spy and I'm still one of the good guys. So please don't call me that."
-    s "Я всё ещё шпион на хорошей стороне. Так что, пожалуйста, не называй меня так."
+    s "Я всё ещё первоклассный шпион. Так что, пожалуйста, не называй меня так."
 
 # game/social.rpy:115
 translate russia samCall_a00e0c21:
@@ -160,7 +160,7 @@ translate russia samCall_92f5be84:
 translate russia samCall_fad51bba:
 
     # s "Man... I really have turned into that, haven't I?{w} Fine, no other way around it. I'm Gang Trash and you can call me that."
-    s "Блин... Я действительно в это превратилась, да?{w} Ладно, ничего другого не остается. Я бандитский мусор, можешь называть меня так."
+    s "Блин... Я действительно в это превратилась, да?{w} Ладно, ничего другого не остаётся. Я бандитский мусор, можешь называть меня так."
 
 # game/social.rpy:121
 translate russia samCall_ba819c45:
@@ -184,7 +184,7 @@ translate russia samCall_1cb39902:
 translate russia samCall_fc02190c:
 
     # s "Heh~... Is that how you see me? As your toy?"
-    s "Хех~... Так ты меня воспринимаешь? В качестве игрушки?"
+    s "Хех~... Так ты меня воспринимаешь? Своей игрушкой?"
 
 # game/social.rpy:127
 translate russia samCall_3b0e5823:
@@ -226,7 +226,7 @@ translate russia samCall_77bab620:
 translate russia samCall_dbf77d51:
 
     # s "Well I mean... That is kinda what I'm being used for."
-    s "Хотя... Вроде как ты меня для этого и используешь."
+    s "Хотя... Вроде как ты меня только для этого и используешь."
 
 # game/social.rpy:138
 translate russia samCall_7d59e4d5:
@@ -274,7 +274,7 @@ translate russia samCall_15293f2a:
 translate russia samCall_74f1cd14:
 
     # s "Or ever! Let's drop it completely!"
-    s "И вообще! Давай вообще забудем об этом!"
+    s "А лучше! Давай вообще забудем об этом совсем!"
 
 # game/social.rpy:154
 translate russia samCall_95233f47:
@@ -2284,7 +2284,7 @@ translate russia samSocial_4cc54d48:
 translate russia samSocial_c1db9b6b:
 
     # "You already spoke with Sam today."
-    "Вы уже говорили с Сэм сегодня."
+    "Вы уже разговаривали с Сэм сегодня."
 
 # game/social.rpy:735
 translate russia cloverSocial_95e4e21a:
@@ -5002,463 +5002,463 @@ translate russia alexSocial_34a6d68a:
 translate russia alexSocial_85be1258:
 
     # a "I did and I got loads of attention!"
-    a ""
+    a "Да, я получила массу внимания!"
 
 # game/social.rpy:1565
 translate russia alexSocial_e5f5ddef:
 
     # y "See? All you have to do i-..."
-    y ""
+    y "Видишь? Всё, что тебе нужно сдела-..."
 
 # game/social.rpy:1566
 translate russia alexSocial_92d5ba12:
 
     # a y28 "I took off my top in public!"
-    a y28 ""
+    a y28 "Я сняла свой топ на публике!"
 
 # game/social.rpy:1567
 translate russia alexSocial_6db73817_1:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/social.rpy:1568
 translate russia alexSocial_d9d0d921:
 
     # y "You what?"
-    y ""
+    y "Ты что?"
 
 # game/social.rpy:1569
 translate russia alexSocial_17c71df6:
 
     # a y2 "Yeah! I decided I might aswell show my dedication and I took my top off. And I got a lot of attention!"
-    a y2 ""
+    a y2 "Ага! Я решила, что стоит показать свою преданность, и сняла свой топ. На меня смотрели все!"
 
 # game/social.rpy:1570
 translate russia alexSocial_9a78f174_1:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/social.rpy:1574
 translate russia alexSocial_ade9ea6e:
 
     # y "Ah well, who am I to argue with results. Keep up the good work, Alex!"
-    y ""
+    y "Ну, кто я такой, чтобы спорить с результатом. Продолжай в том же духе, Алекс!"
 
 # game/social.rpy:1575
 translate russia alexSocial_3caa5f30:
 
     # a y1 "It was fun! Boys from all over the place started cheering!"
-    a y1 ""
+    a y1 "Это было весело! Мальчики со всех сторон начали аплодировать!"
 
 # game/social.rpy:1576
 translate russia alexSocial_e91a9cee:
 
     # a "I've never had this much attention!"
-    a ""
+    a "Я никогда не получала столько внимания!"
 
 # game/social.rpy:1577
 translate russia alexSocial_e6c8d7f1:
 
     # a y4 "......................"
-    a y4 ""
+    a y4 "......................"
 
 # game/social.rpy:1578
 translate russia alexSocial_f75dbe95:
 
     # a "I feel a little guilty though. My mom always told me {i}'not'{i} to show off my nudies...."
-    a ""
+    a "Хотя я чувствую себя немного виноватой. Моя мама всегда говорила: {i}'никакой'{i} обнажёнки...."
 
 # game/social.rpy:1579
 translate russia alexSocial_6e5700a1:
 
     # y "There is a time and place for it. For now, good work Alex."
-    y ""
+    y "Для этого есть время и место. Пока что, отличная работа Алекс."
 
 # game/social.rpy:1581
 translate russia alexSocial_ec90a2d5:
 
     # y "Maybe not take it {i}'that'{/i} far."
-    y ""
+    y "Может не стоит заходить {i}'так'{/i} далеко."
 
 # game/social.rpy:1582
 translate russia alexSocial_e2c64da2:
 
     # a y16 "What do you mean...?"
-    a y16 ""
+    a y16 "Что ты имеешь в виду...?"
 
 # game/social.rpy:1583
 translate russia alexSocial_8cd39590:
 
     # y "Don't get me wrong, this is 'definitely' a way to get noticed, but we're still hiding remember?"
-    y ""
+    y "Не пойми меня неправильно, это \"определенно\" способ привлечь к себе внимание, но мы всё ещё скрываемся, помнишь?"
 
 # game/social.rpy:1584
 translate russia alexSocial_895163d5:
 
     # y "Wearing some more sexy clothes is fine, just don't go around flashing the entire neighborhood next time."
-    y ""
+    y "Носить более сексуальную одежду - это нормально, просто в следующий раз не надо выставлять себя на всеобщее обозрение."
 
 # game/social.rpy:1585
 translate russia alexSocial_87aee936_1:
 
     # a y1 "Okay!"
-    a y1 ""
+    a y1 "Хорошо!"
 
 # game/social.rpy:1586
 translate russia alexSocial_4212550a:
 
     # "Alex smiles and nods."
-    ""
+    "Алекс улыбается и кивает."
 
 # game/social.rpy:1600
 translate russia alexSocial_7a88ae63:
 
     # a "Today I wanna learn more about you, [playerName]!"
-    a ""
+    a "Сегодня я хочу узнать побольше о тебе, [playerName]!"
 
 # game/social.rpy:1601
 translate russia alexSocial_8d8f8df9:
 
     # y "About me?"
-    y ""
+    y "Обо мне?"
 
 # game/social.rpy:1602
 translate russia alexSocial_7a7f74f9:
 
     # a "Yeah! Like where you're from, what your hobbies are, if you have a girlfriend, what your job before joining WOOHP was."
-    a ""
+    a "Ага! Например, откуда ты родом, какие у тебя хобби, есть ли у тебя девушка, чем ты занимался до вступления в WOOHP."
 
 # game/social.rpy:1603
 translate russia alexSocial_17c0d34b:
 
     # y "Those... sure are a lot of questions."
-    y ""
+    y "Это... довольно много вопросов."
 
 # game/social.rpy:1604
 translate russia alexSocial_1129f778:
 
     # y "I guess I could tell you... except for the previous job..."
-    y ""
+    y "Думаю, я могу рассказать тебе... всё за исключением прошлой работы..."
 
 # game/social.rpy:1605
 translate russia alexSocial_d4321815:
 
     # a y18 "Why not?"
-    a y18 ""
+    a y18 "Почему?"
 
 # game/social.rpy:1606
 translate russia alexSocial_c75eeaa8:
 
     # y "I... I used to be a prison guard, but...."
-    y ""
+    y "Я... Раньше я был тюремным охранником, но...."
 
 # game/social.rpy:1612
 translate russia alexSocial_065deb01:
 
     # y "...............................................................................................................\n...............................................................................................................\n...................................................................................................................\n............................................................{nw}"
-    y ""
+    y "...............................................................................................................\n...............................................................................................................\n...................................................................................................................\n............................................................{nw}"
 
 # game/social.rpy:1615
 translate russia alexSocial_756de66e:
 
     # y "Alex... please tell me I'm not a bad person."
-    y ""
+    y "Алекс... пожалуйста, скажи мне, что я не плохой человек."
 
 # game/social.rpy:1616
 translate russia alexSocial_a8ba2a56:
 
     # a y28 "Of course you're not! You're part of the good guys, right? And you're helping us take back WOOHP!"
-    a y28 ""
+    a y28 "Конечно, нет! Ты ведь на стороне хороших, верно? И ты помогаешь нам вернуть WOOHP!"
 
 # game/social.rpy:1617
 translate russia alexSocial_eb1deef5:
 
     # y "Yeah.... Yeah, you're right..."
-    y ""
+    y "Д-да... Да, ты права..."
 
 # game/social.rpy:1618
 translate russia alexSocial_deef3ac5:
 
     # y "And will I continue being your friend even if you find out about some.... iceberg related incidents...?"
-    y ""
+    y "Останемся ли мы друзьями, даже если ты узнаешь о кое-каком..... инцидентом, связанным с айсбергами...?"
 
 # game/social.rpy:1619
 translate russia alexSocial_e98d31e9:
 
     # a y42 "I will always be your friend, [playerName]! No matter what lettuce you like!"
-    a y42 ""
+    a y42 "Я всегда буду твоим другом, [playerName]! Неважно, какой салат ты любишь!"
 
 # game/social.rpy:1620
 translate russia alexSocial_1ff07f35:
 
     # y "Lettuce? That's not what I-....{w} Oh... iceberg... lettuce. I get it."
-    y ""
+    y "Салат? Это не то, что я-....{w} Ох... айсберг... салат. Я понял."
 
 # game/social.rpy:1621
 translate russia alexSocial_288c9417:
 
     # y "All right, Alex. Good chat. Now if you'll excuse me, I'm going to take a shower and wash away the sins."
-    y ""
+    y "Ладно, Алекс. Спасибо за беседу. А теперь, если позволишь, я пойду приму душ и смою свои грехи."
 
 # game/social.rpy:1622
 translate russia alexSocial_64505906:
 
     # a y1 "Okay [playerName], have fun!"
-    a y1 ""
+    a y1 "Хорошо [playerName], удачи!"
 
 # game/social.rpy:1637
 translate russia alexSocial_88d9ab1c:
 
     # y "All right Alex. I think you're way too innocent. Let's find out some naughty things about you."
-    y ""
+    y "Отлично Алекс. Думаю, ты слишком невинна. Давай узнаем о твоих непристойных вещах."
 
 # game/social.rpy:1638
 translate russia alexSocial_28adaa23:
 
     # y "What's your favorite position?"
-    y ""
+    y "Какая твоя любимая позиция?"
 
 # game/social.rpy:1639
 translate russia alexSocial_43e3b28a:
 
     # a "The Sweeper!"
-    a ""
+    a "Защитница!"
 
 # game/social.rpy:1640
 translate russia alexSocial_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/social.rpy:1641
 translate russia alexSocial_58db95ce:
 
     # y "The what? I don't think I know that one."
-    y ""
+    y "Что? Что-то я такую не припомню."
 
 # game/social.rpy:1642
 translate russia alexSocial_f05b0fb7:
 
     # a y28 "Yeah, as a Sweepers you get all the attention. You're expected to be flexable and all over the place!"
-    a y28 ""
+    a y28 "В роли Защитницы всё внимание обращено на тебя. От тебя ждут гибкости и повсеместной занятости!"
 
 # game/social.rpy:1643
 translate russia alexSocial_5bccdc46:
 
     # y "Oh I see...! Tell me more."
-    y ""
+    y "Ох, понятно...! Продолжай."
 
 # game/social.rpy:1644
 translate russia alexSocial_af14c6b5:
 
     # a y1 "You're often the most important member of the group!"
-    a y1 ""
+    a y1 "Чаще всего Защитница является самым важным членом группы!"
 
 # game/social.rpy:1645
 translate russia alexSocial_61dd7e6b:
 
     # y "G-group? Wow Alex, that's kind of kinky."
-    y ""
+    y "Г-группы? Вау Алекс, ты такая извращенка."
 
 # game/social.rpy:1646
 translate russia alexSocial_90edc927:
 
     # a y42 "Plus they pass you the ball more often so you can score!"
-    a y42 ""
+    a y42 "Кроме того, все чаще передают тебе мяч, чтобы ты мог забить!"
 
 # game/social.rpy:1647
 translate russia alexSocial_dc983bfe:
 
     # y "Ball...?"
-    y ""
+    y "Мяч...?"
 
 # game/social.rpy:1648
 translate russia alexSocial_6e4ecfcc_1:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/social.rpy:1649
 translate russia alexSocial_5a9fe877:
 
     # y "You're talking about soccer, aren't you?"
-    y ""
+    y "Речь идёт о футболе, не так ли?"
 
 # game/social.rpy:1650
 translate russia alexSocial_7a3cb5b5:
 
     # a y41 "Yeah!{w} Wait... what are 'you' talking about?"
-    a y41 ""
+    a y41 "Да!{w} Подожди... а о чём \"ты\" думал я рассказываю?"
 
 # game/social.rpy:1651
 translate russia alexSocial_33dd8472:
 
     # y "Nothing. It seems a shame to corrupt such a sweet innocent mind of yours."
-    y ""
+    y "Да так. Как жаль портить твой милый невинный ум."
 
 # game/social.rpy:1652
 translate russia alexSocial_47114a2d:
 
     # a y1 "Awe~... thanks [playerName]!"
-    a y1 ""
+    a y1 "Оу~... спасибо [playerName]!"
 
 # game/social.rpy:1660
 translate russia alexSocial_244f8f96:
 
     # "You don't have anything to talk about."
-    ""
+    "Вам не о чем поговорить."
 
 # game/social.rpy:1671
 translate russia alexSocial_aebba606:
 
     # a "[playerName]..."
-    a ""
+    a "[playerName]..."
 
 # game/social.rpy:1672
 translate russia alexSocial_a2f2ebae:
 
     # y "Alex...?"
-    y ""
+    y "Алекс...?"
 
 # game/social.rpy:1674
 translate russia alexSocial_6f7ca6cc:
 
     # a "................................"
-    a ""
+    a "................................"
 
 # game/social.rpy:1675
 translate russia alexSocial_ae8a68b4:
 
     # a "I want you to have something."
-    a ""
+    a "Хочу тебе кое-что дать."
 
 # game/social.rpy:1676
 translate russia alexSocial_8131d4ce:
 
     # y "A gift? For me?"
-    y ""
+    y "Подарок? Для меня?"
 
 # game/social.rpy:1677
 translate russia alexSocial_defbe6a7:
 
     # a "Yeah... I've had it for a while now, but I think I don't need it anymore..."
-    a ""
+    a "Да... Он у меня уже давно лежит, но похоже, он мне больше не нужен..."
 
 # game/social.rpy:1679
 translate russia alexSocial_b00ad13b:
 
     # a "............."
-    a ""
+    a "............."
 
 # game/social.rpy:1680
 translate russia alexSocial_31ad2c50:
 
     # "Alex hands you her golden four leafed clover broche."
-    ""
+    "Алекс протягивает вам свой золотой четырехлистный клевер."
 
 # game/social.rpy:1681
 translate russia alexSocial_31f5a1df:
 
     # a y20 "Remember this?"
-    a y20 ""
+    a y20 "Помнишь его?"
 
 # game/social.rpy:1682
 translate russia alexSocial_52028223:
 
     # y "Yeah.. it's something you bought a while ago from that shady street merchant. You want me to have it...?"
-    y ""
+    y "Да... ты когда-то купила его у одного сомнительного уличного торговца. Ты хочешь отдать его мне...?"
 
 # game/social.rpy:1683
 translate russia alexSocial_47bafb35:
 
     # a y14 "Yes. It's suppose to bring you luck, but..."
-    a y14 ""
+    a y14 "Да. Он должен принести удачу, но..."
 
 # game/social.rpy:1684
 translate russia alexSocial_bcb9e571:
 
     # a y13 "I think I'm pretty lucky to you have you as a friend already."
-    a y13 ""
+    a y13 "Я думаю, что мне уже очень повезло, что ты стала моим другом."
 
 # game/social.rpy:1685
 translate russia alexSocial_4a05d125:
 
     # y "Alex..."
-    y ""
+    y "Алекс..."
 
 # game/social.rpy:1686
 translate russia alexSocial_5d5e6dac:
 
     # a y15 "Please hold on to it, okay? It will bring you everything you ever wanted."
-    a y15 ""
+    a y15 "Пожалуйста, возьми его, хорошо? Он поможет тебе достичь всего что ты когда-либо хотел."
 
 # game/social.rpy:1687
 translate russia alexSocial_5d03bda1:
 
     # y "I will treasure it forever, Alex. I promise."
-    y ""
+    y "Я буду хранить его вечно, Алекс. Я обещаю."
 
 # game/social.rpy:1688
 translate russia alexSocial_f38d0a32:
 
     # "Alex throws her arms around you and burries her face in your chest. Hugging you tightly."
-    ""
+    "Алекс обнимает вас зарываясь лицом в вашу грудь. Она крепко обнимает вас."
 
 # game/social.rpy:1689
 translate russia alexSocial_0342a86a:
 
     # a "Once Beverly Hills is back to normal. Will we stay friends...?"
-    a ""
+    a "Останемся ли мы друзьями, когда Беверли-Хиллз вернётся к нормальной жизни..?"
 
 # game/social.rpy:1690
 translate russia alexSocial_11ea25a4:
 
     # y "Yes Alex. Yes we will."
-    y ""
+    y "Да Алекс. Конечно."
 
 # game/social.rpy:1691
 translate russia alexSocial_00c073e0:
 
     # "You hug Alex back."
-    ""
+    "Вы обнимаете Алекс в ответ."
 
 # game/social.rpy:1697
 translate russia alexSocial_2eec9d3b:
 
     # "You can't think of anything to talk about right now. Maybe try raising your rank with the Outsiders first."
-    "Вы не знаете о чём ещё поговорить. Попробуйте сначала повысить свой ранг у"
+    "Вы не знаете о чём ещё поговорить. Попробуйте сначала повысить свой ранг у Аутсайдеров."
 
 # game/social.rpy:1700
 translate russia alexSocial_2eec9d3b_1:
 
     # "You can't think of anything to talk about right now. Maybe try raising your rank with the Outsiders first."
-    "Вы не знаете о чём ещё поговорить. Попробуйте сначала повысить свой ранг у"
+    "Вы не знаете о чём ещё поговорить. Попробуйте сначала повысить свой ранг у Аутсайдеров."
 
 # game/social.rpy:1702
 translate russia alexSocial_e9d05a19:
 
     # "You already spoke with Alex today."
-    ""
+    "Вы уже разговаривали с Алекс сегодня."
 
 # game/social.rpy:1751
 translate russia cloverCall_2a841739:
 
     # c "Sure, I can call you New Guy."
-    c ""
+    c "Хорошо, я буду называть тебя Новичком."
 
 # game/social.rpy:1754
 translate russia cloverCall_ca42c552:
 
     # c "That's a weird nickname... But I guess I can call you that from now on."
-    c ""
+    c "Странное прозвище... Но думаю, с этого момента я могу тебя так называть."
 
 # game/social.rpy:1758
 translate russia cloverCall_a44a923d:
 
     # c "Let's not get carried away now..."
-    c ""
+    c "Давай не будем увлекаться..."
 
 # game/social.rpy:1759
 translate russia cloverCall_13f7ef95:
@@ -5470,19 +5470,19 @@ translate russia cloverCall_13f7ef95:
 translate russia cloverCall_d2b25e38:
 
     # c "Well you do order me around a lot..."
-    c ""
+    c "Ну, ты довольно часто мной командуешь..."
 
 # game/social.rpy:1763
 translate russia cloverCall_c0e3b6c3:
 
     # c "I guess I might aswell call you Boss."
-    c ""
+    c "Думаю, я могу называть тебя Боссом."
 
 # game/social.rpy:1766
 translate russia cloverCall_888efa74:
 
     # c "I don't know... That sounds kind of wrong."
-    c ""
+    c "Не знаю... Это звучит как-то неправильно."
 
 # game/social.rpy:1767
 translate russia cloverCall_13f7ef95_1:
@@ -5494,265 +5494,265 @@ translate russia cloverCall_13f7ef95_1:
 translate russia cloverCall_3c4e0a7f:
 
     # c "Master...? Oh well... I mean I guess that's okay."
-    c ""
+    c "Хозяин...? Эмм, ну... думаю в этом нет ничего такого."
 
 # game/social.rpy:1771
 translate russia cloverCall_179d005e:
 
     # c "Okay fine, I'll call you my Master from now on."
-    c ""
+    c "Ладно, хорошо, с этого момента я буду называть тебя своим Хозяином."
 
 # game/social.rpy:1777
 translate russia cloverCall_a8003522:
 
     # c "Girl? Er... sure why not."
-    c ""
+    c "Детка? Эм... хорошо, почему бы и нет."
 
 # game/social.rpy:1780
 translate russia cloverCall_fe3d908e:
 
     # c "I still think this is a really stupid nickname... Fine... Parsnip it is..."
-    c ""
+    c "Я все ещё думаю, что это очень глупое прозвище... Но ладно... Пусть будет Пастернак..."
 
 # game/social.rpy:1783
 translate russia cloverCall_f6d06881:
 
     # c "B-... That's so rude! Why would you even say that?!"
-    c ""
+    c "С-... Это так грубо! Зачем вообще так говорить?!"
 
 # game/social.rpy:1784
 translate russia cloverCall_11d0fcb7:
 
     # c "I'm not your or anyone's bitch. So you can just forget it!"
-    c ""
+    c "Я не твоя и ничья либо сучка. Так что забудь об этом!"
 
 # game/social.rpy:1787
 translate russia cloverCall_f20ce01c:
 
     # c "Bitch...? Like those girls online who wear the collars...?"
-    c ""
+    c "Сучкой...? Как тех девушек в интернете, которые носят ошейники...?"
 
 # game/social.rpy:1788
 translate russia cloverCall_4b04076b:
 
     # c "I dunno. I guess I wouldn't mind if you called me Bitch."
-    c ""
+    c "Не знаю. Наверное я не буду возражать, если ты будешь звать меня Сучкой."
 
 # game/social.rpy:1791
 translate russia cloverCall_14b8e932:
 
     # c "What?! I'm only doing this to help safe WOOHP! I am 'not' a whore!"
-    c ""
+    c "Что?! Я делаю это только для того, чтобы помочь WOOHP! Я 'не' шлюха!"
 
 # game/social.rpy:1792
 translate russia cloverCall_98256457:
 
     # c "I can't believe you just said that to me! There's no way I'll call myself that!"
-    c ""
+    c "Не могу поверить, что ты мне это только что сказал! Я не буду так себя называть!"
 
 # game/social.rpy:1795
 translate russia cloverCall_2c1fd3ba:
 
     # c "Heh heh~... Whore, huh?"
-    c ""
+    c "Хех хех~... Шлюхой, да?"
 
 # game/social.rpy:1796
 translate russia cloverCall_e8ba7689:
 
     # c "That seems... oddly fitting for someone like me, doesn't it~...?"
-    c ""
+    c "Разве такое прозвище... подходит для такого человека, как я~...?"
 
 # game/social.rpy:1797
 translate russia cloverCall_02ccd127:
 
     # c "Heh... Okay! I'll be your Whore, [playerName]!"
-    c ""
+    c "Хех... Ладно! Я буду твоей Шлюхой, [playerName]!"
 
 # game/social.rpy:1800
 translate russia cloverCall_2ec06b3f:
 
     # c "Listen [playerName]... Just because I'm going undercover doesn't mean you can call me that."
-    c ""
+    c "Послушай [playerName]... Только потому что я работаю под прикрытием, не значит, что ты можешь меня так называть."
 
 # game/social.rpy:1801
 translate russia cloverCall_b3a79ac9:
 
     # c "I'm still a spy and I'm still one of the good guys. So please don't call me that."
-    c ""
+    c "Я всё ещё первоклассный шпион. Так что, пожалуйста, не называй меня так."
 
 # game/social.rpy:1804
 translate russia cloverCall_f4ada45e:
 
     # c "Gang Trash?! But I'm not...!"
-    c ""
+    c "Бандитский мусор?! Но я не...!"
 
 # game/social.rpy:1805
 translate russia cloverCall_eb4afef2:
 
     # c "I'm..."
-    c ""
+    c "Да..."
 
 # game/social.rpy:1806
 translate russia cloverCall_d6e712c6:
 
     # c "......................"
-    c ""
+    c "......................"
 
 # game/social.rpy:1807
 translate russia cloverCall_a4383c22:
 
     # c "Man... I really have turned into that, haven't I?{w} Fine, no other way around it. I'm Gang Trash and you can call me that."
-    c ""
+    c "Блин... Я действительно в это превратилась, да?{w} Ладно, ничего другого не остаётся. Я бандитский мусор, можешь называть меня так."
 
 # game/social.rpy:1810
 translate russia cloverCall_cf3d94f1:
 
     # c "F-fuck toy?!"
-    c ""
+    c "С-секс игрушка?!"
 
 # game/social.rpy:1811
 translate russia cloverCall_8c00d501:
 
     # c "That is very inappropriate, [playerName]!"
-    c ""
+    c "Это очень неуместно, [playerName]!"
 
 # game/social.rpy:1812
 translate russia cloverCall_db5d2ecf:
 
     # c "Please don't suggest that to me again!"
-    c ""
+    c "Пожалуйста, больше не предлагай мне это!"
 
 # game/social.rpy:1815
 translate russia cloverCall_cad92de7:
 
     # c "Heh~... Is that how you see me? As your toy?"
-    c ""
+    c "Хех~... Так ты меня воспринимаешь? Своей игрушкой?"
 
 # game/social.rpy:1816
 translate russia cloverCall_77b805b7:
 
     # c "Well I do let you play with me a lot~... I guess being called a Fuck Toy isn't so bad~..."
-    c ""
+    c "Ты довольно часто играешь со мной~... Думаю, прозвище \"Игрушка для секса\" не такое уж и плохое~..."
 
 # game/social.rpy:1819
 translate russia cloverCall_aad4a556:
 
     # c "C-...! [playerName] are you feeling okay...?"
-    c ""
+    c "С-...! [playerName] ты хорошо себя чувствуешь...?"
 
 # game/social.rpy:1820
 translate russia cloverCall_c37cefa6:
 
     # c "You shouldn't call girls that! I'll pretend that I didn't hear it."
-    c ""
+    c "Девушек нельзя так называть! Я притворюсь, что не слышала этого."
 
 # game/social.rpy:1823
 translate russia cloverCall_6a7ab578:
 
     # c "Cum Dumpster...? That sounds so wrong!"
-    c ""
+    c "Спермобак...? Это звучит так пошло!"
 
 # game/social.rpy:1824
 translate russia cloverCall_03e29fb9:
 
     # c "Like I'm just a deposit for your semen...."
-    c ""
+    c "Как будто я просто хранилище для твоей спермы..."
 
 # game/social.rpy:1825
 translate russia cloverCall_06b5123e:
 
     # c "................."
-    c ""
+    c "................."
 
 # game/social.rpy:1826
 translate russia cloverCall_44b980df:
 
     # c "Well I mean... That is kinda what I'm being used for."
-    c ""
+    c "Хотя... Вроде как ты меня только для этого и используешь."
 
 # game/social.rpy:1827
 translate russia cloverCall_43f3b51a:
 
     # c "Fine. I'll be your Cum Dumpster, [playerName]."
-    c ""
+    c "Хорошо. Я буду твоим Спермобаком, [playerName]."
 
 # game/social.rpy:1830
 translate russia cloverCall_22a823cd:
 
     # c "......................."
-    c ""
+    c "......................."
 
 # game/social.rpy:1831
 translate russia cloverCall_f1a0ded9:
 
     # c "Is that a normal thing to say to a girl?"
-    c ""
+    c "Разве нормально говорить \"такое\" девушке?"
 
 # game/social.rpy:1832
 translate russia cloverCall_5096b904:
 
     # c "You should be ashamed of yourself! Let's not bring this up again!"
-    c ""
+    c "Тебе должно быть стыдно! Давай больше не будем поднимать эту тему!"
 
 # game/social.rpy:1835
 translate russia cloverCall_bbe991ba:
 
     # "{b}*Smirks*{/b} That's so wrong~..."
-    ""
+    "{b}*Ухмылка*{/b} Это так неправильно~..."
 
 # game/social.rpy:1836
 translate russia cloverCall_e821e029:
 
     # c "But I kinda like it~... All right, [playerName]. I'll be your little Semen Demon~..."
-    c ""
+    c "Но мне это нравится~... Ладно, [playerName]. Я буду твоим маленьким Демоном Спермы~..."
 
 # game/social.rpy:1839
 translate russia cloverCall_8fc95606:
 
     # c "A-anal what?! Listen here [playerName], let's not talk about this right now!"
-    c ""
+    c "А-анальный кто?! Послушай [playerName], давай не будем сейчас об этом говорить!"
 
 # game/social.rpy:1840
 translate russia cloverCall_7ad71a82:
 
     # c "Or ever! Let's drop it completely!"
-    c ""
+    c "А лучше! Давай вообще забудем об этом совсем!"
 
 # game/social.rpy:1843
 translate russia cloverCall_dff4334b:
 
     # c "Anal Agent. Literacy, I like it. Also it's weirdly appropriate~..."
-    c ""
+    c "Анальный агент. Мне это нравится. И это на удивление даже подходит~..."
 
 # game/social.rpy:1844
 translate russia cloverCall_aadd2ffa:
 
     # c "I guess I've earned that nickname by now~... Sure call me whatever you like, [playerName]."
-    c ""
+    c "Думаю я заслужила это прозвище~... Называй меня как хочешь, [playerName]."
 
 # game/social.rpy:1858
 translate russia decorateCloverCell_3bc6d883:
 
     # "Clover isn't available right now."
-    "сейчас недоступна."
+    "Кловер сейчас недоступна."
 
 # game/social.rpy:1906
 translate russia alexCall_03e5a374:
 
     # a "Sure, I can call you New Guy."
-    a ""
+    a "Хорошо, я буду называть тебя Новичком."
 
 # game/social.rpy:1909
 translate russia alexCall_29cb6691:
 
     # a "That's a weird nickname... But I guess I can call you that from now on."
-    a ""
+    a "Странное прозвище... Но думаю, с этого момента я могу тебя так называть."
 
 # game/social.rpy:1913
 translate russia alexCall_612fcd9a:
 
     # a "Let's not get carried away now..."
-    a ""
+    a "Давай не будем увлекаться..."
 
 # game/social.rpy:1914
 translate russia alexCall_2e751a24:
@@ -5764,19 +5764,19 @@ translate russia alexCall_2e751a24:
 translate russia alexCall_7d6466a4:
 
     # a "Well you do order me around a lot..."
-    a ""
+    a "Ну, ты довольно часто мной командуешь..."
 
 # game/social.rpy:1918
 translate russia alexCall_52e85064:
 
     # a "I guess I might aswell call you Boss."
-    a ""
+    a "Думаю, я могу называть тебя Боссом."
 
 # game/social.rpy:1921
 translate russia alexCall_e7fd71f3:
 
     # a "I don't know... That sounds kind of wrong."
-    a ""
+    a "Не знаю... Это звучит как-то неправильно."
 
 # game/social.rpy:1922
 translate russia alexCall_2e751a24_1:
@@ -5788,1015 +5788,1015 @@ translate russia alexCall_2e751a24_1:
 translate russia alexCall_c6b8b9ef:
 
     # a "Master...? Oh well... I mean I guess that's okay."
-    a ""
+    a "Хозяин...? Эмм, ну... думаю в этом нет ничего такого."
 
 # game/social.rpy:1926
 translate russia alexCall_5d36f53e:
 
     # a "Okay fine, I'll call you my Master from now on."
-    a ""
+    a "Ладно, хорошо, с этого момента я буду называть тебя своим Хозяином."
 
 # game/social.rpy:1932
 translate russia alexCall_c7d14749:
 
     # a "Girl? Well obviously I'm a girl~..."
-    a ""
+    a "Детка?! Ну очевидно что я была ребёнком... получается что сейчас я могу быть деткой~..."
 
 # game/social.rpy:1935
 translate russia alexCall_0b376352:
 
     # a "Tjirp tjirp...!"
-    a ""
+    a "Чирик чирик...!"
 
 # game/social.rpy:1938
 translate russia alexCall_0030340b:
 
     # a "Rich in calcium! All right, I'll be Banana from now on."
-    a ""
+    a "Богата кальцием! Хорошо, с этого момента я буду Бананом."
 
 # game/social.rpy:1941
 translate russia alexCall_1292601c:
 
     # a "{b}*Gasp*{/b} You said a naughty word....!"
-    a ""
+    a "{b}*Вздох*{/b} Ты сказал грязное слово...!"
 
 # game/social.rpy:1942
 translate russia alexCall_bd1c977c:
 
     # y "Alex... put down that bar of soap...!"
-    y ""
+    y "Алекс... опусти этот кусок мыла...!"
 
 # game/social.rpy:1943
 translate russia alexCall_a4b1e58e:
 
     # a "GET OVER HERE! I need to clean your mouth!"
-    a ""
+    a "ИДИ СЮДА! Мне нужно почистить твой рот!"
 
 # game/social.rpy:1944
 translate russia alexCall_b6dd60ce:
 
     # y "AAAAAAH!"
-    y ""
+    y "ААААААХХХ!"
 
 # game/social.rpy:1947
 translate russia alexCall_f3509c9a:
 
     # a "Yay! I'm [playerName]'s bitch!"
-    a ""
+    a "Ура! Я - твоя сучка, [playerName]!"
 
 # game/social.rpy:1948
 translate russia alexCall_617418fd:
 
     # y "You... seem excited..."
-    y ""
+    y "Похоже... ты в восторге..."
 
 # game/social.rpy:1949
 translate russia alexCall_aaccd9b8:
 
     # a "I recently found out that {i}'bitch'{/i} is a term of endearment between people who like each other very much!"
-    a ""
+    a "Я недавно узнала, что {i}'сука'{/i} является ласковым выражением между людьми, которые очень нравятся друг другу!"
 
 # game/social.rpy:1950
 translate russia alexCall_8095860f:
 
     # y "Well obviously. I like you a lot Alex."
-    y ""
+    y "Ну, конечно. Ты мне очень нравишься Алекс."
 
 # game/social.rpy:1952
 translate russia alexCall_4d69776b:
 
     # a "D'aww.."
-    a ""
+    a "Ююхууу.."
 
 # game/social.rpy:1955
 translate russia alexCall_eaff96a4:
 
     # a "Isn't being called a whore a bad thing...?"
-    a ""
+    a "Разве когда тебя называют шлюхой, это не плохо...?"
 
 # game/social.rpy:1956
 translate russia alexCall_ad959356:
 
     # a "I'd rather not [playerName]...."
-    a ""
+    a "Я не хочу [playerName]...."
 
 # game/social.rpy:1959
 translate russia alexCall_676a0401:
 
     # a "A whore is a girl who has loads and loads of sex!"
-    a ""
+    a "Шлюха - это девушка у которой, очень при очень много секса!"
 
 # game/social.rpy:1960
 translate russia alexCall_8ae4f9a8:
 
     # a "Are we going to have loads of sex, [playerName]?"
-    a ""
+    a "У нас будет много секса, [playerName]?"
 
 # game/social.rpy:1961
 translate russia alexCall_989731e2:
 
     # y "As much as you like."
-    y ""
+    y "Столько, сколько ты захочешь."
 
 # game/social.rpy:1964
 translate russia alexCall_70cfa269:
 
     # a "I don't like being called trash..."
-    a ""
+    a "Я не хочу чтобы меня называли мусором..."
 
 # game/social.rpy:1965
 translate russia alexCall_c5a330de:
 
     # a "But you can call me a gangster!{w} Phew! Phew!"
-    a ""
+    a "Но ты можешь называть меня гангстером!{w} Пиу! Пиу!"
 
 # game/social.rpy:1966
 translate russia alexCall_65974de7:
 
     # "Alex pretends her hands are guns."
-    ""
+    "Алекс делает вид, что её руки - это оружие."
 
 # game/social.rpy:1967
 translate russia alexCall_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/social.rpy:1970
 translate russia alexCall_06a2448b:
 
     # a "Okay."
-    a ""
+    a "Хорошо."
 
 # game/social.rpy:1971
 translate russia alexCall_295580b0:
 
     # y "That was easy."
-    y ""
+    y "Это было легко."
 
 # game/social.rpy:1972
 translate russia alexCall_742c826e:
 
     # a "Well I'll have you know, I am {i}'very'{/i} easy."
-    a ""
+    a "Должна тебе сказать, что я {i}'очень'{/i} легкая."
 
 # game/social.rpy:1973
 translate russia alexCall_f7362c73:
 
     # y "(Should I tell her what that means...?)"
-    y ""
+    y "(Стоит ли ей сказать, что это значит...?)"
 
 # game/social.rpy:1974
 translate russia alexCall_2d62213d:
 
     # "Inner Voice" "Don't you dare."
-    "Голос" ""
+    "Внутренний голос" "Не смей."
 
 # game/social.rpy:1977
 translate russia alexCall_898de61a:
 
     # a "Like a dildo?"
-    a ""
+    a "Как дилдо?"
 
 # game/social.rpy:1978
 translate russia alexCall_e1b18d71:
 
     # a "I am not a dildo, [playerName]!"
-    a ""
+    a "Я не дилдо, [playerName]!"
 
 # game/social.rpy:1979
 translate russia alexCall_f85976cb:
 
     # a "Dildos are meant to bring pleasure to girls. Do you want me to make out with Clover instead?"
-    a ""
+    a "Дилдо предназначен для того, чтобы доставлять девушкам удовольствие. Хочешь, чтобы я вместо этого развлекалась с Кловер?"
 
 # game/social.rpy:1980
 translate russia alexCall_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/social.rpy:1983
 translate russia alexCall_e29ef97c:
 
     # a "I like toys!"
-    a ""
+    a "Я люблю игрушки!"
 
 # game/social.rpy:1984
 translate russia alexCall_f91a7ae5:
 
     # a "And I like fucking..."
-    a ""
+    a "И мне нравится трахаться..."
 
 # game/social.rpy:1985
 translate russia alexCall_2d68d2e8:
 
     # a "I guess I can be your fuck toy!"
-    a ""
+    a "Думаю, я могу быть твоей игрушкой!"
 
 # game/social.rpy:1988
 translate russia alexCall_6633d35b:
 
     # a ".............................."
-    a ""
+    a ".............................."
 
 # game/social.rpy:1989
 translate russia alexCall_1c3613d8:
 
     # a "I don't get it...."
-    a ""
+    a "Я не понимаю..."
 
 # game/social.rpy:1990
 translate russia alexCall_ce895a18:
 
     # y "..........."
-    y ""
+    y "..........."
 
 # game/social.rpy:1993
 translate russia alexCall_f50e15ff:
 
     # a "Oooooh I get it! Cause you dump all your cum in me!"
-    a ""
+    a "Ааа, поняла! Потому что ты постоянно кончаешь в меня!"
 
 # game/social.rpy:1994
 translate russia alexCall_f43015bd:
 
     # a "All right, in that case you should cum inside me many more times, else the nickname doesn't make sense."
-    a ""
+    a "Ладно, в таком случае тебе нужно кончить в меня ещё много раз, иначе это прозвище не имеет смысла."
 
 # game/social.rpy:1995
 translate russia alexCall_4dbe3cf7:
 
     # y "Promise."
-    y ""
+    y "Обещаю."
 
 # game/social.rpy:1998
 translate russia alexCall_f82aa451:
 
     # a "Demons are scary!"
-    a ""
+    a "Демоны страшные!"
 
 # game/social.rpy:1999
 translate russia alexCall_4a05d125:
 
     # y "Alex..."
-    y ""
+    y "Алекс..."
 
 # game/social.rpy:2000
 translate russia alexCall_e5f64de0:
 
     # a "NOOOOOOOOOOOOO!"
-    a ""
+    a "НЕЕЕЕЕЕЕЕЕЕЕЕТ!"
 
 # game/social.rpy:2001
 translate russia alexCall_a7b8dcc0:
 
     # "Alex ran away~..."
-    ""
+    "Алекс убегает~..."
 
 # game/social.rpy:2004
 translate russia alexCall_f82aa451_1:
 
     # a "Demons are scary!"
-    a ""
+    a "Демоны страшные!"
 
 # game/social.rpy:2005
 translate russia alexCall_4a05d125_1:
 
     # y "Alex..."
-    y ""
+    y "Алекс..."
 
 # game/social.rpy:2006
 translate russia alexCall_e5f64de0_1:
 
     # a "NOOOOOOOOOOOOO!"
-    a ""
+    a "НЕЕЕЕЕЕЕЕЕЕЕЕТ!"
 
 # game/social.rpy:2007
 translate russia alexCall_a7b8dcc0_1:
 
     # "Alex ran away~..."
-    ""
+    "Алекс убегает~..."
 
 # game/social.rpy:2008
 translate russia alexCall_672f895e:
 
     # y "I'M STILL GOING TO CALL YOU THAT!"
-    y ""
+    y "Я ВСЁ РАВНО БУДУ ТАК ТЕБЯ НАЗЫВАТЬ!"
 
 # game/social.rpy:2009
 translate russia alexCall_434036e6:
 
     # "...................."
-    ""
+    "...................."
 
 # game/social.rpy:2010
 translate russia alexCall_3ea550c0:
 
     # "Alex is no longer in hearing range."
-    ""
+    "Алекс вас уже не слышит."
 
 # game/social.rpy:2013
 translate russia alexCall_a00622fe:
 
     # a "That sounds so crude... Can't I be a Butt Agent instead?"
-    a ""
+    a "Это звучит грубо... Могу я вместо этого быть Агентом Попок?"
 
 # game/social.rpy:2014
 translate russia alexCall_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/social.rpy:2017
 translate russia alexCall_2c95ee9a:
 
     # a "Yes sir! I promise to be the best anal agent in WOOHP!"
-    a ""
+    a "Да сэр! Я обещаю быть лучшим Анальным Агентом в WOOHP!"
 
 # game/social.rpy:2032
 translate russia decorateAlexCell_486844f3:
 
     # "Alex isn't available right now."
-    "сейчас недоступна."
+    "Алекс сейчас недоступна."
 
 # game/social.rpy:2049
 translate russia prisonersCall_a0da6221:
 
     # y "(Maybe I should wait until the girls are available before exploring around.)"
-    y ""
+    y "(Думаю мне стоит подождать, пока девушки не станут доступны, прежде чем дальше исследовать.)"
 
 # game/social.rpy:2057
 translate russia prisonersCall_7402123b:
 
     # "MAGGIE SOCIAL TREE NOT IN YET."
-    ""
+    "MAGGIE СОЦИАЛЬНОЕ ДЕРЕВО ЕЩЁ НЕ ДОСТУПНО."
 
 # game/social.rpy:2060
 translate russia prisonersCall_7402123b_1:
 
     # "MAGGIE SOCIAL TREE NOT IN YET."
-    ""
+    "MAGGIE СОЦИАЛЬНОЕ ДЕРЕВО ЕЩЁ НЕ ДОСТУПНО."
 
 # game/social.rpy:2070
 translate russia prisonersCall_7402123b_2:
 
     # "MAGGIE SOCIAL TREE NOT IN YET."
-    ""
+    "MAGGIE СОЦИАЛЬНОЕ ДЕРЕВО ЕЩЁ НЕ ДОСТУПНО."
 
 # game/social.rpy:2073
 translate russia prisonersCall_7402123b_3:
 
     # "MAGGIE SOCIAL TREE NOT IN YET."
-    ""
+    "MAGGIE СОЦИАЛЬНОЕ ДЕРЕВО ЕЩЁ НЕ ДОСТУПНО."
 
 # game/social.rpy:2080
 translate russia prisonersCall_7402123b_4:
 
     # "MAGGIE SOCIAL TREE NOT IN YET."
-    ""
+    "MAGGIE СОЦИАЛЬНОЕ ДЕРЕВО ЕЩЁ НЕ ДОСТУПНО."
 
 # game/social.rpy:2083
 translate russia prisonersCall_7402123b_5:
 
     # "MAGGIE SOCIAL TREE NOT IN YET."
-    ""
+    "MAGGIE СОЦИАЛЬНОЕ ДЕРЕВО ЕЩЁ НЕ ДОСТУПНО."
 
 # game/social.rpy:2092
 translate russia prisonersCall_2d8193c6:
 
     # y "Muffy~... Muffy Muffy Muf~..."
-    y ""
+    y "Маффи~... Маффи Маффи Маф~..."
 
 # game/social.rpy:2093
 translate russia prisonersCall_dbc5a1c7:
 
     # muff "........................."
-    muff ""
+    muff "........................."
 
 # game/social.rpy:2094
 translate russia prisonersCall_5338a4b6:
 
     # y "I read your file and it says here you're a sorority girl."
-    y ""
+    y "Я прочитал твоё досье. Там написано, что ты из женского общества."
 
 # game/social.rpy:2095
 translate russia prisonersCall_ab8a6d5f:
 
     # y "Not exactly what I expected from a punk rocker."
-    y ""
+    y "Не совсем то, что я ожидал от панк-рокерши."
 
 # game/social.rpy:2096
 translate russia prisonersCall_64dde41e:
 
     # muff "{b}*Scoffs*{/b} I was rejected from every sorority I applied to. That's why I created my own."
-    muff ""
+    muff "{b}*Насмехается*{/b} Мне не брали ни в одно женское общество. Поэтому я создала своё собственное."
 
 # game/social.rpy:2097
 translate russia prisonersCall_8865389f:
 
     # y "And then mind controlled the other sororities into joining you..."
-    y ""
+    y "А потом заставила все остольные общества присоединиться к твоему..."
 
 # game/social.rpy:2098
 translate russia prisonersCall_55f40209:
 
     # y "Still... Why join the Outsiders? Wouldn't the Aces or Drift Punk have been a better fit for you?"
-    y ""
+    y "И всё же... Зачем вступать к \"Аутсайдерам\"? Может Тузы или Дрифт Панки подошли бы тебе больше?"
 
 # game/social.rpy:2099
 translate russia prisonersCall_c4f839ca:
 
     # muff "I did some thinking in prison..."
-    muff ""
+    muff "В тюрьме я всё обдумала..."
 
 # game/social.rpy:2100
 translate russia prisonersCall_4df78b60:
 
     # muff "After some deep reflecting and inner soul searching...."
-    muff ""
+    muff "После глубокого размышлений и внутреннего душевного поиска..."
 
 # game/social.rpy:2101
 translate russia prisonersCall_b098c990:
 
     # y "Yes~...?"
-    y ""
+    y "Да~...?"
 
 # game/social.rpy:2102
 translate russia prisonersCall_777ea7d4:
 
     # muff "I decided I shouldn't be held responsible for my actions! It was all society's fault!"
-    muff ""
+    muff "Я решила, что не должна отвечать за свои поступки! Во всём виновато общество!"
 
 # game/social.rpy:2103
 translate russia prisonersCall_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/social.rpy:2104
 translate russia prisonersCall_abdb03c6:
 
     # muff "Who cares about a stupid sorority when the {i}man{/i} is still out there keeping you down?!"
-    muff ""
+    muff "Кого волнует дурацкое женское общество, когда {i}мужчины{/i} всё ещё угнетают тебя?!"
 
 # game/social.rpy:2106
 translate russia prisonersCall_ea5c2d5f:
 
     # a "Hey [playerName]. Any luck with Muffy?"
-    a ""
+    a "Привет [playerName]. Как дела с Маффи?"
 
 # game/social.rpy:2107
 translate russia prisonersCall_6b4f6842:
 
     # muff "You...!"
-    muff ""
+    muff "Ты...!"
 
 # game/social.rpy:2108
 translate russia prisonersCall_201d3121:
 
     # muff "I'll get you for this, Alex! Better sleep with one eye open cause I'm coming for you when you least exp-..."
-    muff ""
+    muff "Я достану тебя, Алекс! Спи с открытыми глазами! Я прейду за тобой, когда ты будешь меньше всего этого ожи-..."
 
 # game/social.rpy:2109
 translate russia prisonersCall_3da679f7:
 
     # a y56 "Hey... Her eyes are red."
-    a y56 ""
+    a y56 "Эй... Её глаза красные."
 
 # game/social.rpy:2110
 translate russia prisonersCall_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/social.rpy:2111
 translate russia prisonersCall_f0bf5ae3:
 
     # y "Ah damn it... she's under nanobot control aswell. All right Muffy, drop your panties."
-    y ""
+    y "Чёрт возьми... она тоже под контролем наноботов. Ладно Маффи, снимай трусы."
 
 # game/social.rpy:2112
 translate russia prisonersCall_960dc57d:
 
     # muff "W-what?"
-    muff ""
+    muff "Ч-что?"
 
 # game/social.rpy:2113
 translate russia prisonersCall_5b62da5b:
 
     # a y55 "Don't worry! He's just gonna break the nanobot control over you by putting his peepee in you!"
-    a y55 ""
+    a y55 "Не волнуйся! Он просто нарушит контроль наноботов, засунув в тебя свою пипирку!"
 
 # game/social.rpy:2114
 translate russia prisonersCall_9ba293e9:
 
     # muff "................."
-    muff ""
+    muff "................."
 
 # game/social.rpy:2115
 translate russia prisonersCall_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/social.rpy:2116
 translate russia prisonersCall_bc38a11c:
 
     # muff "Fine... as long as the banana isn't here to watch."
-    muff ""
+    muff "Ладно... но если Банан не будет смотреть."
 
 # game/social.rpy:2117
 translate russia prisonersCall_07b2e57f:
 
     # y "Deal."
-    y ""
+    y "Договорились."
 
 # game/social.rpy:2118
 translate russia prisonersCall_a78eff0c:
 
     # a y28 "Banana?!"
-    a y28 ""
+    a y28 "Банан?!"
 
 # game/social.rpy:2120
 translate russia prisonersCall_b799ec4e:
 
     # "You shoo Alex out of the cell."
-    ""
+    "Вы выпроваживаете Алекс из камеры."
 
 # game/social.rpy:2123
 translate russia prisonersCall_67910e24:
 
     # muff "Yes! Yes! Rock on!"
-    muff ""
+    muff "Да! Да! Жги!"
 
 # game/social.rpy:2124
 translate russia prisonersCall_dffaa549:
 
     # muff "Ahh! Ah! Ah! ♥♥"
-    muff ""
+    muff "Аах! Уухх! Оах! ♥♥"
 
 # game/social.rpy:2125
 translate russia prisonersCall_7d74a0ac:
 
     # muff "Who cares about overthrowing the world! I wanna keep doing this forever!"
-    muff ""
+    muff "Кого вообще интересует захват мира! Я хочу делать это вечно!"
 
 # game/social.rpy:2126
 translate russia prisonersCall_ca4cb957:
 
     # muff "Ahhhh! ♥♥♥♥♥♥"
-    muff ""
+    muff "Ааааххх! ♥♥♥♥♥♥"
 
 # game/social.rpy:2127
 translate russia prisonersCall_ef574bd0:
 
     # y "Say cheese!"
-    y ""
+    y "Скажи сыр!"
 
 # game/social.rpy:2136
 translate russia prisonersCall_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/social.rpy:2139
 translate russia prisonersCall_8011e482:
 
     # muff "{b}*Pant* *Pant*{/b} Now that was {i}intense{/i}!"
-    muff ""
+    muff "{b}*Пыхтит* *Пыхтит*{/b} {w}Это... {w}просто... {w}{i}АХУЕННО{/i}!"
 
 # game/social.rpy:2140
 translate russia prisonersCall_4eed35e2:
 
     # y "Still feeling evil?"
-    y ""
+    y "Всё ещё чувствуещь себя злой?"
 
 # game/social.rpy:2141
 translate russia prisonersCall_55e5d522:
 
     # muff "I'm a villain, of course I still feel evil. {w}But at least I no longer want to work for the Outsiders."
-    muff ""
+    muff "Я злодейка, конечно я всё ещё чувствую зло. {w}Но по крайней мере, я больше не хочу работать на Аутсайдеров."
 
 # game/social.rpy:2142
 translate russia prisonersCall_86cdade8:
 
     # y "Then let's talk for a bit..."
-    y ""
+    y "Тогда давай немного поговорим..."
 
 # game/social.rpy:2143
 translate russia prisonersCall_6fa5e5b3:
 
     # "Muffy tells you everything she knows about WOOHP HQ and the mastermind's plans."
-    ""
+    "Маффи рассказывает вам всё, что знает о штаб-квартире WOOHP и планах организатора."
 
 # game/social.rpy:2148
 translate russia prisonersCall_20e19456:
 
     # muff "So... seeing as I hel-..."
-    muff ""
+    muff "Так что... раз уж я-..."
 
 # game/social.rpy:2149
 translate russia prisonersCall_12f16434:
 
     # y "I'm not letting you go."
-    y ""
+    y "Я не отпущу тебя."
 
 # game/social.rpy:2150
 translate russia prisonersCall_4ab3d1d4:
 
     # muff "Oh..."
-    muff ""
+    muff "Ох..."
 
 # game/social.rpy:2152
 translate russia prisonersCall_dd2e9d83:
 
     # "Computer" "Muffy Peprich status: Captured.{w} Allocating resources..."
-    "Computer" "Маффи Пеприч"
+    "Компьютер" "Статус Маффи Пеприч: Захвачена.{w} Выделение ресурсов..."
 
 # game/social.rpy:2160
 translate russia prisonersCall_31ca5265:
 
     # "Not yet in"
-    ""
+    "Ещё не доступно"
 
 # game/social.rpy:2207
 translate russia socialSilva_e9a8a208:
 
     # "The journey is made more difficult by the wild plants and trees growing everywhere now."
-    ""
+    "Путешествие усложняется тем, что сейчас повсюду растут дикие растения и деревья."
 
 # game/social.rpy:2209
 translate russia socialSilva_379b4af8:
 
     # y "It's like a freakin' jungle here!"
-    y ""
+    y "Мы как будто в джунглях!"
 
 # game/social.rpy:2211
 translate russia socialSilva_f5ab8203:
 
     # sil "Ce n'était pas ma faute!"
-    sil ""
+    sil "Ce n'était pas ma faute! (Это не моя вина!)"
 
 # game/social.rpy:2212
 translate russia socialSilva_215ea3ee:
 
     # y "....?"
-    y ""
+    y "....?"
 
 # game/social.rpy:2213
 translate russia socialSilva_3ccb88b4:
 
     # "That sounded like Silva as you begin making your way to the noise."
-    ""
+    "Похоже на Сильву, вы начинаете пробираться на шум."
 
 # game/social.rpy:2214
 translate russia socialSilva_74326e04:
 
     # y "Sil?"
-    y ""
+    y "Сил?"
 
 # game/social.rpy:2215
 translate russia socialSilva_efcd8608:
 
     # sil "!!!"
-    sil ""
+    sil "!!!"
 
 # game/social.rpy:2217
 translate russia socialSilva_82c29dd1:
 
     # "Suddenly you're snatched up by a gigantic carnivorous plant!"
-    ""
+    "Вдруг вас схватило гигантское плотоядное растение!"
 
 # game/social.rpy:2218
 translate russia socialSilva_72d569bc:
 
     # y "ARGH!"
-    y ""
+    y "АРГХ!"
 
 # game/social.rpy:2219
 translate russia socialSilva_d5e3e16f:
 
     # sil "Non! Non, put him down! Bad plant!"
-    sil ""
+    sil "Нет! Нет, положи его! Плохое растение!"
 
 # game/social.rpy:2220
 translate russia socialSilva_40f5aec3:
 
     # "A second later you're spat out again as you drop down to the pavement below."
-    ""
+    "Секунду спустя вас снова выполёвывают, и вы падаете вниз на тротуар."
 
 # game/social.rpy:2221
 translate russia socialSilva_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/social.rpy:2222
 translate russia socialSilva_31754b58:
 
     # y "Traumatizing."
-    y ""
+    y "Травма."
 
 # game/social.rpy:2228
 translate russia socialSilva_9bc5c31b:
 
     # sil "Oh! Are you okay? Sorry, he iz a bit overzealous with guarding ze garden."
-    sil ""
+    sil "Ох! Ты в порядке? Извини, он слишком усердно охраняет сад."
 
 # game/social.rpy:2229
 translate russia socialSilva_352ead81:
 
     # y "No kidding. Think you might've gone a bit overboard? It's like a jungle in here."
-    y ""
+    y "Без шуток. Не думаешь что немного переборщила? Тут как в джунглях."
 
 # game/social.rpy:2230
 translate russia socialSilva_64ca3ec7:
 
     # sil "Overboard? No no, if anything I haven't done enough! So many pretty flowers!"
-    sil ""
+    sil "Переборщила? Нет,нет, если что я ещё не закончила! Столько красивых цветов!"
 
 # game/social.rpy:2231
 translate russia socialSilva_e11238ef:
 
     # sil "Ze world would be so much nicer if we replaced all these ugly concrete parking lots with colorful plants, non?"
-    sil ""
+    sil "Мир стал бы намного красивее, если бы мы заменили все эти уродливые бетонные парковки на красочные растения, не так ли?"
 
 # game/social.rpy:2232
 translate russia socialSilva_981d1d5e:
 
     # y "And where are us humans suppose to live then?"
-    y ""
+    y "И где тогда нам, людям, жить?"
 
 # game/social.rpy:2233
 translate russia socialSilva_e46f0246:
 
     # sil "Oh I have thought of zhat too! Humans can all live in these vine caves! Zhey're water tight, isolating and can grow in size to support large families!"
-    sil ""
+    sil "О, я тоже об этом думала! Все люди могут жить в виноградных пещерах! Они водонепроницаемы, изолированы и могут увеличиваться в размерах, чтобы вмещать большие семьи!"
 
 # game/social.rpy:2234
 translate russia socialSilva_0c7b70ce:
 
     # y "And one may accidentally molest your girlfriend."
-    y ""
+    y "А тентакли могут случайно пристать к твоей девушке."
 
 # game/social.rpy:2235
 translate russia socialSilva_5f7cd8a5:
 
     # sil "Tentacles have a mind of their own. Zhey can't help it!"
-    sil ""
+    sil "Тентакли обладают собственным разумом. Они ничего не могут с этим поделать!"
 
 # game/social.rpy:2236
 translate russia socialSilva_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/social.rpy:2237
 translate russia socialSilva_bd51bd0b:
 
     # y "Parking lots sound pretty appealing right now..."
-    y ""
+    y "Парковки сейчас звучат более привлекательние..."
 
 # game/social.rpy:2238
 translate russia socialSilva_f73320f9:
 
     # sil "Oh vous of little faith. I am going to make zhis world beautiful. You'll see! As soon as ze mastermind picks me as their righthand woman, I shall take back the world that was taken from nature and return it to its original, beautiful state."
-    sil ""
+    sil "Я сделаю этот мир прекрасным. Вот увидишь! Как только организатор выберет меня своей правой рукой, я верну мир, который был отнят у природы! Я верну его в первоначальное, прекрасное состояние."
 
 # game/social.rpy:2239
 translate russia socialSilva_0e27f166:
 
     # y "Yeah... That's what I'm worried about."
-    y ""
+    y "Да... Я об этом и беспокоюсь."
 
 # game/social.rpy:2243
 translate russia socialSilva_d34bc890:
 
     # "You spend the rest of the day chatting with Silva Abegail. When it gets late, you return to the base."
-    ""
+    "Остаток деня вы общаетесь с Сильвой Абегайл. Когда становится поздно, вы возвращаетесь на базу."
 
 # game/social.rpy:2249
 translate russia socialSilva_1042c256:
 
     # y "(All right, to avoid that big ass plant this time, I brought some dog treats.)"
-    y ""
+    y "(Отлично, чтобы избежать этого большого растения, я принёс собачьи лакомства.)"
 
 # game/social.rpy:2250
 translate russia socialSilva_e1ace239:
 
     # "With dog treats in hand, you begin making your way through the jungle of Les Épines."
-    ""
+    "С лакомствами для собак в руках вы начинаете пробираться через джунгли Шипов."
 
 # game/social.rpy:2251
 translate russia socialSilva_135b00a8:
 
     # y "(It's even denser than last time... Now was it left or rig-...)"
-    y ""
+    y "(Они что ещё выросли... Теперь на лево или на пра-...)"
 
 # game/social.rpy:2253
 translate russia socialSilva_a0a53051:
 
     # sil "Attention!"
-    sil ""
+    sil "Внимание!"
 
 # game/social.rpy:2254
 translate russia socialSilva_ae4bfad7:
 
     # y "!!!"
-    y ""
+    y "!!!"
 
 # game/social.rpy:2255
 translate russia socialSilva_36f988d0:
 
     # "Just in time you notice a large bed of flowers, completely covered in massive thorns."
-    ""
+    "Вы вовремя замечаете большую клумбу с цветами, полностью покрытую массивными колючками."
 
 # game/social.rpy:2262
 translate russia socialSilva_2ecac2b6:
 
     # y "(That was close...)"
-    y ""
+    y "(Это было близко...)"
 
 # game/social.rpy:2263
 translate russia socialSilva_83af123f:
 
     # sil "Welcome to my little garden, mon ami! It iz always good to see you!"
-    sil ""
+    sil "Добро пожаловать в мой маленький сад, мон ами! Я всегда рада тебя видеть!"
 
 # game/social.rpy:2264
 translate russia socialSilva_701e51fe:
 
     # sil "Oh and please watch out for ze thorns on those plants. They are highly acidic and will burn through human flesh with ease."
-    sil ""
+    sil "Ох, и, пожалуйста, остерегайтесь колючек на этих растениях. Они обладают высокой кислотностью и легко прожигают человеческую плоть."
 
 # game/social.rpy:2265
 translate russia socialSilva_bfa4c785:
 
     # y "Sil! Keep your weeds in check!"
-    y ""
+    y "Сил! Держи свои сорняки под контролем!"
 
 # game/social.rpy:2266
 translate russia socialSilva_1a5e080f:
 
     # sil "Zhey are not weeds! I planted zhem there myself!"
-    sil ""
+    sil "Это не сорняки! Я сама посадила их там!"
 
 # game/social.rpy:2267
 translate russia socialSilva_5e0b9a19:
 
     # y "As a trap?"
-    y ""
+    y "В качестве ловушки?"
 
 # game/social.rpy:2268
 translate russia socialSilva_ca82250b:
 
     # sil "No, because zhey look nice!"
-    sil ""
+    sil "Нет, потому что они хорошо выглядят!"
 
 # game/social.rpy:2269
 translate russia socialSilva_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/social.rpy:2270
 translate russia socialSilva_a1f5062e:
 
     # y "I-..."
-    y ""
+    y "Я-..."
 
 # game/social.rpy:2271
 translate russia socialSilva_950a2797:
 
     # sil "Before you say something! Remember that nature also provides."
-    sil ""
+    sil "Прежде чем что-то сказать! Помните, что природа очень полезна."
 
 # game/social.rpy:2272
 translate russia socialSilva_b92b31a0:
 
     # "Silva hands you a pear as the two of you make your way through the bush."
-    ""
+    "Сильва протягивает вам грушу, пока вы вдвоем пробираетесь через кустарник."
 
 # game/social.rpy:2273
 translate russia socialSilva_0d7e9f6a:
 
     # y "Your gangsters must have a hard time making their way past all the dangerous plants, right?"
-    y ""
+    y "Твоим бандитам, должно быть, нелегко пробираться сквозь все эти опасные растений, верно?"
 
 # game/social.rpy:2274
 translate russia socialSilva_79be76a2:
 
     # sil "............."
-    sil ""
+    sil "............."
 
 # game/social.rpy:2275
 translate russia socialSilva_a17aa53a:
 
     # sil "Oh...! No, not at all! Zhey know what to look out for."
-    sil ""
+    sil "Ох..! Нет, совсем нет! Они знают, чего следует остерегаться."
 
 # game/social.rpy:2276
 translate russia socialSilva_5117bffa:
 
     # y "Where are they anyways?"
-    y ""
+    y "Где они вообще?"
 
 # game/social.rpy:2277
 translate russia socialSilva_6d175cf8:
 
     # sil "On a daring mission to bring me back-..."
-    sil ""
+    sil "Они на опасной мисси, чтобы вернуть мне-..."
 
 # game/social.rpy:2278
 translate russia socialSilva_d8b8f41c:
 
     # y "More plants?"
-    y ""
+    y "Больше растений?"
 
 # game/social.rpy:2279
 translate russia socialSilva_69fd204a:
 
     # sil "How did you know?!"
-    sil ""
+    sil "Откуда ты знаешь?!"
 
 # game/social.rpy:2283
 translate russia socialSilva_7c5b4ba2:
 
     # "You and Silva spend the rest of the day chatting. When it turns dark, you carefully make your way back to the base."
-    ""
+    "Вы и Сильва проводите остаток дня беседуя. Когда темнеет, вы осторожно пробираетесь обратно на базу."
 
 # game/social.rpy:2289
 translate russia socialSilva_526ac301:
 
     # y "(How upset would Abegail be with me if I brought some Weed Killer? Best not risk it.)"
-    y ""
+    y "(Как сильно расстроится Абегайл, если я принесу \"Убийцу травы\"? Лучше не рисковать.)"
 
 # game/social.rpy:2290
 translate russia socialSilva_687eb398:
 
     # "You begin your safari through the jungle, making sure to dodge any dangerous obstacle you come across."
-    ""
+    "Стараясь увернуться от любого опасного препятствия которое вам встретится, вы начинаете свое сафари по джунглям."
 
 # game/social.rpy:2298
 translate russia socialSilva_3caaed14:
 
     # sil "♫♪ {i}'Alouette, gentille alouette. Allouette, je te plumerai~...'{/i} ♫♪"
-    sil ""
+    sil "♫♪ {i}'Alouette, gentille alouette. Allouette, je te plumerai~...'{/i} ♫♪"
 
 # game/social.rpy:2299
 translate russia socialSilva_095cd986:
 
     # y "Are you singing to your plants?"
-    y ""
+    y "Ты поёшь для своих растений?"
 
 # game/social.rpy:2300
 translate russia socialSilva_fe87752e:
 
     # sil "Oh! Hello again! Why oui, I am!"
-    sil ""
+    sil "Ох! И снова здравствуй! Конечно!"
 
 # game/social.rpy:2301
 translate russia socialSilva_464a8bbe:
 
     # y "That's kinda crazy, Sil."
-    y ""
+    y "Звучит безумно, Сил."
 
 # game/social.rpy:2302
 translate russia socialSilva_6cbc4167:
 
     # sil "Takes one to know one, mon ami."
-    sil ""
+    sil "рыбак рыбака видит издалека, мон ами."
 
 # game/social.rpy:2303
 translate russia socialSilva_34d5447b_1:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/social.rpy:2304
 translate russia socialSilva_dcb6a27e:
 
     # y "Touché."
-    y ""
+    y "Touché. (Как трогательно.)"
 
 # game/social.rpy:2305
 translate russia socialSilva_e65bf53c:
 
     # sil "Oh! Zhat was French. Very good!"
-    sil ""
+    sil "Ох! Это Французский. Очень хорошо!"
 
 # game/social.rpy:2306
 translate russia socialSilva_949aa76b:
 
     # sil "Have you come to chat?"
-    sil ""
+    sil "Пришёл поболтать?"
 
 # game/social.rpy:2307
 translate russia socialSilva_cc508dc4:
 
     # "The two of you find a nice place to sit down and have some tea."
-    ""
+    "Вдвоем вы находите приятное место, где можно присесть и выпить чаю."
 
 # game/social.rpy:2308
 translate russia socialSilva_c98c835f:
@@ -9724,7 +9724,7 @@ translate russia strings:
 
     # game/social.rpy:85
     old "Girl"
-    new "Девчёнка"
+    new "Детка"
 
     # game/social.rpy:85
     old "Cucumber"

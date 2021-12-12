@@ -1,41 +1,41 @@
-Sun Dec 12 00:17:24 2021
+Sun Dec 12 22:46:53 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
  
 
-Bootstrap to the start of init.init took 0.17s
+Bootstrap to the start of init.init took 0.65s
 Early init took 0.01s
-Loader init took 0.82s
-Loading error handling took 0.29s
-Loading script took 7.01s
-Loading save slot metadata. took 1.39s
+Loader init took 0.71s
+Loading error handling took 0.27s
+Loading script took 5.14s
+Loading save slot metadata. took 1.22s
 Loading persistent took 0.05s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Set script version to: (7, 4, 6)
-Running init code took 0.55s
-Loading analysis data took 0.59s
-Analyze and compile ATL took 0.11s
+Running init code took 0.45s
+Loading analysis data took 0.53s
+Analyze and compile ATL took 0.10s
 Index archives took 0.00s
-Dump and make backups. took 0.33s
+Dump and make backups. took 0.39s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.36s
+Initial gc. took 0.43s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.01s
 Cleaning stores took 0.00s
 Init translation took 0.37s
-Build styles took 0.01s
-Load screen analysis took 0.04s
-Analyze screens took 0.27s
-Save screen analysis took 0.57s
-Prepare screens took 1.37s
+Build styles took 0.00s
+Load screen analysis took 0.49s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 1.36s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
-Running _start took 0.01s
+Running _start took 0.00s
 Performance test:
-Interface start took 0.61s
+Interface start took 0.59s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
@@ -45,5 +45,5 @@ Vendor: 'Intel'
 Renderer: 'Intel(R) HD Graphics 615'
 Version: '4.6.0 - Build 26.20.100.7637'
 Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
+Screen sizes: virtual=(1280, 720) physical=(1695, 953) drawable=(1695, 953)
 Maximum texture size: 4096x4096

@@ -189,11 +189,11 @@ init python:
 
     build.classify('game/bgs/**.png', 'archive')
     build.classify('game/gui/**.png', 'archive')
-    build.classify('game/mission/**.png', 'archive')      
+    build.classify('game/mission/**.png', 'archive')
     build.classify('game/models/**.png', 'archive')
     build.classify('game/bgs/**.jpg', 'archive')
     build.classify('game/gui/**.jpg', 'archive')
-    build.classify('game/mission/**.jpg', 'archive')      
+    build.classify('game/mission/**.jpg', 'archive')
     build.classify('game/models/**.jpg', 'archive')
     build.classify('game/**.mp3', 'archive')
     build.classify('game/**.ogg', 'archive')
