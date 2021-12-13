@@ -6574,7 +6574,7 @@ translate russia socialSilva_0e27f166:
 translate russia socialSilva_d34bc890:
 
     # "You spend the rest of the day chatting with Silva Abegail. When it gets late, you return to the base."
-    "Остаток деня вы общаетесь с Сильвой Абегайл. Когда становится поздно, вы возвращаетесь на базу."
+    "Остаток деня вы общаетесь с Сильвой Эбегейл. Когда становится поздно, вы возвращаетесь на базу."
 
 # game/social.rpy:2249
 translate russia socialSilva_1042c256:
@@ -6730,7 +6730,7 @@ translate russia socialSilva_7c5b4ba2:
 translate russia socialSilva_526ac301:
 
     # y "(How upset would Abegail be with me if I brought some Weed Killer? Best not risk it.)"
-    y "(Как сильно расстроится Абегайл, если я принесу \"Убийцу травы\"? Лучше не рисковать.)"
+    y "(Как сильно расстроится Эбегейл, если я принесу \"Убийцу травы\"? Лучше не рисковать.)"
 
 # game/social.rpy:2290
 translate russia socialSilva_687eb398:
@@ -6802,2875 +6802,2875 @@ translate russia socialSilva_cc508dc4:
 translate russia socialSilva_c98c835f:
 
     # y "I gotta say Abegail. For being a bit of a botanical fanatic, you're not a bad neighbor to have around."
-    y ""
+    y "Должен сказать, Эбегейл. Поскольку ты совсем немножко фанатееш по растениям, ты не самый плохой сосед."
 
 # game/social.rpy:2309
 translate russia socialSilva_23a3afcf:
 
     # sil "Non?"
-    sil ""
+    sil "Да?"
 
 # game/social.rpy:2310
 translate russia socialSilva_a157dcb7:
 
     # y "I never hear of any issues caused by your gang. No gunshots, no fires in the streets."
-    y ""
+    y "Я никогда не слышал о каких-либо проблемах, вызванных твоей бандой. Ни выстрелов, ни пожаров на улицах."
 
 # game/social.rpy:2311
 translate russia socialSilva_74d730a2:
 
     # y "Sure, I have to sometimes dodge one of your abominations, but so far none of your plants have eaten any of my staff yet."
-    y ""
+    y "Конечно, иногда мне приходится уворачиваться от твоих мерзких существ, но пока ни одно из твоих растений не съело ни одного моего сотрудника."
 
 # game/social.rpy:2312
 translate russia socialSilva_f645e12d:
 
     # sil "Staff? Oh! Wait, you mentioned opening a bar, oui?"
-    sil ""
+    sil "Сотрудника? Оо! Подожди, ты говорил об открытии бара, да?"
 
 # game/social.rpy:2313
 translate russia socialSilva_144d406d:
 
     # sil "Please tell me more!"
-    sil ""
+    sil "Рассказывай!"
 
 # game/social.rpy:2314
 translate russia socialSilva_34d328b1:
 
     # y "Er...."
-    y ""
+    y "Эм..."
 
 # game/social.rpy:2315
 translate russia socialSilva_4bf38816:
 
     # y "Well it's what you'd expect. We serve food and people come there to relax. We managed to declare neutral ground, so everyone is allowed to show up without the fear of being attacked by a rival gang."
-    y ""
+    y "Ну тут всё как положено. Мы подаём еду, а люди приходят к нам, чтобы отдохнуть. Нам удалось объявить бар нейтральной территорией, поэтому все могут приходить туда без страха быть атакованными конкурирующей бандой."
 
 # game/social.rpy:2316
 translate russia socialSilva_618aaeda:
 
     # sil "Oh zhat sounds wonderful!{w} Can I visit sometime?"
-    sil ""
+    sil "Звучит замечательно!{w} Могу я как-нибудь прийти?"
 
 # game/social.rpy:2317
 translate russia socialSilva_b5f5b9b8:
 
     # y "I don't see why not. Just don't bring any of your killer plants."
-    y ""
+    y "Почему бы и нет. Только без твоих растений-убийц."
 
 # game/social.rpy:2318
 translate russia socialSilva_001dbe9e:
 
     # y "That actually reminds me... I don't think I've seen {i}'any'{/i} gangmembers of Les Épines visit the bar before."
-    y ""
+    y "Кстати... Не припомню, чтобы {i}'кто-то'{/i} из Шипов раньше вообще посещал наш бар."
 
 # game/social.rpy:2319
 translate russia socialSilva_43d7606f:
 
     # sil "Oh you know. Busy, busy! We have a world to conquer, you know!"
-    sil ""
+    sil "Ох, ну знаешь, мы всё время заняты. Нам ведь предстоит завоевать целый мир!"
 
 # game/social.rpy:2320
 translate russia socialSilva_f4d5683c:
 
     # sil "..................."
-    sil ""
+    sil "..................."
 
 # game/social.rpy:2321
 translate russia socialSilva_7e50c106:
 
     # sil "A-anyways, I would love to visit. I'll stop by sometime soon!"
-    sil ""
+    sil "В любом случае я с удовольствием как-нибудь загляну к вам!"
 
 # game/social.rpy:2325
 translate russia socialSilva_57e130bd:
 
     # "You and Sil spend the rest of the day chatting before you head back home."
-    ""
+    "Прежде чем отправиться домой вы и Сил проведете остаток дня общаясь."
 
 # game/social.rpy:2331
 translate russia socialSilva_cab78e34:
 
     # y "(Maybe I should bring snacks next time.{w} What does Sil even eat...?)"
-    y ""
+    y "(Может, стоит в следующий раз взять с собой снэков.{w} Что Сил вообще ест...?)"
 
 # game/social.rpy:2332
 translate russia socialSilva_eb9c5e0b:
 
     # y "(Those hippy types seem to love vegan stuff, but if I show up with a salad she might get angry at me for bringing her dead plants.)"
-    y ""
+    y "(Хиппи ведь любят веганские штучки. Но если я приду с салатом, она может рассердиться на меня за то, что я принёс мертвые растения.)"
 
 # game/social.rpy:2333
 translate russia socialSilva_8d073280:
 
     # y "(I'll be sure to think it ove-...)"
-    y ""
+    y "(Нужно всё хорошенько обду-...)"
 
 # game/social.rpy:2334
 translate russia socialSilva_2b30c5bc:
 
     # y "Oh!"
-    y ""
+    y "Ох!"
 
 # game/social.rpy:2337
 translate russia socialSilva_3e518a94:
 
     # "You tripped over a pair of overgrown boots!"
-    ""
+    "Вы споткнулись о пару заросших сапог!"
 
 # game/social.rpy:2339
 translate russia socialSilva_a999fda9:
 
     # y "Oh right... hazardous jungle. Best pay attention."
-    y ""
+    y "Ах да... опасные джунгли. Нужно быть повнимательнее."
 
 # game/social.rpy:2345
 translate russia socialSilva_404cb448:
 
     # sil "Oh bonjour!{w} Why are you lying on the ground? Are you tired?"
-    sil ""
+    sil "Ох, бонжур!{w} Почему ты лежишь на земле? Устал?"
 
 # game/social.rpy:2346
 translate russia socialSilva_4574ef8b:
 
     # y "Tired of having to pack my safari hat everytime I want to come visit you."
-    y ""
+    y "Устал каждый раз искать свою шляпу для сафари, когда хочу навестить тебя."
 
 # game/social.rpy:2347
 translate russia socialSilva_446acf51:
 
     # sil "Oh look like somebody has a case of the grumpies!{w} Come, I'll make tea."
-    sil ""
+    sil "Оо, похоже кто-то заболел ворчливостью!{w} Пойдем, я сделаю чай."
 
 # game/social.rpy:2348
 translate russia socialSilva_53e28003:
 
     # "The two of you find a nice spot to sit down for tea."
-    ""
+    "Вы вдвоем находите хорошее место, чтобы насладиться чаем."
 
 # game/social.rpy:2349
 translate russia socialSilva_f296c6fb:
 
     # y "So your reputation is growing."
-    y ""
+    y "Значит, ваша репутация растёт."
 
 # game/social.rpy:2350
 translate russia socialSilva_5fbcc87e:
 
     # sil "Oui?"
-    sil ""
+    sil "Растёт?"
 
 # game/social.rpy:2351
 translate russia socialSilva_ada0d013:
 
     # y "Yeah, I overheard some gangsters mention being too afraid to go near your jungle."
-    y ""
+    y "Да, я слышал что некоторые бандиты боятся приближаться к твоим джунглям."
 
 # game/social.rpy:2352
 translate russia socialSilva_6bdddc64:
 
     # sil "Ah... I see."
-    sil ""
+    sil "Ах... Понятно."
 
 # game/social.rpy:2353
 translate russia socialSilva_1187dc1d:
 
     # sil "Well I'm glad zhey are clever enough not to mess with moi."
-    sil ""
+    sil "Рада, что они достаточно умны, чтобы не связываться с муа."
 
 # game/social.rpy:2354
 translate russia socialSilva_10c94c52:
 
     # y "I haven't seen any of your gangmembers in ages. Are they still out gathering plants?"
-    y ""
+    y "Я давно не видел никого из твоей банды. Они всё ещё собирают растения?"
 
 # game/social.rpy:2355
 translate russia socialSilva_492f3087:
 
     # sil "Indeed! A ficus to be more precise. One that grows the most delicious fruits, but spews forth chloroform gas if you get too close!"
-    sil ""
+    sil "Ага! Они ищут фикус. Тот который даёт самые вкусные плоды, но выпускает газ хлороформ, если подойти слишком близко!"
 
 # game/social.rpy:2356
 translate russia socialSilva_fb347702:
 
     # y "Jesus! Why can't you just plant some nice daffodils instead?!"
-    y ""
+    y "Господи! Почему ты просто не посадишь красивые нарциссы?!"
 
 # game/social.rpy:2357
 translate russia socialSilva_71efe777:
 
     # sil "All plants deserve love!"
-    sil ""
+    sil "Все растения заслуживают любви!"
 
 # game/social.rpy:2358
 translate russia socialSilva_1565a94d:
 
     # y "Do all humans deserve love?"
-    y ""
+    y "Разве все люди заслуживают любви?"
 
 # game/social.rpy:2359
 translate russia socialSilva_48ade08f:
 
     # sil "Well... No I guess not."
-    sil ""
+    sil "Ну... Нет, думаю нет."
 
 # game/social.rpy:2360
 translate russia socialSilva_bd23e446:
 
     # y "Then not all plants deserve love either. Some plants are just dickbags."
-    y ""
+    y "Тогда и не все растения заслуживают любви. Некоторые растения - просто придурки."
 
 # game/social.rpy:2361
 translate russia socialSilva_691ad895:
 
     # sil "I promise that when I rule the planet, I'll make sure only nice plants grow around your house."
-    sil ""
+    sil "Обещаю, что когда я буду править планетой, я позабочусь о том, чтобы вокруг твоего дома росли только красивые растения."
 
 # game/social.rpy:2362
 translate russia socialSilva_8e8d3a3a:
 
     # y "If I survive the eucalyptus apocalypse that is."
-    y ""
+    y "Если я переживу эвкалиптовый апокалипсис."
 
 # game/social.rpy:2363
 translate russia socialSilva_697e4747:
 
     # sil "Oh! A plant pun. Very good!"
-    sil ""
+    sil "Ох! Растительный каламбур. Очень хорошо!"
 
 # game/social.rpy:2367
 translate russia socialSilva_57e130bd_1:
 
     # "You and Sil spend the rest of the day chatting before you head back home."
-    ""
+    "Прежде чем отправиться домой вы и Сил проведете остаток дня общаясь."
 
 # game/social.rpy:2373
 translate russia socialSilva_c8eaa4e5:
 
     # "{b}*Buzzzzzz*{/b}"
-    ""
+    "{b}*Бзззззззз*{/b}"
 
 # game/social.rpy:2374
 translate russia socialSilva_e93fe854:
 
     # y "Huh...?"
-    y ""
+    y "Хм...?"
 
 # game/social.rpy:2375
 translate russia socialSilva_c8eaa4e5_1:
 
     # "{b}*Buzzzzzz*{/b}"
-    ""
+    "{b}*Бзззззззз*{/b}"
 
 # game/social.rpy:2376
 translate russia socialSilva_9b0814e5:
 
     # y "OW!"
-    y ""
+    y "ОУ!"
 
 # game/social.rpy:2377
 translate russia socialSilva_9893e6c5:
 
     # "You slap your arm and kill a mosquito that bit you."
-    ""
+    "Вы шлёпаете по руке и убиваете комара, который вас укусил."
 
 # game/social.rpy:2378
 translate russia socialSilva_ccec5a59:
 
     # y "First deadly plants and now mosquitos..? I'm gonna end up getting malaria in this jungle...."
-    y ""
+    y "Сначала смертоносные растения, а теперь комары...? Так я подхвачу малярию в этих джунглях...."
 
 # game/social.rpy:2379
 translate russia socialSilva_8090103d:
 
     # y "Maybe next time I'll ask Silva to come meet me at my pla-....{w} Huh...?"
-    y ""
+    y "Может в следующий раз стоит встретиться с Сильвой у моей баз-...{w} А...?"
 
 # game/social.rpy:2380
 translate russia socialSilva_66262981:
 
     # "You see something shiny in the dirt. Upon closer inspect you see...."
-    ""
+    "Вы видите что-то блестящее в грязи. Вы наклоняетесь и находите..."
 
 # game/social.rpy:2381
 translate russia socialSilva_9f6e262a:
 
     # y "A golden watch?{w} And a golden ring?!{w} Okay I take it back. This place is awesome."
-    y ""
+    y "Золотые часы?{w} Золотое кольцо?!{w} Ладно, беру свои слова назад. Это место потрясающее."
 
 # game/social.rpy:2389
 translate russia socialSilva_012e85ce:
 
     # s "Oooh, what's zis little fly I spot buzzing in my garden...~?"
-    s ""
+    s "Оооо, что это за мушка, которую я заметила в моем саду...~?"
 
 # game/social.rpy:2390
 translate russia socialSilva_7dcdbfe8:
 
     # y "More like mosquito. You know you're gonna get sick with these around, right?"
-    y ""
+    y "Это больше похоже на комара. Ты же знаешь, что они очень заразные?"
 
 # game/social.rpy:2391
 translate russia socialSilva_ed1b0f8c:
 
     # s "Mosquitos?! Oh no...."
-    s ""
+    s "Комары?! Конечно нет..."
 
 # game/social.rpy:2392
 translate russia socialSilva_a2b0b3a0:
 
     # y "Oh no...?"
-    y ""
+    y "Нет...?"
 
 # game/social.rpy:2393
 translate russia socialSilva_f48ea0b4:
 
     # sil "I'll explain later. First, come come! I made you lunch!"
-    sil ""
+    sil "Объясню попозже. Во-первых пойдём скорее! Я приготовила тебе обед!"
 
 # game/social.rpy:2394
 translate russia socialSilva_f8eefd36:
 
     # "The two of you find a nice spot to sit as Silva hands you a salad."
-    ""
+    "Вы находите хорошее место, чтобы присесть. Сильва протягивает вам салат."
 
 # game/social.rpy:2395
 translate russia socialSilva_89794bf7:
 
     # y "Not gonna lie. This tastes amazing."
-    y ""
+    y "Не буду врать. На вкус потрясающе."
 
 # game/social.rpy:2396
 translate russia socialSilva_5a412eea:
 
     # sil "See? Nature is full of surprises!"
-    sil ""
+    sil "Видишь? Природа полна сюрпризов!"
 
 # game/social.rpy:2397
 translate russia socialSilva_620846bc:
 
     # sil "Sorry about the mosquito earlier. They came with the ficus I had brought in last time."
-    sil ""
+    sil "Извини за комара. Они тут из-за фикуса, который я привезла в прошлый раз."
 
 # game/social.rpy:2398
 translate russia socialSilva_ac779e33:
 
     # sil "They seem to be spreading quicker than my plants can eat them."
-    sil ""
+    sil "Похоже они размножаются быстрее чем мои растения успевают их съесть."
 
 # game/social.rpy:2399
 translate russia socialSilva_9c708668:
 
     # y "You might want to go buy some malaria pills."
-    y ""
+    y "Тебе лучше купить таблетки от малярии."
 
 # game/social.rpy:2400
 translate russia socialSilva_e2999b22:
 
     # sil "Oh, I sent some of my men to buy some for moi.{w} But zhey haven't returned yet."
-    sil ""
+    sil "Ох, я отправила моих людей купить немного муа.{w} Но они ещё не вернулись."
 
 # game/social.rpy:2401
 translate russia socialSilva_458057d6:
 
     # "The two of you happily continue chatting throughout the lunch. When you finish up you thank Sil and get up to leave."
-    ""
+    "Вы с удовольствием продолжаете общаться на протяжении всего обеда. Когда вы заканчиваете, вы благодарите Сил и встаёте, чтобы уйти."
 
 # game/social.rpy:2402
 translate russia socialSilva_573c28da:
 
     # sil "Are you... leaving so soon?"
-    sil ""
+    sil "У-уже... уходишь?"
 
 # game/social.rpy:2403
 translate russia socialSilva_437ff5d8:
 
     # y "I sorta have a business to run."
-    y ""
+    y "У меня вроде как есть бизнес."
 
 # game/social.rpy:2404
 translate russia socialSilva_4adaa5ce:
 
     # sil "Ah oui, I understand..."
-    sil ""
+    sil "Ах оу, да, понимаю..."
 
 # game/social.rpy:2405
 translate russia socialSilva_a7da2786:
 
     # y "I can stay a bit longer if you like...?"
-    y ""
+    y "Я могу остаться ещё ненадолго, если хочешь...?"
 
 # game/social.rpy:2406
 translate russia socialSilva_824bad63:
 
     # sil "Oh oui! Want to help me water my daffodils?"
-    sil ""
+    sil "Оо, да! Хочешь помочь мне полить нарциссы?"
 
 # game/social.rpy:2410
 translate russia socialSilva_a0fdf1d0:
 
     # "You and Sil spend the rest of the day chatting and taking care of the garden. When it starts getting dark, you head back home."
-    ""
+    "Остаток дня вы и Сил проведете в разговорах и уходом за садом. Когда начинает темнеть, вы возвращаетесь домой."
 
 # game/social.rpy:2416
 translate russia socialSilva_898f5cc8:
 
     # y "(Sometimes I wonder why I keep coming back here...)"
-    y ""
+    y "(Интересно, почему я постоянно возвращаюсь сюда...)"
 
 # game/social.rpy:2417
 translate russia socialSilva_f1699fdd:
 
     # "In the distance you softly hear singing."
-    ""
+    "Вдалеке слышно тихое пение."
 
 # game/social.rpy:2419
 translate russia socialSilva_fe1dcc25:
 
     # sil "♫♪ {i}'Alouette, gentille alouette. {b}*Sniff*{/b}{w} Allouette, je te plumerai~...'{/i} ♫♪"
-    sil ""
+    sil "♫♪ {i}'Alouette, gentille alouette. {b}*Всхлип*{/b}{w} Allouette, je te plumerai~...'{/i} ♫♪"
 
 # game/social.rpy:2420
 translate russia socialSilva_74326e04_1:
 
     # y "Sil?"
-    y ""
+    y "Сил?"
 
 # game/social.rpy:2430
 translate russia socialSilva_24d49c35:
 
     # sil "{b}*Yelps*{/b}"
-    sil ""
+    sil "{b}*Вскрикивает*{/b}"
 
 # game/social.rpy:2431
 translate russia socialSilva_e50d6cce:
 
     # "The startled Silva jumps into the air in surprise!{w} Followed by a massive flesh-eating plant biting down on on your head."
-    ""
+    "Испуганная Сильва подпрыгивает в воздух!{w} Из-за неё выпрыгивает массивное плотоядное растение, которое кусает вас за голову."
 
 # game/social.rpy:2435
 translate russia socialSilva_ae4bfad7_1:
 
     # y "!!!"
-    y ""
+    y "!!!"
 
 # game/social.rpy:2438
 translate russia socialSilva_f1447bfe:
 
     # y "{b}*MUFFLED SCREAM*{/b}"
-    y ""
+    y "{b}*ЗАГЛУШЁННЫЙ КРИК*{/b}"
 
 # game/social.rpy:2440
 translate russia socialSilva_34d5447b_2:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/social.rpy:2441
 translate russia socialSilva_adf943b7:
 
     # y "(I'm pretty sure this is somebody's fetish.)"
-    y ""
+    y "(Уверен, что это чей-то фетиш)."
 
 # game/social.rpy:2443
 translate russia socialSilva_669d9ace:
 
     # y "{b}*Muffled insanity*{/b}"
-    y ""
+    y "{b}*Заглушённый крик*{/b}"
 
 # game/social.rpy:2444
 translate russia socialSilva_97e274e0:
 
     # sil "Non! Non! We do {b}not{/b} eat our friends!"
-    sil ""
+    sil "Нет! Нет! Мы {b}не{/b} едим наших друзей!"
 
 # game/social.rpy:2445
 translate russia socialSilva_c70b1d5b:
 
     # "After some concerned shouting, the plant finally let's go of you. Leaving you soaked in its saliva."
-    ""
+    "После нескольких обеспокоенных криков растение наконец отпускает вас. Оставляя вас пропитанным его слюной."
 
 # game/social.rpy:2451
 translate russia socialSilva_65f1ba97:
 
     # y "Again... Ew."
-    y ""
+    y "Опять... Иу."
 
 # game/social.rpy:2452
 translate russia socialSilva_01f798e5:
 
     # sil "I'm so sorry, mon ami! Are you okay?"
-    sil ""
+    sil "Мне очень жаль, мон ами! Ты в порядке?"
 
 # game/social.rpy:2453
 translate russia socialSilva_fc649d27:
 
     # y "About as okay as I usually am walking into this place. What about you?"
-    y ""
+    y "Вроде хорошо, по крайней мере голова ещё на месте. А ты?"
 
 # game/social.rpy:2454
 translate russia socialSilva_799c5333:
 
     # sil "Moi?"
-    sil ""
+    sil "Муа?"
 
 # game/social.rpy:2455
 translate russia socialSilva_1c104b99:
 
     # y "I thought I heard you crying from a distance."
-    y ""
+    y "Мне показалось, что я слышал как ты плачешь издалека."
 
 # game/social.rpy:2456
 translate russia socialSilva_53c51fec:
 
     # "Silva wipes her eyes and smirks at you."
-    ""
+    "Сильва вытирает глаза и ухмыляется."
 
 # game/social.rpy:2457
 translate russia socialSilva_7008da67:
 
     # sil "Oh non silly. I was cutting onions!"
-    sil ""
+    sil "Ох, не глупи. Я резала лук!"
 
 # game/social.rpy:2458
 translate russia socialSilva_05bf074c:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/social.rpy:2459
 translate russia socialSilva_f71bfe56:
 
     # y "Onions?"
-    y ""
+    y "Лук?"
 
 # game/social.rpy:2460
 translate russia socialSilva_d6b7c3b5:
 
     # sil "Oui, for the hamburgers we are having!"
-    sil ""
+    sil "Ага, для наших гамбургеров!"
 
 # game/social.rpy:2461
 translate russia socialSilva_f62f237c:
 
     # y "Hamburgers? Where did you find beef in this woodland of yours?"
-    y ""
+    y "Гамбургеры? Где ты нашла говядину в этом лесу?"
 
 # game/social.rpy:2462
 translate russia socialSilva_be42026f:
 
     # sil "I had it delivered!"
-    sil ""
+    sil "Мне её доставили!"
 
 # game/social.rpy:2463
 translate russia socialSilva_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/social.rpy:2464
 translate russia socialSilva_5dd4adc8:
 
     # "Out of the corner of your eye you suddenly see the torn up hat of a delivery boy."
-    ""
+    "Уголком глаза вы вдруг замечаете разорванную шапку доставщика."
 
 # game/social.rpy:2465
 translate russia socialSilva_f20e5ae8:
 
     # y "Oh Sil you didn't!"
-    y ""
+    y "Аа, Сил, что с ним!"
 
 # game/social.rpy:2466
 translate russia socialSilva_4906543d:
 
     # sil "Don't worry, don't worry. He is fine. My plants gave him a bit of a scare, but he got out {i}'mostly'{/i} unscathed."
-    sil ""
+    sil "Не волнуйся, не волнуйся. Он в порядке. Мои растения немного напугали его, но он ушёл {i}'почти'{/i} целым и невредимым."
 
 # game/social.rpy:2467
 translate russia socialSilva_7b49c981:
 
     # sil "Now let's eat!"
-    sil ""
+    sil "А теперь давай поедим!"
 
 # game/social.rpy:2468
 translate russia socialSilva_a291acb3:
 
     # "The two of you make a little fire in the center of a clearing and enjoy a freshly made burger together."
-    ""
+    "Вы вдвоем разводите небольшой костёр в центре поляны и вместе наслаждаетесь свежеприготовленными бургерами."
 
 # game/social.rpy:2469
 translate russia socialSilva_2fcfc852:
 
     # y "And here I thought you'd be vegan."
-    y ""
+    y "А я-то думал, что ты вегетарианка."
 
 # game/social.rpy:2470
 translate russia socialSilva_8a8a39ed:
 
     # sil "{b}*Scoffs*{/b} Half my plants eat meat, why shouldn't I?"
-    sil ""
+    sil "{b}*Смеётся*{/b} Половина моих растений ест мясо, почему я не должна?"
 
 # game/social.rpy:2471
 translate russia socialSilva_cfc057f1:
 
     # y "Can't argue with that."
-    y ""
+    y "С этим не поспоришь."
 
 # game/social.rpy:2475
 translate russia socialSilva_01ea3d59:
 
     # "You and Sil spend the rest of the day chatting. When it starts getting dark, you head back home."
-    ""
+    "Вы проводите остаток дня беседуя. Когда начинает темнеть, вы возвращаетесь домой."
 
 # game/social.rpy:2482
 translate russia socialSilva_2c2011ea:
 
     # y "Let's see what Silva is up to today."
-    y ""
+    y "Посмотрим чем Сильва сегодня занимается."
 
 # game/social.rpy:2483
 translate russia socialSilva_5772b0d1:
 
     # "........................."
-    ""
+    "........................."
 
 # game/social.rpy:2484
 translate russia socialSilva_61cb3a15:
 
     # "The jungle is thicker than ever! There are parts where you can barely see the sunlight coming in due to the trees."
-    ""
+    "Джунгли гуще, чем когда-либо! В некоторых участках едва виден проникающий солнечный свет."
 
 # game/social.rpy:2485
 translate russia socialSilva_3a2603f3:
 
     # y "SILVA! This is getting out of hand!"
-    y ""
+    y "СИЛЬВА! Это выходит из-под контроля!"
 
 # game/social.rpy:2486
 translate russia socialSilva_9500a0b4_1:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/social.rpy:2487
 translate russia socialSilva_745c47a6:
 
     # y "Silva?"
-    y ""
+    y "Сильва?"
 
 # game/social.rpy:2488
 translate russia socialSilva_43a9de85:
 
     # "You look around, but can't find Silva anywhere."
-    ""
+    "Вы оглядываетесь вокруг, но нигде не можете найти Сильву."
 
 # game/social.rpy:2489
 translate russia socialSilva_5f4c3ef5:
 
     # y "I guess she must be out..."
-    y ""
+    y "Может она куда-то ушла..."
 
 # game/social.rpy:2490
 translate russia socialSilva_0fb37fd7:
 
     # "{b}*Russle* *Russle*{/b}"
-    ""
+    "{b}*Шелест* *Шелест*{/b}"
 
 # game/social.rpy:2491
 translate russia socialSilva_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/social.rpy:2492
 translate russia socialSilva_78a1fb6e:
 
     # "You hear something in the bushes..."
-    ""
+    "Вы слышите что-то в кустах..."
 
 # game/social.rpy:2493
 translate russia socialSilva_0a6f5413:
 
     # y "Silva...?"
-    y ""
+    y "Сильва...?"
 
 # game/social.rpy:2494
 translate russia socialSilva_ca68b4f5:
 
     # y "AHH-...!"
-    y ""
+    y "ААА-...!"
 
 # game/social.rpy:2498
 translate russia socialSilva_855b9d92:
 
     # "{b}*NOM*{/b}!"
-    ""
+    "{b}*АМ*{/b}!"
 
 # game/social.rpy:2500
 translate russia socialSilva_929fd160:
 
     # "You were eaten again! By a giant plant!"
-    ""
+    "Тебя снова съели! Гигантское растение!"
 
 # game/social.rpy:2501
 translate russia socialSilva_eb5d3078:
 
     # y "This is getting ridiculous! When I find Silva I'm going t-..."
-    y ""
+    y "Это уже несмешно! Когда я найду Сильву, я..."
 
 # game/social.rpy:2508
 translate russia socialSilva_d3b1426f:
 
     # y "Silva...? Silva!"
-    y ""
+    y "Сильва...? Сильва!"
 
 # game/social.rpy:2509
 translate russia socialSilva_54ef58cf:
 
     # "She has been eaten by the plant!"
-    ""
+    "Её съело растение!"
 
 # game/social.rpy:2511
 translate russia socialSilva_f4d5683c_1:
 
     # sil "..................."
-    sil ""
+    sil "..................."
 
 # game/social.rpy:2512
 translate russia socialSilva_a95237f4:
 
     # y "Don't worry Abegail, I'm getting you out of here!"
-    y ""
+    y "Не волнуйся, Эбегейл, я вытащу тебя!"
 
 # game/social.rpy:2515
 translate russia socialSilva_f04247f9:
 
     # sil "........?"
-    sil ""
+    sil "........?"
 
 # game/social.rpy:2516
 translate russia socialSilva_7ec73efe:
 
     # sil "Mon amie...?"
-    sil ""
+    sil "Мон ами...?"
 
 # game/social.rpy:2517
 translate russia socialSilva_cca6c0c1:
 
     # y "Sil! I thought you were dead for a second. Any suggestions on how to get out of here?"
-    y ""
+    y "Сил! Я на секунду подумал, что ты умерла. Есть предложения, как выбраться отсюда?"
 
 # game/social.rpy:2518
 translate russia socialSilva_93e031ba:
 
     # sil "Non... Non my friend. You shouldn't be here..."
-    sil ""
+    sil "Не... Нет мой друг. Ты не стоило приходить..."
 
 # game/social.rpy:2519
 translate russia socialSilva_e875d108:
 
     # y "I know! And neither should you!"
-    y ""
+    y "Я знаю! Ты тоже не должна!"
 
 # game/social.rpy:2520
 translate russia socialSilva_373bb750:
 
     # "You kick the plant from the inside as it begins to growl in protest."
-    ""
+    "Вы пинаете растение изнутри. Оно начинает рычать в знак протеста."
 
 # game/social.rpy:2521
 translate russia socialSilva_eedc5bef:
 
     # y "Yiiiiha!"
-    y ""
+    y "Йииииххааа!"
 
 # game/social.rpy:2522
 translate russia socialSilva_194c0c61:
 
     # "Tired of your antics, the plant spits the two of you out!"
-    ""
+    "Устав от ваших выходок, растение выплёвывает вас обоих!"
 
 # game/social.rpy:2529
 translate russia socialSilva_63fdafd8:
 
     # y "Sil..? Are you okay?"
-    y ""
+    y "Сил..? Ты впорядке?"
 
 # game/social.rpy:2530
 translate russia socialSilva_2b35154f:
 
     # sil "............................"
-    sil ""
+    sil "............................"
 
 # game/social.rpy:2531
 translate russia socialSilva_74326e04_2:
 
     # y "Sil?"
-    y ""
+    y "Сил?"
 
 # game/social.rpy:2532
 translate russia socialSilva_0e2a68f5:
 
     # sil "I'm fine..."
-    sil ""
+    sil "Я в порядке..."
 
 # game/social.rpy:2533
 translate russia socialSilva_0b48c1a7:
 
     # sil "........."
-    sil ""
+    sil "........."
 
 # game/social.rpy:2539
 translate russia socialSilva_83e6e5ca:
 
     # sil "{b}*Sniff*{/b} I'm fine..."
-    sil ""
+    sil "{b}*Вздох*{/b} I'm fine..."
 
 # game/social.rpy:2540
 translate russia socialSilva_49d15600:
 
     # y "Come, let's go find a safer place to sit down."
-    y ""
+    y "Пойдём, найдём более безопасное место, чтобы присесть."
 
 # game/social.rpy:2543
 translate russia socialSilva_621fc144:
 
     # "The two of you walk to the edge of the forest and find a tree stump to sit down on."
-    ""
+    "Вы вдвоем идёте к опушке леса и находите пень, на который можно присесть."
 
 # game/social.rpy:2548
 translate russia socialSilva_142c0083:
 
     # y "Silva, what's going on...? Where are your gang members?"
-    y ""
+    y "Сильва, что происходит...? Где члены твоей банды?"
 
 # game/social.rpy:2549
 translate russia socialSilva_e303aaf3:
 
     # sil "{b}*Sniff*{/b} Zhey're all gone... It iz just me left..."
-    sil ""
+    sil "{b}*Вздох*{/b} Они все ушли... Осталась только я..."
 
 # game/social.rpy:2550
 translate russia socialSilva_2e2ce860:
 
     # y "I don't understand..."
-    y ""
+    y "Я не понимаю..."
 
 # game/social.rpy:2551
 translate russia socialSilva_432e57d1:
 
     # sil "It iz theze stupid plants... The gangsters that didn't get eaten got stung by venomous thorns or choked by vines...!"
-    sil ""
+    sil "Эти глупые растения... Они съели, ужалели ядовитыми колючками или задушили лианами всех моих людей...!"
 
 # game/social.rpy:2552
 translate russia socialSilva_a81bfe9d:
 
     # sil "The onez that remained just ran away..."
-    sil ""
+    sil "Остальные просто сбежал..."
 
 # game/social.rpy:2553
 translate russia socialSilva_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/social.rpy:2554
 translate russia socialSilva_7c4390b3:
 
     # y "That doesn't explain why you were inside that plant, Sil. Why would your own plants attack you?"
-    y ""
+    y "Это не объясняет, почему ты была внутри растения, Сил. Зачем твоим собственным растениям нападать на тебя?"
 
 # game/social.rpy:2555
 translate russia socialSilva_826a9aae:
 
     # sil ".........................."
-    sil ""
+    sil ".........................."
 
 # game/social.rpy:2556
 translate russia socialSilva_094bcbb8:
 
     # y "Oh no...{w} It didn't attack you, did it?"
-    y ""
+    y "Оо нет...{w} Оно ведь не напало на тебя?"
 
 # game/social.rpy:2557
 translate russia socialSilva_9442150d:
 
     # sil "........................."
-    sil ""
+    sil "........................."
 
 # game/social.rpy:2558
 translate russia socialSilva_99087865:
 
     # y "Silva... why? You could've asked me for help..."
-    y ""
+    y "Сильва... почему? Ты могла попросить меня о помощи..."
 
 # game/social.rpy:2559
 translate russia socialSilva_bab2f0da:
 
     # sil "I got my entire gang killed... I deserve it..."
-    sil ""
+    sil "Из-за меня погибла вся моя банда... Я заслужила это..."
 
 # game/social.rpy:2560
 translate russia socialSilva_2bb2cfe2:
 
     # y "No you don't. You're talking crazy. How long have you been alone...?"
-    y ""
+    y "Нет. Не говори глупостей. Как долго ты была одна...?"
 
 # game/social.rpy:2561
 translate russia socialSilva_80d1c2e9:
 
     # sil "................................................"
-    sil ""
+    sil "................................................"
 
 # game/social.rpy:2562
 translate russia socialSilva_4ede4e75:
 
     # y "Long...?"
-    y ""
+    y "Долго...?"
 
 # game/social.rpy:2564
 translate russia socialSilva_d42fb0e2:
 
     # sil "Pretty much since we started talking...."
-    sil ""
+    sil "Практически с тех пор, как мы начали общаться..."
 
 # game/social.rpy:2565
 translate russia socialSilva_116e7c67:
 
     # y "You've been alone all this time?"
-    y ""
+    y "Ты всё это время была одна?"
 
 # game/social.rpy:2567
 translate russia socialSilva_789bd180:
 
     # sil ".................................."
-    sil ""
+    sil ".................................."
 
 # game/social.rpy:2568
 translate russia socialSilva_e3360867:
 
     # "You carefully throw your arms around Silva and hug her close to your chest."
-    ""
+    "Вы осторожно обнимаете Сильву и прижимаете её к себе."
 
 # game/social.rpy:2569
 translate russia socialSilva_11b9a9a4:
 
     # y "Silva... your gang is gone... Leave this jungle and come back with me."
-    y ""
+    y "Сильва... твоя банда ушла... Покинь эти джунгли и пойдём со мной."
 
 # game/social.rpy:2570
 translate russia socialSilva_11294896:
 
     # y "The Milkshake Bar has plenty of room and I know the girls will welcome you..."
-    y ""
+    y "В баре много места. Девушки точно будут тебе рады..."
 
 # game/social.rpy:2572
 translate russia socialSilva_2818d87d:
 
     # sil "{b}*Sniff*{/b} Je suis désolé...."
-    sil ""
+    sil "{b}*Вздох*{/b} Мне очень жаль..."
 
 # game/social.rpy:2573
 translate russia socialSilva_2e20f7ef:
 
     # y "I know Sil. {w}I know..."
-    y ""
+    y "Я знаю, Сил. {w}Я знаю..."
 
 # game/social.rpy:2574
 translate russia socialSilva_0b503a37:
 
     # y "Come... let's go back. Let's get you somewhere safe and warm."
-    y ""
+    y "Идём... Давай отвезём тебя в безопасное и теплое место."
 
 # game/social.rpy:2581
 translate russia socialSilva_9d67b37d:
 
     # "You quickly tell the shocked Silva who you and the spies really are and find her a bed to rest."
-    ""
+    "Вы быстро рассказываете потрясенной Сильве, кто вы и шпионки на самом деле. На базе вы находите для неё свободную комнату."
 
 # game/social.rpy:2582
 translate russia socialSilva_5592ace7:
 
     # "Silva Abegail can now be visited during the day at the Milkshake Bar."
-    ""
+    "Сильву Эбегейл теперь можно навещать днём в баре молочных коктейлей."
 
 # game/social.rpy:2589
 translate russia socialSilva_3634063a:
 
     # "Silva is still recovering."
-    ""
+    "Сильва всё ещё восстанавливается."
 
 # game/social.rpy:2600
 translate russia socialSilva_750026da:
 
     # y "And this is the Milkshake Bar."
-    y ""
+    y "А это наш бар."
 
 # game/social.rpy:2601
 translate russia socialSilva_90e3bdef:
 
     # sil "It iz a little much to all take in..."
-    sil ""
+    sil "Тут так..."
 
 # game/social.rpy:2602
 translate russia socialSilva_186de67b:
 
     # sil "So you are not a gangster?"
-    sil ""
+    sil "Так значит ты не бандит?"
 
 # game/social.rpy:2603
 translate russia socialSilva_83705f25:
 
     # y "Nope."
-    y ""
+    y "Неа."
 
 # game/social.rpy:2605
 translate russia socialSilva_d0c3ad05:
 
     # sil "Heh... You and the girls sure fooled me."
-    sil ""
+    sil "Хех... Получается вы с девочками меня обманули."
 
 # game/social.rpy:2608
 translate russia socialSilva_c25ac8c9:
 
     # kim "Hey boss. Who's this?"
-    kim ""
+    kim "Привет, босс. Кто это?"
 
 # game/social.rpy:2609
 translate russia socialSilva_acd71a8d:
 
     # y "Kim, I want you to meet Silva Abegail. Silva, this is Kim."
-    y ""
+    y "Ким, я хочу познакомить тебя с Сильвой Эбегейл. Сильва, это Ким."
 
 # game/social.rpy:2610
 translate russia socialSilva_b198b1f3:
 
     # sil "Bonjour Kim."
-    sil ""
+    sil "Бонжур Ким."
 
 # game/social.rpy:2612
 translate russia socialSilva_28a8f7d3:
 
     # kim "Oooh French! The customers will love her!"
-    kim ""
+    kim "Ооо, французский! Она понравится клиентам!"
 
 # game/social.rpy:2613
 translate russia socialSilva_929d4357:
 
     # y "Oh, she's not working here. Sil is just taking a small break."
-    y ""
+    y "Ох, она здесь не работает. Сил просто делает небольшой перерыв."
 
 # game/social.rpy:2614
 translate russia socialSilva_7779cde4:
 
     # sil "............"
-    sil ""
+    sil "............"
 
 # game/social.rpy:2615
 translate russia socialSilva_f42ff0ed:
 
     # sil "Actually... I would love working 'ere."
-    sil ""
+    sil "Вообще-то... Я бы с удовольствием поработала здесь."
 
 # game/social.rpy:2616
 translate russia socialSilva_4d961fc0:
 
     # y "Sil... are you sure?"
-    y ""
+    y "Сил... Ты уверена?"
 
 # game/social.rpy:2617
 translate russia socialSilva_1000c384:
 
     # sil "I've been living alone for too long... I wouldn't mind spending some time amongst ze people here."
-    sil ""
+    sil "Я слишком долго жила одна... Я бы не отказался провести некоторое время среди здешних людей."
 
 # game/social.rpy:2618
 translate russia socialSilva_d544b9e8:
 
     # y "Er... you know this is a tittie bar, right?"
-    y ""
+    y "Эм... ты же знаешь, что это сиськобар?"
 
 # game/social.rpy:2619
 translate russia socialSilva_86e4404a:
 
     # sil "A... what?"
-    sil ""
+    sil "Ч... что?"
 
 # game/social.rpy:2620
 translate russia socialSilva_85261ee6:
 
     # y "Erm... a place where the staff gets groped a lot and take off their tops."
-    y ""
+    y "Эм... место, где персонал снимает верхнюю одежду и их часто лапают."
 
 # game/social.rpy:2622
 translate russia socialSilva_bcb82ef5:
 
     # sil "Oooh, reminds me of my time in Paris. I think I will fit right in!"
-    sil ""
+    sil "Оооо, напоминает мне о моем пребывании в Париже. Думаю, я впишусь!"
 
 # game/social.rpy:2623
 translate russia socialSilva_ebb6adcf:
 
     # kim "She's French {i}'and'{/i} she's eager! C'mon boss. Let her work here."
-    kim ""
+    kim "Она француженка {i}'и'{/i} очень хочет! Давай, босс. Пусть она работает здесь."
 
 # game/social.rpy:2624
 translate russia socialSilva_05bf074c_1:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/social.rpy:2625
 translate russia socialSilva_d3441125:
 
     # y "Well all right. But keep an eye on her Kim."
-    y ""
+    y "Ну ладно. Но, присмотри за ней Ким."
 
 # game/social.rpy:2627
 translate russia socialSilva_70a2d292:
 
     # kim "Tsk, with a body like that, I'd like to keep both eyes on her."
-    kim ""
+    kim "С таким телом как у неё, я бы только и хотела что присматривать за ней."
 
 # game/social.rpy:2628
 translate russia socialSilva_b9ac376c:
 
     # "Silva smiles shyly. You've never seen her like this before. She seems less confident, but more at ease."
-    ""
+    "Сильва застенчиво улыбается. Вы никогда не видели её такой раньше. Она выглядит менее уверенной, но более спокойной."
 
 # game/social.rpy:2634
 translate russia socialSilva_94ef9b09:
 
     # y "Well... she looks a little better. Maybe spending some time amongst people will do her some good."
-    y ""
+    y "Ну... она выглядит немного лучше. Может быть, время, проведенное среди людей, пойдёт ей на пользу."
 
 # game/social.rpy:2646
 translate russia socialSilva_64137f1b:
 
     # y "And? How is she doing, Kim?"
-    y ""
+    y "И? Как она, Ким?"
 
 # game/social.rpy:2647
 translate russia socialSilva_0facecc9:
 
     # kim "Oh she fits right in. We customized her uniform a bit. Hope you don't mind."
-    kim ""
+    kim "Ох, она отлично вписывается. Мы немного изменили её форму. Надеюсь, ты не возражаешь."
 
 # game/social.rpy:2648
 translate russia socialSilva_30b18cd1:
 
     # sil "....."
-    sil ""
+    sil "....."
 
 # game/social.rpy:2649
 translate russia socialSilva_d964fe80:
 
     # sil "What do you think?"
-    sil ""
+    sil "Что думаешь?"
 
 # game/social.rpy:2652
 translate russia socialSilva_78ff8ac7:
 
     # y "You look good, Silva. Welcome to the family."
-    y ""
+    y "Ты отлично выглядишь, Сильва. Добро пожаловать в семью."
 
 # game/social.rpy:2653
 translate russia socialSilva_7b228aa1:
 
     # sil "Heh..."
-    sil ""
+    sil "Хех..."
 
 # game/social.rpy:2655
 translate russia socialSilva_381fd01b:
 
     # y "The outfit is pretty good, but I think I prefer your old one."
-    y ""
+    y "Наряд неплохой, но мне больше нравится твой старый."
 
 # game/social.rpy:2656
 translate russia socialSilva_7954d421:
 
     # sil "Well I do love my old one, but it sorta got eaten up by zhat plant."
-    sil ""
+    sil "Ну, я люблю свой старый наряд, но его съело растение."
 
 # game/social.rpy:2657
 translate russia socialSilva_81c1b08b:
 
     # sil "There iz not much of an outfit left of it. It shows of all my goods!"
-    sil ""
+    sil "От него почти ничего не осталось. Он подчёркивал все мои достоинства!"
 
 # game/social.rpy:2658
 translate russia socialSilva_fb261b2e:
 
     # y "{b}*Smirks*{/b} Exactly why I love it so much."
-    y ""
+    y "{b}*Ухмылка*{/b} Именно поэтому он мне и нравится."
 
 # game/social.rpy:2660
 translate russia socialSilva_5bc02188:
 
     # y "You look goofy wearing that."
-    y ""
+    y "В этом ты выглядишь глупо."
 
 # game/social.rpy:2661
 translate russia socialSilva_41230d78:
 
     # sil "O-oh... you think zo? I thought I'd theme it a bit... I'm zorry for change your uniform..."
-    sil ""
+    sil "О-ох... Ты так думаешь? Я решил немного поэкспериментировать... Мне жаль, что испортила твою униформу..."
 
 # game/social.rpy:2662
 translate russia socialSilva_eacc5dae:
 
     # y "Has Kim been keeping you busy?"
-    y ""
+    y "Ким не даёт тебе покоя?"
 
 # game/social.rpy:2663
 translate russia socialSilva_35975a09:
 
     # sil "Oh oui! We've been working 'ard together. She is a very talented waitress!"
-    sil ""
+    sil "Ох, да! Мы работали вместе. Она очень талантливая официантка!"
 
 # game/social.rpy:2664
 translate russia socialSilva_25719244:
 
     # sil "She really knows how to behave around the customers and how to get the biggest tip."
-    sil ""
+    sil "Она действительно знает, как вести себя с клиентами и как получить большие чаевых."
 
 # game/social.rpy:2665
 translate russia socialSilva_315204de:
 
     # y "(I bet she does.)"
-    y ""
+    y "(В этом я уверен.)"
 
 # game/social.rpy:2667
 translate russia socialSilva_eb30f707:
 
     # kim "I've got customers to serve. Don't take too long."
-    kim ""
+    kim "Мне нужно обслуживать клиентов. Не затягивай."
 
 # game/social.rpy:2670
 translate russia socialSilva_7b7d1063:
 
     # y "You seem to fit in pretty well."
-    y ""
+    y "Похоже, ты неплохо вписываешься."
 
 # game/social.rpy:2671
 translate russia socialSilva_c09e17ff:
 
     # y "Does Kim know about your little stunt?"
-    y ""
+    y "Ким знает о твоём маленьком трюке?"
 
 # game/social.rpy:2673
 translate russia socialSilva_c0dd1e92:
 
     # sil "Non...{w} I am afraid it might scare her off. Or make her think I'm a nutcase."
-    sil ""
+    sil "Нет...{w} Я боюсь, что это может её отпугнуть. Или заставить её думать, что я псих."
 
 # game/social.rpy:2674
 translate russia socialSilva_cf4840ec:
 
     # y "Sil, you escaped from an asylum, dress like a plant and tried to take over the world with your botanical skills."
-    y ""
+    y "Сил, ты сбежала из психушки, оделась как растение и попытались захватить мир с помощью своих ботанических навыков."
 
 # game/social.rpy:2675
 translate russia socialSilva_e7bbd0fc:
 
     # sil "So?"
-    sil ""
+    sil "И?"
 
 # game/social.rpy:2676
 translate russia socialSilva_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/social.rpy:2677
 translate russia socialSilva_1d0c1c70:
 
     # y "Anyways, It's good to see you two getting along. If there's any trouble let me know, okay?"
-    y ""
+    y "В любом случае приятно видеть, что вы двое ладите. Если будут какие-то проблемы, дай мне знать, хорошо?"
 
 # game/social.rpy:2680
 translate russia socialSilva_d6c5bbca:
 
     # "Silva nods and gets back to work."
-    ""
+    "Сильва кивает и возвращается к работе."
 
 # game/social.rpy:2690
 translate russia socialSilva_49021bb3:
 
     # kim "Silva, I need you at table 4!"
-    kim ""
+    kim "Сильва, ты нужена мне за четвёртым столиком!"
 
 # game/social.rpy:2691
 translate russia socialSilva_6995a426:
 
     # sil "Coming!"
-    sil ""
+    sil "Иду!"
 
 # game/social.rpy:2693
 translate russia socialSilva_0082fba2:
 
     # y "I see Kim is working you hard."
-    y ""
+    y "Вижу, Ким не даёт тебе продохнуть."
 
 # game/social.rpy:2694
 translate russia socialSilva_7f546f0d:
 
     # sil "Oui! I'm not used to be the one taking orders."
-    sil ""
+    sil "Ага! Я не привыкла быть той, кто выполняет заказы."
 
 # game/social.rpy:2695
 translate russia socialSilva_8f1b0941:
 
     # y "I'll tell her to lay off you for a bit."
-    y ""
+    y "Я скажу ей, чтобы она на время от тебя отстала."
 
 # game/social.rpy:2696
 translate russia socialSilva_b0e9b4ef:
 
     # sil "Oh non, I didn't mean it like that! I actually like not being the one in charge for once."
-    sil ""
+    sil "О нет, я не это имела в виду! Мне вообще-то нравится хотя бы раз не быть главной."
 
 # game/social.rpy:2697
 translate russia socialSilva_4730e654:
 
     # sil "It feels good to talk to anyone other than plants for a change."
-    sil ""
+    sil "Для разнообразия приятно поговорить с кем-то кто, не растение."
 
 # game/social.rpy:2698
 translate russia socialSilva_61e0b4a6:
 
     # y "And you don't mind showing yourself off a bit?"
-    y ""
+    y "И ты не против, немного \"показать\" себя?"
 
 # game/social.rpy:2699
 translate russia socialSilva_3aaa7815:
 
     # sil "Well...."
-    sil ""
+    sil "Ну..."
 
 # game/social.rpy:2700
 translate russia socialSilva_c66ae840:
 
     # sil "I haven't done a lot of that yet."
-    sil ""
+    sil "Я ещё не особо много практиковалась."
 
 # game/social.rpy:2701
 translate russia socialSilva_ecf2e588:
 
     # y "Shy?"
-    y ""
+    y "Стесняешься?"
 
 # game/social.rpy:2702
 translate russia socialSilva_c1c8c42a:
 
     # sil "Non it's not that..."
-    sil ""
+    sil "Не в этом дело..."
 
 # game/social.rpy:2703
 translate russia socialSilva_74340fbb:
 
     # kim "Sil?!"
-    kim ""
+    kim "Сил?!"
 
 # game/social.rpy:2704
 translate russia socialSilva_6995a426_1:
 
     # sil "Coming!"
-    sil ""
+    sil "Иду!"
 
 # game/social.rpy:2705
 translate russia socialSilva_568c243f:
 
     # sil "We'll talk more later."
-    sil ""
+    sil "Давай поговорим об этом позже."
 
 # game/social.rpy:2707
 translate russia socialSilva_83d1cf6a:
 
     # "Silva runs off to continue waiting tables."
-    ""
+    "Сильва убегает, чтобы продолжить обслуживать столики."
 
 # game/social.rpy:2716
 translate russia socialSilva_7135e541:
 
     # kim "Silva? Where are you, we have guests waiting!"
-    kim ""
+    kim "Сильва? Где ты, нас ждут гости!"
 
 # game/social.rpy:2718
 translate russia socialSilva_c9f097b1:
 
     # sil "Shhh mon ami, come with me quick."
-    sil ""
+    sil "Ш-шш, мон ами, пойдём со мной скорее."
 
 # game/social.rpy:2719
 translate russia socialSilva_0dd5d9ff:
 
     # y "Er... okay...?"
-    y ""
+    y "Эм... хорошо...?"
 
 # game/social.rpy:2724
 translate russia socialSilva_d9ae4858:
 
     # y "So why did I have to come with y-.."
-    y ""
+    y "Так почему ты позвала меня с-..."
 
 # game/social.rpy:2728
 translate russia socialSilva_ae4bfad7_2:
 
     # y "!!!"
-    y ""
+    y "!!!"
 
 # game/social.rpy:2729
 translate russia socialSilva_1854947b:
 
     # sil "I didn't want to show off at the milkshake bar before I showed you~..."
-    sil ""
+    sil "Я не хотела показываться в баре, пока не покажу тебе~..."
 
 # game/social.rpy:2730
 translate russia socialSilva_baaa2240:
 
     # sil "You like?"
-    sil ""
+    sil "Тебе нравится?"
 
 # game/social.rpy:2733
 translate russia socialSilva_26dbdbd2:
 
     # sil "I thought you would~..."
-    sil ""
+    sil "Я думал ты~..."
 
 # game/social.rpy:2734
 translate russia socialSilva_ad08b0d6:
 
     # sil "I bet I could think of something you'd like even more~..."
-    sil ""
+    sil "Готова поспорить, я смогу придумать что-то, что понравится тебе ещё больше~..."
 
 # game/social.rpy:2736
 translate russia socialSilva_39cf0210:
 
     # sil "{b}*Scoffs*{/b} Yeah...! Well... Like...!"
-    sil ""
+    sil "{b}*Насмехается*{/b} Ага...! Ну... Например...!"
 
 # game/social.rpy:2737
 translate russia socialSilva_a39fc6ed:
 
     # sil "Let's zee if I can change your mind!"
-    sil ""
+    sil "Посмотрим, смогу ли я изменить твоё мнение!"
 
 # game/social.rpy:2739
 translate russia socialSilva_43f1e7b7:
 
     # y "I want to water you right now."
-    y ""
+    y "Я хочу \"полить\" тебя прямо сейчас."
 
 # game/social.rpy:2740
 translate russia socialSilva_357eca96:
 
     # sil "Wha-...?"
-    sil ""
+    sil "Чт-...?"
 
 # game/social.rpy:2741
 translate russia socialSilva_e4c52629:
 
     # y "Like a plant!"
-    y ""
+    y "Как цветок!"
 
 # game/social.rpy:2742
 translate russia socialSilva_1bca41b9:
 
     # sil "Is that a double entendre or are you serious...?"
-    sil ""
+    sil "Тут есть скрытый смысл или ты серьезно...?"
 
 # game/social.rpy:2743
 translate russia socialSilva_67861e0b:
 
     # sil "Oh! Silly moi, I forgot that you were coo-coo. How about you and I teach you about the birds and the bees~..."
-    sil ""
+    sil "Ох! Глупышка, я и забыла, что ты немного ку-ку. Может мне, стоит рассказать тебн немного о пчёлах~..."
 
 # game/social.rpy:2744
 translate russia socialSilva_1984a35a:
 
     # y "....."
-    y ""
+    y "....."
 
 # game/social.rpy:2745
 translate russia socialSilva_f5cc6b9c:
 
     # y "And the flowers?"
-    y ""
+    y "И цветах?"
 
 # game/social.rpy:2746
 translate russia socialSilva_17b4c0b1:
 
     # sil "Sure mon ami~..."
-    sil ""
+    sil "Конечно мон ами~..."
 
 # game/social.rpy:2748
 translate russia socialSilva_f01e72d7:
 
     # sil "Ooooh~... ♥"
-    sil ""
+    sil "Ооууух~... ♥"
 
 # game/social.rpy:2749
 translate russia socialSilva_35d17a6f:
 
     # sil "Mmmm.... right there~.... ♥♥♥"
-    sil ""
+    sil "Мммм... да, вот здесь~.... ♥♥♥"
 
 # game/social.rpy:2750
 translate russia socialSilva_0f3e450f:
 
     # sil "Oui! Stick it in me! Harder!"
-    sil ""
+    sil "Да! Засунь его в меня! Сильнее!"
 
 # game/social.rpy:2751
 translate russia socialSilva_3aecc596:
 
     # sil "Ah! Ah! Ah! Oh!"
-    sil ""
+    sil "Ах! Аах! Оах! Уух!"
 
 # game/social.rpy:2752
 translate russia socialSilva_80b5f2a5:
 
     # y "Say cheese~...."
-    y ""
+    y "Скажи сыр~...."
 
 # game/social.rpy:2766
 translate russia socialSilva_91199106:
 
     # y "Phew~....! You might be crazy, but you're a damn good lay."
-    y ""
+    y "Фух~....! Может ты и сумасшедшая, но ты чертовски хороша в постели."
 
 # game/social.rpy:2767
 translate russia socialSilva_4eb46637:
 
     # sil "Right back at you~..."
-    sil ""
+    sil "Прямо как ты~..."
 
 # game/social.rpy:2768
 translate russia socialSilva_5c2ffb58:
 
     # sil "Zhank you for taking care of me, mon ami."
-    sil ""
+    sil "Спасибо, что позаботился обо мне, мон ами."
 
 # game/social.rpy:2788
 translate russia socialKim_332707c0:
 
     # y "Hi Kim. How are you enjoying the life as a waitress?"
-    y ""
+    y "Привет, Ким. Как тебе жизнь официантки?"
 
 # game/social.rpy:2789
 translate russia socialKim_4779fe63:
 
     # kim "Technically I'm still on the clock as a spy so... double pay baby!"
-    kim ""
+    kim "Технически я всё ещё работаю шпионом, так что... двойная оплата!"
 
 # game/social.rpy:2791
 translate russia socialKim_38661606:
 
     # kim "I'm not doing it for the money of course."
-    kim ""
+    kim "Но конечно, я делаю это не ради денег."
 
 # game/social.rpy:2792
 translate russia socialKim_13dc5fd6:
 
     # y "Of course.{w} But I bet the tips don't hurt."
-    y ""
+    y "Конечно.{w} Но я уверен, что чаевые тебя радуют."
 
 # game/social.rpy:2794
 translate russia socialKim_a45a587d:
 
     # kim "They are so good~...!"
-    kim ""
+    kim "Ещё как~...!"
 
 # game/social.rpy:2795
 translate russia socialKim_a7a31bfa:
 
-    # y "You don't mind being groped now and again?"
-    y ""
+    # y "You c being groped now and again?"
+    y "Ты не против, что тебя время от времени лапают?"
 
 # game/social.rpy:2796
 translate russia socialKim_d40051f9:
 
     # kim "Eh, not really. It's part of the job, right?"
-    kim ""
+    kim "Эм, не особо. Это ведь часть работы, верно?"
 
 # game/social.rpy:2797
 translate russia socialKim_5c417bd6:
 
     # kim "Plus this is not the first time I've gone deep undercover. I got used to it pretty quickly."
-    kim ""
+    kim "К тому же это не первый раз, когда я работаю под прикрытием. Я привыкла к этому довольно быстро."
 
 # game/social.rpy:2798
 translate russia socialKim_d5a56e40:
 
     # y "I'm glad you're taking it so serious! Okay we'll talk more later."
-    y ""
+    y "Рад, что ты так серьезно к этому относишься! Ладно, поговорим позже."
 
 # game/social.rpy:2805
 translate russia socialKim_155551c4:
 
     # kim "C'mooon~... I know you want to~...."
-    kim ""
+    kim "Давай~... Я знаю, что ты хочешь~...."
 
 # game/social.rpy:2806
 translate russia socialKim_90707381:
 
     # "{b}*Pinch*{/b}"
-    ""
+    "{b}*Щипок*{/b}"
 
 # game/social.rpy:2807
 translate russia socialKim_d972d07c:
 
     # kim "Oooooh ♥"
-    kim ""
+    kim "Ооооохх ♥"
 
 # game/social.rpy:2811
 translate russia socialKim_a74a71f6:
 
     # y "I saw that. Getting customers to pinch you for tips?"
-    y ""
+    y "Ты позволяешь клиентам щипать себя за чаевые?"
 
 # game/social.rpy:2812
 translate russia socialKim_bf1cb1eb:
 
     # kim "Yup."
-    kim ""
+    kim "Ага."
 
 # game/social.rpy:2813
 translate russia socialKim_1fce346e:
 
     # y "Good girl. I bet the customers are happy with that aswell."
-    y ""
+    y "Хорошая девочка. Уверен, клиенты довольны."
 
 # game/social.rpy:2814
 translate russia socialKim_f69197bf:
 
     # kim "Heh, you bet! This is making more than my spy job at this rate!"
-    kim ""
+    kim "Ещё бы! Такими темпами я заработаю больше, чем на моей шпионской работе!"
 
 # game/social.rpy:2816
 translate russia socialKim_252bab3f:
 
     # kim "I {i}'accidentally'{/i} spilled a beer on my tits today and the guys doubled the bill!"
-    kim ""
+    kim "Сегодня я {i}'случайно'{/i} пролила себе на сиськи пиво, за это парни удвоили счёт!"
 
 # game/social.rpy:2817
 translate russia socialKim_4eaf7d89:
 
     # y "Wow.. you 'are' good at this."
-    y ""
+    y "Вау... у тебя хорошо получается."
 
 # game/social.rpy:2818
 translate russia socialKim_11e46827:
 
     # kim "I know we're suppose to be saving the world and all, but this is getting me through college so er... no rush. Okay?"
-    kim ""
+    kim "Знаю что мы должны спасать мир и всё такое, но это поможет мне закончить колледж, так что... не торопиться. Хорошо?"
 
 # game/social.rpy:2819
 translate russia socialKim_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/social.rpy:2828
 translate russia socialKim_ef86e27d:
 
     # kim "Slap."
-    kim ""
+    kim "Шлепок."
 
 # game/social.rpy:2830
 translate russia socialKim_90431671:
 
     # "Kim just slapped you in the face... with a wad of dollar bills!"
-    ""
+    "Ким ударила тебя по лицу... пачкой долларовых купюр!"
 
 # game/social.rpy:2831
 translate russia socialKim_77907599:
 
     # y "Do I even want to know what you did to get those?"
-    y ""
+    y "Я даже не хочу знать что ты сделала, чтобы получить их?"
 
 # game/social.rpy:2832
 translate russia socialKim_c6f816fa:
 
     # kim "Nip slips."
-    kim ""
+    kim "Засветила сиськи."
 
 # game/social.rpy:2833
 translate russia socialKim_4b9de986:
 
     # y "......."
-    y ""
+    y "......."
 
 # game/social.rpy:2834
 translate russia socialKim_3ac13b47:
 
     # y "Yeah okay, I expected as much."
-    y ""
+    y "Ладно, я так и думал."
 
 # game/social.rpy:2835
 translate russia socialKim_d2baa9a2:
 
     # y "Wow Kim, you're a much bigger slut than I had given you credit for!"
-    y ""
+    y "Ого Ким, оказывается ты гораздо большая шлюха, чем я думал!"
 
 # game/social.rpy:2837
 translate russia socialKim_9cd82bd2:
 
     # kim "Don't call me a slut!"
-    kim ""
+    kim "Не называй меня шлюхой!"
 
 # game/social.rpy:2838
 translate russia socialKim_8bb4b120:
 
     # y "Oh! I'm sorry, I thought yo-..."
-    y ""
+    y "Ох! Прости, я думал ты-..."
 
 # game/social.rpy:2840
 translate russia socialKim_3095bf8a:
 
     # kim "Not until you've paid me two dollars first."
-    kim ""
+    kim "Пока ты не заплатил мне два доллара."
 
 # game/social.rpy:2841
 translate russia socialKim_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/social.rpy:2846
 translate russia socialKim_6dfcb96c:
 
     # y "Here you go, you slut."
-    y ""
+    y "Держи, шлюха."
 
 # game/social.rpy:2847
 translate russia socialKim_145667a5:
 
     # kim "Yeah~... you like calling me that. Don't you."
-    kim ""
+    kim "Ага~... тебе нравится так меня называть. Не так ли."
 
 # game/social.rpy:2848
 translate russia socialKim_14e1e7a0:
 
     # y "You cheap whore. Being bend over the diner tables to be fucked for tips!"
-    y ""
+    y "Ты дешёвая шлюха. Тебя нагибают и трахают за чаевые!"
 
 # game/social.rpy:2849
 translate russia socialKim_9b6c4e43:
 
     # kim "Mmmm~.... yes please~...."
-    kim ""
+    kim "Мммм~.... да, пожалуйста~...."
 
 # game/social.rpy:2850
 translate russia socialKim_14b75359:
 
     # y "Gurgling down cum as it stains your uniform and sticks in your hair. Glazing your face as it drops out of your well worn pussy!"
-    y ""
+    y "Горячая сперма капает тебе на лицо, пачкая униформу и прилипая к волосам. Тебе нравиться ощущать свежую горячую сперму в твоей поношенной пиздёнке!"
 
 # game/social.rpy:2851
 translate russia socialKim_131da66e:
 
     # y "Lying pantsless on a table as patrons whip out their dicks to cum on the worthless waitress."
-    y ""
+    y "Лежа без трусов на столе ты жаждешь здаровые члены посетителей, которые обкончяю никчёмную официантку."
 
 # game/social.rpy:2852
 translate russia socialKim_a524d8b4:
 
     # kim "Ngh~... yes~...!"
-    kim ""
+    kim "Нгх~... да~...!"
 
 # game/social.rpy:2853
 translate russia socialKim_3058904c:
 
     # y "................................."
-    y ""
+    y "................................."
 
 # game/social.rpy:2854
 translate russia socialKim_ecef5bde:
 
     # y "Damn, this is fun. I can see how you do it."
-    y ""
+    y "Чёрт, это так весело. Теперь понимаю, как ты это делаешь."
 
 # game/social.rpy:2856
 translate russia socialKim_9c7760bf:
 
     # kim "See? Well worth the 2 dollars, right?"
-    kim ""
+    kim "Видишь? Это стоит 2 долларов, правда?"
 
 # game/social.rpy:2857
 translate russia socialKim_e9567b02:
 
     # y "Yeah!"
-    y ""
+    y "Ага!"
 
 # game/social.rpy:2858
 translate russia socialKim_827b7b13:
 
     # y "Okay, good chat Kim. I'm going to grab a cold shower now."
-    y ""
+    y "Отлично поболтали, Ким. Пойду приму холодный душ."
 
 # game/social.rpy:2860
 translate russia socialKim_439f27f8:
 
     # y "I'm your boss! You should be paying me!"
-    y ""
+    y "Я твой босс! Ты должна платить мне!"
 
 # game/social.rpy:2862
 translate russia socialKim_18f094b9:
 
     # kim "That's not really how it works, [playerName]."
-    kim ""
+    kim "Это не совсем так работает, [playerName]."
 
 # game/social.rpy:2863
 translate russia socialKim_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/social.rpy:2864
 translate russia socialKim_007b3fd6:
 
     # y "You're still not getting those two dollars."
-    y ""
+    y "Два доллара ты всё равно не получишь."
 
 # game/social.rpy:2865
 translate russia socialKim_edf953ad:
 
     # kim "Suit yourself big guy. If you change your mind, you know where to find me...~"
-    kim ""
+    kim "Как хочешь. Если передумаешь, ты знаешь, где меня найти...~"
 
 # game/social.rpy:2874
 translate russia socialKim_0e6eba8a:
 
     # kim "..........................."
-    kim ""
+    kim "..........................."
 
 # game/social.rpy:2875
 translate russia socialKim_fd6febc1:
 
     # y "Kim? Are you okay?"
-    y ""
+    y "Ким? Ты в порядке?"
 
 # game/social.rpy:2876
 translate russia socialKim_3d6e8400:
 
     # kim "Y-yeah yeah... just a little shook up, that's all."
-    kim ""
+    kim "Да, да... просто немного потрясена, вот и всё."
 
 # game/social.rpy:2877
 translate russia socialKim_a53615c6:
 
     # kim "A customer got aggressive and actually grabbed me by the throat."
-    kim ""
+    kim "Один из покупателей стал агрессивным и схватил меня за горло."
 
 # game/social.rpy:2879
 translate russia socialKim_60cec166:
 
     # kim "Now I'm all for getting choked, but normally that costs extra."
-    kim ""
+    kim "Я за, то чтобы меня душили, но обычно это стоит дополнительных денег."
 
 # game/social.rpy:2880
 translate russia socialKim_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/social.rpy:2881
 translate russia socialKim_c14f7db7:
 
     # y "Were you hurt?"
-    y ""
+    y "Сильно схватил?"
 
 # game/social.rpy:2883
 translate russia socialKim_fc10b7eb:
 
     # kim "No, it just surprised me. Luckily before I could ruin my cover, a few people rushed to my help and kicked the guy out."
-    kim ""
+    kim "Нет, просто меня это сильно удивило. К счастью, прежде чем меня успели раскрыть, несколько человек поспешили мне на помощь и выгнали его."
 
 # game/social.rpy:2885
 translate russia socialKim_36f69306:
 
     # kim "Which was a good thing, cause I felt my nipples getting hard!"
-    kim ""
+    kim "И как раз вовремя, потому что я почувствовала, как мои соски затвердели!"
 
 # game/social.rpy:2886
 translate russia socialKim_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/social.rpy:2887
 translate russia socialKim_a8a1cfdc:
 
     # y "Kim, stop acting. Are you okay?"
-    y ""
+    y "Ким, прекрати играть. Ты в порядке?"
 
 # game/social.rpy:2889
 translate russia socialKim_526bbc69:
 
     # kim "What do you mean?"
-    kim ""
+    kim "Что ты имеешь в виду?"
 
 # game/social.rpy:2890
 translate russia socialKim_6db73817_1:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/social.rpy:2891
 translate russia socialKim_f65b950b:
 
     # kim "It... it's nothing..."
-    kim ""
+    kim "Всё... всё в порядке..."
 
 # game/social.rpy:2892
 translate russia socialKim_b0ce9f18:
 
     # y "You were attacked by a customer. It's okay to be upset."
-    y ""
+    y "На тебя напал клиент. Это нормально - быть расстроенной."
 
 # game/social.rpy:2893
 translate russia socialKim_a734a28a:
 
     # kim "............................"
-    kim ""
+    kim "............................"
 
 # game/social.rpy:2894
 translate russia socialKim_c750dd56:
 
     # kim "You know... it's funny."
-    kim ""
+    kim "Да... всё хорошо."
 
 # game/social.rpy:2896
 translate russia socialKim_f3f3200b:
 
     # kim "Being a spy you face danger all the time, you sorta forget how fragile you are."
-    kim ""
+    kim "Будучи шпионом, вы постоянно сталкиваетесь с опасностью, и вы забываете, насколько вы по истине хрупки."
 
 # game/social.rpy:2897
 translate russia socialKim_80fb7ef5:
 
     # kim "I've been in much worse situations, but... just imaging going out because of a drunk in a shady bar..."
-    kim ""
+    kim "Я бывала в гораздо худших ситуациях, но... отправиться на тот свет из-за пьяницы в сомнительном баре..."
 
 # game/social.rpy:2898
 translate russia socialKim_5325d092:
 
     # kim "It's kind of scary."
-    kim ""
+    kim "Это немного пугает."
 
 # game/social.rpy:2899
 translate russia socialKim_a8d9a75f:
 
     # y "Take the rest of the day off. Next time, don't worry about your cover. I wouldn't."
-    y ""
+    y "Возьми выходной до конца дня. В следующий раз не беспокойся о своём прикрытии. Я бы не стал."
 
 # game/social.rpy:2901
 translate russia socialKim_cd27a887:
 
     # kim "Thanks boss...."
-    kim ""
+    kim "Спасибо босс..."
 
 # game/social.rpy:2910
 translate russia socialKim_f757fc08:
 
     # y "Hey Kim. Customers giving you anymore trouble?"
-    y ""
+    y "Привет, Ким. Клиенты больше не беспокоят тебя?"
 
 # game/social.rpy:2911
 translate russia socialKim_af59ebf2:
 
     # kim "Nah, most people like this place because there's no fighting. It being neutral ground and all."
-    kim ""
+    kim "Неа, большинству людей нравится это место, потому что здесь спокойно. Это нейтральная территория и всё такое."
 
 # game/social.rpy:2912
 translate russia socialKim_a03582cc:
 
     # kim "Earlier I saw some Outsiders hang out with Drift Punks."
-    kim ""
+    kim "Ранее я видела, как парочка Аутсайдеров тусовалась с Дрифт Панками."
 
 # game/social.rpy:2913
 translate russia socialKim_317b3475:
 
     # kim "There's been so much fighting in the streets that people just want to come in and relax. Grab a beer and ogle the girls."
-    kim ""
+    kim "На улицах так много суматохи, что люди просто хотят прийти и расслабиться. Выпить пива и поглазеть на девушек."
 
 # game/social.rpy:2914
 translate russia socialKim_8054859a:
 
     # kim "And honestly, in a world where people kill each other over a few feet of 'turf'. Ogling girls isn't so bad in comparison."
-    kim ""
+    kim "И, честно говоря, в мире, где люди убивают друг друга из-за нескольких метров \"территории\". В сравнении с этим, приставание к девушкам выглядит не так уж и плохо."
 
 # game/social.rpy:2915
 translate russia socialKim_3f158041:
 
     # "Customer" "HEY KIM, WHERE'S MY BURGER?!"
-    "Customer" ""
+    "Посетитель" "ЭЙ, КИМ, ГДЕ МОЙ БУРГЕР?!"
 
 # game/social.rpy:2917
 translate russia socialKim_0b4a3823:
 
     # kim "SHUT YOUR TRAP, I'M BUSY!"
-    kim ""
+    kim "ЗАКРОЙ ХАВАЛКУ, Я ЗАНЯТА!"
 
 # game/social.rpy:2918
 translate russia socialKim_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/social.rpy:2920
 translate russia socialKim_51b380e0:
 
     # kim "So yeah, it's going pretty well!"
-    kim ""
+    kim "Так что да, всё идет довольно хорошо!"
 
 # game/social.rpy:2921
 translate russia socialKim_213a8b8e:
 
     # y "I'll... leave you to your work."
-    y ""
+    y "Я... оставлю тебя, продолжай работать."
 
 # game/social.rpy:2930
 translate russia socialKim_435fd6af:
 
     # y "Hello Kim, how is the restau-...{b}*Splesh*{/b}"
-    y ""
+    y "Привет Ким, как дела в ресто-...{b}*Всплеск*{/b}"
 
 # game/social.rpy:2931
 translate russia socialKim_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/social.rpy:2932
 translate russia socialKim_20004509:
 
     # y "What did I just step in?"
-    y ""
+    y "Во что я только что наступил?"
 
 # game/social.rpy:2934
 translate russia socialKim_484f8a59:
 
     # kim "Oh that's a large Number 4 I dropped earlier."
-    kim ""
+    kim "Ох, это 4 номер, я его случайно обронила."
 
 # game/social.rpy:2935
 translate russia socialKim_398c53e1:
 
     # y "Oh well it happeneds. So tell me, how is the clu-....{b}*Splesh*{/b}"
-    y ""
+    y "Ну что ж, бывает. Расскажи, как дела в клу-....{b}*Всплеск*{/b}"
 
 # game/social.rpy:2936
 translate russia socialKim_b5d3c39c:
 
     # y "...."
-    y ""
+    y "...."
 
 # game/social.rpy:2937
 translate russia socialKim_022198a6:
 
     # y "Another Number 4?"
-    y ""
+    y "Ещё одна 4ка?"
 
 # game/social.rpy:2938
 translate russia socialKim_def63aaf:
 
     # kim "Number 3 I think..."
-    kim ""
+    kim "3ка, по-моему..."
 
 # game/social.rpy:2939
 translate russia socialKim_5e9545c1:
 
     # y "Kim, why is the bar such a mess?"
-    y ""
+    y "Ким, почему в баре такой беспорядок?"
 
 # game/social.rpy:2940
 translate russia socialKim_560d44f3:
 
     # kim "Cause I keep dropping orders."
-    kim ""
+    kim "Потому что я продолжаю отказываться от заказов."
 
 # game/social.rpy:2941
 translate russia socialKim_7f78d025:
 
     # y "And why do you keep dropping orders....?"
-    y ""
+    y "И почему ты продолжаешь отказываться от заказов...?"
 
 # game/social.rpy:2943
 translate russia socialKim_0f879c12:
 
     # kim "Cause of all the saving the world I have to do!"
-    kim ""
+    kim "Потому что мне нужно спасать мир!"
 
 # game/social.rpy:2944
 translate russia socialKim_6db73817_2:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/social.rpy:2946
 translate russia socialKim_ea63f4c5:
 
     # kim "Okay fine, I'm just a lousy waitress."
-    kim ""
+    kim "Ладно, хорошо, я просто паршивая официантка."
 
 # game/social.rpy:2947
 translate russia socialKim_5bd6e270:
 
     # kim "Being sexy is one thing, but being sexy {i}'and'{i} remembering people's orders? That's madness!"
-    kim ""
+    kim "Быть сексуальной - это одно, но быть сексуальной {i}'и'{i} помнить заказы людей? Это безумие!"
 
 # game/social.rpy:2948
 translate russia socialKim_a305852d:
 
     # y "You're a super spy. I didn't think waiting tables would give you trouble."
-    y ""
+    y "Ты супершпион. Я не думал, что обслуживать столики, для тебя будет так тяжело."
 
 # game/social.rpy:2950
 translate russia socialKim_df8566e6:
 
     # kim "Hey! I can do anything!"
-    kim ""
+    kim "Эй! Я всё могу!"
 
 # game/social.rpy:2951
 translate russia socialKim_efee3e52:
 
     # y "But can you do anything well?"
-    y ""
+    y "Но можешь ли ты делать что-то хорошо?"
 
 # game/social.rpy:2953
 translate russia socialKim_acd69b60:
 
     # kim "That...! Er..."
-    kim ""
+    kim "Это...! Эм..."
 
 # game/social.rpy:2954
 translate russia socialKim_bd57168d:
 
     # kim "....................."
-    kim ""
+    kim "....................."
 
 # game/social.rpy:2955
 translate russia socialKim_bad6bca7:
 
     # kim "Well maybe not..."
-    kim ""
+    kim "Ну может нет..."
 
 # game/social.rpy:2956
 translate russia socialKim_d0857231:
 
     # y "Though so. If you can do anything, then get busy cleaning up this mess."
-    y ""
+    y "А я о чём. Займись хотя бы уборкой этого беспорядка, тебе это должно быть по плечу."
 
 # game/social.rpy:2958
 translate russia socialKim_01d5a91e:
 
     # kim "Yes boss...."
-    kim ""
+    kim "Да босс..."
 
 # game/social.rpy:2967
 translate russia socialKim_cfcc41df:
 
     # y "So Kim, I've been meaning to ask you. What's your cover story?"
-    y ""
+    y "Итак Ким, я хотел спросить. Какова твоя легенда?"
 
 # game/social.rpy:2968
 translate russia socialKim_75c2434a:
 
     # kim "Cover story?"
-    kim ""
+    kim "Легенда?"
 
 # game/social.rpy:2969
 translate russia socialKim_1f6ec6ab:
 
     # y "Yeah, what did you tell your parents and your school what you were doing."
-    y ""
+    y "Да, что ты сказала родителям и в школе о том, чем ты сейчас занимаешься."
 
 # game/social.rpy:2971
 translate russia socialKim_f9f7e81a:
 
     # kim "Er... liberating Beverly Hills and fighting WOOHP."
-    kim ""
+    kim "Эм... освобождением Беверли-Хиллз и борьбой с WOOHP."
 
 # game/social.rpy:2972
 translate russia socialKim_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/social.rpy:2973
 translate russia socialKim_469a232b:
 
     # y "You told them that...? What about your secret identity?"
-    y ""
+    y "Ты сказала им, что...? А как насчёт твоей тайной личности?"
 
 # game/social.rpy:2975
 translate russia socialKim_36d7ca93:
 
     # kim "I don't have a secret identity. Everyone knows that I'm a super spy."
-    kim ""
+    kim "У меня нет тайной личности. Все знают, что я супершпион."
 
 # game/social.rpy:2976
 translate russia socialKim_c8c153e7:
 
     # y "If everyone knows you're a spy... then you're not much of a spy."
-    y ""
+    y "Если все знают, что ты шпион... тогда ты не очень-то похожа на шпиона."
 
 # game/social.rpy:2977
 translate russia socialKim_3d7f7c06:
 
     # kim "Super Agent then."
-    kim ""
+    kim "Супер Агент получается."
 
 # game/social.rpy:2978
 translate russia socialKim_d3a59cb5:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/social.rpy:2980
 translate russia socialKim_d0e79a63:
 
     # kim "Super Hero?"
-    kim ""
+    kim "Супер Герой?"
 
 # game/social.rpy:2981
 translate russia socialKim_18a6c633:
 
     # y "All right wonder woman, whatever you say."
-    y ""
+    y "Ладно, чудо-женщина, как скажешь."
 
 # game/social.rpy:2990
 translate russia socialKim_f816b53b:
 
     # kim "Boss I need your help. Could you drive me over to the mall? They've got a Club Banana store there that's having a sale."
-    kim ""
+    kim "Босс, мне нужна твоя помощь. Ты не мог бы отвезти меня в торговый центр? Там есть магазин Club Banana, в котором проходит распродажа."
 
 # game/social.rpy:2991
 translate russia socialKim_fcd0792e:
 
     # y "A club banana...? That sounds like an icecream parlor."
-    y ""
+    y "Club Banana...? Это похоже на какое-то кафе-мороженое."
 
 # game/social.rpy:2993
 translate russia socialKim_fca46d4a:
 
     # kim "It's a clothing shop! I can't believe you haven't heard of it!"
-    kim ""
+    kim "Это магазин одежды! Не могу поверить, что ты не слышал о нём!"
 
 # game/social.rpy:2994
 translate russia socialKim_36bdb37b:
 
     # y "You're starting to sound more like the spies every day...{w} Anyways, I'm busy. Drive yourself."
-    y ""
+    y "С каждым днём ты всё больше напоминаешь мне шпионок...{w} В любом случае, я занят. Поезжай сама."
 
 # game/social.rpy:2996
 translate russia socialKim_0e6eba8a_1:
 
     # kim "..........................."
-    kim ""
+    kim "..........................."
 
 # game/social.rpy:2997
 translate russia socialKim_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/social.rpy:2999
 translate russia socialKim_468afcd3:
 
     # kim "I... I don't have a driver's license."
-    kim ""
+    kim "У... у меня нет водительских прав."
 
 # game/social.rpy:3000
 translate russia socialKim_f72b3e82:
 
     # y "You don't have a driver's license?{w} What superspy doesn't have her license? How do you get to missions?!"
-    y ""
+    y "У тебя нет прав?{w} У какого супершпиона нет прав? Как ты добираешься до миссий?!"
 
 # game/social.rpy:3001
 translate russia socialKim_c75d953f:
 
     # kim "I walk."
-    kim ""
+    kim "Пешком."
 
 # game/social.rpy:3002
 translate russia socialKim_1984a35a:
 
     # y "....."
-    y ""
+    y "....."
 
 # game/social.rpy:3003
 translate russia socialKim_1a3c3f19:
 
     # kim "Okay fine. I usually call in a favor and carpool."
-    kim ""
+    kim "Ладно, хорошо. Обычно я делаю одолжения и меня подвозят."
 
 # game/social.rpy:3004
 translate russia socialKim_03e8e6e8:
 
     # y "You carpool..."
-    y ""
+    y "Тебя подвозят..."
 
 # game/social.rpy:3005
 translate russia socialKim_e3f14cda:
 
     # y "I thought you were a super hero? Where's the Possible Mobile or the Kim Jet?"
-    y ""
+    y "Я думал, ты супергерой? Где 5+ Мобиль или Ким-Джэт?"
 
 # game/social.rpy:3007
 translate russia socialKim_891d2bb1:
 
     # kim "I wouldn't be able to drive those without a license, now would I? C'mon boss, give me a ride~...."
-    kim ""
+    kim "Я не могу ездить на них без прав, не так ли? Давай, босс, подвези меня~...."
 
 # game/social.rpy:3008
 translate russia socialKim_9b75634a:
 
     # y "Say please~..."
-    y ""
+    y "Волшебное слово~..."
 
 # game/social.rpy:3009
 translate russia socialKim_1dfae948:
 
     # kim "Pleeeeease~.... I'll show you my tiiiiits~...."
-    kim ""
+    kim "Пожаааалуйста~.... Я покажу тебе свои сииииссськиии~...."
 
 # game/social.rpy:3010
 translate russia socialKim_9781268f:
 
     # y "How can I say no to that face...{w} and those tits...."
-    y ""
+    y "Как я могу отказать такому лицу...{w} и этим сиськам..."
 
 # game/social.rpy:3019
 translate russia socialKim_a550668c:
 
     # y "Kim! I found a picture of you from your highschool days!"
-    y ""
+    y "Ким! Я нашёл твою фотографию со школьных времен!"
 
 # game/social.rpy:3021
 translate russia socialKim_c13e67d0:
 
     # kim "Oh no..."
-    kim ""
+    kim "Оо нет..."
 
 # game/social.rpy:3022
 translate russia socialKim_e64e3f5c:
 
     # y "You were a cheerleader? Nice."
-    y ""
+    y "Ты была чирлидером? Отлично."
 
 # game/social.rpy:3023
 translate russia socialKim_3124e01e:
 
     # kim "I changed a lot since then. I grew up... stopped being the naive little girl I was then... learned what the universe was all about..."
-    kim ""
+    kim "С тех пор я сильно изменилась. Я выросла... перестала быть той наивной девочкой, которой была тогда... узнал, что такое Вселенная..."
 
 # game/social.rpy:3024
 translate russia socialKim_af1e3e8c:
 
     # y "You discovered boys, didn't you?"
-    y ""
+    y "Ты открыла для себя мальчиков, не так ли?"
 
 # game/social.rpy:3025
 translate russia socialKim_d6df2ac8:
 
     # kim "Boss!"
-    kim ""
+    kim "Босс!"
 
 # game/social.rpy:3026
 translate russia socialKim_fd4c45bd:
 
     # y "Trust me. Looking at these pictures, boys discovered you far before you discovered them~...."
-    y ""
+    y "Поверь мне. Глядя на эти фотографии, мальчики открыли тебя гораздо раньше, чем ты открыла их~..."
 
 # game/social.rpy:3031
 translate russia socialKim_6827a3b8:
 
     # kim "Can you stop perving over my highschool photos now...?"
-    kim ""
+    kim "Можешь перестать смотреть на мои школьные фотографии...?"
 
 # game/social.rpy:3032
 translate russia socialKim_4c765827:
 
     # y "Oh relax. You were way too... triangley for me anyways. What did you do? Stuff your bra or something?"
-    y ""
+    y "Расслабься. Ты была слишком... треугольной для меня. Что ты сделала? Набила лифчик или что-то в этом роде?"
 
 # game/social.rpy:3034
 translate russia socialKim_8fd70a10:
 
     # kim "I was young and dumb, okay?! "
-    kim ""
+    kim "Я была молодой и глупой, ясно?!"
 
 # game/social.rpy:3044
 translate russia socialKim_bd57168d_1:
 
     # kim "....................."
-    kim ""
+    kim "....................."
 
 # game/social.rpy:3045
 translate russia socialKim_8ca30a5f:
 
     # kim "I'm horny."
-    kim ""
+    kim "Я возбудилась."
 
 # game/social.rpy:3046
 translate russia socialKim_476a5402:
 
     # y "I'm not paying you to be horny. I'm paying you to {i}'pretend'{/i} to be horny to bring in more tips."
-    y ""
+    y "Я плачу тебе не за то, чтобы ты была возбуждённой. Я плачу тебе {i}'притворялась'{/i} возбуждённой, чтобы заработать больше чаевых."
 
 # game/social.rpy:3047
 translate russia socialKim_61c006f0:
 
     # kim "This is a problem... I've never been horny on a mission before..."
-    kim ""
+    kim "Это проблема... Я никогда раньше не возбуждалась на заданиях..."
 
 # game/social.rpy:3048
 translate russia socialKim_f6d281aa:
 
     # y "I guess some of the customers are pretty good loo-..."
-    y ""
+    y "Полагаю, некоторые клиенты очень хорошо вы-..."
 
 # game/social.rpy:3050
 translate russia socialKim_c9faca37:
 
     # kim "It's not the customers. It's the staff."
-    kim ""
+    kim "Дело не в клиентах. А в персонале."
 
 # game/social.rpy:3051
 translate russia socialKim_6e4ecfcc_1:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/social.rpy:3052
 translate russia socialKim_65f4a563:
 
     # y "THERE YOU ARE!"
-    y ""
+    y "ВОТ ТЫ ГДЕ!"
 
 # game/social.rpy:3054
 translate russia socialKim_f3fe7b44:
 
     # kim "Huh...?"
-    kim ""
+    kim "Хм...?"
 
 # game/social.rpy:3055
 translate russia socialKim_d60086c4:
 
     # y "I've been wondering when a lesbian would show up! We got so many hot spy girls, I was beginning to worry we wouldn't get some hot girl-on-girl action!"
-    y ""
+    y "А я всё думал, когда же появится лесбиянка! У нас так много горячих шпионок, что я уже начал беспокоиться, что мы останемся без горячего девичьего экшена!"
 
 # game/social.rpy:3056
 translate russia socialKim_3039a0a1:
 
     # kim "Boss... I'm not a lesb-..."
-    kim ""
+    kim "Босс... Я не лесб-..."
 
 # game/social.rpy:3057
 translate russia socialKim_aff622eb:
 
     # y "Sure I see some of the staff girls make out from time to time for tips, but they're just faking it for money."
-    y ""
+    y "Конечно, некоторые девушки из персонала время от времени целуются за чаевые, но они просто притворяются ради денег."
 
 # game/social.rpy:3059
 translate russia socialKim_dc5c303f:
 
     # kim "I'm no-..."
-    kim ""
+    kim "Я не-..."
 
 # game/social.rpy:3060
 translate russia socialKim_44722b13:
 
     # y "So? Which one is your favorite? I like all three of the spies, but if you had to choose. Who'd you sleep with?"
-    y ""
+    y "И что? Кто из них твоя любимая? Мне нравятся все три шпионки, но если бы пришлось выбирать. С кем бы ты переспала?"
 
 # game/social.rpy:3061
 translate russia socialKim_8bd83023:
 
     # kim "Boss, I'm not a lesbian..."
-    kim ""
+    kim "Босс, я не лесбиянка..."
 
 # game/social.rpy:3062
 translate russia socialKim_f7d9bf72:
 
     # y "You're not? But I thought-...?"
-    y ""
+    y "Нет? Но я думал-...?"
 
 # game/social.rpy:3064
 translate russia socialKim_c393c98d:
 
     # kim "Girls can be sexually attracted to each other without being gay."
-    kim ""
+    kim "Девушки могут испытывать сексуальное влечение друг к другу, но при этом они не лесбиянки."
 
 # game/social.rpy:3065
 translate russia socialKim_f358cb0c_1:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/social.rpy:3066
 translate russia socialKim_83086089:
 
     # kim "Why do you think {i}'lesbian'{/i} is the most search term for porn by women?"
-    kim ""
+    kim "А почему ты думаешь что {i}'лесбиянки'{/i} самый популярный поисковый запрос в порно среди женщин?"
 
 # game/social.rpy:3067
 translate russia socialKim_666fef7e:
 
     # y "I'm confused. Are you gay or not?"
-    y ""
+    y "Я в замешательстве. Ты лесбиянка или нет?"
 
 # game/social.rpy:3069
 translate russia socialKim_3d76b5e6:
 
     # kim "No, I'm not."
-    kim ""
+    kim "Нет, я не лесбиянка."
 
 # game/social.rpy:3070
 translate russia socialKim_f608d3e1:
 
     # y "But you have sexual fantasies about the staff."
-    y ""
+    y "Но ты фантазируешь о персонале."
 
 # game/social.rpy:3072
 translate russia socialKim_a4f19409:
 
     # kim "Yes, I do."
-    kim ""
+    kim "Да."
 
 # game/social.rpy:3073
 translate russia socialKim_9500a0b4_1:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/social.rpy:3075
 translate russia socialKim_ef1e0928:
 
     # kim "Look, it's complicated okay?!"
-    kim ""
+    kim "Слушай, это сложно, ясно?!"
 
 # game/social.rpy:3076
 translate russia socialKim_65c4244b:
 
     # y "You're telling me..."
-    y ""
+    y "Я вижу..."
 
 # game/social.rpy:3085
 translate russia socialKim_a06e6943:
 
     # y "Hey Kim. Still horny?"
-    y ""
+    y "Привет, Ким. Все ещё возбуждена?"
 
 # game/social.rpy:3086
 translate russia socialKim_08aaf4fe:
 
     # kim "YES!"
-    kim ""
+    kim "ДА!"
 
 # game/social.rpy:3087
 translate russia socialKim_9d4f7462:
 
     # kim "I figured it would just go away, but it hasn't!"
-    kim ""
+    kim "Я думала, что это пройдёт, но это не так!"
 
 # game/social.rpy:3088
 translate russia socialKim_a7e9b7af:
 
     # kim "I mean look at them! Hot girls in tiny uniforms...!"
-    kim ""
+    kim "Ты только посмотри на них! Горячие девушки в горячей униформе...!"
 
 # game/social.rpy:3089
 translate russia socialKim_178025f4:
 
     # y "Yeah you're right. Those uniforms are way too provacitive."
-    y ""
+    y "Да, ты права. Эта форма слишком вызывающая."
 
 # game/social.rpy:3090
 translate russia socialKim_b3c65351:
 
     # y "All right, everybody listen up!"
-    y ""
+    y "Итак, слушайте все!"
 
 # game/social.rpy:3091
 translate russia socialKim_88b21506:
 
     # y "Take off your clothes, you'll be working nude today."
-    y ""
+    y "Раздевайтесь, сегодня вы будете работать голышом."
 
 # game/social.rpy:3092
 translate russia socialKim_104f9f29:
 
     # kim "Wait...!"
-    kim ""
+    kim "Что...!"
 
 # game/social.rpy:3093
 translate russia socialKim_097ebaf5:
 
     # "The girls in the bar look at each other, shrug and begin undressing."
-    ""
+    "Девушки в баре переглядываются, пожимают плечами и начинают раздеваться."
 
 # game/social.rpy:3094
 translate russia socialKim_104f9f29_1:
 
     # kim "Wait...!"
-    kim ""
+    kim "Стойте...!"
 
 # game/social.rpy:3095
 translate russia socialKim_22e64121:
 
     # "Waitress" "Oh no! My breasts are so big. I need someone to help me undress~...."
-    "Waitress" ""
+    "Официантка" "Ох нет! Моя грудь такая большая. Мне нужен кто-то, кто поможет мне раздеться~..."
 
 # game/social.rpy:3096
 translate russia socialKim_931cf39a:
 
     # kim "This isn't helping....!"
-    kim ""
+    kim "Это не помогает...!"
 
 # game/social.rpy:3097
 translate russia socialKim_26a7592e:
 
     # "Waitress" "Oh I'm so embarrassed~.... quickly someone cover my naked breasts with their hands~.... ♥"
-    "Waitress" ""
+    "Официантка" "Мне так стыдно~... быстрее, кто-нибудь прикройте мои обнаженную грудь своими руками~... ♥"
 
 # game/social.rpy:3098
 translate russia socialKim_0041782a:
 
     # kim "{b}*Pant* *Pant*{/b}"
-    kim ""
+    kim "{b}*Вздох* *Вздох*{/b}"
 
 # game/social.rpy:3099
 translate russia socialKim_f3eeaec7:
 
     # "Waitress" "Oops, I spilled a milkshake on my hot....{w} naked...{w} voluptuous breasts~.... I need someone to lick me clean~...!"
-    "Waitress" ""
+    "Официантка" "Уупс, Я пролила молочный коктейль на свою горячую....{w} голую...{w} пышную грудь~.... Мне нужен кто-то, кто вылижет меня дочиста~...!"
 
 # game/social.rpy:3101
 translate russia socialKim_155f8b60:
 
     # kim "Ngh~...."
-    kim ""
+    kim "Нгх~..."
 
 # game/social.rpy:3102
 translate russia socialKim_5c029a90:
 
     # y "Wow... what's with these girls? I feel like I'm in a bad porno movi-...."
-    y ""
+    y "Вау... Что с этими девушками? Я чувствую себя как в плохом порнофил-...."
 
 # game/social.rpy:3103
 translate russia socialKim_d6df2ac8_1:
 
     # kim "Boss!"
-    kim ""
+    kim "Босс!"
 
 # game/social.rpy:3104
 translate russia socialKim_6ccc8312:
 
     # kim "You and me.{w} NOW!"
-    kim ""
+    kim "Ты и я.{w} СЕЙЧАС!"
 
 # game/social.rpy:3105
 translate russia socialKim_f8585fd1:
 
     # y "I thought you were into girl-..."
-    y ""
+    y "Я думал, ты по девушкам-..."
 
 # game/social.rpy:3107
 translate russia socialKim_d0a3c883:
 
     # kim "NOW!"
-    kim ""
+    kim "СЕЙЧАС!"
 
 # game/social.rpy:3108
 translate russia socialKim_92ef1baf:
 
     # "Kim drags you away from the crowd and begins unbuckling her shorts. Bending over to pull them down over her soft smooth buttcheeks."
-    ""
+    "Ким оттаскивает вас от толпы и начинает расстегивать свои шорты. Наклонившись, она стянула их вниз, чтобы вы провели её полное обследование."
 
 # game/social.rpy:3109
 translate russia socialKim_c5a31b9c:
 
     # kim "I want you to use this...!"
-    kim ""
+    kim "Я хочу, чтобы ты использовал это...!"
 
 # game/social.rpy:3110
 translate russia socialKim_8add152c:
 
     # "Kim hands you a leah and collar."
-    ""
+    "Ким даёт вам леа и ошейник."
 
 # game/social.rpy:3111
 translate russia socialKim_604cdc6f_1:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/social.rpy:3112
 translate russia socialKim_cdaa8e21:
 
     # y "You're a fucking slut."
-    y ""
+    y "Ты чёртова шлюха."
 
 # game/social.rpy:3114
 translate russia socialKim_702dda06:
 
     # kim "Yes I am~....."
-    kim ""
+    kim "Да, я шлюха~..."
 
 # game/social.rpy:3116
 translate russia socialKim_6e6cd190:
 
     # kim "Oh! Oh! Oh! Yes!"
-    kim ""
+    kim "Ох! Ааахх! Ааах! Даа!"
 
 # game/social.rpy:3117
 translate russia socialKim_fd5c3c83:
 
     # kim "H-harder...! Pull harder~.... ♥♥♥"
-    kim ""
+    kim "С-сильнее...! Быстрее~.... ♥♥♥"
 
 # game/social.rpy:3118
 translate russia socialKim_f5fd13f0:
 
     # kim "Call me a slut! Fuck me like one!"
-    kim ""
+    kim "Называй меня шлюхой! Трахни меня как шлюху!"
 
 # game/social.rpy:3119
 translate russia socialKim_546389b3:
 
     # kim "Aaaaaahhh!!! ♥♥♥♥♥♥"
-    kim ""
+    kim "АаааААааахХ!!! ♥♥♥♥♥♥"
 
 # game/social.rpy:3120
 translate russia socialKim_d521d446:
 
     # y "This is going into the photobook. Say cheese~...."
-    y ""
+    y "Это войдет в историю. Скажи сыр~...."
 
 # game/social.rpy:3129
 translate russia socialKim_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/social.rpy:3135
 translate russia socialKim_0041782a_1:
 
     # kim "{b}*Pant* *Pant*{/b}"
-    kim ""
+    kim "{b}*Пыхтит* *Пыхтит*{/b}"
 
 # game/social.rpy:3136
 translate russia socialKim_70f5a2e6:
 
     # y "You still horny?"
-    y ""
+    y "Ты всё ещё возбуждена?"
 
 # game/social.rpy:3137
 translate russia socialKim_7d50490d:
 
     # kim "I think that fixed it..."
-    kim ""
+    kim "Думаю, это помогло..."
 
 # game/social.rpy:3138
 translate russia socialKim_a71a766d:
 
     # y "All right. Staff! Get your clothing back on!"
-    y ""
+    y "Отлично. Девочки! Надевайте одежду!"
 
 # game/social.rpy:3139
 translate russia socialKim_24f3d7aa:
 
     # "You hear the disappointed cries of the customers as the girls begin getting dressed again."
-    ""
+    "Вы слышите разочарованные возгласы посетителей, когда девушки снова начинают одеваться."
 
 # game/social.rpy:3143
 translate russia socialKim_f29ef7d6:
 
     # kim "Thanks boss."
-    kim ""
+    kim "Спасибо босс."
 
 # game/social.rpy:3144
 translate russia socialKim_ca0bd3be:
 
     # y "Anytime."
-    y ""
+    y "В любое время."
 
 # game/social.rpy:3150
 translate russia socialKim_206a951d:
 
     # y "Hey Kim."
-    y ""
+    y "Привет Ким."
 
 # game/social.rpy:3153
 translate russia socialKim_d0bf7145:
 
     # kim "You got it boss."
-    kim ""
+    kim "Ты понял, босс."
 
 # game/social.rpy:3161
 translate russia socialKim_90707381_1:
 
     # "{b}*Pinch*{/b}"
-    ""
+    "{b}*Щипок*{/b}"
 
 # game/social.rpy:3162
 translate russia socialKim_a50e2f6d:
 
     # kim "Don't have too much fun there boss~... Else you gotta pay."
-    kim ""
+    kim "Не переусердствуй там, босс~... Иначе придётся платить."
 
 # game/social.rpy:3163
 translate russia socialKim_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/social.rpy:3171
 translate russia socialKim_709f35e1:
 
     # y "Boobies~...."
-    y ""
+    y "Сиськи~...."
 
 # game/social.rpy:3172
 translate russia socialKim_12f64d78:
 
     # kim "Boss... you're drooling."
-    kim ""
+    kim "Босс... у тебя слюнки текут."
 
 # game/social.rpy:3173
 translate russia socialKim_de94e383:
 
     # y "Shh, don't ruin this for me."
-    y ""
+    y "Шшш, не порти момент."
 
 # game/social.rpy:3181
 translate russia socialKim_bd6da094:
 
     # kim "Want a grope? Two bucks."
-    kim ""
+    kim "Хочешь полапать? Два бакса."
 
 # game/social.rpy:3182
 translate russia socialKim_913fa2d3:
 
     # y "Kim... I'm your boss. Lemme grope."
-    y ""
+    y "Ким... Я твой босс. Дай мне полапать."
 
 # game/social.rpy:3183
 translate russia socialKim_b1a13bc2:
 
     # kim "That's some serious abuse of power there."
-    kim ""
+    kim "Это серьезное злоупотребление должностью."
 
 # game/social.rpy:3184
 translate russia socialKim_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 translate russia strings:
 

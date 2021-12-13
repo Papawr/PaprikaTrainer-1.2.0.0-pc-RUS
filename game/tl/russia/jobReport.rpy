@@ -6418,7 +6418,7 @@ translate russia nextReport_eb6f59d2:
 translate russia nextReport_a09fb8de:
 
     # c r16 "Have you ever noticed the smell at Abegail's jungle?"
-    c r16 "Ты когда-нибудь обращял внимания на запах в джунглях Абегайл?"
+    c r16 "Ты когда-нибудь обращял внимания на запах в джунглях Эбегейл?"
 
 # game/jobReport.rpy:2165
 translate russia nextReport_daa1abff:
@@ -10090,7 +10090,7 @@ translate russia jobReportFinale_0cbda633:
 translate russia jobReportFinale_6fda33e8:
 
     # "Silva Abegail was found! She can now help in the search."
-    "Сильва Абегайль найдена! Теперь она может помочь в поиске."
+    "Сильва Эбегейл найдена! Теперь она может помочь в поиске."
 
 # game/jobReport.rpy:3635
 translate russia jobReportFinale_9c3346c4_1:
@@ -10258,7 +10258,7 @@ translate russia jobReportFinale_0cbda633_1:
 translate russia jobReportFinale_6fda33e8_1:
 
     # "Silva Abegail was found! She can now help in the search."
-    "Сильва Абегайль найдена! Теперь она может помочь в поиске."
+    "Сильва Эбегейл найдена! Теперь она может помочь в поиске."
 
 # game/jobReport.rpy:3701
 translate russia jobReportFinale_a6e8946f:
@@ -10360,7 +10360,7 @@ translate russia jobReportFinale_0cbda633_2:
 translate russia jobReportFinale_6fda33e8_2:
 
     # "Silva Abegail was found! She can now help in the search."
-    "Сильва Абегайль найдена! Теперь она может помочь в поиске."
+    "Сильва Эбегейл найдена! Теперь она может помочь в поиске."
 
 # game/jobReport.rpy:3748
 translate russia jobReportFinale_6a08b2d5:
