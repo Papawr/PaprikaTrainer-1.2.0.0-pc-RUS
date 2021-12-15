@@ -9760,7 +9760,7 @@ translate russia strings:
 
     # game/social.rpy:375
     old "'Keep your head up and don't lose spirit'"
-    new "\"Не вешай нос и не падайте духом\""
+    new "\"Не вешай нос и не падай духом\""
 
     # game/social.rpy:375
     old "'You just gotta work harder"
