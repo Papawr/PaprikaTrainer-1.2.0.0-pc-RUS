@@ -1132,7 +1132,7 @@ translate russia task2_4ea5c101:
 translate russia task2_b84345fb:
 
     # y "THEN GO FUCK YOURSELF!"
-    y "ТОГДА ИДИ И ТРАХНИ СЕБЯ!"
+    y "ТОГДА ИДИ И ОТЫМЕЙ СЕБЯ ПО ПОЛНОЙ!"
 
 # game/status.rpy:942
 translate russia task2_2dfbc557:
@@ -1954,7 +1954,7 @@ translate russia vibMenuJump_124c684d:
 translate russia vibMenuJump_aa050ddd:
 
     # y "You wouldn't even do it for Mr. Benjamin...?"
-    y ""
+    y "Ты бы не сделала этого даже ради Мистера. Бенджамина...?"
 
 # game/status.rpy:1196
 translate russia vibMenuJump_8440ceeb:
@@ -1966,295 +1966,295 @@ translate russia vibMenuJump_8440ceeb:
 translate russia vibMenuJump_a91541ba:
 
     # s g8 "[playerName]! I am {b}'not'{/b} a prostitute!"
-    s g8 ""
+    s g8 "[playerName]! Я {b}'не'{/b} проститутка!"
 
 # game/status.rpy:1198
 translate russia vibMenuJump_18a65fd2:
 
     # s "I can't believe that you think so little of me! I am not going and that's final!"
-    s ""
+    s "Не могу поверить, что ты так низко обо мне думаешь! Я не пойду, и это точка!"
 
 # game/status.rpy:1199
 translate russia vibMenuJump_387cd099:
 
     # y "But...!"
-    y ""
+    y "Но...!"
 
 # game/status.rpy:1200
 translate russia vibMenuJump_472acdb9:
 
     # c r40 "I can't believe you're trying to bribe us with one Benjamin!"
-    c r40 ""
+    c r40 "Не могу поверить, что ты пытаешься подкупить нас одним Бенджамином!"
 
 # game/status.rpy:1201
 translate russia vibMenuJump_1b0a83c0:
 
     # y "How about two?"
-    y ""
+    y "Как насчёт двух?"
 
 # game/status.rpy:1202
 translate russia vibMenuJump_45127467:
 
     # c r23 "Well....~"
-    c r23 ""
+    c r23 "Нууу...~"
 
 # game/status.rpy:1203
 translate russia vibMenuJump_10ea6829:
 
     # s "CLOVER, NO!"
-    s ""
+    s "КЛОВЕР, НЕТ!"
 
 # game/status.rpy:1225
 translate russia vibMenuJump_3656d585:
 
     # y "Sam... Clover..."
-    y ""
+    y "Сэм... Кловер..."
 
 # game/status.rpy:1226
 translate russia vibMenuJump_13fab0f0:
 
     # s g18 "Hm?"
-    s g18 ""
+    s g18 "Хм?"
 
 # game/status.rpy:1227
 translate russia vibMenuJump_0a7a2e56:
 
     # y "I {b}'order'{/b} you two to put on a bikini and head to Mathias."
-    y ""
+    y "Я {b}'приказываю'{/b} вам двоим надеть бикини и отправиться к Матиасу."
 
 # game/status.rpy:1228
 translate russia vibMenuJump_df778033:
 
     # s g28 "W-wait...!"
-    s g28 ""
+    s g28 "С-стой...!"
 
 # game/status.rpy:1229
 translate russia vibMenuJump_53b6fb1e:
 
     # c r29 "What?!"
-    c r29 ""
+    c r29 "Что?!"
 
 # game/status.rpy:1242
 translate russia vibMenuJump_a2d05249:
 
     # s g39 "Yes sir! Seduction mission is a go!"
-    s g39 ""
+    s g39 "Так точно сэр! Миссия соблазнения начата!"
 
 # game/status.rpy:1243
 translate russia vibMenuJump_729bb4bd:
 
     # c r8 "Shedding some clothes for the glory of WOOHP is but a small price to pay!"
-    c r8 ""
+    c r8 "Сбросить немного одежды во славу WOOHP - это лишь малая цена!"
 
 # game/status.rpy:1244
 translate russia vibMenuJump_0ae37512:
 
     # y "That's better! I might send you two out during the day to visit Mathias."
-    y ""
+    y "Так-то лучше! Я отправлю вас двоих днём навестить Матиаса."
 
 # game/status.rpy:1245
 translate russia vibMenuJump_1246abe5:
 
     # "Both girls" "Yes sir!"
-    "Both girls" ""
+    "Обе девушки" "Так точно!"
 
 # game/status.rpy:1248
 translate russia vibMenuJump_caea8601:
 
     # "You can now send girls to Mathias during the day to boost his research. Only spies that have a swimsuit available can go."
-    ""
+    "Теперь вы можете посылать девушек к Матиасу в течение дня, чтобы ускорить его исследования. Только шпионки, у которых в наличии есть купальник, могут пойти."
 
 # game/status.rpy:1249
 translate russia vibMenuJump_737105da:
 
     # "This is entirely optional however. Mathias will continue to work on hacking the database, even without the spies visiting him."
-    ""
+    "Однако это совершенно необязательно. Матиас будет продолжать работать над взломом базы данных даже без посещения его шпионками."
 
 # game/status.rpy:1263
 translate russia vibMenuJump_b325af99:
 
     # "The Vitals Indication Bug aka V.I.B. unlocked!"
-    ""
+    "Вибро-индикатор-вредителей, он же V.I.B. разблокирован!"
 
 # game/status.rpy:1264
 translate russia vibMenuJump_e8f77e01:
 
     # "The V.I.B. will messure a spy's oxytocin levels and nanobots control via the STATUS screen."
-    ""
+    "V.I.B. будет проверять уровень окситоцина шпионок и поможет в управлении наноботами через экран СТАТУС."
 
 # game/status.rpy:1265
 translate russia vibMenuJump_edb884fc:
 
     # "It can also be used during missions to make a nanocontrolled spy come to her senses."
-    ""
+    "V.I.B. можно использовать во время миссий, он заставит шпионку прийти в себя если она вдруг окажется под контролем наноботов."
 
 # game/status.rpy:1266
 translate russia vibMenuJump_9072e430:
 
     # "Careful however! Using the V.I.B. during missions can give away the spies location."
-    ""
+    "Однако будьте осторожны! Использование V.I.B. во время миссий может выдать местоположение шпионок."
 
 # game/status.rpy:1267
 translate russia vibMenuJump_6815855a:
 
     # y "I bet the girls are gonna love this..."
-    y ""
+    y "Уверен, девочкам это понравится..."
 
 # game/status.rpy:1268
 translate russia vibMenuJump_73c37ba1:
 
     # y "Once I have a moment, I should go talk to them."
-    y ""
+    y "Как только появится свободная минутка, пойду и поговорю с ними."
 
 # game/status.rpy:1293
 translate russia vibMenuJump_a5377adb:
 
     # y "{b}*Deep breath*{/b}"
-    y ""
+    y "{b}*Глубокий вдох*{/b}"
 
 # game/status.rpy:1294
 translate russia vibMenuJump_cbf0d555:
 
     # y "Okay, how am I going to tell them...."
-    y ""
+    y "Ладно, как мне им это сказать..."
 
 # game/status.rpy:1295
 translate russia vibMenuJump_a6c5d69b:
 
     # "Inner Voice" "Be honest and straight forward with them."
-    "Inner Voice" ""
+    "Внутренний голос" "Будь честным и откровенным с ними."
 
 # game/status.rpy:1296
 translate russia vibMenuJump_a3aa9132:
 
     # y "I know I should, voice in my head. But you know how they're going to react."
-    y ""
+    y "Я знаю, голос в моей голове. Но ты знаешь, как они отреагируют."
 
 # game/status.rpy:1297
 translate russia vibMenuJump_e8cb0137:
 
     # "Inner Voice" "They will probably say some nasty things to you, but just remember:{w} {i}I am a strong independent man and my ego is strong enough to handle some mean remarks by teenage girls.{/i}"
-    "Inner Voice" ""
+    "Внутренний голос" "Скорее всего они будут говорить тебе неприятные вещи, но помни:{w} {i}Я сильный независимый мужчина и мое эго достаточно сильно, чтобы выдержать несколько грубых замечаний со стороны девочек-подростков.{/i}"
 
 # game/status.rpy:1298
 translate russia vibMenuJump_a62ec5b5:
 
     # y "Yeah... Thanks voice."
-    y ""
+    y "Ага... Спасибо голос."
 
 # game/status.rpy:1299
 translate russia vibMenuJump_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:1300
 translate russia vibMenuJump_e0b06210:
 
     # y "By the way....{w} Are you suppose to be my conscious or something?"
-    y ""
+    y "Кстати...{w} Ты моя совесть или что-то в этом роде?"
 
 # game/status.rpy:1301
 translate russia vibMenuJump_a421e21b:
 
     # "Inner Voice" "Also if the girls refuse and say mean things to you, you should strap them down to a bed and preform Chinese water torture on them."
-    "Inner Voice" ""
+    "Внутренний голос" "Если девушки откажутся и будут говорить тебе гадости, тебе всего лишь нужно будет пристегнуть их к кровати и пытать водой, известный китайский способ."
 
 # game/status.rpy:1302
 translate russia vibMenuJump_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:1303
 translate russia vibMenuJump_e080c181:
 
     # y "Definitely not my conscious."
-    y ""
+    y "Ты точно не моя совесть."
 
 # game/status.rpy:1308
 translate russia vibMenuJump_830b9aac:
 
     # s g18 "[playerName]? Did I hear you talking to someone...?"
-    s g18 ""
+    s g18 "[playerName]? Ты с кем-то разговаривал...?"
 
 # game/status.rpy:1310
 translate russia vibMenuJump_dad853f9:
 
     # y "Girls, I figured out a solution to our little nanobots problem."
-    y ""
+    y "Девочки, я нашёл решение проблемы с наноботами."
 
 # game/status.rpy:1311
 translate russia vibMenuJump_feaae1c6:
 
     # y "I present you with...{w} THE V.I.B.!"
-    y ""
+    y "Предстовляю вам...{w} V.I.B.!"
 
 # game/status.rpy:1312
 translate russia vibMenuJump_e113d65e:
 
     # "You hold up two toys to the girls."
-    ""
+    "Вы протягиваете две игрушки девочкам."
 
 # game/status.rpy:1313
 translate russia vibMenuJump_5bebad92:
 
     # c r18 "Is that...?"
-    c r18 ""
+    c r18 "Это...?"
 
 # game/status.rpy:1314
 translate russia vibMenuJump_59d8f64b:
 
     # s g16 "A toy? I don't see how this is going to help us, [playerName]."
-    s g16 ""
+    s g16 "Игрушка? Я не понимаю, как она должна нам помочь, [playerName]."
 
 # game/status.rpy:1315
 translate russia vibMenuJump_0199c4bb:
 
     # c r35 "Er... Sam...."
-    c r35 ""
+    c r35 "Эм... Сэм..."
 
 # game/status.rpy:1316
 translate russia vibMenuJump_2046dd3e:
 
     # "Sam picks up the toy and inspects it."
-    ""
+    "Сэм берёт игрушку и осматривает её."
 
 # game/status.rpy:1317
 translate russia vibMenuJump_d9812ee5:
 
     # s g41 "So is this like a gadg-...?"
-    s g41 ""
+    s g41 "Так, и это типа гадже-...?"
 
 # game/status.rpy:1319
 translate russia vibMenuJump_ee3829f6:
 
     # "{b}*Vibrates*{/b}"
-    ""
+    "{b}*Вибрирует*{/b}"
 
 # game/status.rpy:1320
 translate russia vibMenuJump_afbe56cc:
 
     # s g16 "Why is it vibrating...?"
-    s g16 ""
+    s g16 "Почему он вибрирует...?"
 
 # game/status.rpy:1321
 translate russia vibMenuJump_d6e712c6:
 
     # c "......................"
-    c ""
+    c "......................"
 
 # game/status.rpy:1322
 translate russia vibMenuJump_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:1323
 translate russia vibMenuJump_a88aa66e:
 
     # s "................"
-    s ""
+    s "................"
 
 # game/status.rpy:1324
 translate russia vibMenuJump_5049bd8b:
@@ -2266,133 +2266,133 @@ translate russia vibMenuJump_5049bd8b:
 translate russia vibMenuJump_c31cc4fc:
 
     # s g30 "NO! NO WAY!"
-    s g30 ""
+    s g30 "НЕТ! НИЗА ЧТО!"
 
 # game/status.rpy:1326
 translate russia vibMenuJump_56303348:
 
     # s "Is this...?! We're suppose to...?! You expect us to...?!"
-    s ""
+    s "Это...?! Мы нужно...?! Ты думаешь, что мы...?!"
 
 # game/status.rpy:1327
 translate russia vibMenuJump_f889c820:
 
     # s "I... I...! Clover! Say something!"
-    s ""
+    s "Я... я...! Кловер! Скажи что-нибудь!"
 
 # game/status.rpy:1328
 translate russia vibMenuJump_2f46071a:
 
     # c r23 "Oooh~... it has five higher settings~...."
-    c r23 ""
+    c r23 "Ооох~... тут целых пять режимов~..."
 
 # game/status.rpy:1329
 translate russia vibMenuJump_de3b2ca0:
 
     # s g8 "Clover!"
-    s g8 ""
+    s g8 "Кловер!"
 
 # game/status.rpy:1330
 translate russia vibMenuJump_b637dee8:
 
     # c r3 "Oh Sam, calm down. It's just a vibrator."
-    c r3 ""
+    c r3 "Ох, Сэм успокойся. Это просто вибратор."
 
 # game/status.rpy:1331
 translate russia vibMenuJump_f48177a5:
 
     # s g4 "B-but...!"
-    s g4 ""
+    s g4 "Н-но...!"
 
 # game/status.rpy:1332
 translate russia vibMenuJump_74d05b1c:
 
     # s "{size=-10}But it's naughty...!{/size}"
-    s ""
+    s "{size=-10}Но это же плохо...!{/size}"
 
 # game/status.rpy:1333
 translate russia vibMenuJump_5aaa9430:
 
     # c r38 "Listen Sam..."
-    c r38 ""
+    c r38 "Послушай Сэм..."
 
 # game/status.rpy:1334
 translate russia vibMenuJump_b3fcbf70:
 
     # c "We're not little girls anymore. We're full blown spies, working for one of the most powerful organizations on earth."
-    c ""
+    c "Мы уже не маленькие девочки. Мы - полноценные шпионки, работающие на одну из самых могущественных организаций на Земле."
 
 # game/status.rpy:1335
 translate russia vibMenuJump_de278b87:
 
     # c "If anything, I'm surprised we haven't run into anything like this before."
-    c ""
+    c "Если честно, я удивлена, что мы не сталкивались с подобным раньше."
 
 # game/status.rpy:1336
 translate russia vibMenuJump_105dcbd5:
 
     # s "{size=-10}But...{/size}"
-    s ""
+    s "{size=-10}Но...{/size}"
 
 # game/status.rpy:1337
 translate russia vibMenuJump_61dd5f58:
 
     # c r12 "I mean, don't get me wrong...{w} Did you have to go with such a gaudy pink, [playerName]? That's like... {i}'so'{/i} not fashionable!"
-    c r12 ""
+    c r12 "Не пойми меня неправильно...{w} Обязательно было выбирать такой безвкусный розовый цвет, [playerName]? Это типа... {i}'вообще'{/i} немодно!"
 
 # game/status.rpy:1338
 translate russia vibMenuJump_2ff55530:
 
     # s g11 "............"
-    s g11 ""
+    s g11 "............"
 
 # game/status.rpy:1339
 translate russia vibMenuJump_44f933fb:
 
     # c "Just deal with it Sam. It's not like he's going to ask us to wear it to missions."
-    c ""
+    c "Просто смирись с этим Сэм. Он же не собирается просить нас надевать его на миссии."
 
 # game/status.rpy:1340
 translate russia vibMenuJump_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:1341
 translate russia vibMenuJump_fe9409bd:
 
     # c r16 "Right?"
-    c r16 ""
+    c r16 "Ведь так?"
 
 # game/status.rpy:1342
 translate russia vibMenuJump_9cb97b48_1:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:1343
 translate russia vibMenuJump_c33807f4:
 
     # c "Right....~?"
-    c ""
+    c "Ведь так...~?"
 
 # game/status.rpy:1344
 translate russia vibMenuJump_3de565b1:
 
     # s g28 "[playerName]...! This is not funny!"
-    s g28 ""
+    s g28 "[playerName]...! Это не смешно!"
 
 # game/status.rpy:1345
 translate russia vibMenuJump_e14b7ca6:
 
     # y "Not only will you wear it on missions."
-    y ""
+    y "Вы будете носить его не только на заданиях."
 
 # game/status.rpy:1346
 translate russia vibMenuJump_7c46ba01:
 
     # y "You will also wear it when going undercover."
-    y ""
+    y "Вы также будете носить его, во время работы под прикрытием."
 
 # game/status.rpy:1347
 translate russia vibMenuJump_2dfbc557:
@@ -2410,25 +2410,25 @@ translate russia vibMenuJump_b6a26306:
 translate russia vibMenuJump_93706d17:
 
     # y "And when you're at the base."
-    y ""
+    y "И когда вы на базе."
 
 # game/status.rpy:1350
 translate russia vibMenuJump_d393a302:
 
     # c "T-that's...!"
-    c ""
+    c "Эт-это...!"
 
 # game/status.rpy:1351
 translate russia vibMenuJump_0d08de86:
 
     # y "And not only that..."
-    y ""
+    y "И не только его..."
 
 # game/status.rpy:1352
 translate russia vibMenuJump_36152e15:
 
     # s "There's more...?"
-    s ""
+    s "Есть ещё...?"
 
 # game/status.rpy:1353
 translate russia vibMenuJump_cb3c8129:
@@ -2440,301 +2440,301 @@ translate russia vibMenuJump_cb3c8129:
 translate russia vibMenuJump_cf090b36:
 
     # c r29 "...............!"
-    c r29 ""
+    c r29 "...............!"
 
 # game/status.rpy:1356
 translate russia vibMenuJump_6455b90a:
 
     # s g28 "It's remote controlled...?!"
-    s g28 ""
+    s g28 "Он управляется дистанционно...?!"
 
 # game/status.rpy:1357
 translate russia vibMenuJump_a5fe66b2:
 
     # y "Whenever I suspect any of you to turn traitorous, I can use this to snap you out of it."
-    y ""
+    y "Как только я заподозрю, что кто-то из вас переходит под контроль наноботов, с помощью этого гаджета я смогу подавить их активность."
 
 # game/status.rpy:1358
 translate russia vibMenuJump_014b7428:
 
     # c r11 "......"
-    c r11 ""
+    c r11 "......"
 
 # game/status.rpy:1359
 translate russia vibMenuJump_0f4dd8a9:
 
     # c r12 "He has a point..."
-    c r12 ""
+    c r12 "Он прав..."
 
 # game/status.rpy:1360
 translate russia vibMenuJump_af2430b1:
 
     # s g9 "Clover! Don't give in so easily!"
-    s g9 ""
+    s g9 "Кловер! Не поддавайся так легко!"
 
 # game/status.rpy:1361
 translate russia vibMenuJump_313f7455:
 
     # c "It's either this or helping in overthrowing the world."
-    c ""
+    c "Либо это, либо помощь в свержении мира."
 
 # game/status.rpy:1362
 translate russia vibMenuJump_67b329ea:
 
     # s g40 "There has to be another way!"
-    s g40 ""
+    s g40 "Должен быть другой способ!"
 
 # game/status.rpy:1363
 translate russia vibMenuJump_0db45d84:
 
     # y "I'm sure there is, but we're sorta on a tight deadline here."
-    y ""
+    y "Я уверен что есть, но у нас вроде как не так много времени."
 
 # game/status.rpy:1364
 translate russia vibMenuJump_89bfd39f:
 
     # s g31 "Well we could...! {w} How about instead we...{w} I'm sure that if we..."
-    s g31 ""
+    s g31 "Ну, мы могли бы...! {w}Как насчёт...{w} Я уверена, что если мы..."
 
 # game/status.rpy:1365
 translate russia vibMenuJump_375c59fb:
 
     # s g33 ".............................."
-    s g33 ""
+    s g33 ".............................."
 
 # game/status.rpy:1366
 translate russia vibMenuJump_82aae0cd:
 
     # c r22 "Gimme one of those..."
-    c r22 ""
+    c r22 "Дай мне одну..."
 
 # game/status.rpy:1368
 translate russia vibMenuJump_9f6b27a2:
 
     # "Clover takes one of the V.I.B.s and heads into a nearby room."
-    ""
+    "Кловер берёт один V.I.B. и направляется в соседнюю комнату."
 
 # game/status.rpy:1369
 translate russia vibMenuJump_9cb97b48_2:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:1370
 translate russia vibMenuJump_af5fad4e:
 
     # s "........................"
-    s ""
+    s "........................"
 
 # game/status.rpy:1371
 translate russia vibMenuJump_cf3aa3c1:
 
     # s g38 "This is stupid, you can't just order us around like this."
-    s g38 ""
+    s g38 "Это глупо, ты не можешь вот так просто приказывать нам."
 
 # game/status.rpy:1372
 translate russia vibMenuJump_7d08e1ff:
 
     # y "I'm your boss, I'm pretty sure I can."
-    y ""
+    y "Я твой босс. Я уверен, что могу."
 
 # game/status.rpy:1373
 translate russia vibMenuJump_7178d12a:
 
     # s g40 "No, you can't! We're not your slaves!"
-    s g40 ""
+    s g40 "Нет, не можешь! Мы не твои рабы!"
 
 # game/status.rpy:1374
 translate russia vibMenuJump_307ed6f3:
 
     # c "We might as well be at this point."
-    c ""
+    c "На данный момент мы вполне на них похожи."
 
 # game/status.rpy:1382
 translate russia vibMenuJump_3536dc7f:
 
     # s g29 "C-clover...!"
-    s g29 ""
+    s g29 "К-кловер...!"
 
 # game/status.rpy:1383
 translate russia vibMenuJump_e9418ac4:
 
     # c "If we're going to save this world. Like it or not we need him."
-    c ""
+    c "Если мы хотим спасти мир. Нравится нам это или нет, но он нам нужен."
 
 # game/status.rpy:1384
 translate russia vibMenuJump_c0a38de1:
 
     # s g30 "But..."
-    s g30 ""
+    s g30 "Но..."
 
 # game/status.rpy:1385
 translate russia vibMenuJump_e4e73519:
 
     # c "And he knows it. He can ask us to do whatever he wants."
-    c ""
+    c "И он это знает. Он может просить нас делать всё, что захочет."
 
 # game/status.rpy:1386
 translate russia vibMenuJump_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:1387
 translate russia vibMenuJump_5751b93f:
 
     # s "You... you wouldn't do that!"
-    s ""
+    s "Ты... ты бы этого не сделал!"
 
 # game/status.rpy:1388
 translate russia vibMenuJump_10fe9619:
 
     # s "............."
-    s ""
+    s "............."
 
 # game/status.rpy:1389
 translate russia vibMenuJump_fa5a4671:
 
     # s g29 "Would you...?"
-    s g29 ""
+    s g29 "Или...?"
 
 # game/status.rpy:1392
 translate russia vibMenuJump_f03eb316:
 
     # y "I just wanted to let you two know that we're all in the same boat."
-    y ""
+    y "Просто хотел чтобы вы знали, мы всё в одной лодке."
 
 # game/status.rpy:1393
 translate russia vibMenuJump_f001385f:
 
     # y "I know that things look bleak right now, but you can trust me."
-    y ""
+    y "Знаю, что сейчас всё выглядит мрачновато, но вы можете мне верить."
 
 # game/status.rpy:1394
 translate russia vibMenuJump_b424cc06:
 
     # s g1 "We can...?"
-    s g1 ""
+    s g1 "Мы можем...?"
 
 # game/status.rpy:1395
 translate russia vibMenuJump_9500a0b4_1:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:1396
 translate russia vibMenuJump_da8257de:
 
     # y "Okay you can {i}'probably'{/i} trust me."
-    y ""
+    y "Ладно, {i}'вероятно'{/i} вы можете мне доверять."
 
 # game/status.rpy:1397
 translate russia vibMenuJump_b892467f:
 
     # y "Most likely."
-    y ""
+    y "С большой вероятностью."
 
 # game/status.rpy:1398
 translate russia vibMenuJump_6bb725a0:
 
     # s g10 "................"
-    s g10 ""
+    s g10 "................"
 
 # game/status.rpy:1399
 translate russia vibMenuJump_0e3fb1f9:
 
     # y "Potentially."
-    y ""
+    y "Потенциально."
 
 # game/status.rpy:1400
 translate russia vibMenuJump_f2cde862:
 
     # y "Possibly..."
-    y ""
+    y "Возможно..."
 
 # game/status.rpy:1401
 translate russia vibMenuJump_34d5447b_1:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:1402
 translate russia vibMenuJump_3003834f:
 
     # y "I'd say about 50/50."
-    y ""
+    y "Я бы сказал, где-то 50 на 50."
 
 # game/status.rpy:1403
 translate russia vibMenuJump_226fd1c0:
 
     # s g12 "Great, that {i}'really'{/i} set my mind at ease..."
-    s g12 ""
+    s g12 "Класс, теперь я {i}'точно'{/i} спокойна..."
 
 # game/status.rpy:1406
 translate russia vibMenuJump_72eaa01c:
 
     # y "YES! I got bitches!"
-    y ""
+    y "ДА! У меня есть сучки!"
 
 # game/status.rpy:1407
 translate russia vibMenuJump_f8b64d02:
 
     # y "Time to feed me my grapes slaves~.... ♥♥♥"
-    y ""
+    y "Время поесть виноград, мои рабы~.... ♥♥♥"
 
 # game/status.rpy:1408
 translate russia vibMenuJump_624577be:
 
     # c "Told ya."
-    c ""
+    c "Говорила же."
 
 # game/status.rpy:1410
 translate russia vibMenuJump_8e7a7096:
 
     # s g28 "W-what! No! I'm nobody's slave!"
-    s g28 ""
+    s g28 "Ч-что! Нет! Я не рабыня!"
 
 # game/status.rpy:1411
 translate russia vibMenuJump_0d27074d:
 
     # c "All right Sam, then how about you leave and join the rest of the mindcontrolled masses?"
-    c ""
+    c "Ладно Сэм, тогда как насчёт того, чтобы ты присоединилась к остальным зомбифицированным?"
 
 # game/status.rpy:1412
 translate russia vibMenuJump_7473093f:
 
     # s "But... but...!"
-    s ""
+    s "Но... но...!"
 
 # game/status.rpy:1413
 translate russia vibMenuJump_2d651986:
 
     # "Sam looks around desperately."
-    ""
+    "Сэм в отчаянии оглядывается по сторонам."
 
 # game/status.rpy:1414
 translate russia vibMenuJump_02fbc625:
 
     # s g9 "..................."
-    s g9 ""
+    s g9 "..................."
 
 # game/status.rpy:1415
 translate russia vibMenuJump_d317ae0d:
 
     # s g15 "There's really no alternative. Is there...?"
-    s g15 ""
+    s g15 "Альтернативы действительно нет. Может...?"
 
 # game/status.rpy:1416
 translate russia vibMenuJump_16768da9:
 
     # c "Now you're getting it."
-    c ""
+    c "Теперь ты это понимаешь."
 
 # game/status.rpy:1418
 translate russia vibMenuJump_e9e7518b:
 
     # y "I could order you to do all kinds of sick things!"
-    y ""
+    y "Я могу приказать тебе сделать всё, что угодно!"
 
 # game/status.rpy:1419
 translate russia vibMenuJump_2dfbc557_1:
@@ -2746,169 +2746,169 @@ translate russia vibMenuJump_2dfbc557_1:
 translate russia vibMenuJump_3a928ac8:
 
     # y "I mean I wouldn't, but I could."
-    y ""
+    y "Конечно я бы не стал, но я могу."
 
 # game/status.rpy:1421
 translate russia vibMenuJump_6f5c2768:
 
     # s g29 "Oh..."
-    s g29 ""
+    s g29 "Ох..."
 
 # game/status.rpy:1422
 translate russia vibMenuJump_8a2fe986:
 
     # y "At least I probably wouldn't...."
-    y ""
+    y "По крайней мере, наверное я бы не стал..."
 
 # game/status.rpy:1423
 translate russia vibMenuJump_496509c2:
 
     # s g31 "[playerName]..."
-    s g31 ""
+    s g31 "[playerName]..."
 
 # game/status.rpy:1424
 translate russia vibMenuJump_b07a2ecc:
 
     # y "Nah, okay real talk. I would {i}'totally'{/i} make you do all the weird stuff."
-    y ""
+    y "Ну ладно, поговорим начистоту. Я бы {i}'точно'{/i} заставил тебя делать все эти странные вещи."
 
 # game/status.rpy:1426
 translate russia vibMenuJump_8068af10:
 
     # y "I could turn your cell into a dungeon..."
-    y ""
+    y "Я могу превратить твою камеру в темницу..."
 
 # game/status.rpy:1428
 translate russia vibMenuJump_81153c8b:
 
     # s g28 "No!"
-    s g28 ""
+    s g28 "Нет!"
 
 # game/status.rpy:1429
 translate russia vibMenuJump_2225256b:
 
     # y "Or more likely, just have you do all my boring stuff, like file my taxes."
-    y ""
+    y "Или, что более вероятно, просто попрошу тебя делать все мои скучные дела, например, подавать мою налоговую декларацию."
 
 # game/status.rpy:1430
 translate russia vibMenuJump_4dbc1507:
 
     # s g10 "............"
-    s g10 ""
+    s g10 "............"
 
 # game/status.rpy:1431
 translate russia vibMenuJump_d5e2634e:
 
     # s g12 "I still don't like it..."
-    s g12 ""
+    s g12 "Мне это всё ещё не нравится..."
 
 # game/status.rpy:1435
 translate russia vibMenuJump_f006c2d0:
 
     # c r38 "Like it or not. We're at his whims and it's going to be up to him to decide how he treats us."
-    c r38 ""
+    c r38 "Нравится тебе это или нет. Мы подчиняемся его прихотям, он сам будет решать, как с нами обращаться."
 
 # game/status.rpy:1436
 translate russia vibMenuJump_d17a6201:
 
     # c r11 "[playerName].... You got a lot of power over us now, okay?"
-    c r11 ""
+    c r11 "[playerName].... У тебя теперь много власти над нами, ясно?"
 
 # game/status.rpy:1437
 translate russia vibMenuJump_c8b02a21:
 
     # c "But we're still people. Forcing us to do things we don't want to, will have a negative impact. Plus, treating us like slaves and over-working us will affect our mood."
-    c ""
+    c "Но мы всё ещё люди. Заставлять нас делать то, чего мы не хотим, будет иметь негативные последствия. Кроме того, обращение с нами как с рабами и чрезмерная занятость повлияют на наше настроение."
 
 # game/status.rpy:1438
 translate russia vibMenuJump_0a2f0c5f:
 
     # s g29 "Now hang on a minute! You don't {i}have{/i} to treat us like slaves."
-    s g29 ""
+    s g29 "Подождите минутку! Тебе не {i}нужно{/i} обращаться с нами как с рабами."
 
 # game/status.rpy:1439
 translate russia vibMenuJump_09b43c65:
 
     # s g1 "I bet we could become great friends if you don't abuse your power too much."
-    s g1 ""
+    s g1 "Уверена, мы можем стать отличными друзьями, если ты не будешь слишком злоупотреблять своей властью."
 
 # game/status.rpy:1440
 translate russia vibMenuJump_953d88b1:
 
     # y "I guess we'll see. For now, go put on the V.I.B."
-    y ""
+    y "Посмотрим. А пока возьми V.I.B."
 
 # game/status.rpy:1441
 translate russia vibMenuJump_d284a606:
 
     # s g11 "Fine...."
-    s g11 ""
+    s g11 "Ладно..."
 
 # game/status.rpy:1444
 translate russia vibMenuJump_07cc5ad1:
 
     # c "............"
-    c ""
+    c "............"
 
 # game/status.rpy:1445
 translate russia vibMenuJump_e4f07db3:
 
     # c "So you found this thing in the WOOHP database?"
-    c ""
+    c "Так ты нашёл эту штуку в базе данных WOOHP?"
 
 # game/status.rpy:1446
 translate russia vibMenuJump_34fa9179:
 
     # y "Yup."
-    y ""
+    y "Ага."
 
 # game/status.rpy:1447
 translate russia vibMenuJump_aeccb3c9:
 
     # c r23 "Always knew that Jerry was secretly a perv."
-    c r23 ""
+    c r23 "Всегда знала, что Джерри извращенец."
 
 # game/status.rpy:1448
 translate russia vibMenuJump_ac5c2703:
 
     # y "Jerry is the founder of WOOHP, right?"
-    y ""
+    y "Джерри - основатель WOOHP, верно?"
 
 # game/status.rpy:1449
 translate russia vibMenuJump_e9608076:
 
     # c r49 "Yeah. The fact that we haven't heard anything about him makes me sorta worried."
-    c r49 ""
+    c r49 "Да. Меня беспокоит то что мы ничего о нём не знаем. Ни что с ним стало, ни где он сейчас."
 
 # game/status.rpy:1450
 translate russia vibMenuJump_12ede94b:
 
     # c "I hope that nothing bad happened to him..."
-    c ""
+    c "Надеюсь, что с ним ничего не случилось..."
 
 # game/status.rpy:1458
 translate russia vibMenuJump_77bab620:
 
     # s "................."
-    s ""
+    s "................."
 
 # game/status.rpy:1459
 translate russia vibMenuJump_abd3fc4b:
 
     # y "Got it sorted?"
-    y ""
+    y "Разобрались?"
 
 # game/status.rpy:1460
 translate russia vibMenuJump_7ccc9528:
 
     # s "What do you think...?"
-    s ""
+    s "Что думаешь...?"
 
 # game/status.rpy:1461
 translate russia vibMenuJump_7b71e744:
 
     # y "Good! Let's test these things out!"
-    y ""
+    y "Отлично! Давайте проверим эту штуку!"
 
 # game/status.rpy:1462
 translate russia vibMenuJump_cb3c8129_1:
@@ -2938,49 +2938,49 @@ translate russia vibMenuJump_1db49ca3:
 translate russia vibMenuJump_8153e9fe:
 
     # y "Judging by your reaction, it looks like they work."
-    y ""
+    y "Судя по вашей реакции, они работают."
 
 # game/status.rpy:1468
 translate russia vibMenuJump_74d0f13e:
 
     # c r19 "A-and... these will measure our vital signs?"
-    c r19 ""
+    c r19 "И-и... он будет следить за нашими жизненными показателями?"
 
 # game/status.rpy:1469
 translate russia vibMenuJump_6005cbb6:
 
     # y "Yup. I got them right here!"
-    y ""
+    y "Ага. Я вижу их прямо сейчас!"
 
 # game/status.rpy:1470
 translate russia vibMenuJump_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:1471
 translate russia vibMenuJump_60eeee89:
 
     # y "It says you're aroused."
-    y ""
+    y "Тут говориться о том, что вы возбуждены."
 
 # game/status.rpy:1472
 translate russia vibMenuJump_2d13b75c:
 
     # c "................"
-    c ""
+    c "................"
 
 # game/status.rpy:1473
 translate russia vibMenuJump_3726d72e:
 
     # s g30 "[playerName]...! Can you pl-please turn it off now?!"
-    s g30 ""
+    s g30 "[playerName]...! Не мог бы ты п-пожалуйста, выключить его сейчас?!"
 
 # game/status.rpy:1474
 translate russia vibMenuJump_a7d7794e:
 
     # y "Oh right, sorry."
-    y ""
+    y "Ох да, простите."
 
 # game/status.rpy:1475
 translate russia vibMenuJump_cb3c8129_2:
@@ -2992,451 +2992,451 @@ translate russia vibMenuJump_cb3c8129_2:
 translate russia vibMenuJump_e41bb355:
 
     # y "All right, well done girls."
-    y ""
+    y "Отлично, молодцы девочки."
 
 # game/status.rpy:1477
 translate russia vibMenuJump_3f1a6a12:
 
     # y "Head back to your cells for now. We got a busy day tomorrow."
-    y ""
+    y "Возвращайтесь пока в свои камеры. Завтра нас ждёт тяжёлый день."
 
 # game/status.rpy:1478
 translate russia vibMenuJump_075abb38:
 
     # "The girls nod and take their leave."
-    ""
+    "Девушки кивают и уходят."
 
 # game/status.rpy:1499
 translate russia vibMenuJump_8c648976:
 
     # y "Good morning Clover. How are you liking sleeping in an asylum?"
-    y ""
+    y "Доброе утро, Кловер. Как тебе спиться в психушке?"
 
 # game/status.rpy:1500
 translate russia vibMenuJump_767d6a1e:
 
     # c r42 "Not as bad as I thought, but like... HEL-LO, hang up a mirror or something."
-    c r42 ""
+    c r42 "Не так плохо, как я думала, но типа... АЛ-ЛО, повесьте хотя бы зеркало или ещё что-нибудь."
 
 # game/status.rpy:1501
 translate russia vibMenuJump_3e5dc14b:
 
     # c "I simply can't operate without my hair looking in peak condition."
-    c ""
+    c "Я не могу работать с беспорядком на голове."
 
 # game/status.rpy:1502
 translate russia vibMenuJump_fc4b0728:
 
     # y "Noted."
-    y ""
+    y "Вас понял."
 
 # game/status.rpy:1503
 translate russia vibMenuJump_90b343b3:
 
     # c r18 "So what do you have planned for today?"
-    c r18 ""
+    c r18 "Так что ты запланировано на сегодня?"
 
 # game/status.rpy:1504
 translate russia vibMenuJump_ae79206e:
 
     # y "Well I've been sending Sam undercover at the different gangs around town."
-    y ""
+    y "Ну обычно я отправляю Сэм под прикрытием в разные банды по всему городу."
 
 # game/status.rpy:1505
 translate russia vibMenuJump_d6436199:
 
     # y "I figured you'd do the same."
-    y ""
+    y "Я думал что ты займёшься тем же самым."
 
 # game/status.rpy:1507
 translate russia vibMenuJump_ea20975a:
 
     # c r1 "Ooooh! I can't wait to go undercover with the Aces!"
-    c r1 ""
+    c r1 "Оооо! Не могу дождаться, когда буду работать под прикрытием у Тузов!"
 
 # game/status.rpy:1508
 translate russia vibMenuJump_f02d9388:
 
     # c "All those fashionable clothes, the fast cars, the big boats!"
-    c ""
+    c "Вся эта модная одежда, быстрые машины, большие яхты!"
 
 # game/status.rpy:1509
 translate russia vibMenuJump_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:1510
 translate russia vibMenuJump_4576da83:
 
     # y "Actually I was thinking of sending you undercover at the Drift Punks."
-    y ""
+    y "Вообще-то я думал отправить тебя под прикрытием к Дрифт Панкам."
 
 # game/status.rpy:1513
 translate russia vibMenuJump_38a72463:
 
     # c r17 "W-what?! Those nerds?!"
-    c r17 ""
+    c r17 "Ч-что?! Эти гики?!"
 
 # game/status.rpy:1514
 translate russia vibMenuJump_6c5c6d72:
 
     # c r5 "Please [playerName] have mercy! I can't be seen around those kinds of people. It will ruin my reputation!"
-    c r5 ""
+    c r5 "Пожалуйста, [playerName] смилуйся! Я не могу находиться рядом с такими людьми. Это разрушит мою репутацию!"
 
 # game/status.rpy:1515
 translate russia vibMenuJump_bcf2dbe7:
 
     # y "They seem to have a thing for blondes. I bet you'd fit right in."
-    y ""
+    y "Судя по всему им очень нравится блондинки. Ты идеально туда впишешься."
 
 # game/status.rpy:1516
 translate russia vibMenuJump_c87b44bf:
 
     # c "Please just send me anywhere but there!"
-    c ""
+    c "Пожалуйста, отправь меня куда угодно, только не туда!"
 
 # game/status.rpy:1517
 translate russia vibMenuJump_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:1518
 translate russia vibMenuJump_1a8a8888:
 
     # y "I'll think about it."
-    y ""
+    y "Я подумаю об этом."
 
 # game/status.rpy:1520
 translate russia vibMenuJump_ea20975a_1:
 
     # c r1 "Ooooh! I can't wait to go undercover with the Aces!"
-    c r1 ""
+    c r1 "Оооо! Не могу дождаться, когда буду работать под прикрытием у Тузов!"
 
 # game/status.rpy:1521
 translate russia vibMenuJump_f02d9388_1:
 
     # c "All those fashionable clothes, the fast cars, the big boats!"
-    c ""
+    c "Вся эта модная одежда, быстрые машины, большие яхты!"
 
 # game/status.rpy:1522
 translate russia vibMenuJump_6f323c89_1:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:1523
 translate russia vibMenuJump_87c2e8e6:
 
     # y "It's too bad we don't have a contact within the Drift Punks yet. I was hoping to send you there."
-    y ""
+    y "Жаль что у нас пока нет контака в Дрифт Панках. Я надеялся отправить тебя туда."
 
 # game/status.rpy:1526
 translate russia vibMenuJump_38a72463_1:
 
     # c r17 "W-what?! Those nerds?!"
-    c r17 ""
+    c r17 "Ч-что?! Эти гики?!"
 
 # game/status.rpy:1527
 translate russia vibMenuJump_6c5c6d72_1:
 
     # c r5 "Please [playerName] have mercy! I can't be seen around those kinds of people. It will ruin my reputation!"
-    c r5 ""
+    c r5 "Пожалуйста, [playerName] смилуйся! Я не могу находиться рядом с такими людьми. Это разрушит мою репутацию!"
 
 # game/status.rpy:1528
 translate russia vibMenuJump_644e34b2:
 
     # c "Send me anywhere but there!"
-    c ""
+    c "Пожалуйста, отправь меня куда угодно, только не туда!"
 
 # game/status.rpy:1529
 translate russia vibMenuJump_6f362d57_1:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:1530
 translate russia vibMenuJump_1a8a8888_1:
 
     # y "I'll think about it."
-    y ""
+    y "Я подумаю об этом."
 
 # game/status.rpy:1542
 translate russia vibMenuJump_1ef581d3:
 
     # c "I'm back from working at Drift Punk..."
-    c ""
+    c "Я вернулась с работы у Дрифт Панков..."
 
 # game/status.rpy:1543
 translate russia vibMenuJump_993bb9e8:
 
     # y "Let me guess. It was hell and you're never going back there."
-    y ""
+    y "Дай угадаю. Это был ад, и ты никогда туда не вернёшься."
 
 # game/status.rpy:1544
 translate russia vibMenuJump_66aa0964:
 
     # c r11 "{b}*Scoffs*{/b} It wasn't {i}'that'{/i} bad. It was just really boring."
-    c r11 ""
+    c r11 "{b}*Вздох*{/b} На самом деле было {i}'не так'{/i} плохо. Было очень скучно."
 
 # game/status.rpy:1545
 translate russia vibMenuJump_2daad5ed:
 
     # y "Boring?"
-    y ""
+    y "Скучно?"
 
 # game/status.rpy:1546
 translate russia vibMenuJump_572bbec8:
 
     # c r12 "Yeah... Turns out they make most of their money hacking into bank accounts. Which... isn't exactly the most exciting way to commit a crime..."
-    c r12 ""
+    c r12 "Даа... Оказывается, они зарабатывают большую часть своих денег, взламывая банковские счета. Это... не самый захватывающий вид преступления..."
 
 # game/status.rpy:1547
 translate russia vibMenuJump_15d20f7c:
 
     # c "They tried to teach me, but I didn't really end up accomplishing much. I guess they were nice enough about it though. Even gave me this for my efforts."
-    c ""
+    c "Они пытались меня чему-то научить, но у меня не особо получилось. Они были достаточно любезны и даже подарили мне это за мои старания."
 
 # game/status.rpy:1551
 translate russia vibMenuJump_9740aac9:
 
     # c "But what's there to say really... It's a place full of nerds, committing nerd crimes."
-    c ""
+    c "Но что тут можно сказать на самом деле... Это место, полное ботаников и гиков, которые совершают странные преступления."
 
 # game/status.rpy:1552
 translate russia vibMenuJump_de28918c:
 
     # y "Any hint of who's running the operation?"
-    y ""
+    y "Есть какие-нибудь намёки на то, кто руководит операцией?"
 
 # game/status.rpy:1553
 translate russia vibMenuJump_95c61931:
 
     # c r10 "No, not yet, but I feel like they wouldn't let me in on that kind of data on the first day."
-    c r10 ""
+    c r10 "Нее, пока что нет. Мне кажется, что в первый день они не допустили бы меня к такой информации."
 
 # game/status.rpy:1554
 translate russia vibMenuJump_f885de06:
 
     # y "All right well done. I'll be sure to send you back from time to time."
-    y ""
+    y "Отличная работа. Я обязательно буду время от времени отправлять тебя туда."
 
 # game/status.rpy:1555
 translate russia vibMenuJump_0b26c9d7:
 
     # c r12 "I still rather go to the Aces..."
-    c r12 ""
+    c r12 "Я всё ещё предпочитаю работать у Тузов..."
 
 # game/status.rpy:1556
 translate russia vibMenuJump_55519da1:
 
     # y "Yeah yeah, less complaining."
-    y ""
+    y "Да-да, хватит ныть."
 
 # game/status.rpy:1557
 translate russia vibMenuJump_1f106f37:
 
     # y "Head back to your cell for now."
-    y ""
+    y "Возвращайся пока в свою камеру."
 
 # game/status.rpy:1559
 translate russia vibMenuJump_b5a4d5d4:
 
     # "Clover shrugs and heads back to her cell."
-    ""
+    "Кловер пожимает плечами и возвращается в свою камеру."
 
 # game/status.rpy:1568
 translate russia task3_1346f0d5:
 
     # "INACCESIBLE, PLAYERS CAN'T SEE THIS."
-    ""
+    "НЕДОСТУПНО, ИГРОКИ НЕ МОГУТ ЭТОГО ВИДЕТЬ."
 
 # game/status.rpy:1574
 translate russia task3_441218c7:
 
     # y "All right, head to the Aces today."
-    y ""
+    y "Отлично, отправляйся сегодня к Тузам."
 
 # game/status.rpy:1575
 translate russia task3_de7d0c1f:
 
     # sM "............................"
-    sM ""
+    sM "............................"
 
 # game/status.rpy:1576
 translate russia task3_6e167fe1:
 
     # y "No...?"
-    y ""
+    y "Нет...?"
 
 # game/status.rpy:1577
 translate russia task3_64677eb1:
 
     # sM "No it's fine. It's just that they're having a party today."
-    sM ""
+    sM "Нет, всё в порядке. Просто у них сегодня вечеринка."
 
 # game/status.rpy:1578
 translate russia task3_d393bf9e:
 
     # y "Oh that doesn't sound so bad."
-    y ""
+    y "Ох, звучит не так уж и плохо."
 
 # game/status.rpy:1579
 translate russia task3_580f263d:
 
     # sM "No no, it's not, but..."
-    sM ""
+    sM "Нет, нет, это не так. Но..."
 
 # game/status.rpy:1580
 translate russia task3_f139af01:
 
     # sM "Well... I don't normally go to parties.{w} I prefer to stay at home and do some reading."
-    sM ""
+    sM "Ну... обычно я не хожу на вечеринки.{w} Я предпочитаю оставаться дома и заниматься чтением."
 
 # game/status.rpy:1581
 translate russia task3_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:1582
 translate russia task3_d0441335:
 
     # sM "So er... Got any tips for me?"
-    sM ""
+    sM "Так что... Есть какие-нибудь советы для меня?"
 
 # game/status.rpy:1583
 translate russia task3_04053a51:
 
     # y "Look at you, being a social shutin."
-    y ""
+    y "Посмотри на себя, ты - социально замкнутый человек."
 
 # game/status.rpy:1584
 translate russia task3_0fc3fbef:
 
     # sM "[playerName]... I'm serious."
-    sM ""
+    sM "[playerName]... Я серьезно."
 
 # game/status.rpy:1585
 translate russia task3_01447778:
 
     # y "Just relax and have a good time. Do some socializing. It's much easier to gather intel from someone while they're drunk."
-    y ""
+    y "Просто расслабься и хорошо проведи время. Пообщайся. Гораздо легче получить информацию от человека, когда он пьян."
 
 # game/status.rpy:1586
 translate russia task3_6ed368fe:
 
     # sM "And what if someone tries to make a move on me?"
-    sM ""
+    sM "А что, если кто-то попытается ко мне подкатить?"
 
 # game/status.rpy:1587
 translate russia task3_d1642ce7:
 
     # y "Huh?"
-    y ""
+    y "Хмм?"
 
 # game/status.rpy:1588
 translate russia task3_5e57db67:
 
     # sM "You know... What if someone tries to get touchy or tries to... y'know...{w} kiss..."
-    sM ""
+    sM "Аа... Что делать, если кто-то начнёт распускать руки или попытается... ну знаешь...{w} поцеловать мня..."
 
 # game/status.rpy:1590
 translate russia task3_57cef088:
 
     # y "(Hm...)"
-    y ""
+    y "(Хм...)"
 
 # game/status.rpy:1591
 translate russia task3_706961ed:
 
     # y "(On one hand, being slutty might make things easier for us. Sam is a bit of a prude and getting her more in touch with her slutty side could lead to more money and intel in the future.)"
-    y ""
+    y "(С одной стороны, распущенность может облегчить нам жизнь. Сэм немного сжата, но если она начнёт раскрывать свою распутную сторону, то в будущем это может привести к большим деньгам и сведениям.)"
 
 # game/status.rpy:1592
 translate russia task3_49b865b0:
 
     # y "(On the other hand, do I really want my spies to go sleeping around with the rest of the world...?)"
-    y ""
+    y "(С другой стороны, действительно ли я хочу, чтобы мои шпионки спали со всем миром...?)"
 
 # game/status.rpy:1597
 translate russia task3_ae7f22e8:
 
     # y "Well..."
-    y ""
+    y "Нуу..."
 
 # game/status.rpy:1598
 translate russia task3_cd2608ff:
 
     # y "Being a little flirty might loose some lips."
-    y ""
+    y "Лёгкая кокетливость может развязать некоторым парням язык."
 
 # game/status.rpy:1599
 translate russia task3_c5f3c506:
 
     # sM "But I wouldn't want to go too far of course."
-    sM ""
+    sM "Но я, конечно не хотела бы заходить слишком далеко."
 
 # game/status.rpy:1600
 translate russia task3_d32f8ecc:
 
     # y "Of course."
-    y ""
+    y "Конечно."
 
 # game/status.rpy:1601
 translate russia task3_fb1c4d10:
 
     # sM "I'll give it a try... I'll just flutter my eyelashes, smile coyly at them and have them buy me a drink."
-    sM ""
+    sM "Я попробую... Я просто поиграю ресничками, мило поулыбаюсь и они угостят меня выпивкой."
 
 # game/status.rpy:1602
 translate russia task3_565cb9c0:
 
     # sM "Then when I got what I need, I'll figure out an excuse to get out of there.{w} I've seen Clover do it plenty of times."
-    sM ""
+    sM "Потом, когда я получу то, что мне нужно, я придумаю предлог, чтобы уйти оттуда.{w} Я много раз видела как Кловер это делала."
 
 # game/status.rpy:1604
 translate russia task3_a5c6491e:
 
     # y "Absolutely not! No promiscuity!"
-    y ""
+    y "Ни в коем случае! Никакой распущенности!"
 
 # game/status.rpy:1605
 translate russia task3_c29fe303:
 
     # sM "Oh! I'm surprised. I figured you'd encourage it."
-    sM ""
+    sM "Ох! Ты меня удивил, я думала, что ты будешь только за."
 
 # game/status.rpy:1606
 translate russia task3_86501249:
 
     # sM "Well okay then. I'll make sure to keep my guard up."
-    sM ""
+    sM "Ну тогда ладно. Я постараюсь быть начеку."
 
 # game/status.rpy:1607
 translate russia task3_ccee84cd:
 
     # sM "Okay, got it! Thanks for the advice, [playerName]."
-    sM ""
+    sM "Хорошо, поняла! Спасибо за совет, [playerName]."
 
 # game/status.rpy:1609
 translate russia task3_e1571174:
 
     # "Sam leaves for the Aces party."
-    ""
+    "Сэм уходит на вечеринку Тузов."
 
 # game/status.rpy:1622
 translate russia task3_9564c702:
 
     # "Incoming transmission."
-    ""
+    "Входящий звонок."
 
 # game/status.rpy:1623
 translate russia task3_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:1624
 translate russia task3_cb3c8129:
@@ -3448,19 +3448,19 @@ translate russia task3_cb3c8129:
 translate russia task3_be82cfa6:
 
     # s "[playerName]..? Are you there?"
-    s ""
+    s "[playerName]...? Ты тут?"
 
 # game/status.rpy:1631
 translate russia task3_02438e9c:
 
     # y "Hey Sam, enjoying the party?"
-    y ""
+    y "Привет Сэм, наслаждаешься обстановкой?"
 
 # game/status.rpy:1632
 translate russia task3_dfebfaba:
 
     # s g34 "I'm in Spain."
-    s g34 ""
+    s g34 "Я в Испании."
 
 # game/status.rpy:1634
 translate russia task3_ae4bfad7:
@@ -3472,295 +3472,295 @@ translate russia task3_ae4bfad7:
 translate russia task3_ab0bd2ce:
 
     # y "SPAIN?!"
-    y ""
+    y "ИСПАНИЯ?!"
 
 # game/status.rpy:1636
 translate russia task3_00d9cad0:
 
     # y "AS IN THE COUNTRY?!"
-    y ""
+    y "ТИПА В СТРАНЕ?!"
 
 # game/status.rpy:1637
 translate russia task3_bf9bdd8b:
 
     # s "Yes."
-    s ""
+    s "Да."
 
 # game/status.rpy:1638
 translate russia task3_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:1639
 translate russia task3_794a8240:
 
     # y "WHAT ARE YOU DOING IN SPAIN?!"
-    y ""
+    y "что ты делаешь в испании?!"
 
 # game/status.rpy:1640
 translate russia task3_0871c314:
 
     # s g37 "So it turns out these guys don't do things half way... big surprise."
-    s g37 ""
+    s g37 "Оказывается, эти парни ко всему относятся серьёзно... неожиданно."
 
 # game/status.rpy:1641
 translate russia task3_ab01d04f:
 
     # s g32 "I'm in a privately owned castle off the coast of Valencia. They flew me out here to come party with them."
-    s g32 ""
+    s g32 "Я нахожусь в частном замке у побережья Валенсии. Мы прилетели сюда на вечеринку."
 
 # game/status.rpy:1642
 translate russia task3_05912b67:
 
     # s "I can't talk for long, I'll be back tomorrow with a full report.{w} Sam out."
-    s ""
+    s "Не могу долго говорить, я вернусь завтра с полным отчётом.{w} Отбой."
 
 # game/status.rpy:1650
 translate russia task3_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/status.rpy:1651
 translate russia task3_8e89dc9b:
 
     # y "A private castle in Spain...{w} Those rich bastards..."
-    y ""
+    y "Частный замок в Испании...{w} Богатые ублюдки..."
 
 # game/status.rpy:1667
 translate russia task3_c600aea3:
 
     # s "Hola."
-    s ""
+    s "Хола."
 
 # game/status.rpy:1668
 translate russia task3_7c9ed468:
 
     # y "Hola to you too.{w} How was the Mediterranean?"
-    y ""
+    y "Хола.{w} Как там на Средиземноморье?"
 
 # game/status.rpy:1669
 translate russia task3_80796498:
 
     # s g28 "It...{w} was...{w} AMAZING!"
-    s g28 ""
+    s g28 "Это...{w} было...{w} ВЕЛИКОЛЕПНО!"
 
 # game/status.rpy:1670
 translate russia task3_339c0fe1:
 
     # y "Oh, you liked the party?"
-    y ""
+    y "Оо, тебе понравилась вечеринка?"
 
 # game/status.rpy:1671
 translate russia task3_aec3ecb4:
 
     # s g29 "Oh right, I forgot about the party. No I mean Valencia was amazing!"
-    s g29 ""
+    s g29 "Ах да, я забыла о вечеринке. Нет, я имею в виду, что Валенсия была потрясающей!"
 
 # game/status.rpy:1672
 translate russia task3_e9fd7707:
 
     # s "All the little nooks and crannies, the architecture, the culture!"
-    s ""
+    s "Все маленькие закоулки и укромные уголки, архитектура, культура!"
 
 # game/status.rpy:1673
 translate russia task3_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:1674
 translate russia task3_36ee8c75:
 
     # s "They had museums and the castle I was staying at dated back to the 13th century!"
-    s ""
+    s "Там есть музеи, а замок, в котором я остановилась, датируется 13-м веком!"
 
 # game/status.rpy:1675
 translate russia task3_40da0333:
 
     # s g28 "They had a painting there that was over 300 years old!!!"
-    s g28 ""
+    s g28 "У них там была картина, которой было более 300 лет!!!"
 
 # game/status.rpy:1676
 translate russia task3_45a9abef:
 
     # y "Okay... But did you learn anything?"
-    y ""
+    y "Хорошо... Но узнала ли ты что-нибудь?"
 
 # game/status.rpy:1677
 translate russia task3_40a92bd2:
 
     # s g31 "Huh? Oh right..."
-    s g31 ""
+    s g31 "Хмм? Ах, точно..."
 
 # game/status.rpy:1678
 translate russia task3_c677d6e5:
 
     # s "Yes, I did."
-    s ""
+    s "Да, узнала."
 
 # game/status.rpy:1679
 translate russia task3_27bb7f32:
 
     # s "Whoever was hosting the party is a bigshot within the Aces. He finances them and invites their top brass out to Spain on a regular basis."
-    s ""
+    s "Тот что устроил вечеринку - большая шишка в Тузах. Он финансирует их и регулярно приглашает высшее руководство Тузов в Испанию."
 
 # game/status.rpy:1680
 translate russia task3_ff2178d5:
 
     # y "Any idea who it is?"
-    y ""
+    y "Есть идеи, кто это?"
 
 # game/status.rpy:1681
 translate russia task3_eb12e5e7:
 
     # s g32 "No... I wasn't allowed to go see him, but I did see an old familiar face..."
-    s g32 ""
+    s g32 "Нет... Меня не пустили к нему, но я увидела одно знакомое лицо..."
 
 # game/status.rpy:1682
 translate russia task3_b32c1e0f:
 
     # s "Maggie T."
-    s ""
+    s "Мэгги Т."
 
 # game/status.rpy:1683
 translate russia task3_8220a558:
 
     # y "Maggie T?"
-    y ""
+    y "Мэгги Т.?"
 
 # game/status.rpy:1684
 translate russia task3_a54f0c5a:
 
     # s "We've fought her before. She's just an interior designer, but got famous after trying to assassinate the US President."
-    s ""
+    s "Мы уже сражались с ней раньше. Она всего лишь дизайнер интерьера, но прославилась после покушения на президента США."
 
 # game/status.rpy:1685
 translate russia task3_0c067791:
 
     # s "She's been rolling in money ever since. The Aces are probably offering her a position on their gang in return for funding."
-    s ""
+    s "С тех пор она зарабатывает деньги. Скорее всего, Тузы предлагают ей место в своей банде в обмен на финансирование."
 
 # game/status.rpy:1686
 translate russia task3_eaf3a6bb:
 
     # s "Meanwhile I had other things to worry about."
-    s ""
+    s "Тем временем у меня были другие заботы."
 
 # game/status.rpy:1687
 translate russia task3_0200f59a:
 
     # s g37 "Namely boys..."
-    s g37 ""
+    s g37 "А именно мальчики..."
 
 # game/status.rpy:1688
 translate russia task3_1da9ae52:
 
     # y "Boys? Sam, I am disappointed in you. To prioritize boys over your mission!"
-    y ""
+    y "Мальчики? Сэм, я разочарован в тебе. Мальчики в приоритете над твоей миссии!"
 
 # game/status.rpy:1689
 translate russia task3_93fa6d77:
 
     # y "I mean Clover? Sure, I can see her doing it, but you?"
-    y ""
+    y "Конечно я могу понять, как Кловер это делает, но ты?"
 
 # game/status.rpy:1690
 translate russia task3_bed553de:
 
     # s g28 "N-no! It's not what you think. I was busy keeping them off of me!"
-    s g28 ""
+    s g28 "Н-нет! Это не то о чём ты подумал. Я была занят тем, что не подпускал их к себе!"
 
 # game/status.rpy:1691
 translate russia task3_d1642ce7_1:
 
     # y "Huh?"
-    y ""
+    y "Хм?"
 
 # game/status.rpy:1693
 translate russia task3_bd646bed:
 
     # s g37 "You know how you suggested to be more flirty?"
-    s g37 ""
+    s g37 "Помнишь, ты предлагал быть более кокетливой?"
 
 # game/status.rpy:1694
 translate russia task3_7bca4ac1:
 
     # s "Well I tried. Which by the way...{w} I'm not very good at."
-    s ""
+    s "Ну, я пыталась. Что, кстати...{w} у меня не очень хорошо получается."
 
 # game/status.rpy:1695
 translate russia task3_02c8bf3b:
 
     # s "But anyways I flirted around with a few guys, then more and more started showing up!"
-    s ""
+    s "Но так или иначе, я флиртовала с несколькими парнями, а потом их стало появляться всё больше и больше!"
 
 # game/status.rpy:1696
 translate russia task3_db17d438:
 
     # s g15 "I spent most my time hiding! How does Clover do it...?!"
-    s g15 ""
+    s g15 "Я почти всё время пряталась! Как Кловер это делает...?!"
 
 # game/status.rpy:1697
 translate russia task3_435f9fc6:
 
     # s g1 "I mean it wasn't all bad. I gathered some good intel...{w}{size=-10} And the attention was kind of nice...{/size}"
-    s g1 ""
+    s g1 "Всё было не так уж и плохо. Я собрала много информации...{w}{size=-10} Да и внимание было довольно приятным...{/size}"
 
 # game/status.rpy:1698
 translate russia task3_3396197f:
 
     # s "Here... this is what I've learned."
-    s ""
+    s "Вот... вот что я нашла."
 
 # game/status.rpy:1702
 translate russia task3_7b75c1e3:
 
     # s g38 "As you suggested, I wouldn't be flirty and kept everyone who approached me at arm's length."
-    s g38 ""
+    s g38 "Как ты и советовал, я не кокетничала и держала всех, на расстоянии вытянутой руки."
 
 # game/status.rpy:1703
 translate russia task3_30985439:
 
     # s "But they just saw that as playing hard-to-get!"
-    s ""
+    s "Но они только посчитали это игрой в недотрогу!"
 
 # game/status.rpy:1704
 translate russia task3_637eb2e5:
 
     # s "It wasn't made any easier by some jealous girls who thought I was hitting on their men!"
-    s ""
+    s "Было только сложнее из-за ревнивых девушек, которые думали, что я пристаю к их мужчинам!"
 
 # game/status.rpy:1705
 translate russia task3_eca464a7:
 
     # s g10 "Eventually I just ended up hiding for most of the party instead of gathering intel."
-    s g10 ""
+    s g10 "В итоге я просто пряталась большую часть вечеринки вместо того, чтобы собирать информацию."
 
 # game/status.rpy:1706
 translate russia task3_671d53cf:
 
     # y "Well it's good to have you back State side. I might send you girls out to do some missions at the castle from now on."
-    y ""
+    y "Хорошо, что ты вернулась домой. Может теперь я буду посылать вас, девочки, выполнять задания в замке."
 
 # game/status.rpy:1707
 translate russia task3_46e47727:
 
     # s g1 "{b}*Nods*{/b} I was thinking the same thing. Let's catch the creep who's supplying them money!"
-    s g1 ""
+    s g1 "{b}*Кивает*{/b} Я думала о том же. Давайте поймаем мерзавца, который снабжает их деньгами!"
 
 # game/status.rpy:1713
 translate russia task3_458112c4:
 
     # "You've unlocked {color=#ffeda6}Castle Fiebre del Oro{/color}. You can now sent your spies there for missions."
-    ""
+    "Вы разблокировали {color=#ffeda6}Замок \"Золотая лихорадка\"{/color}. Теперь вы можете отправлять туда своих шпионов для выполнения заданий."
 
 # game/status.rpy:1714
 translate russia task3_bcda24a5:
 
     # "New clothing options for Sam are availabe at the Mall."
-    ""
+    "Новые варианты одежды для Сэм можно приобрести в торговом центре."
 
 # game/status.rpy:1737
 translate russia task3_9cd5115a:
@@ -3850,13 +3850,13 @@ translate russia task3_3deac0a5:
 translate russia task3_e607b329:
 
     # mag "................."
-    mag ""
+    mag "................."
 
 # game/status.rpy:1784
 translate russia task3_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:1785
 translate russia task3_e6edf295:
@@ -4108,7 +4108,7 @@ translate russia task3_001f5c38:
 translate russia task3_dba2607f:
 
     # mag "......................"
-    mag ""
+    mag "......................"
 
 # game/status.rpy:1899
 translate russia task3_2736c9d1:
@@ -5182,7 +5182,7 @@ translate russia task4_d2718a14:
 translate russia task4_1f8f20be:
 
     # "Agent" "............................"
-    "Агент" ""
+    "Агент" "............................"
 
 # game/status.rpy:2490
 translate russia task4_dc80e3bd:
@@ -5272,7 +5272,7 @@ translate russia task4_244650a6:
 translate russia task4_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:2554
 translate russia task4_20e0f3d5:
@@ -5350,7 +5350,7 @@ translate russia task4_a0658532:
 translate russia task4_3784857a:
 
     # c "...?"
-    c ""
+    c "...?"
 
 # game/status.rpy:2595
 translate russia task4_e87845bb:
@@ -5506,7 +5506,7 @@ translate russia task4_5b5e2897:
 translate russia task4_5c701e7a:
 
     # s "..............."
-    s ""
+    s "..............."
 
 # game/status.rpy:2660
 translate russia task4_ddeb37df:
@@ -5542,7 +5542,7 @@ translate russia task4_4335cb4f:
 translate russia task4_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:2685
 translate russia task4_d4337478:
@@ -5812,7 +5812,7 @@ translate russia task4_9961e9dc:
 translate russia task4_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:2766
 translate russia task4_4654c5db:
@@ -5830,7 +5830,7 @@ translate russia task4_14f4b337:
 translate russia task4_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:2774
 translate russia task4_232c5c06:
@@ -5848,7 +5848,7 @@ translate russia task4_8dd2e829:
 translate russia task4_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/status.rpy:2777
 translate russia task4_3e9a8a4f:
@@ -5872,7 +5872,7 @@ translate russia task4_19276b51:
 translate russia task4_692be6fa:
 
     # y "............"
-    y ""
+    y "............"
 
 # game/status.rpy:2781
 translate russia task4_f7cbb2e1:
@@ -6004,7 +6004,7 @@ translate russia task4_258a64b3:
 translate russia task4_fab68504:
 
     # a "................"
-    a ""
+    a "................"
 
 # game/status.rpy:2822
 translate russia task4_fe5def4a:
@@ -6058,7 +6058,7 @@ translate russia task4_faebd152:
 translate russia task4_a23669b1_1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:2868
 translate russia task4_e16d7062:
@@ -6130,7 +6130,7 @@ translate russia task4_4355a92f:
 translate russia task4_0f77755e:
 
     # a "...?"
-    a ""
+    a "...?"
 
 # game/status.rpy:2885
 translate russia task4_28b2616a:
@@ -6184,7 +6184,7 @@ translate russia task4_3388e6d4:
 translate russia task4_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:2917
 translate russia task4_f57e4845:
@@ -6430,7 +6430,7 @@ translate russia task4_fc25d6f1:
 translate russia task4_551ad45d:
 
     # "......................."
-    ""
+    "......................."
 
 # game/status.rpy:2971
 translate russia task4_4ba5dc16:
@@ -6550,7 +6550,7 @@ translate russia task4_b87d0150:
 translate russia task4_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:3009
 translate russia task4_8dd6365e:
@@ -6820,7 +6820,7 @@ translate russia task5_348d9452:
 translate russia task5_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:3160
 translate russia task5_918f8225:
@@ -6916,7 +6916,7 @@ translate russia task5_8b12f51e:
 translate russia task5_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:3191
 translate russia task5_fa7f0302:
@@ -7090,7 +7090,7 @@ translate russia task5Menu1_492db706:
 translate russia task5Menu1_735a8a2e:
 
     # "..................."
-    ""
+    "..................."
 
 # game/status.rpy:3232
 translate russia task5Menu1_6fcebf96:
@@ -7150,7 +7150,7 @@ translate russia task5Menu1_aae18956:
 translate russia task5Menu1_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:3259
 translate russia task5Menu1_d30fd539:
@@ -7192,13 +7192,13 @@ translate russia task5Menu1_f8303732:
 translate russia task5Menu1_b6c8882c:
 
     # c r10 "............."
-    c r10 ""
+    c r10 "............."
 
 # game/status.rpy:3266
 translate russia task5Menu1_10fe9619:
 
     # s "............."
-    s ""
+    s "............."
 
 # game/status.rpy:3267
 translate russia task5Menu1_d3daa906:
@@ -7246,7 +7246,7 @@ translate russia task5Menu1_748680fc:
 translate russia task5Menu1_fff3959f:
 
     # s g39 "................."
-    s g39 ""
+    s g39 "................."
 
 # game/status.rpy:3275
 translate russia task5Menu1_d7cd4aaa:
@@ -7300,7 +7300,7 @@ translate russia task5Menu1_1545e64b:
 translate russia task5Menu1_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:3286
 translate russia task5Menu1_33326226:
@@ -7564,7 +7564,7 @@ translate russia task5Menu1_b9b6a9db:
 translate russia task5Menu1_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:3344
 translate russia task5Menu1_993275b6:
@@ -7780,7 +7780,7 @@ translate russia task5Menu1_09f3fa76:
 translate russia task5Menu1_92f5be84:
 
     # s "......................"
-    s ""
+    s "......................"
 
 # game/status.rpy:3474
 translate russia task5Menu1_96c404cc:
@@ -7798,7 +7798,7 @@ translate russia task5Menu1_b5110cc8:
 translate russia task5Menu1_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:3477
 translate russia task5Menu1_fdb3b1e1:
@@ -7876,7 +7876,7 @@ translate russia task5Menu1_5b9099d6:
 translate russia task5Menu1_fd98c066:
 
     # s g33 "................."
-    s g33 ""
+    s g33 "................."
 
 # game/status.rpy:3490
 translate russia task5Menu1_55041608:
@@ -7900,7 +7900,7 @@ translate russia task5Menu1_3c86b4a9:
 translate russia task5Menu1_d7c1b69e:
 
     # "Inner Voice" "Dude, you gave in way too quick, you should have insisted on staying!"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:3501
 translate russia task5Menu1_b2496b79:
@@ -7912,7 +7912,7 @@ translate russia task5Menu1_b2496b79:
 translate russia task5Menu1_30ca196e:
 
     # "Inner Voice" "Oh right.{w} Niiiice~...."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:3536
 translate russia task5Menu1_9d447f81:
@@ -7924,7 +7924,7 @@ translate russia task5Menu1_9d447f81:
 translate russia task5Menu1_219582d5:
 
     # s g15 "................"
-    s g15 ""
+    s g15 "................"
 
 # game/status.rpy:3538
 translate russia task5Menu1_71955456:
@@ -7954,7 +7954,7 @@ translate russia task5Menu1_c98142a2:
 translate russia task5Menu1_3b3c0d81:
 
     # "Inner Voice" "Spy cameras?"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:3552
 translate russia task5Menu1_2c06bd66:
@@ -8110,7 +8110,7 @@ translate russia task5Menu1_e0f6d0db:
 translate russia task5Menu1_9a78f174_1:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:3594
 translate russia task5Menu1_5510b1e1:
@@ -8152,7 +8152,7 @@ translate russia task5Menu1_2274803a:
 translate russia task5Menu1_22a823cd:
 
     # c "......................."
-    c ""
+    c "......................."
 
 # game/status.rpy:3604
 translate russia task5Menu1_d93f1995:
@@ -8170,7 +8170,7 @@ translate russia task5Menu1_7cd966aa:
 translate russia task5Menu1_9cb97b48_1:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:3612
 translate russia task5Menu1_a0a2dbbe:
@@ -8236,7 +8236,7 @@ translate russia task5Menu1_92f04902:
 translate russia task5Menu1_692be6fa:
 
     # y "............"
-    y ""
+    y "............"
 
 # game/status.rpy:3639
 translate russia task5Menu1_2b4ed308:
@@ -8302,7 +8302,7 @@ translate russia task5Menu1_99e90e5d:
 translate russia task5Menu1_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:3654
 translate russia task5Menu1_49910d71:
@@ -8368,7 +8368,7 @@ translate russia task5Menu1_7c96a088:
 translate russia task5Menu1_679d0b22:
 
     # s g30 "................."
-    s g30 ""
+    s g30 "................."
 
 # game/status.rpy:3667
 translate russia task5Menu1_ec459c46:
@@ -8386,7 +8386,7 @@ translate russia task5Menu1_17281118:
 translate russia task5Menu1_5c701e7a:
 
     # s "..............."
-    s ""
+    s "..............."
 
 # game/status.rpy:3677
 translate russia task5Menu1_4effab73:
@@ -8512,13 +8512,13 @@ translate russia task6_9917bd8e:
 translate russia task6_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:3769
 translate russia task6_39534934:
 
     # c "..............."
-    c ""
+    c "..............."
 
 # game/status.rpy:3770
 translate russia task6_36896bb4:
@@ -8614,7 +8614,7 @@ translate russia task6_4cac6320:
 translate russia task6_92f5be84:
 
     # s "......................"
-    s ""
+    s "......................"
 
 # game/status.rpy:3788
 translate russia task6_21fc179b:
@@ -8644,7 +8644,7 @@ translate russia task6_0af92c0a:
 translate russia task6_c6f7708b:
 
     # c r43 "................."
-    c r43 ""
+    c r43 "................."
 
 # game/status.rpy:3795
 translate russia task6_bae9dc91:
@@ -8776,7 +8776,7 @@ translate russia task6_51d209e7:
 translate russia task6_2d2b7e79:
 
     # s g10 "[playerName]..."
-    s g10 ""
+    s g10 "[playerName]..."
 
 # game/status.rpy:3830
 translate russia task6_f946c6bd:
@@ -8788,7 +8788,7 @@ translate russia task6_f946c6bd:
 translate russia task6_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:3832
 translate russia task6_ac17dec1:
@@ -8806,7 +8806,7 @@ translate russia task6_3370fc35:
 translate russia task6_9cb97b48_1:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:3835
 translate russia task6_6f034a40:
@@ -9070,7 +9070,7 @@ translate russia task6_d51f18ec:
 translate russia task6_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:3912
 translate russia task6_0f7b0b2d:
@@ -9106,7 +9106,7 @@ translate russia task6_b0bce455:
 translate russia task6_397219cd:
 
     # s g15 "................."
-    s g15 ""
+    s g15 "................."
 
 # game/status.rpy:3921
 translate russia task6_74bfe0a2:
@@ -9232,7 +9232,7 @@ translate russia task6_bdc383f6:
 translate russia task6_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:3966
 translate russia task6_608512db:
@@ -9922,7 +9922,7 @@ translate russia task6_927f6aba:
 translate russia task6_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:4201
 translate russia task6_976eee7c:
@@ -10120,7 +10120,7 @@ translate russia task6_36d5802a:
 translate russia task6_5115f16b:
 
     # tim "..................."
-    tim ""
+    tim "..................."
 
 # game/status.rpy:4276
 translate russia task6_b96f627d:
@@ -10270,7 +10270,7 @@ translate russia task6_9c9429ec:
 translate russia task6_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:4337
 translate russia task6_777b0936:
@@ -10348,7 +10348,7 @@ translate russia task6_a14a95f1:
 translate russia task6_9cb97b48_2:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:4350
 translate russia task6_dcb6a27e:
@@ -10372,7 +10372,7 @@ translate russia task6_d69b44cd:
 translate russia task6_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:4354
 translate russia task6_7b9506e5:
@@ -10510,7 +10510,7 @@ translate russia task6_6f9bfea5:
 translate russia task6_cf630fb5_1:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:4381
 translate russia task6_174c1fe5:
@@ -10540,7 +10540,7 @@ translate russia task6_19982716:
 translate russia task6_f358cb0c_1:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:4386
 translate russia task6_e39d2cf7:
@@ -10576,7 +10576,7 @@ translate russia task6_df01d2a6:
 translate russia task6_a742beb6:
 
     # s "......................."
-    s ""
+    s "......................."
 
 # game/status.rpy:4395
 translate russia task6_5cbf3310:
@@ -10606,7 +10606,7 @@ translate russia task6_b148a80e:
 translate russia task6_a23669b1_1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:4400
 translate russia task6_63a62cab:
@@ -10948,7 +10948,7 @@ translate russia task6_0c0d56eb:
 translate russia task6_8d22e973:
 
     # mel "................."
-    mel ""
+    mel "................."
 
 # game/status.rpy:4513
 translate russia task6_76aa2294:
@@ -10966,7 +10966,7 @@ translate russia task6_225ac3cd:
 translate russia task6_8d22e973_1:
 
     # mel "................."
-    mel ""
+    mel "................."
 
 # game/status.rpy:4516
 translate russia task6_7bdd01e4:
@@ -11380,7 +11380,7 @@ translate russia task6_39fbe447:
 translate russia task6_0bd60de2:
 
     # mel "......................."
-    mel ""
+    mel "......................."
 
 # game/status.rpy:4597
 translate russia task6_d76c8777:
@@ -11404,7 +11404,7 @@ translate russia task6_1478b2e6:
 translate russia task6_36819588:
 
     # s "............................"
-    s ""
+    s "............................"
 
 # game/status.rpy:4601
 translate russia task6_1c94736e:
@@ -11494,7 +11494,7 @@ translate russia task6_e518f9c7:
 translate russia task6_5f60ba9a:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:4619
 translate russia task6_03d55f2d:
@@ -11752,7 +11752,7 @@ translate russia task7_53868d06:
 translate russia task7_4467e4e6:
 
     # tim "................."
-    tim ""
+    tim "................."
 
 # game/status.rpy:4750
 translate russia task7_96619a20:
@@ -11776,7 +11776,7 @@ translate russia task7_c3197a4f:
 translate russia task7_3bd98ed6:
 
     # tim "............"
-    tim ""
+    tim "............"
 
 # game/status.rpy:4758
 translate russia task7_14df2383:
@@ -12070,7 +12070,7 @@ translate russia task7_1c33e0ec:
 translate russia task7_05cdf1ce:
 
     # c r11 "..................."
-    c r11 ""
+    c r11 "..................."
 
 # game/status.rpy:4859
 translate russia task7_fa37acc4:
@@ -12106,7 +12106,7 @@ translate russia task8_57a7b4f5:
 translate russia task8_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:4903
 translate russia task8_3c6cc100:
@@ -12208,7 +12208,7 @@ translate russia task8_3c6e3866:
 translate russia task8_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:4927
 translate russia task8_0400692f:
@@ -12250,7 +12250,7 @@ translate russia task8_73890587:
 translate russia task8_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:4935
 translate russia task8_5d409ec9:
@@ -12262,7 +12262,7 @@ translate russia task8_5d409ec9:
 translate russia task8_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:4941
 translate russia task8_5242344a:
@@ -12460,7 +12460,7 @@ translate russia task8_d655d49e:
 translate russia task8_1c6af53a:
 
     # s g39 "............."
-    s g39 ""
+    s g39 "............."
 
 # game/status.rpy:4996
 translate russia task8_48e620cf:
@@ -12490,7 +12490,7 @@ translate russia task8_9477c513:
 translate russia task8_01b6d130:
 
     # c r11 "......................"
-    c r11 ""
+    c r11 "......................"
 
 # game/status.rpy:5002
 translate russia task8_39dfa5a3:
@@ -12580,7 +12580,7 @@ translate russia task8_187a3ac4:
 translate russia task8_59ef63d8:
 
     # a "..................."
-    a ""
+    a "..................."
 
 # game/status.rpy:5035
 translate russia task8_7690bf10:
@@ -12682,7 +12682,7 @@ translate russia task8_fd395fcc:
 translate russia task8_77bab620:
 
     # s "................."
-    s ""
+    s "................."
 
 # game/status.rpy:5061
 translate russia task8_ef952794:
@@ -12814,7 +12814,7 @@ translate russia task8_fe1b1856:
 translate russia task8_71172bcd:
 
     # s g39 "............................"
-    s g39 ""
+    s g39 "............................"
 
 # game/status.rpy:5090
 translate russia task8_2ecff712:
@@ -12886,7 +12886,7 @@ translate russia task9_580afc40:
 translate russia task9_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:5131
 translate russia task9_409dfc4b:
@@ -12922,7 +12922,7 @@ translate russia task9_4de9f1e2:
 translate russia task9_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:5147
 translate russia task9_d4f50f9a:
@@ -12982,7 +12982,7 @@ translate russia task9_ad4e4c57:
 translate russia task9_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:5158
 translate russia task9_54d09116:
@@ -13156,7 +13156,7 @@ translate russia task9_570137f1:
 translate russia task9_87dafd08:
 
     # c "........................"
-    c ""
+    c "........................"
 
 # game/status.rpy:5220
 translate russia task9_1d263ddd:
@@ -13312,7 +13312,7 @@ translate russia task10_5d66c9f2:
 translate russia task10_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:5293
 translate russia task10_a513268e:
@@ -13492,7 +13492,7 @@ translate russia task10_2ce0d835:
 translate russia task10_92dd050c:
 
     # drag "......................."
-    drag ""
+    drag "......................."
 
 # game/status.rpy:5437
 translate russia task10_68fe3381:
@@ -13540,7 +13540,7 @@ translate russia task10_684fd79e:
 translate russia task10_9850411a:
 
     # c r10 "..................."
-    c r10 ""
+    c r10 "..................."
 
 # game/status.rpy:5446
 translate russia task10_41eba479:
@@ -13588,7 +13588,7 @@ translate russia task10_1f8b0674:
 translate russia task10_b348c212:
 
     # drag "........................"
-    drag ""
+    drag "........................"
 
 # game/status.rpy:5454
 translate russia task10_a4bfa843:
@@ -13678,7 +13678,7 @@ translate russia task10_65323853:
 translate russia task10_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:5469
 translate russia task10_6b2b33d4:
@@ -13714,7 +13714,7 @@ translate russia task10_aa398def:
 translate russia task10_1583fcc6:
 
     # c r10 "..............."
-    c r10 ""
+    c r10 "..............."
 
 # game/status.rpy:5475
 translate russia task10_601c5358:
@@ -13834,7 +13834,7 @@ translate russia task10_785ee78f:
 translate russia task10_33f1fde9:
 
     # drag "................"
-    drag ""
+    drag "................"
 
 # game/status.rpy:5526
 translate russia task10_eade8a27:
@@ -13876,7 +13876,7 @@ translate russia task11_d5eed0e4:
 translate russia task11_03ba5337:
 
     # a y16 "...?"
-    a y16 ""
+    a y16 "...?"
 
 # game/status.rpy:5559
 translate russia task11_7462ef6f:
@@ -14044,7 +14044,7 @@ translate russia task11_7d69ea47_1:
 translate russia task11_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:5603
 translate russia task11_09041dfd:
@@ -14092,7 +14092,7 @@ translate russia task11_58276da8:
 translate russia task11_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:5628
 translate russia task11_0769ac09:
@@ -14194,7 +14194,7 @@ translate russia task11_05835e9f:
 translate russia task11_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:5649
 translate russia task11_f28802ce:
@@ -14338,7 +14338,7 @@ translate russia task11_87167f7d:
 translate russia task11_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:5673
 translate russia task11_498ea228:
@@ -14362,7 +14362,7 @@ translate russia task11_ac8bac62:
 translate russia task11_5f60ba9a:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:5678
 translate russia task11_97f836eb:
@@ -14422,7 +14422,7 @@ translate russia task12_a62d5193:
 translate russia task12_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:5713
 translate russia task12_b3c624ba:
@@ -14578,7 +14578,7 @@ translate russia task12_acde6ffe:
 translate russia task12_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:5785
 translate russia task12_57a7f167:
@@ -15136,7 +15136,7 @@ translate russia task13_1c02ca8a:
 translate russia task13_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/status.rpy:5938
 translate russia task13_eef756b5:
@@ -15190,7 +15190,7 @@ translate russia task13_002524bd:
 translate russia task13_c9c923bd:
 
     # s g38 "[playerName]..."
-    s g38 ""
+    s g38 "[playerName]..."
 
 # game/status.rpy:5968
 translate russia task13_ca2c6f83:
@@ -15208,7 +15208,7 @@ translate russia task13_882cf294:
 translate russia task13_6ec98c76:
 
     # s g11 "............."
-    s g11 ""
+    s g11 "............."
 
 # game/status.rpy:5971
 translate russia task13_a1ca1daa:
@@ -15310,7 +15310,7 @@ translate russia task13_67f92ca6:
 translate russia task13_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:5989
 translate russia task13_dfdf48c9:
@@ -15364,7 +15364,7 @@ translate russia task13_3aac5901:
 translate russia task13_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:5998
 translate russia task13_592cc9a7:
@@ -15394,7 +15394,7 @@ translate russia task13_49270825:
 translate russia task13_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:6003
 translate russia task13_46a6f665:
@@ -15574,7 +15574,7 @@ translate russia task13_96febe4d:
 translate russia task13_36819588:
 
     # s "............................"
-    s ""
+    s "............................"
 
 # game/status.rpy:6046
 translate russia task13_235e8202:
@@ -15598,7 +15598,7 @@ translate russia task13_ea82ce01:
 translate russia task13_3b414ca7:
 
     # s "[playerName]..."
-    s ""
+    s "[playerName]..."
 
 # game/status.rpy:6050
 translate russia task13_34f55728:
@@ -15688,7 +15688,7 @@ translate russia task13_b09778a3:
 translate russia task13_74728190:
 
     # "Inner Voice" "That's quite a lot of hoops to jump through before getting any..."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:6070
 translate russia task13_c1954b4b:
@@ -15700,13 +15700,13 @@ translate russia task13_c1954b4b:
 translate russia task13_e747ceb7:
 
     # "Inner Voice" "Hah! Good luck!"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:6082
 translate russia task13_278aceba:
 
     # s g1 "............"
-    s g1 ""
+    s g1 "............"
 
 # game/status.rpy:6084
 translate russia task13_fa131b55:
@@ -15718,7 +15718,7 @@ translate russia task13_fa131b55:
 translate russia task13_445fd129:
 
     # c "......"
-    c ""
+    c "......"
 
 # game/status.rpy:6087
 translate russia task13_8c26d385:
@@ -15748,7 +15748,7 @@ translate russia task13_513da88b:
 translate russia task13_2d13b75c:
 
     # c "................"
-    c ""
+    c "................"
 
 # game/status.rpy:6092
 translate russia task13_350d6488:
@@ -15802,13 +15802,13 @@ translate russia task13_d9fcfa67:
 translate russia task13_377e3184:
 
     # "Inner Voice" "Duuuuuuuuuuude! You scored some Grade A ass! And you didn't even have to emotionally guilt trip them into it!"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:6110
 translate russia task13_0698e0ad:
 
     # "Inner Voice" "If I wasn't a disembodied voice in your head, I'd high-five you."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:6117
 translate russia task13_f3f5bfa6:
@@ -15880,13 +15880,13 @@ translate russia task13_6debd07a:
 translate russia task13_377e3184_1:
 
     # "Inner Voice" "Duuuuuuuuuuude! You scored some Grade A ass! And you didn't even have to emotionally guilt trip them into it!"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:6135
 translate russia task13_0698e0ad_1:
 
     # "Inner Voice" "If I wasn't a disembodied voice in your head, I'd high-five you."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:6151
 translate russia task14_0ae9bcd0:
@@ -16048,7 +16048,7 @@ translate russia task15_c1a7f38b:
 translate russia task15_7ff6e2dd:
 
     # s g15 ".............................."
-    s g15 ""
+    s g15 ".............................."
 
 # game/status.rpy:6235
 translate russia task15_49d2e200:
@@ -16072,7 +16072,7 @@ translate russia task15_51b562d5:
 translate russia task15_5f60ba9a:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:6239
 translate russia task15_ddd92021:
@@ -16450,7 +16450,7 @@ translate russia task15_8cbc3d40:
 translate russia task15_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:6379
 translate russia task15_78e1fd65:
@@ -16480,7 +16480,7 @@ translate russia task15_4462bdb5:
 translate russia task15_36b324e1:
 
     # s g5 "........................"
-    s g5 ""
+    s g5 "........................"
 
 # game/status.rpy:6384
 translate russia task15_f522f32e:
@@ -16516,7 +16516,7 @@ translate russia task15_b23d2180:
 translate russia task15_605685c1:
 
     # tim "......................"
-    tim ""
+    tim "......................"
 
 # game/status.rpy:6390
 translate russia task15_62055b7e:
@@ -16606,7 +16606,7 @@ translate russia task15_e30f2fc8:
 translate russia task15_de617ee5:
 
     # tim "...?"
-    tim ""
+    tim "...?"
 
 # game/status.rpy:6406
 translate russia task15_2a009e81:
@@ -16648,7 +16648,7 @@ translate russia task15_64565421:
 translate russia task15_de617ee5_1:
 
     # tim "...?"
-    tim ""
+    tim "...?"
 
 # game/status.rpy:6416
 translate russia task15_3c7fd29f:
@@ -16690,7 +16690,7 @@ translate russia task15_3c7fd29f_1:
 translate russia task15_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:6428
 translate russia task15_92d0978b:
@@ -16912,7 +16912,7 @@ translate russia task15_2b905675:
 translate russia task15_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:6526
 translate russia task16_6d7fa2fb:
@@ -17068,7 +17068,7 @@ translate russia task16_7fe65149:
 translate russia task16_c3d7abb3:
 
     # s "..................."
-    s ""
+    s "..................."
 
 # game/status.rpy:6588
 translate russia task16_fb8c66fe:
@@ -17326,7 +17326,7 @@ translate russia task16_e3e5bbe9:
 translate russia task16_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:6727
 translate russia task16_c8ff62bb:
@@ -17410,7 +17410,7 @@ translate russia task16_db0150f0:
 translate russia task16_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:6744
 translate russia task16_23ff401c:
@@ -17542,7 +17542,7 @@ translate russia task16_afdd72c7:
 translate russia task16_5f60ba9a:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:6784
 translate russia task16_f2495b78:
@@ -17680,7 +17680,7 @@ translate russia task17_591c7d28:
 translate russia task17_05cdf1ce:
 
     # c r11 "..................."
-    c r11 ""
+    c r11 "..................."
 
 # game/status.rpy:6870
 translate russia task17_1c396f56:
@@ -17788,7 +17788,7 @@ translate russia task17_bce9f47c:
 translate russia task17_cbd56499:
 
     # c r10 "............................"
-    c r10 ""
+    c r10 "............................"
 
 # game/status.rpy:6898
 translate russia task17_9469f9e5:
@@ -17842,7 +17842,7 @@ translate russia task17_45fa5b64:
 translate russia task17_20d87ba7:
 
     # c r11 "................"
-    c r11 ""
+    c r11 "................"
 
 # game/status.rpy:6916
 translate russia task17_51965c69:
@@ -17884,7 +17884,7 @@ translate russia task17_913b6fac:
 translate russia task17_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:6923
 translate russia task17_389cc703:
@@ -18034,7 +18034,7 @@ translate russia task17_059f5e62:
 translate russia task17_06b5123e:
 
     # c "................."
-    c ""
+    c "................."
 
 # game/status.rpy:6970
 translate russia task17_1f9a23a9:
@@ -18190,7 +18190,7 @@ translate russia task17_90863bc9:
 translate russia task17_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:7034
 translate russia task17_d2a764da:
@@ -18220,7 +18220,7 @@ translate russia task17_68884dd2:
 translate russia task17_39534934:
 
     # c "..............."
-    c ""
+    c "..............."
 
 # game/status.rpy:7039
 translate russia task17_6e7662d8:
@@ -18544,7 +18544,7 @@ translate russia task17_86770ad2:
 translate russia task17_01241182:
 
     # c r11 ".............................."
-    c r11 ""
+    c r11 ".............................."
 
 # game/status.rpy:7114
 translate russia task17_c4fdf5d3:
@@ -18568,7 +18568,7 @@ translate russia task17_d62434a7:
 translate russia task17_f5fd527f:
 
     # c r10 "........................"
-    c r10 ""
+    c r10 "........................"
 
 # game/status.rpy:7118
 translate russia task17_91ba0cb7:
@@ -18706,7 +18706,7 @@ translate russia task18_47ae669c:
 translate russia task18_a526c217:
 
     # c r18 "...?"
-    c r18 ""
+    c r18 "...?"
 
 # game/status.rpy:7195
 translate russia task18_803ac429:
@@ -18748,7 +18748,7 @@ translate russia task18_38f07b66:
 translate russia task18_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:7202
 translate russia task18_dc90778b:
@@ -18832,7 +18832,7 @@ translate russia task18_e304bbf5:
 translate russia task18_c91fa0b9:
 
     # tali "..................."
-    tali ""
+    tali "..................."
 
 # game/status.rpy:7238
 translate russia task18_c27d466a:
@@ -19246,7 +19246,7 @@ translate russia task18SearchMenu_3a20b050:
 translate russia task18SearchMenu_6c4751b6:
 
     # c r5 "................."
-    c r5 ""
+    c r5 "................."
 
 # game/status.rpy:7392
 translate russia task18SearchMenu_98c195f8:
@@ -19276,7 +19276,7 @@ translate russia task18SearchMenu_49b56ab3:
 translate russia task18SearchMenu_07cc5ad1:
 
     # c "............"
-    c ""
+    c "............"
 
 # game/status.rpy:7400
 translate russia task18SearchMenu_10b4ec87:
@@ -19312,7 +19312,7 @@ translate russia task18SearchMenu_60ba3760:
 translate russia task18SearchMenu_3a045eec:
 
     # tali "............"
-    tali ""
+    tali "............"
 
 # game/status.rpy:7419
 translate russia task18SearchMenu_1a0ccbec:
@@ -19336,7 +19336,7 @@ translate russia task18SearchMenu_e542c49b:
 translate russia task18SearchMenu_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:7423
 translate russia task18SearchMenu_772ffc64:
@@ -19360,7 +19360,7 @@ translate russia task18SearchMenu_03053c48:
 translate russia task18SearchMenu_b518bce9:
 
     # tali "................"
-    tali ""
+    tali "................"
 
 # game/status.rpy:7427
 translate russia task18SearchMenu_c94c1979:
@@ -19480,7 +19480,7 @@ translate russia task19_da6bf7d7:
 translate russia task19_a88aa66e:
 
     # s "................"
-    s ""
+    s "................"
 
 # game/status.rpy:7491
 translate russia task19_0158b375:
@@ -19624,7 +19624,7 @@ translate russia task19_25ce5907:
 translate russia task19_d0d1bb1a:
 
     # s g35 "................"
-    s g35 ""
+    s g35 "................"
 
 # game/status.rpy:7530
 translate russia task19_8eaa0fc4:
@@ -19654,7 +19654,7 @@ translate russia task19_9de7ca9c:
 translate russia task19_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/status.rpy:7545
 translate russia task19_2c2590ed:
@@ -19708,7 +19708,7 @@ translate russia task20_b5ac933e:
 translate russia task20_57e586ab:
 
     # y "......"
-    y ""
+    y "......"
 
 # game/status.rpy:7575
 translate russia task20_d9606fc9:
@@ -19786,7 +19786,7 @@ translate russia task20_327b1a43:
 translate russia task20_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:7590
 translate russia task20_3ce29e83:
@@ -19852,7 +19852,7 @@ translate russia task20_28e46be4:
 translate russia task20_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:7602
 translate russia task20_3699537a:
@@ -19984,7 +19984,7 @@ translate russia task20_6b297274:
 translate russia task20_8e6b909d:
 
     # a y11 "................"
-    a y11 ""
+    a y11 "................"
 
 # game/status.rpy:7653
 translate russia task20_e6e8df3b:
@@ -20116,7 +20116,7 @@ translate russia task20_4ed180c0:
 translate russia task20_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:7709
 translate russia task21_4d8f3ce5:
@@ -20428,7 +20428,7 @@ translate russia task21_0fe11f97:
 translate russia task21_b00ad13b:
 
     # a "............."
-    a ""
+    a "............."
 
 # game/status.rpy:7810
 translate russia task21_9308cfc3:
@@ -20458,7 +20458,7 @@ translate russia task21_87aee936:
 translate russia task21_e6d19caa:
 
     # model "................"
-    model ""
+    model "................"
 
 # game/status.rpy:7824
 translate russia task21_db4accef:
@@ -20506,7 +20506,7 @@ translate russia task21_00b0b5e4:
 translate russia task21_e6d19caa_1:
 
     # model "................"
-    model ""
+    model "................"
 
 # game/status.rpy:7836
 translate russia task21_7221e5fc:
@@ -20584,7 +20584,7 @@ translate russia task21_7e902fb2:
 translate russia task21_e6d19caa_2:
 
     # model "................"
-    model ""
+    model "................"
 
 # game/status.rpy:7853
 translate russia task21_7221e5fc_1:
@@ -20656,7 +20656,7 @@ translate russia task21_a6775fe5:
 translate russia task21_e6d19caa_3:
 
     # model "................"
-    model ""
+    model "................"
 
 # game/status.rpy:7869
 translate russia task21_7221e5fc_2:
@@ -20674,7 +20674,7 @@ translate russia task21_e5c7f13a:
 translate russia task21_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/status.rpy:7872
 translate russia task21_f4463988:
@@ -20698,7 +20698,7 @@ translate russia task21_60649344:
 translate russia task21_e6d19caa_4:
 
     # model "................"
-    model ""
+    model "................"
 
 # game/status.rpy:7876
 translate russia task21_7221e5fc_3:
@@ -20722,7 +20722,7 @@ translate russia task21_eb6f83d7:
 translate russia task21_e6d19caa_5:
 
     # model "................"
-    model ""
+    model "................"
 
 # game/status.rpy:7880
 translate russia task21_7221e5fc_4:
@@ -20758,7 +20758,7 @@ translate russia task21_253a7736:
 translate russia task21_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:7886
 translate russia task21_94fd2e7e:
@@ -20854,7 +20854,7 @@ translate russia task21_f6343cc6:
 translate russia task21_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:7938
 translate russia task21_d0887b69:
@@ -20950,7 +20950,7 @@ translate russia task21_bcfe8046:
 translate russia task21_cf630fb5_1:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:7954
 translate russia task21_5ab42576:
@@ -20986,7 +20986,7 @@ translate russia task21_0d982bbd:
 translate russia task21_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:7960
 translate russia task21_a3df21fd:
@@ -21094,7 +21094,7 @@ translate russia task21_eeaf7674:
 translate russia task21_cf630fb5_2:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:8013
 translate russia task21_2a4bfcfd:
@@ -21214,7 +21214,7 @@ translate russia task23_b14917ca:
 translate russia task23_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:8089
 translate russia task23_f7b83619:
@@ -21628,7 +21628,7 @@ translate russia retryHack_fdd23b41:
 translate russia retryHack_5a81a468:
 
     # a y29 "...?"
-    a y29 ""
+    a y29 "...?"
 
 # game/status.rpy:8321
 translate russia retryHack_aaf83286:
@@ -21658,7 +21658,7 @@ translate russia retryHack_2e948a07:
 translate russia retryHack_9cf694cc:
 
     # c r49 "................"
-    c r49 ""
+    c r49 "................"
 
 # game/status.rpy:8326
 translate russia retryHack_fa3b6e08:
@@ -22354,7 +22354,7 @@ translate russia task25_6c8eaea1:
 translate russia task25_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:8606
 translate russia task25_336844af:
@@ -22480,7 +22480,7 @@ translate russia task25PotionDrink_b31c2da3:
 translate russia task25PotionDrink_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:8662
 translate russia task25PotionDrink_ed67ea48:
@@ -22984,7 +22984,7 @@ translate russia task25PotionDrink_ee8396c8:
 translate russia task25PotionDrink_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:8959
 translate russia task25PotionDrink_a6f1ac3e:
@@ -23110,7 +23110,7 @@ translate russia task25PotionDrink_d4efeb06:
 translate russia task25PotionDrink_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:9030
 translate russia task25PotionDrink_e53c9e5f:
@@ -23176,7 +23176,7 @@ translate russia task25PotionDrink_30495171:
 translate russia task25PotionDrink_2d13b75c:
 
     # c "................"
-    c ""
+    c "................"
 
 # game/status.rpy:9054
 translate russia task25PotionDrink_9e10309c:
@@ -23212,7 +23212,7 @@ translate russia task26_8c698886:
 translate russia task26_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:9087
 translate russia task26_57f001f6:
@@ -23476,7 +23476,7 @@ translate russia task26_97ef254e:
 translate russia task26_82faec70:
 
     # brit b9 "........................"
-    brit b9 ""
+    brit b9 "........................"
 
 # game/status.rpy:9211
 translate russia task26_89e1ea63:
@@ -23578,7 +23578,7 @@ translate russia task26_9adbf266:
 translate russia task26_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:9267
 translate russia task26_3593dad5:
@@ -23716,7 +23716,7 @@ translate russia task26_a49766a4:
 translate russia task26_894b6cf1:
 
     # s g11 "..............."
-    s g11 ""
+    s g11 "..............."
 
 # game/status.rpy:9332
 translate russia task26_6692f04c:
@@ -23728,7 +23728,7 @@ translate russia task26_6692f04c:
 translate russia task26_9a78f174:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:9334
 translate russia task26_a6c36986:
@@ -23764,7 +23764,7 @@ translate russia task26_deed1380:
 translate russia task26_b1ed1f71:
 
     # s g5 "......................."
-    s g5 ""
+    s g5 "......................."
 
 # game/status.rpy:9340
 translate russia task26_d2910a20:
@@ -23818,7 +23818,7 @@ translate russia task26_36aba7ec:
 translate russia task26_9a78f174_1:
 
     # y "................"
-    y ""
+    y "................"
 
 # game/status.rpy:9370
 translate russia task26_fab7911f:
@@ -23848,7 +23848,7 @@ translate russia task26_0714d4a1:
 translate russia task26_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:9377
 translate russia task26_d19a2b08:
@@ -24034,7 +24034,7 @@ translate russia task26_ad97639e:
 translate russia task26_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:9434
 translate russia task26_728f2ef3:
@@ -24052,7 +24052,7 @@ translate russia task26_3b7fcc78:
 translate russia task26_5f60ba9a:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:9452
 translate russia task26_6f844ceb:
@@ -24076,7 +24076,7 @@ translate russia task26_fff2d6da:
 translate russia task26_2d13b75c:
 
     # c "................"
-    c ""
+    c "................"
 
 # game/status.rpy:9458
 translate russia task26_00cad377:
@@ -24106,7 +24106,7 @@ translate russia task26_a5abcd5f:
 translate russia task26_cbd56499:
 
     # c r10 "............................"
-    c r10 ""
+    c r10 "............................"
 
 # game/status.rpy:9463
 translate russia task26_411d5fc9:
@@ -24124,7 +24124,7 @@ translate russia task26_a12dd507:
 translate russia task26_dc35aa43:
 
     # "Inner Voice" "(You know you're just digging your grave deeper and deeper~....)"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:9467
 translate russia task26_2ba69b8e:
@@ -24136,7 +24136,7 @@ translate russia task26_2ba69b8e:
 translate russia task26_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:9469
 translate russia task26_68d24641:
@@ -24166,7 +24166,7 @@ translate russia task26_6f8d67c1:
 translate russia task26_01b6d130:
 
     # c r11 "......................"
-    c r11 ""
+    c r11 "......................"
 
 # game/status.rpy:9477
 translate russia task26_064038ae:
@@ -24244,7 +24244,7 @@ translate russia task26_ff678d23:
 translate russia task26_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:9490
 translate russia task26_92807ce3:
@@ -24268,13 +24268,13 @@ translate russia task26_8d557f7c:
 translate russia task26_8cb95233:
 
     # s g39 "..............."
-    s g39 ""
+    s g39 "..............."
 
 # game/status.rpy:9494
 translate russia task26_c9c923bd:
 
     # s g38 "[playerName]..."
-    s g38 ""
+    s g38 "[playerName]..."
 
 # game/status.rpy:9495
 translate russia task26_8034b629:
@@ -24310,7 +24310,7 @@ translate russia task26_c28517aa:
 translate russia task26_30c0e788:
 
     # y ".........."
-    y ""
+    y ".........."
 
 # game/status.rpy:9501
 translate russia task26_67ba6325:
@@ -24328,7 +24328,7 @@ translate russia task26_a3fe2a53:
 translate russia task26_1583fcc6:
 
     # c r10 "..............."
-    c r10 ""
+    c r10 "..............."
 
 # game/status.rpy:9504
 translate russia task26_225236c2:
@@ -24346,7 +24346,7 @@ translate russia task26_6db73817:
 translate russia task26_b13283e2:
 
     # "Inner Voice" "That could have gone worse."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:9513
 translate russia task26_697a662b:
@@ -24358,7 +24358,7 @@ translate russia task26_697a662b:
 translate russia task26_14624ca4:
 
     # "Inner Voice" "We seem to have a good thing going here. Please, no more iceberg incidents, okay?"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:9515
 translate russia task26_6db73817_1:
@@ -24424,7 +24424,7 @@ translate russia task26_24724a39:
 translate russia task26_a23669b1_1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:9562
 translate russia task26_31950f64:
@@ -24490,7 +24490,7 @@ translate russia task26_982c58bb:
 translate russia task26_9500a0b4_1:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:9590
 translate russia task26_c3a51729:
@@ -24598,7 +24598,7 @@ translate russia task26_f53a83b4:
 translate russia task26_9cb97b48_1:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:9644
 translate russia task26_fc842bca:
@@ -24772,7 +24772,7 @@ translate russia task26_6a0ca32d:
 translate russia task26_b0c87d6e:
 
     # brit b11 "............."
-    brit b11 ""
+    brit b11 "............."
 
 # game/status.rpy:9700
 translate russia task26_e21c6b35:
@@ -25090,7 +25090,7 @@ translate russia task26_44a9e6cc:
 translate russia task26_15232820:
 
     # c r54 "........................"
-    c r54 ""
+    c r54 "........................"
 
 # game/status.rpy:9797
 translate russia task26_80ba2a79:
@@ -25198,7 +25198,7 @@ translate russia task26_02c810ee:
 translate russia task26_77e897fe:
 
     # s g57 "......................"
-    s g57 ""
+    s g57 "......................"
 
 # game/status.rpy:9815
 translate russia task26_341fb2d4:
@@ -25240,7 +25240,7 @@ translate russia task26_4b9d8081:
 translate russia task26_26212ea3:
 
     # c r57 "..................."
-    c r57 ""
+    c r57 "..................."
 
 # game/status.rpy:9823
 translate russia task26_5558fac2:
@@ -25288,7 +25288,7 @@ translate russia task26_ba399063:
 translate russia task26_a23669b1_2:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:9831
 translate russia task26_251130fe:
@@ -25342,13 +25342,13 @@ translate russia task26_04238861:
 translate russia task26_01241182:
 
     # c r11 ".............................."
-    c r11 ""
+    c r11 ".............................."
 
 # game/status.rpy:9844
 translate russia task26_7ff6e2dd:
 
     # s g15 ".............................."
-    s g15 ""
+    s g15 ".............................."
 
 # game/status.rpy:9845
 translate russia task26_d69e4a41:
@@ -25486,7 +25486,7 @@ translate russia task26_6645a2a0:
 translate russia task26_401f18e3:
 
     # c r37 "......................"
-    c r37 ""
+    c r37 "......................"
 
 # game/status.rpy:9913
 translate russia task26_6e1be508:
@@ -25702,7 +25702,7 @@ translate russia task26_982997fd:
 translate russia task26_fdb42620:
 
     # tim "......................."
-    tim ""
+    tim "......................."
 
 # game/status.rpy:10014
 translate russia task26_052bea24:
@@ -25732,7 +25732,7 @@ translate russia task26_01335d0b:
 translate russia task26_36819588:
 
     # s "............................"
-    s ""
+    s "............................"
 
 # game/status.rpy:10023
 translate russia task26_88d58953:
@@ -25774,7 +25774,7 @@ translate russia task26_8d48cbd0:
 translate russia task26_605685c1:
 
     # tim "......................"
-    tim ""
+    tim "......................"
 
 # game/status.rpy:10030
 translate russia task26_257fcecd:
@@ -25840,7 +25840,7 @@ translate russia task26_00a834c9:
 translate russia task26_4467e4e6:
 
     # tim "................."
-    tim ""
+    tim "................."
 
 # game/status.rpy:10078
 translate russia task26_fdc3be76:
@@ -25852,7 +25852,7 @@ translate russia task26_fdc3be76:
 translate russia task26_de617ee5:
 
     # tim "...?"
-    tim ""
+    tim "...?"
 
 # game/status.rpy:10080
 translate russia task26_39ad3c5e:
@@ -25924,19 +25924,19 @@ translate russia task26_9201f464:
 translate russia task26_cccf0ade:
 
     # tim "........................"
-    tim ""
+    tim "........................"
 
 # game/status.rpy:10123
 translate russia task26_a742beb6:
 
     # s "......................."
-    s ""
+    s "......................."
 
 # game/status.rpy:10124
 translate russia task26_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:10127
 translate russia task26_851e82f2:
@@ -26044,7 +26044,7 @@ translate russia task26_bf933d54:
 translate russia task26_3c7732e9:
 
     # tim "............................"
-    tim ""
+    tim "............................"
 
 # game/status.rpy:10146
 translate russia task26_8a96e20f:
@@ -26116,7 +26116,7 @@ translate russia task26_ecfb0991:
 translate russia task26_9cb97b48_2:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:10158
 translate russia task26_82f52de5:
@@ -26146,7 +26146,7 @@ translate russia task26_58f283a8:
 translate russia task26_fdb42620_1:
 
     # tim "......................."
-    tim ""
+    tim "......................."
 
 # game/status.rpy:10163
 translate russia task26_619e2455:
@@ -26182,7 +26182,7 @@ translate russia task26_5e8b86ac:
 translate russia task26_5f60ba9a_1:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:10169
 translate russia task26_d4dcbe91:
@@ -26332,7 +26332,7 @@ translate russia task26_54eaa9d3:
 translate russia task26_692be6fa:
 
     # y "............"
-    y ""
+    y "............"
 
 # game/status.rpy:10237
 translate russia task26_fc738d21:
@@ -26368,7 +26368,7 @@ translate russia task26_97493d2a:
 translate russia task26_9cb97b48_3:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:10255
 translate russia task26_69f2dd4f:
@@ -26500,7 +26500,7 @@ translate russia task26_d5395540:
 translate russia task26_5f60ba9a_2:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:10278
 translate russia task26_f1e0dec6:
@@ -26536,7 +26536,7 @@ translate russia task26_e2c7d63e:
 translate russia task26_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:10284
 translate russia task26_68d9750f:
@@ -26734,7 +26734,7 @@ translate russia task26_526080a3:
 translate russia task26_6f362d57_1:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:10362
 translate russia task26_55859704:
@@ -26794,7 +26794,7 @@ translate russia task26_a951b5cc:
 translate russia task26_9cb97b48_4:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:10373
 translate russia task26_7ef70c1f:
@@ -27226,7 +27226,7 @@ translate russia endgameMenu1_b3e0aeae:
 translate russia endgameMenu1_9500a0b4:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:10482
 translate russia endgameMenu1_77074a1b:
@@ -27376,7 +27376,7 @@ translate russia endgameMenu1_14f4b337:
 translate russia endgameMenu1_de617ee5:
 
     # tim "...?"
-    tim ""
+    tim "...?"
 
 # game/status.rpy:10555
 translate russia endgameMenu1_5ca9aaa7:
@@ -27436,7 +27436,7 @@ translate russia endgameMenu1_6db73817:
 translate russia endgameMenu1_9500a0b4_1:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:10568
 translate russia endgameMenu1_dcad7fcd:
@@ -27526,7 +27526,7 @@ translate russia endgameMenu1_03b7334e:
 translate russia endgameMenu1_ceacda9f:
 
     # "Inner Voice" "Heeeey it's me. Haven't heard from me in a while!"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:10586
 translate russia endgameMenu1_ec6071aa:
@@ -27538,7 +27538,7 @@ translate russia endgameMenu1_ec6071aa:
 translate russia endgameMenu1_647b1e03:
 
     # "Inner Voice" "Since when did I start giving good advice? I thought Chineese waterboard torture was a legit solution to bullying!"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:10588
 translate russia endgameMenu1_8ba1bfe1:
@@ -27556,19 +27556,19 @@ translate russia endgameMenu1_91f733ff:
 translate russia endgameMenu1_fdb42620:
 
     # tim "......................."
-    tim ""
+    tim "......................."
 
 # game/status.rpy:10591
 translate russia endgameMenu1_a84e5e08:
 
     # "Inner Voice" "Just admit it... You're going to need him."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:10592
 translate russia endgameMenu1_5976e89e:
 
     # "Inner Voice" "Whatever crimes he's committed, he can redeem himself by helping you save the city."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:10593
 translate russia endgameMenu1_d5ef705b:
@@ -27580,7 +27580,7 @@ translate russia endgameMenu1_d5ef705b:
 translate russia endgameMenu1_cccbe4d6:
 
     # "Inner Voice" "It's just the risk you're going to have to take."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:10595
 translate russia endgameMenu1_6e4ecfcc_2:
@@ -27700,7 +27700,7 @@ translate russia endgameMenu1_7038a070:
 translate russia endgameMenu1_074c58fb:
 
     # "Agent" "......................"
-    "Агент" ""
+    "Агент" "......................"
 
 # game/status.rpy:10655
 translate russia endgameMenu1_65c2fceb:
@@ -27724,7 +27724,7 @@ translate russia endgameMenu1_cbc2fadf:
 translate russia endgameMenu1_fdb42620_1:
 
     # tim "......................."
-    tim ""
+    tim "......................."
 
 # game/status.rpy:10664
 translate russia endgameMenu1_aa84fc07:
@@ -27784,7 +27784,7 @@ translate russia endgameMenu1_a0f6ff0f:
 translate russia endgameMenu1_4467e4e6:
 
     # tim "................."
-    tim ""
+    tim "................."
 
 # game/status.rpy:10674
 translate russia endgameMenu1_d7c57513:
@@ -27922,7 +27922,7 @@ translate russia endgameMenu1_90dd6a7f:
 translate russia endgameMenu1_9500a0b4_2:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:10698
 translate russia endgameMenu1_f683344e:
@@ -28054,7 +28054,7 @@ translate russia endgameMenu1_01cd44b4:
 translate russia endgameMenu1_0bd60de2:
 
     # mel "......................."
-    mel ""
+    mel "......................."
 
 # game/status.rpy:10727
 translate russia endgameMenu1_51b08f31:
@@ -28066,7 +28066,7 @@ translate russia endgameMenu1_51b08f31:
 translate russia endgameMenu1_0bd60de2_1:
 
     # mel "......................."
-    mel ""
+    mel "......................."
 
 # game/status.rpy:10729
 translate russia endgameMenu1_24dc2ec2:
@@ -28192,7 +28192,7 @@ translate russia endgameMenu1_29e7f057:
 translate russia endgameMenu1_5f60ba9a:
 
     # y ".............................."
-    y ""
+    y ".............................."
 
 # game/status.rpy:10758
 translate russia endgameMenu1_b41eb032:
@@ -28228,7 +28228,7 @@ translate russia endgameMenu1_53b8c715:
 translate russia endgameMenu1_6f362d57:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:10764
 translate russia endgameMenu1_ee9d3095:
@@ -28252,7 +28252,7 @@ translate russia endgameMenu1_cb541e56:
 translate russia endgameMenu1_a23669b1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:10768
 translate russia endgameMenu1_f3ecc832:
@@ -28342,7 +28342,7 @@ translate russia endgameMenu1_930f88c4:
 translate russia endgameMenu1_692be6fa:
 
     # y "............"
-    y ""
+    y "............"
 
 # game/status.rpy:10822
 translate russia endgameMenu1_171b8535:
@@ -28366,7 +28366,7 @@ translate russia endgameMenu1_ab0558f5:
 translate russia endgameMenu1_cf630fb5:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:10826
 translate russia endgameMenu1_305d45e5:
@@ -28432,7 +28432,7 @@ translate russia endgameMenu1_e97e04ec:
 translate russia endgameMenu1_a23669b1_1:
 
     # y "............................"
-    y ""
+    y "............................"
 
 # game/status.rpy:10841
 translate russia endgameMenu1_be1a8426:
@@ -28510,7 +28510,7 @@ translate russia endgameMenu1_d4198369:
 translate russia endgameMenu1_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/status.rpy:10858
 translate russia endgameMenu1_49cca957:
@@ -28540,7 +28540,7 @@ translate russia endgameMenu1_3ff72b5a:
 translate russia endgameMenu1_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:10863
 translate russia endgameMenu1_25f71b0d:
@@ -28798,7 +28798,7 @@ translate russia endgameMenu1_6311dcfd:
 translate russia endgameMenu1_6f323c89:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:10949
 translate russia endgameMenu1_9bff1593:
@@ -29218,7 +29218,7 @@ translate russia endgameMenu1_cfe91af9:
 translate russia endgameMenu1_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:11130
 translate russia endgameMenu1_e2507a68:
@@ -29374,7 +29374,7 @@ translate russia endgameMenu1_43b23170:
 translate russia endgameMenu1_2ebf7899:
 
     # s g10 "..............."
-    s g10 ""
+    s g10 "..............."
 
 # game/status.rpy:11166
 translate russia endgameMenu1_3ce3b405:
@@ -29668,7 +29668,7 @@ translate russia endgameMenu1_0805b14f:
 translate russia endgameMenu1_6f362d57_1:
 
     # y "..............."
-    y ""
+    y "..............."
 
 # game/status.rpy:11318
 translate russia endgameMenu1_d271b6d1:
@@ -29746,7 +29746,7 @@ translate russia endgameMenu1_f5ea9f46:
 translate russia endgameMenu1_78d4757d:
 
     # a y18 "..................."
-    a y18 ""
+    a y18 "..................."
 
 # game/status.rpy:11331
 translate russia endgameMenu1_93928a56:
@@ -29830,7 +29830,7 @@ translate russia endgameMenu1_64a2b68e:
 translate russia endgameMenu1_20e3212e:
 
     # "Inner Voice" "What's the matter?"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:11352
 translate russia endgameMenu1_28ef09d2:
@@ -29848,7 +29848,7 @@ translate russia endgameMenu1_920fd3f6:
 translate russia endgameMenu1_64fba246:
 
     # "Inner Voice" "So...?"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:11355
 translate russia endgameMenu1_df1a0042:
@@ -29866,7 +29866,7 @@ translate russia endgameMenu1_77fd83d0:
 translate russia endgameMenu1_80d42ef2:
 
     # "Inner Voice" "Erm... probably not..."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:11358
 translate russia endgameMenu1_86c12410_1:
@@ -29878,13 +29878,13 @@ translate russia endgameMenu1_86c12410_1:
 translate russia endgameMenu1_f8bcee66:
 
     # "Inner Voice" "You think it's another trap?"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:11360
 translate russia endgameMenu1_9500a0b4_3:
 
     # y "......................"
-    y ""
+    y "......................"
 
 # game/status.rpy:11361
 translate russia endgameMenu1_ad4a8ff5:
@@ -29902,7 +29902,7 @@ translate russia endgameMenu1_3ac05dc5:
 translate russia endgameMenu1_cf630fb5_1:
 
     # y "..................."
-    y ""
+    y "..................."
 
 # game/status.rpy:11381
 translate russia endgameMenu1_6cbd8069:
@@ -30034,7 +30034,7 @@ translate russia endgameMenu1_38bf74b1:
 translate russia endgameMenu1_05cdf1ce:
 
     # c r11 "..................."
-    c r11 ""
+    c r11 "..................."
 
 # game/status.rpy:11403
 translate russia endgameMenu1_9311f904:
@@ -30550,7 +30550,7 @@ translate russia endgameMenu1_a408c1d4:
 translate russia endgameMenu1_123daf49:
 
     # c r10 "......................"
-    c r10 ""
+    c r10 "......................"
 
 # game/status.rpy:11501
 translate russia endgameMenu1_82296d40:
@@ -30628,13 +30628,13 @@ translate russia endgameMenu1_4e7fad88:
 translate russia endgameMenu1_07cc5ad1:
 
     # c "............"
-    c ""
+    c "............"
 
 # game/status.rpy:11531
 translate russia endgameMenu1_1d16bc17:
 
     # s "............"
-    s ""
+    s "............"
 
 # game/status.rpy:11532
 translate russia endgameMenu1_fb827544:
@@ -31156,7 +31156,7 @@ translate russia endgameMenu1_fe99e00f:
 translate russia endgameMenu1_6f323c89_1:
 
     # y "............."
-    y ""
+    y "............."
 
 # game/status.rpy:11814
 translate russia endgameMenu1_c6585c2c:
@@ -31186,7 +31186,7 @@ translate russia endgameMenu1_c1b6a25d:
 translate russia endgameMenu1_4467e4e6_1:
 
     # tim "................."
-    tim ""
+    tim "................."
 
 # game/status.rpy:11821
 translate russia endgameMenu1_a131cfe4:
@@ -31246,7 +31246,7 @@ translate russia endgameMenu1_2cdab065:
 translate russia endgameMenu1_13f2a435:
 
     # jerry "........................"
-    jerry ""
+    jerry "........................"
 
 # game/status.rpy:11852
 translate russia endgameMenu1_262b2262:
@@ -31426,7 +31426,7 @@ translate russia endgameMenu1_3593ed71:
 translate russia endgameMenu1_5115f16b:
 
     # tim "..................."
-    tim ""
+    tim "..................."
 
 # game/status.rpy:11948
 translate russia endgameMenu1_6950e33d:
@@ -31522,7 +31522,7 @@ translate russia endgameMenu1_671b04f6:
 translate russia endgameMenu1_cccf0ade:
 
     # tim "........................"
-    tim ""
+    tim "........................"
 
 # game/status.rpy:11964
 translate russia endgameMenu1_336360bf:
@@ -31534,7 +31534,7 @@ translate russia endgameMenu1_336360bf:
 translate russia endgameMenu1_fdb42620_2:
 
     # tim "......................."
-    tim ""
+    tim "......................."
 
 # game/status.rpy:11966
 translate russia endgameMenu1_0e976614:
@@ -31756,7 +31756,7 @@ translate russia endgameMenu1_4acc9853:
 translate russia endgameMenu1_76127b0d:
 
     # jerry "...?"
-    jerry ""
+    jerry "...?"
 
 # game/status.rpy:12034
 translate russia endgameMenu1_255a1bec:
@@ -32188,7 +32188,7 @@ translate russia ending2_91c194eb:
 translate russia ending2_d6cc21ec:
 
     # "Inner Voice" "We could have been CEOs....!"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:12216
 translate russia ending2_7e1cc4af:
@@ -32200,7 +32200,7 @@ translate russia ending2_7e1cc4af:
 translate russia ending2_2cfe04fc:
 
     # "Inner Voice" "So what are you going to do now?"
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:12218
 translate russia ending2_30e3a2d2:
@@ -32218,7 +32218,7 @@ translate russia ending2_507274ba:
 translate russia ending2_b20a445d:
 
     # "Inner Voice" ".................................."
-    "Inner Voice" ""
+    "Внутренний голос" ""
 
 # game/status.rpy:12345
 translate russia task27_44262c3b:
@@ -32632,7 +32632,7 @@ translate russia task30_b5d76c1d:
 translate russia task30_f358cb0c:
 
     # y "................."
-    y ""
+    y "................."
 
 # game/status.rpy:12487
 translate russia task30_f1557195:
@@ -32674,7 +32674,7 @@ translate russia task30_59eff19b:
 translate russia task30_34d5447b:
 
     # y "......................."
-    y ""
+    y "......................."
 
 # game/status.rpy:12509
 translate russia task30_336b53ba:
@@ -32812,7 +32812,7 @@ translate russia task31_98393c9a:
 translate russia task31_9cb97b48:
 
     # y "........................"
-    y ""
+    y "........................"
 
 # game/status.rpy:12562
 translate russia task31_5e7faeb0:
@@ -32872,7 +32872,7 @@ translate russia task31_450f0a7f:
 translate russia task31_1c059301:
 
     # y "I'll think about it..."
-    y ""
+    y "Я подумаю об этом."
 
 # game/status.rpy:12580
 translate russia task31_7de1c59c:
@@ -33466,7 +33466,7 @@ translate russia nightCutscenes_d1daebf8:
 translate russia nightCutscenes_cf1afa3c:
 
     # "Shadowy Figure 1" "..................."
-    "Shadowy Figure 1" ""
+    "Shadowy Figure 1" "..................."
 
 # game/status.rpy:12921
 translate russia nightCutscenes_25613663:
@@ -33652,7 +33652,7 @@ translate russia nightCutscenes_9d7a45d9:
 translate russia nightCutscenes_fdb42620:
 
     # tim "......................."
-    tim ""
+    tim "......................."
 
 # game/status.rpy:13007
 translate russia nightCutscenes_c5db46e4:
@@ -33700,7 +33700,7 @@ translate russia nightCutscenes_aed4b95e:
 translate russia nightCutscenes_cccf0ade:
 
     # tim "........................"
-    tim ""
+    tim "........................"
 
 # game/status.rpy:13040
 translate russia buyXmasOutfit_36dd0bf5:
