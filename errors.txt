@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/tl/russia/status.rpy", line 3814: translate statement expects a non-empty block.
+    translate russia task3_0954199e:
+                                    ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Fri Dec 17 21:50:22 2021

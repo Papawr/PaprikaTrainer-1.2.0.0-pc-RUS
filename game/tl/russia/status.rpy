@@ -3766,85 +3766,85 @@ translate russia task3_bcda24a5:
 translate russia task3_9cd5115a:
 
     # sM "Nowhere left to run, Maggie!"
-    sM ""
+    sM "Бежать больше некуда, Мэгги!"
 
 # game/status.rpy:1738
 translate russia task3_308f58a7:
 
     # mag "You pesky girls!{w} Guards get them!"
-    mag ""
+    mag "Как же вы надоели!{w} Стража забирает их!"
 
 # game/status.rpy:1739
 translate russia task3_8c231e0b:
 
     # mag ".............."
-    mag ""
+    mag ".............."
 
 # game/status.rpy:1740
 translate russia task3_b243112a:
 
     # mag "Guards?"
-    mag ""
+    mag "Стража?"
 
 # game/status.rpy:1741
 translate russia task3_c3e6f5e4:
 
     # y "We got her n-..."
-    y ""
+    y "Мы взяли её н-..."
 
 # game/status.rpy:1742
 translate russia task3_946ab664:
 
     # y "Wait...{w} Her eyes are red."
-    y ""
+    y "Подождите...{w} У неё красные глаза."
 
 # game/status.rpy:1743
 translate russia task3_a890e2fc:
 
     # cM "Is she... under nanobot control aswell?"
-    cM ""
+    cM "Она... тоже под контролем наноботов?"
 
 # game/status.rpy:1744
 translate russia task3_0e0695f3:
 
     # y "Only one way to find out. Take her in and we'll interrogate her at the base."
-    y ""
+    y "Есть только один способ узнать это. Заберите её, мы допросим её на базе."
 
 # game/status.rpy:1745
 translate russia task3_0954199e:
 
     # sM "Got it!"
-    sM ""
+    sM "Хорошо!"
 
 # game/status.rpy:1746
 translate russia task3_3c1f179c:
 
     # mag "Uh oh..."
-    mag ""
+    mag "Ух ох..."
 
 # game/status.rpy:1765
 translate russia task3_b01a3762:
 
     # c "We're back."
-    c ""
+    c "Мы вернулись."
 
 # game/status.rpy:1766
 translate russia task3_cdf122ae:
 
     # y "Good, just put her in one of the empty cells. I'll go talk to her when I'm ready."
-    y ""
+    y "Отлично, посадите её в одну из пустых камер. Я поговорю с ней, когда буду готов."
 
 # game/status.rpy:1767
 translate russia task3_054afdb1:
 
     # c "Understood. Don't wait too long before questioning her."
-    c ""
+    c "Хорошо. Только не затягивай с допросом."
 
 # game/status.rpy:1782
 translate russia task3_3deac0a5:
 
     # y "Well well well... If it isn't the infamous Maggie T. IF THAT IS YOUR REAL NAME!"
-    y ""
+    y "Так-так-так... Если это не печально известная Мэгги Т. если это твоё настоящее имя!"
 
 # game/status.rpy:1783
 translate russia task3_e607b329:
@@ -3862,247 +3862,247 @@ translate russia task3_6f323c89:
 translate russia task3_e6edf295:
 
     # y "Odd, I expected an evil monologue or something."
-    y ""
+    y "Странно, я ожидал злобного монолога или чего типа того."
 
 # game/status.rpy:1787
 translate russia task3_f3308085:
 
     # s "Hey, [playerName]... There's something off about her. See her eyes?"
-    s ""
+    s "Привет, [playerName]... С ней что-то не так. Видел её глаза?"
 
 # game/status.rpy:1788
 translate russia task3_2546c64d:
 
     # y "They're red... Does that mean...?"
-    y ""
+    y "Они красные... Значит ли это...?"
 
 # game/status.rpy:1789
 translate russia task3_333a55f6:
 
     # s "She's being controlled by nanobots aswell!"
-    s ""
+    s "Она тоже под контролем наноботов!"
 
 # game/status.rpy:1790
 translate russia task3_bf417a25:
 
     # mag "Soon the world will fall under the control of the mastermind, and there's nothing you can d-...."
-    mag ""
+    mag "Вскоре весь мир окажется под контролем мастера, вы ничего не сможете сделать-..."
 
 # game/status.rpy:1791
 translate russia task3_bafa6853:
 
     # "{b}*Zip*{/b}"
-    ""
+    "{b}*Зип*{/b}"
 
 # game/status.rpy:1792
 translate russia task3_c23daca7:
 
     # mag "Why are you unzipping your pants...?!"
-    mag ""
+    mag "Почему ты расстёгиваешь штаны...?!"
 
 # game/status.rpy:1793
 translate russia task3_d1eb730d:
 
     # s g28 "[playerName]! You can't do that against her will! We're the good guys, remember?"
-    s g28 ""
+    s g28 "[playerName]! Ты не можешь сделать это против её воли! Мы хорошие, помнишь?"
 
 # game/status.rpy:1794
 translate russia task3_3c44df1a:
 
     # y "Who said anything about doing it against her will?"
-    y ""
+    y "Кто сказал, что это делается против её воли?"
 
 # game/status.rpy:1795
 translate russia task3_14f83683:
 
     # y "Hey Maggie, you're currently being controlled by nanobots, but we can break you out of it."
-    y ""
+    y "Эй Мэгги, в настоящее время ты под контролем наноботов, но мы можем вывести тебя из этого состояния."
 
 # game/status.rpy:1796
 translate russia task3_75034df7:
 
     # mag "What?! Nobody is controlling the great Maggie Trendset!"
-    mag ""
+    mag "Что?! Никто не можнет контролировать великую Мэгги Трэндсет!"
 
 # game/status.rpy:1797
 translate russia task3_13ff2d95:
 
     # y "We can prove it, but we'll have to break you out of it with a quick fuc-.... {w}Wait the T. stands for Trendset?"
-    y ""
+    y "Я легко могу это доказать, но нам придётся вывести тебя из этого состояния с помощью быстрого тра-... {w}Подождите Т. означает Трэндсет?"
 
 # game/status.rpy:1798
 translate russia task3_82b398bc:
 
     # y "That's a stupid name."
-    y ""
+    y "Какое глупое имя."
 
 # game/status.rpy:1799
 translate russia task3_f51bb873:
 
     # mag "Hey!"
-    mag ""
+    mag "Эй!"
 
 # game/status.rpy:1800
 translate russia task3_552fe57e:
 
     # mag "Fine... I've been feeling more... murderous than usual. If you say a quick shag will break me out of it, then I'm willing to give it a try..."
-    mag ""
+    mag "Прекрасно... Чувствую себя более... кровожадно, чем обычно. Если ты говоришь, что быстрый трах избавит меня от этого, то я готова попробовать..."
 
 # game/status.rpy:1801
 translate russia task3_b1abc812:
 
     # s g33 "I don't wanna watch this...."
-    s g33 ""
+    s g33 "Я не хочу на это смотреть..."
 
 # game/status.rpy:1807
 translate russia task3_c3ad511c:
 
     # mag "Oh! Oh! Oh!"
-    mag ""
+    mag "Ох! Аах! Ааа!"
 
 # game/status.rpy:1808
 translate russia task3_01dff492:
 
     # mag "Oooh yes, I'm feeling better already!"
-    mag ""
+    mag "Ооох да, я уже чувствую себя лучше!"
 
 # game/status.rpy:1809
 translate russia task3_8bca739a:
 
     # mag "In my {i}'what'{/i}?! Well just this once then~... ♥"
-    mag ""
+    mag "{i}'К-куда'{/i}?! Ну, тогда только в этот раз~... ♥"
 
 # game/status.rpy:1810
 translate russia task3_6e99e0a0:
 
     # mag "Ahh! Ahhhhhh! ♥♥♥"
-    mag ""
+    mag "Аахх! АаААааахХХ! ♥♥♥"
 
 # game/status.rpy:1811
 translate russia task3_07309111:
 
     # y "Say cheese..."
-    y ""
+    y "Скажи сыр..."
 
 # game/status.rpy:1821
 translate russia task3_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/status.rpy:1826
 translate russia task3_d84fe841:
 
     # mag "I... I can't believe they were controlling me..."
-    mag ""
+    mag "Я... Я не могу поверить, что они контролировали меня..."
 
 # game/status.rpy:1827
 translate russia task3_db1efe85:
 
     # y "You've been working as a lieutenant for a gang here in town all this time."
-    y ""
+    y "Всё это время ты работала лейтенантом в банде здесь, в городе."
 
 # game/status.rpy:1828
 translate russia task3_78f7ead8:
 
     # mag "To use me like a puppet! I'll get them for this!"
-    mag ""
+    mag "Использовать меня как марионетку?! Я их достану!"
 
 # game/status.rpy:1829
 translate russia task3_4ba12349:
 
     # mag "I WILL TEACH THEM NOT TO MESS WITH MAGGIE TRENDSET!"
-    mag ""
+    mag "Я НАУЧУ ИХ НЕ СВЯЗЫВАТЬСЯ С МЭГГИ ТРЭНДСЕТ!"
 
 # game/status.rpy:1830
 translate russia task3_721e8921:
 
     # y "Okay okay, calm down. If it's revenge you want, we can help you with that, but first you need to tell us everything you know."
-    y ""
+    y "Ладно, ладно, успокойся. Если хочешь отомстить, мы можем помочь тебе, но сначала тебе нужно рассказать нам всё что знаешь."
 
 # game/status.rpy:1831
 translate russia task3_b760d0e3:
 
     # mag "Well..."
-    mag ""
+    mag "Нуу..."
 
 # game/status.rpy:1848
 translate russia task3_f5e2949c:
 
     # mag "The Aces, like most big gangs around town have two lieutenants. Only one now that you've freed me from the nanobot control."
-    mag ""
+    mag "У Тузов, как и у большинства крупных банд в городе, есть два лейтенанта. У Тузов теперь остался только один."
 
 # game/status.rpy:1853
 translate russia task3_1f9a001f:
 
     # mag "If you want to bring down the gang, you're going to have to capture the other officer and then confront the gangleader."
-    mag ""
+    mag "Если вы хотите уничтожить банду, вам придётся захватить второго офицера, а затем противостоять главарю банды."
 
 # game/status.rpy:1854
 translate russia task3_01af6333:
 
     # y "And how do we do that?"
-    y ""
+    y "И как нам это сделать?"
 
 # game/status.rpy:1855
 translate russia task3_a410b898:
 
     # mag "The lieutenants will stay hidden for the most part. You need to draw them out."
-    mag ""
+    mag "Лейтенанты по большей части остаются в тени. Вам прийдётся их выманить."
 
 # game/status.rpy:1868
 translate russia task3_f0a7402c:
 
     # mag "Every 30 days, there is something called a {color=#ffeda6}'Landgrab'{/color}.{w} The gangs will fight amongst each other for control over different neighborhoods."
-    mag ""
+    mag "Каждые 30 дней происходит то, что называется {color=#ffeda6}'Войной за территорию'{/color}.{w} Банды будут бороться между собой за контроль над различными районами."
 
 # game/status.rpy:1879
 translate russia task3_bdf88f06:
 
     # mag "You need to capture Agents to fight for you during the landgrab."
-    mag ""
+    mag "Вам необходимо захватить агентов, которые будут сражаться за вас во время войны за территорию."
 
 # game/status.rpy:1880
 translate russia task3_b5b0aa81:
 
     # y "We can make {color=#ffeda6}Hypno Earrings{/color} and use those to capture Agents during missions."
-    y ""
+    y "Мы можем сделать {color=#ffeda6}Гипно-Серьги{/color} и использовать их для захвата агентов во время миссий."
 
 # game/status.rpy:1881
 translate russia task3_61849d80:
 
     # mag "Once a gang begins to lose a lot of ground, their lieutenants will reveal themselves. If your reputation in the gang is high enough, you might get close enough to capture them."
-    mag ""
+    mag "Как только банда начинает терять свои позиции, её лейтенанты раскрываются. Если ваша репутация в банде достаточно высока, вы можете подобраться достаточно близко, чтобы схватить их."
 
 # game/status.rpy:1882
 translate russia task3_3b266849:
 
     # y "So keep sending my spies undercover and once every 30 days fight in a Landgrab?"
-    y ""
+    y "Значит я продолжаю посылать шпионок под прикрытием и раз в 30 дней принимать участие в войне за территорию?"
 
 # game/status.rpy:1883
 translate russia task3_4b6e2935:
 
     # y "Do I have to wait that long?"
-    y ""
+    y "Мне придётся ждать так долго?"
 
 # game/status.rpy:1884
 translate russia task3_5e15dc98:
 
     # mag "You can skip to the next Landgrab via the Agents button."
-    mag ""
+    mag "Ты можешь перейти к следующей Войне с помощью кнопки Agents."
 
 # game/status.rpy:1888
 translate russia task3_99d96ada:
 
     # mag "You're going to have to build up an army though. These Landgrabs can get pretty hairy and you'll loose agents to nanobot control."
-    mag ""
+    mag "Однако тебе придётся создать армию. Война за территорию может стать довольно кровопролитной, и вы потеряете своих агентов."
 
 # game/status.rpy:1889
 translate russia task3_001f5c38:
 
     # y "Gather more WOOHP agents and break them out of their nanobot control in the basement. Got it."
-    y ""
+    y "Просто захватим больше агентов и выведем их из-под контроля наноботов в подвале. Всё схвачено."
 
 # game/status.rpy:1898
 translate russia task3_dba2607f:
@@ -4114,211 +4114,211 @@ translate russia task3_dba2607f:
 translate russia task3_2736c9d1:
 
     # mag "So......"
-    mag ""
+    mag "Иии..."
 
 # game/status.rpy:1900
 translate russia task3_6171fd1e:
 
     # mag "I'd say I helped you out quite a bit...{w} Any chance of letting me go?"
-    mag ""
+    mag "Я вроде как довольно сильно тебе помогла...{w} Есть шанс, что ты меня отпустишь?"
 
 # game/status.rpy:1901
 translate russia task3_3afcf255:
 
     # y "Not a chance."
-    y ""
+    y "Без шансов."
 
 # game/status.rpy:1902
 translate russia task3_d175e19b:
 
     # mag "Curses...."
-    mag ""
+    mag "Проклятие..."
 
 # game/status.rpy:1911
 translate russia task3_c77c3148:
 
     # "Landgrabs happen ever 30 days. Currently it's [timetograb] more days until the next one."
-    ""
+    "Война за территорию происходит каждые 30 дней. До следующей войны осталось [timetograb] дней."
 
 # game/status.rpy:1912
 translate russia task3_b22b20b4:
 
     # "During a Landgrab, you can send freed WOOHP agents to fight for you in the streets and try to bring enemy lieutenants out of hiding."
-    ""
+    "Во время Войны вы можете посылать освобожденных агентов WOOHP сражаться за вас на улицах и попытаться вывести вражеских лейтенантов из укрытия."
 
 # game/status.rpy:1913
 translate russia task3_fba4425f:
 
     # "However, you can lose agents during the fight. Agents can be captured by planning missions and using the {color=#ffeda6}Hypno Earring{/color} gadget."
-    ""
+    "Однако вы можете потерять агентов во время боя. Агенты могут быть захвачены вовремя миссий при использовании {color=#ffeda6}Гипно-Серьг{/color}."
 
 # game/status.rpy:1914
 translate russia task3_3dd9a308:
 
     # "After they've been captured and send to the base, you can break them out of their nanobot control by throwing down dirty magazines into the basement."
-    ""
+    "После их захвата и отправления на базу, вы сможете сломить контроль наноботов, сбросив в подвал грязные журналы."
 
 # game/status.rpy:1916
 translate russia task3_0baf7e97:
 
     # "You can see when the next landgrab is by clicking on the 'Agents' button at the top of the screen. Here you can also choose to skip to the next Landgrab in case you don't want to wait."
-    ""
+    "Вы можете узнать, когда будет следующая война за территорию, нажав на кнопку \"Agents\" в верхней части экрана. Здесь вы также можете выбрать переход к следующей Войне, если вы не хотите ждать."
 
 # game/status.rpy:1917
 translate russia task3_6626d1fc:
 
     # "Spies send undercover during a Landgrab earn a reputation boost, but risk getting hurt on the job."
-    ""
+    "Шпионки, работающие под прикрытием во время войны за территории, повышают репутацию, но рискуют пострадать во время работы."
 
 # game/status.rpy:1934
 translate russia task3_00040114:
 
     # y "Company meeting!"
-    y ""
+    y "Общее собрание!"
 
 # game/status.rpy:1939
 translate russia task3_30687c86:
 
     # y "Today I wanted to talk abou-..."
-    y ""
+    y "Сегодня я хочу поговорить о-..."
 
 # game/status.rpy:1940
 translate russia task3_d361245c:
 
     # "{b}*Ting* *Ting*{/b}"
-    ""
+    "{b}*Дзынь* *Дзынь*{/b}"
 
 # game/status.rpy:1941
 translate russia task3_29bc5049:
 
     # "???" "Hello?"
-    "???" ""
+    "???" "Есть кто?"
 
 # game/status.rpy:1942
 translate russia task3_aa785824:
 
     # y "Sorry, we're not open ye-...."
-    y ""
+    y "Извините, мы ещё закры-..."
 
 # game/status.rpy:1958
 translate russia task3_e71b99db:
 
     # "Agent 1" "What a lovely milkshake bar you have here!"
-    "Агент 1" ""
+    "Агент 1" "Какой у вам прекрасный бар с молочными коктейлями!"
 
 # game/status.rpy:1959
 translate russia task3_ee99fffe:
 
     # y "Er..."
-    y ""
+    y "Эм..."
 
 # game/status.rpy:1963
 translate russia task3_21cfb035:
 
     # "Agent 2" "Quite the milkshake bar you found here fellow agent!"
-    "Агент 2" ""
+    "Агент 2" "Вы нашли отличный бар с молочными коктейлями коллега!"
 
 # game/status.rpy:1964
 translate russia task3_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:1968
 translate russia task3_d7d1fb09:
 
     # "Agent 3" "A charming little milkshake bar?! How quaint! Surprising how it survived the chaos this long!"
-    "Агент 3" ""
+    "Агент 3" "Маленький очаровательный бар?! Как прикольно! Удивительно, как он так долго продержался во всём этом хаосе!"
 
 # game/status.rpy:1969
 translate russia task3_fa47215b:
 
     # y "Heh heh~... yeah big surprise~..."
-    y ""
+    y "Хе хех~... да, очень удивительно~..."
 
 # game/status.rpy:1970
 translate russia task3_28801176:
 
     # "Agent 1" "........................."
-    "Агент 1" ""
+    "Агент 1" "........................."
 
 # game/status.rpy:1971
 translate russia task3_072f1426:
 
     # "Agent 1" "Wait... Something's not quite righ-...."
-    "Агент 1" ""
+    "Агент 1" "Подожди... Что-то не так-..."
 
 # game/status.rpy:1972
 translate russia task3_96dad439:
 
     # y "GET 'EM!"
-    y ""
+    y "ХВАТАЙТЕ ИХ!"
 
 # game/status.rpy:2011
 translate russia task3_9324afc6:
 
     # a y28 "WOOHP Agents!"
-    a y28 ""
+    a y28 "Агенты WOOHP!"
 
 # game/status.rpy:2012
 translate russia task3_8f62761d:
 
     # s g29 "That was close...!"
-    s g29 ""
+    s g29 "Это было близко...!"
 
 # game/status.rpy:2013
 translate russia task3_13c57710:
 
     # c r37 "We can't have them reporting back to WOOHP and blow our cover. Luckily it was only three this time."
-    c r37 ""
+    c r37 "Мы не можем допустить, чтобы они доложили остальным и тем самым сорвали наше прикрытие. К счастью, на этот раз их было только трое."
 
 # game/status.rpy:2014
 translate russia task3_633a6e4d:
 
     # a y49 "What do we do with them...?"
-    a y49 ""
+    a y49 "Что нам с ними делать...?"
 
 # game/status.rpy:2015
 translate russia task3_17ab0564:
 
     # y "I don't know. I've never hid a body before!{w} Put them downstairs in the basement I guess."
-    y ""
+    y "Я не знаю. Я никогда раньше не прятал тела!{w} Положите их вниз, в подвал."
 
 # game/status.rpy:2016
 translate russia task3_bf7c3d29:
 
     # a "{b}*Nods*{/b}"
-    a ""
+    a "{b}*Кивает*{/b}"
 
 # game/status.rpy:2019
 translate russia task3_225595a0:
 
     # y "And now we have a couple of mindcontrolled agents in the base...."
-    y ""
+    y "Теперь у нас есть пара агентов под контролем наноботов, прямо на базе..."
 
 # game/status.rpy:2020
 translate russia task3_60cf6055:
 
     # c r1 "This works in our favor! If we break their nanobot control, we can use them in the next Landgrab!"
-    c r1 ""
+    c r1 "Это нам на пользу! Если мы нарушим контроль наноботов, то сможем использовать их в следующей войне!"
 
 # game/status.rpy:2021
 translate russia task3_1ebe22a9:
 
     # y "That's what I was thinkin-..."
-    y ""
+    y "Я так и думал-..."
 
 # game/status.rpy:2022
 translate russia task3_0ef670cc:
 
     # a "Eep!"
-    a ""
+    a "Ага!"
 
 # game/status.rpy:2024
 translate russia task3_f1657285:
 
     # "???" "Daylight stings my eyes!"
-    "???" ""
+    "???" "Дневной свет жжёт мне глаза!"
 
 # game/status.rpy:2025
 translate russia task3_ae4bfad7_1:
@@ -4330,853 +4330,853 @@ translate russia task3_ae4bfad7_1:
 translate russia task3_6faed475:
 
     # a y29 "Er... [playerName]? There's already an agent downstairs."
-    a y29 ""
+    a y29 "Эм... [playerName]? Внизу уже есть агент."
 
 # game/status.rpy:2028
 translate russia task3_d3a59cb5:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/status.rpy:2032
 translate russia task3_57168065:
 
     # "Agent" "Hi! I'm still here!"
-    "Агент" ""
+    "Агент" "Привет! Я всё ещё тут!"
 
 # game/status.rpy:2033
 translate russia task3_40271c89:
 
     # y "Are you that agent we captured during the first mission...?"
-    y ""
+    y "Ты тот агент, которого мы схватили во время первого задания...?"
 
 # game/status.rpy:2034
 translate russia task3_3203e85f:
 
     # y "How did you survive down there for all this time...?"
-    y ""
+    y "Как ты выжил там за всё это время...?"
 
 # game/status.rpy:2035
 translate russia task3_da97e51d:
 
     # "Agent" "My undying dedication to the mission!"
-    "Агент" ""
+    "Агент" "Всё благодоря беззаветной преданность миссии!"
 
 # game/status.rpy:2036
 translate russia task3_db832180:
 
     # y "........"
-    y ""
+    y "........"
 
 # game/status.rpy:2037
 translate russia task3_0ff703d4:
 
     # y "Suuure~...{w} Say... Do you want to help us retake Beverly Hills?"
-    y ""
+    y "Поняяятно~...{w} Скажи... Хочешь помочь нам вернуть Беверли Хиллз??"
 
 # game/status.rpy:2038
 translate russia task3_d83b6620:
 
     # "Agent" "Boy do I! I can't wait to deal out some justice!{w} Preferably with my fists!"
-    "Агент" ""
+    "Агент" "Конечно! Не могу дождаться, чтобы совершить правосудие!{w} Желательно кулаками!"
 
 # game/status.rpy:2039
 translate russia task3_fed0b3d6:
 
     # y "Oh easy there. We're gonna send you out during the next Landgrab."
-    y ""
+    y "Полегче. Мы отправим тебя на следующею войну за территорию."
 
 # game/status.rpy:2040
 translate russia task3_8e1bf4df:
 
     # s g31 "If we can break the nano-control over these other agents, we could use them to help."
-    s g31 ""
+    s g31 "Если мы сможем нарушить контроль над этими агентами, мы сможем использовать их для помощи."
 
 # game/status.rpy:2041
 translate russia task3_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:2042
 translate russia task3_fce37da7:
 
     # s g18 "What?"
-    s g18 ""
+    s g18 "Что?"
 
 # game/status.rpy:2043
 translate russia task3_d4636c00:
 
     # y "You know what is needed to break agents out of their control, right?"
-    y ""
+    y "Вы ведь знаете, что нужно сделать, чтобы нарушить контроль над агентами?"
 
 # game/status.rpy:2045
 translate russia task3_983b94a6:
 
     # s "Well... yeah. We have to increase their oxytocin levels~..."
-    s ""
+    s "Ну... да. Нам нужно повысить уровень их окситоцина~..."
 
 # game/status.rpy:2046
 translate russia task3_ec01b85a:
 
     # y "And how do we do that~...?"
-    y ""
+    y "И как нам это сделать~...?"
 
 # game/status.rpy:2047
 translate russia task3_5c6cf512:
 
     # s ".........................."
-    s ""
+    s ".........................."
 
 # game/status.rpy:2048
 translate russia task3_e3e16dc2:
 
     # s g19 "{size=-10}By having sex..."
-    s g19 ""
+    s g19 "{size=-10}Занимаясь сексом..."
 
 # game/status.rpy:2049
 translate russia task3_05c7fd16:
 
     # y "Exactly! Time to get naked!"
-    y ""
+    y "В точку! Время раздеваться!"
 
 # game/status.rpy:2050
 translate russia task3_e4e62ab5:
 
     # s g28 "N-now wait a minute!"
-    s g28 ""
+    s g28 "С-сейчас?! П-подожди минутку!"
 
 # game/status.rpy:2051
 translate russia task3_23e27976:
 
     # c r31 "We're not gonna start showing off our naked bodies to every member of WOOHP. One is enough."
-    c r31 ""
+    c r31 "Мы не собираемся демонстрировать свои обнаженные тела каждому члену WOOHP. Одного будет достаточно."
 
 # game/status.rpy:2052
 translate russia task3_a5c1bc99:
 
     # a y29 "We could just buy some dirty magazines."
-    a y29 ""
+    a y29 "Мы можем просто купить несколько пошлых журналов."
 
 # game/status.rpy:2053
 translate russia task3_05d09e98:
 
     # y "Dirty magazines...?"
-    y ""
+    y "Пошлые журналы...?"
 
 # game/status.rpy:2054
 translate russia task3_a82223c7:
 
     # a y1 "Yeah, we can just buy some magazines with those dirty pictures from the bookstore at the mall."
-    a y1 ""
+    a y1 "Да, мы можем просто купить несколько журналов с этими развратными картинками в книжном магазине в торговом центре."
 
 # game/status.rpy:2055
 translate russia task3_9b0b95e2:
 
     # a "If we throw a few of those down into the basement, I bet that will break the agents from their trance!"
-    a ""
+    a "Если мы бросим парочку таких в подвал, я уверена, это выведет агентов из транса!"
 
 # game/status.rpy:2056
 translate russia task3_7b7f2369:
 
     # y "It'll cost us some money, but that's a good alternative."
-    y ""
+    y "Это будет стоить нам денег, но это хорошая альтернатива."
 
 # game/status.rpy:2060
 translate russia task3_18ceca81:
 
     # "You captured a few more WOOHP Agents and it's time to free them from their nanobot control."
-    ""
+    "Вы захватили ещё несколько агентов WOOHP, и пришло время освободить их от контроля наноботов."
 
 # game/status.rpy:2061
 translate russia task3_05094001:
 
     # "Luckily breaking the nanobot control over captured agents isn't that hard. Visit the bookstore to buy cheap porn magazines and give them to the captured agents in your basement."
-    ""
+    "К счастью, нарушить контроль наноботов над захваченными агентами не так уж сложно. Посетите книжный магазин, чтобы купить дешевые порножурналы и подарить их захваченным агентам в вашем подвале."
 
 # game/status.rpy:2062
 translate russia task3_0ea4dbc5:
 
     # "Once agents have been freed, they can participate in Landgrabs and help liberate Beverly Hills."
-    ""
+    "После освобождения агентов они могут принять участие в Войне за территорию и помочь освободить Беверли-Хиллз."
 
 # game/status.rpy:2064
 translate russia task3_16222c52:
 
     # y "Okay, let's wrap this up. We've got quite a day ahead of us."
-    y ""
+    y "Ладно, давайте закругляться. У нас впереди целый день."
 
 # game/status.rpy:2065
 translate russia task3_5a2dcbda:
 
     # "Agent" "What should I do?!"
-    "Агент" ""
+    "Агент" "Что мне делать?!"
 
 # game/status.rpy:2066
 translate russia task3_42fb3646:
 
     # y "Er... You...{w} Here. Put this one."
-    y ""
+    y "Эм... Ты...{w} Вот. Надень."
 
 # game/status.rpy:2069
 translate russia task3_40e9eb54:
 
     # y "You are now a chef."
-    y ""
+    y "Теперь ты шеф-повар."
 
 # game/status.rpy:2070
 translate russia task3_50bbbf6c:
 
     # "Agent" "An important job! I will not disappoint you!"
-    "Агент" ""
+    "Агент" "Важная работа! Я не разочарую тебя!"
 
 # game/status.rpy:2093
 translate russia task3_d5c53159:
 
     # mel "What's going on out here?!"
-    mel ""
+    mel "Что здесь происходит?!"
 
 # game/status.rpy:2094
 translate russia task3_2a27cb3f:
 
     # "Aces gangster" "We're under attack from all sides! We've got Punks on our left, Outsiders on our right and WOOHP agents fighting us from our front!"
-    "Aces gangster" ""
+    "Туз Гангстер" "Нас атакуют со всех сторон! Панки слева, Аутсайдеры справа и агенты WOOHP спереди!"
 
 # game/status.rpy:2095
 translate russia task3_d48a0b44:
 
     # mel "WOOHP Agen-...?"
-    mel ""
+    mel "Агеты WOOHP-...?"
 
 # game/status.rpy:2096
 translate russia task3_3032c70f:
 
     # "Outsiders Chick" "More Aces, get them!"
-    "Outsiders Chick" ""
+    "Девушка Аутсайдер" "Больше тузов, хватайте их!"
 
 # game/status.rpy:2097
 translate russia task3_30be022b:
 
     # mel "Fine... I'll show you how it's done."
-    mel ""
+    mel "Ладно... Я покажу вам, как это делается."
 
 # game/status.rpy:2117
 translate russia task3_b5d4557f:
 
     # y "Okay girls, I received intel that a new Lieutenant has shown herself."
-    y ""
+    y "Так, девочки, я получил информацию о новом лейтенанте."
 
 # game/status.rpy:2118
 translate russia task3_8b2a79b7:
 
     # y "Her name is Melody von...{w} Guggen..."
-    y ""
+    y "Ее зовут Мелоди фон...{w} Гугген..."
 
 # game/status.rpy:2119
 translate russia task3_390bc4e9:
 
     # y "That's a pretty crazy last name..."
-    y ""
+    y "Это довольно сумасшедшая фамилия..."
 
 # game/status.rpy:2121
 translate russia task3_d963f4cb:
 
     # a y29 "Wait, did you say von Guggen?"
-    a y29 ""
+    a y29 "Подожди, ты сказали фон Гугген?"
 
 # game/status.rpy:2122
 translate russia task3_2d574665:
 
     # y "That name ring a bell?"
-    y ""
+    y "Тебе знакомо это имя?"
 
 # game/status.rpy:2123
 translate russia task3_d0b0d805:
 
     # c r34 "We fought a Helga von Guggen a long time ago."
-    c r34 ""
+    c r34 "Мы сражались с Хельгой фон Гугген давным-давно."
 
 # game/status.rpy:2124
 translate russia task3_cde11bd6:
 
     # s g43 "Could be her granddaughter. She's probably after revenge."
-    s g43 ""
+    s g43 "Возможно, это её внучка. Скорее всего она жаждет мести."
 
 # game/status.rpy:2125
 translate russia task3_efe66fc3:
 
     # y "Reports are saying she's hanging out at the Aces Castle, but security is ramped up. You're going to have to get closer before you have a chance to capture her."
-    y ""
+    y "Сообщается, что она тусуется в замке Тузов, но охрана усилена. Вам придётся подойти ближе, прежде чем у вас появится шанс схватить её."
 
 # game/status.rpy:2126
 translate russia task3_c8346d00:
 
     # y "I'm gonna keep sending you undercover with the Aces. Hopefully we'll get a chance to take her in."
-    y ""
+    y "Я буду продолжать посылать тебя под прикрытием к \"Тузами\". Надеюсь, у нас будет возможность схватить её."
 
 # game/status.rpy:2127
 translate russia task3_a2abf71c:
 
     # "The girls nod and leave for their cell."
-    ""
+    "Девушки кивают и уходят по своим камера."
 
 # game/status.rpy:2162
 translate russia task4_831007b1:
 
     # s "[playerName]! There you are!"
-    s ""
+    s "[playerName]! Вот ты где!"
 
 # game/status.rpy:2163
 translate russia task4_d1642ce7:
 
     # y "Huh?"
-    y ""
+    y "Хм?"
 
 # game/status.rpy:2164
 translate russia task4_808f9bf7:
 
     # c "We found Alex! She's going to be at the school."
-    c ""
+    c "Мы нашли Алекс! Судя по всему она в школе."
 
 # game/status.rpy:2165
 translate russia task4_dcc80098:
 
     # y "How do you know?"
-    y ""
+    y "Откуда вы знаете?"
 
 # game/status.rpy:2166
 translate russia task4_6d1c2e0a:
 
     # s g33 "Well cause..."
-    s g33 ""
+    s g33 "Ну, потому что..."
 
 # game/status.rpy:2167
 translate russia task4_00959a98:
 
     # c "She told us."
-    c ""
+    c "Она нам сказала."
 
 # game/status.rpy:2168
 translate russia task4_7fb7714e:
 
     # y "Alex told you?"
-    y ""
+    y "Алекс вам сказала?"
 
 # game/status.rpy:2169
 translate russia task4_b646d579:
 
     # c "Yeah~..."
-    c ""
+    c "Даа~..."
 
 # game/status.rpy:2170
 translate russia task4_86da6c09:
 
     # s g31 "We came across her during our last undercover operation.{w} She's still under WOOHP's control, but she gave us some new intel."
-    s g31 ""
+    s g31 "Мы наткнулись на неё во время нашей последней операции.{w} Она всё ещё под контролем WOOHP, но она дала нам новые сведения."
 
 # game/status.rpy:2171
 translate russia task4_4833a53d:
 
     # c r33 "Apparently they still think Sam and I are under nanobot control, but they're starting to have doubts."
-    c r33 ""
+    c r33 "Очевидно они все ещё считают, что мы с Сэм находимся под контролем наноботов, но они начинают сомневаться."
 
 # game/status.rpy:2172
 translate russia task4_9f642149:
 
     # c "Alex said that we are to report to the school. Some big shot is going to make an announcement."
-    c ""
+    c "Алекс сказала что нам нужно прийти в школу. Какая-то важная шишка собирается сделать объявление."
 
 # game/status.rpy:2173
 translate russia task4_aefb6908:
 
     # y "The mastermind?"
-    y ""
+    y "Организатор?"
 
 # game/status.rpy:2174
 translate russia task4_5152b2dc:
 
     # c r37 "Maybe."
-    c r37 ""
+    c r37 "Возможно."
 
 # game/status.rpy:2175
 translate russia task4_48595212:
 
     # y "I'd say we check it out."
-    y ""
+    y "Думаю нам стоит это проверить."
 
 # game/status.rpy:2176
 translate russia task4_ca7de3af:
 
     # s g38 "I'd say we check it o-...{w} What you said."
-    s g38 ""
+    s g38 "Думаю нам стоит это про-...{w} Как ты и сказал."
 
 # game/status.rpy:2177
 translate russia task4_9e789e43:
 
     # s "Though we can expect security to be better than before. Even if we're not sneaking in this time, we'd best be prepared."
-    s ""
+    s "Безопасность будет явно намного лучше, чем раньше. Даже если на этот раз мы не будем пробираться внутрь, нам лучше быть готовыми."
 
 # game/status.rpy:2179
 translate russia task4_de7a6150:
 
     # s "You should-..."
-    s ""
+    s "Ты должен-..."
 
 # game/status.rpy:2180
 translate russia task4_2f0a6c9e:
 
     # y "I should craft you some new gadgets."
-    y ""
+    y "Я должен сделать вам пару новых гаджетов."
 
 # game/status.rpy:2181
 translate russia task4_2bce0b8e:
 
     # s g29 "Y-yeah... I was thinkin-..."
-    s g29 ""
+    s g29 "Д-да... Я дума-..."
 
 # game/status.rpy:2182
 translate russia task4_780d63e5:
 
     # y "Maybe try to unlock some new ones."
-    y ""
+    y "Может попробуйте разблокировать новых гаджетов."
 
 # game/status.rpy:2183
 translate russia task4_7a2e8913:
 
     # s g10 "{b}*Grumbles*{/b} Yeah.... We could really us-..."
-    s g10 ""
+    s g10 "{b}*Ворчит*{/b} Даа... Действительно мож-..."
 
 # game/status.rpy:2184
 translate russia task4_773018ca:
 
     # y "Maybe some kind of distraction device that makes agents turn the other way."
-    y ""
+    y "Может быть, какое-нибудь отвлекающее устройство."
 
 # game/status.rpy:2185
 translate russia task4_7eed85bb:
 
     # s g4 "{b}*Pouts*{/b}"
-    s g4 ""
+    s g4 "{b}*Дуется*{/b}"
 
 # game/status.rpy:2186
 translate russia task4_8bb4b8db:
 
     # y "Then you can attend the meeting, figure out who's behind all this hallebelu and maybe even rescue Alex!"
-    y ""
+    y "Так вы сможете попасть на собрание, выяснить кто стоит за всем этим и возможно, даже спасти Алекс!"
 
 # game/status.rpy:2187
 translate russia task4_b5d3c39c:
 
     # y "...."
-    y ""
+    y "...."
 
 # game/status.rpy:2188
 translate russia task4_9568b406:
 
     # y "What's with the long face?"
-    y ""
+    y "Что с лицом?"
 
 # game/status.rpy:2189
 translate russia task4_d93672ac:
 
     # c r24 "Oh don't mind her. Sam had the same idea and just wanted to show off."
-    c r24 ""
+    c r24 "Не обращай на неё внимания. У Сэм была та же идея, и она просто хотела похвастаться."
 
 # game/status.rpy:2190
 translate russia task4_d0454c94:
 
     # s g40 "{b}*Sputters*{/b} Y-yeah well... I'm glad to see we're all in agreement! The meeting is soon so send us over whenever you're ready, [playerName]."
-    s g40 ""
+    s g40 "{b}*Фыркает*{/b} Д-да, хорошо... Я рада видеть, что мы все согласны! Собрание уже скоро, так что отправь нас когда будешь готов, [playerName]."
 
 # game/status.rpy:2192
 translate russia task4_5238fec1:
 
     # s "We coul-..."
-    s ""
+    s "Может нам-..."
 
 # game/status.rpy:2193
 translate russia task4_2df687e4:
 
     # y "We could use that new distraction powder gadget."
-    y ""
+    y "Нам бы не помешал новый гаджет для отвлечения внимания."
 
 # game/status.rpy:2194
 translate russia task4_205ce9df:
 
     # s g29 "Y-yeah that's what I was thinking."
-    s g29 ""
+    s g29 "Д-да, именно об этом я и подумала."
 
 # game/status.rpy:2195
 translate russia task4_a6a519f9:
 
     # s "If we get some of those, it's sure to make life easier for us. Even if w-..."
-    s ""
+    s "Если у нас будет парочка таких, это несомненно облегчит нам жизнь. Даже если-..."
 
 # game/status.rpy:2196
 translate russia task4_1398f600:
 
     # y "Even if you don't go on a mission, it's good to have some on you at all times."
-    y ""
+    y "Даже если вы не на задании, всегда полезно иметь при себе несколько штук."
 
 # game/status.rpy:2197
 translate russia task4_2d32b459:
 
     # s g10 "{b}*Grumbles*{/b} Yes exactly. That's what I was gonna say."
-    s g10 ""
+    s g10 "{b}*Ворчит*{/b} Да, точно. Именно это я и хотела сказать."
 
 # game/status.rpy:2198
 translate russia task4_4a423469:
 
     # s "Using the dis-..."
-    s ""
+    s "Используя гадж-..."
 
 # game/status.rpy:2199
 translate russia task4_dcf3a9d6:
 
     # y "By using the distraction powder, you could have guards turn the other way, allowing you to sneak up on them more easily."
-    y ""
+    y "Используя этот гаджет, вы можете отвлечь охранников и легче подкрасться к ним."
 
 # game/status.rpy:2200
 translate russia task4_7eed85bb_1:
 
     # s g4 "{b}*Pouts*{/b}"
-    s g4 ""
+    s g4 "{b}*Дуется*{/b}"
 
 # game/status.rpy:2201
 translate russia task4_8bb4b8db_1:
 
     # y "Then you can attend the meeting, figure out who's behind all this hallebelu and maybe even rescue Alex!"
-    y ""
+    y "Так вы сможете попасть на собрание, выяснить кто стоит за всем этим и возможно, даже спасти Алекс!"
 
 # game/status.rpy:2202
 translate russia task4_b5d3c39c_1:
 
     # y "...."
-    y ""
+    y "...."
 
 # game/status.rpy:2203
 translate russia task4_9568b406_1:
 
     # y "What's with the long face?"
-    y ""
+    y "Что с лицом?"
 
 # game/status.rpy:2204
 translate russia task4_d93672ac_1:
 
     # c r24 "Oh don't mind her. Sam had the same idea and just wanted to show off."
-    c r24 ""
+    c r24 "Не обращай на неё внимания. У Сэм была та же идея, и она просто хотела похвастаться."
 
 # game/status.rpy:2205
 translate russia task4_d0454c94_1:
 
     # s g40 "{b}*Sputters*{/b} Y-yeah well... I'm glad to see we're all in agreement! The meeting is soon so send us over whenever you're ready, [playerName]."
-    s g40 ""
+    s g40 "{b}*Фыркает*{/b} Д-да, хорошо... Я рада видеть, что мы все согласны! Собрание уже скоро, так что отправь нас когда будешь готов, [playerName]."
 
 # game/status.rpy:2215
 translate russia task4_dac23f41:
 
     # y "Checking out this meeting at the school should be our top priority...."
-    y ""
+    y "Попасть на это собрание в школе должно быть нашим главным приоритетом..."
 
 # game/status.rpy:2237
 translate russia task4_488c76d8:
 
     # y "Everyone ready?"
-    y ""
+    y "Все готовы?"
 
 # game/status.rpy:2241
 translate russia task4_3032011b:
 
     # c "Yes, let's visit the school and get Alex back!"
-    c ""
+    c "Да, давайте вернём Алекс!"
 
 # game/status.rpy:2243
 translate russia task4_adf823be:
 
     # s "We have some new gadgets, so I'm sure we'll be fine."
-    s ""
+    s "У нас есть несколько новых гаджетов, так что я уверена, что всё будет в порядке."
 
 # game/status.rpy:2245
 translate russia task4_4c7ecaa0:
 
     # s "We don't have any new gadgets yet, but I'm sure we'll be fine."
-    s ""
+    s "У нас нет новых гаджетов, но я уверена, что всё будет хорошо."
 
 # game/status.rpy:2246
 translate russia task4_2c9abd8c:
 
     # y "Let's go over the plan one more time."
-    y ""
+    y "Давайте пройдёмся по плану ещё раз."
 
 # game/status.rpy:2247
 translate russia task4_fc921ead:
 
     # s g32 "Right."
-    s g32 ""
+    s g32 "Точно."
 
 # game/status.rpy:2248
 translate russia task4_357de590:
 
     # s "Clover and I will head to the school to attend this meeting. Our first objective is to rescue Alex and bring her back to the base."
-    s ""
+    s "Мы с Кловер отправимся в школу, чтобы присутствовать на этой встрече. Наша первая задача - спасти Алекс и вернуть её на базу."
 
 # game/status.rpy:2249
 translate russia task4_429511ac:
 
     # s "Our second objective will be to gather new intel and figure out who's running this operation."
-    s ""
+    s "Нашей второй задачей будет собрать новые сведения и выяснить, кто руководит этой операцией."
 
 # game/status.rpy:2250
 translate russia task4_14afb99f:
 
     # y "With a little luck we might even avoid confrontation."
-    y ""
+    y "Если повезёт, мы даже сможем избежать конфронтаций."
 
 # game/status.rpy:2256
 translate russia task4_e2758177:
 
     # y "Get ready, I'm sending you two out."
-    y ""
+    y "Приготовьтесь, я отправляю вас."
 
 # game/status.rpy:2257
 translate russia task4_8503467d:
 
     # c r13 "We're like... totally gonna ace this!"
-    c r13 ""
+    c r13 "Мы типа... великолепно справимся!"
 
 # game/status.rpy:2258
 translate russia task4_76171cbb:
 
     # s g33 "We'll bring some spy cameras so you can see what's going on."
-    s g33 ""
+    s g33 "Мы поставим несколько шпионских камер, чтобы ты мог наблюдать за происходящим."
 
 # game/status.rpy:2310
 translate russia task4_bda28dda:
 
     # c ".................."
-    c ""
+    c ".................."
 
 # game/status.rpy:2311
 translate russia task4_15759d81:
 
     # s g30 "There sure are a lot of agents here..."
-    s g30 ""
+    s g30 "Здесь довольно много агентов..."
 
 # game/status.rpy:2312
 translate russia task4_1fb5c42d:
 
     # c "Could be a trap."
-    c ""
+    c "Может быть это ловушка."
 
 # game/status.rpy:2313
 translate russia task4_11373953:
 
     # s g32 "Yeah... stay on your guard."
-    s g32 ""
+    s g32 "Даа... будь начеку."
 
 # game/status.rpy:2314
 translate russia task4_22002cc6:
 
     # "Microphone" "{b}*Feedback*{/b}"
-    "Microphone" ""
+    "Микрофон" "{b}*Жужжит*{/b}"
 
 # game/status.rpy:2320
 translate russia task4_0990965e:
 
     # s "They're about to give a speech!"
-    s ""
+    s "Они собираются произнести речь!"
 
 # game/status.rpy:2334
 translate russia task4_9f1b541a:
 
     # c r12 "I can't see anything!"
-    c r12 ""
+    c r12 "Я ничего не вижу!"
 
 # game/status.rpy:2335
 translate russia task4_0b4cfa64:
 
     # c "Hang on, I'm gonna find a place up high. Just call me if you need backup."
-    c ""
+    c "Подожди, я найду место повыше. Просто вызови мне, если понадобится помощь."
 
 # game/status.rpy:2339
 translate russia task4_54bf92ca:
 
     # "Microphone" "....................."
-    "Microphone" ""
+    "Микрофон" "....................."
 
 # game/status.rpy:2342
 translate russia task4_db119b9a:
 
     # "Agent O5O" "{b}*Taps microphone*{/b}"
-    "Агент O5O" ""
+    "Агент O5O" "{b}*Подключает микрофон*{/b}"
 
 # game/status.rpy:2343
 translate russia task4_a8ea145e:
 
     # y "Oh no...."
-    y ""
+    y "Оо нет..."
 
 # game/status.rpy:2345
 translate russia task4_4f9b2467:
 
     # "Agent O5O" "Mic: ATTENTION VALUED EMPLOYEES OF WOOHP!"
-    "Агент O5O" ""
+    "Агент O5O" "Микрофон: ВНИМАНИЕ УВАЖАЕМЫЕ СОТРУДНИКИ КОМПАНИИ WOOHP!"
 
 # game/status.rpy:2347
 translate russia task4_c5cd0293:
 
     # "Agent O5O" "Mic: FOR THOSE WHO ARE NEW HERE, I AM AGENT {i}O5O{/i}."
-    "Агент O5O" ""
+    "Агент O5O" "Микрофон: ДЛЯ ТЕХ, КТО ЗДЕСЬ НЕДАВНО, Я - АГЕНТ {i}O5O{/i}."
 
 # game/status.rpy:2349
 translate russia task4_d2301b05:
 
     # "Agent O5O" "IT IS{size=+4} SO NICE{/size}{size=+8} TO SEE{/size} {size=+14}YOU ALL AGAIN!{/size}"
-    "Агент O5O" ""
+    "Агент O5O" "ТАК{size=+4} ПРИЯТНО{/size}{size=+8} ВАС ВСЕХ{/size} {size=+14}СНОВА ВИДЕТЬ!{/size}"
 
 # game/status.rpy:2350
 translate russia task4_69a2cd26:
 
     # "WOOHP Agent" "{size=-4}Sir! My eardrums are bleeding!{/size}"
-    "WOOHP Agent" ""
+    "Агент WOOHP" "{size=-4}Сэр! У меня барабанные перепонки кровоточат!{/size}"
 
 # game/status.rpy:2352
 translate russia task4_2083249b:
 
     # "Agent O5O" "Mic: SORRY I CAN'T HEAR YOU! YOU'LL HAVE TO SPEAK... {w}{size=+10}{b}LOUDER!!!{/b}{/size}"
-    "Агент O5O" ""
+    "Агент O5O" "Микрофон: ИЗВИНИТЕ, Я ВАС НЕ СЛЫШУ! ГОВОРИТЕ... {w}{size=+10}{b}ГРОМЧЕ!!!{/b}{/size}"
 
 # game/status.rpy:2353
 translate russia task4_39da8be1:
 
     # "WOOHP Agent" "Argh!"
-    "WOOHP Agent" ""
+    "Агент WOOHP" "Аргх!"
 
 # game/status.rpy:2365
 translate russia task4_1a964758:
 
     # "Agent O5O" "JUST FOR THIS SPECIAL OCCASSION, I'VE PREPARED A LITTLE SPEECH!"
-    "Агент O5O" ""
+    "Агент O5O" "СПЕЦИАЛЬНО ДЛЯ ЭТОГО СЛУЧАЯ, Я ПОДГОТОВИЛ НЕБОЛЬШУЮ РЕЧЬ!"
 
 # game/status.rpy:2366
 translate russia task4_3078e15d:
 
     # "Agents" "{b}*Groan*{/b}"
-    "Агенты" ""
+    "Агенты" "{b}*Ворчат*{/b}"
 
 # game/status.rpy:2367
 translate russia task4_a9c99c25:
 
     # s ".............."
-    s ""
+    s ".............."
 
 # game/status.rpy:2368
 translate russia task4_78c39600:
 
     # cM "Pst Sam, can you hear me? Look past the crowd, to your left."
-    cM ""
+    cM "Пст Сэм, ты меня слышишь? Посмотри мимо толпы, налево."
 
 # game/status.rpy:2369
 translate russia task4_510d30fb:
 
     # s "....?"
-    s ""
+    s "....?"
 
 # game/status.rpy:2377
 translate russia task4_c90477ba:
 
     # s g29 "(Alex!)"
-    s g29 ""
+    s g29 "(Алекс!)"
 
 # game/status.rpy:2378
 translate russia task4_2e230aad:
 
     # "Just in time you notice the spy in yellow walking by and heading off into a nearby corridor."
-    ""
+    "Как раз вовремя вы замечаете, что мимо проходит шпионка в жёлтом и направляется в соседний коридор."
 
 # game/status.rpy:2381
 translate russia task4_298e792d:
 
     # s "([playerName], Clover. I'm going after her.)"
-    s ""
+    s "([playerName], Кловер. Я иду за ней.)"
 
 # game/status.rpy:2382
 translate russia task4_cdacae03:
 
     # cM "(Roger that, I'll come with you.)"
-    cM ""
+    cM "(Поняла тебя, я иду с тобой.)"
 
 # game/status.rpy:2383
 translate russia task4_0b1683fa:
 
     # y "(Be careful, this could still be a trap.)"
-    y ""
+    y "(Будьте осторожны, это может быть ловушкой)."
 
 # game/status.rpy:2419
 translate russia task4_a8562c8f:
 
     # s "There she is..."
-    s ""
+    s "Вот она..."
 
 # game/status.rpy:2420
 translate russia task4_9846e0a5:
 
     # cM "She's talking to a WOOHP agent though... You think she spotted us?"
-    cM ""
+    cM "Она разговаривает с агентом WOOHP... Думаешь, она нас заметила?"
 
 # game/status.rpy:2421
 translate russia task4_c1bdfd55:
 
     # y "Best to not take any chances. Follow that spy and knock out any agents along the way. Clover will provide backup."
-    y ""
+    y "Лучше не рисковать. Следуй за ней и уничтожай агентов по пути. Кловер обеспечит поддержку."
 
 # game/status.rpy:2423
 translate russia task4_5c3d40b9:
 
     # s "On it!"
-    s ""
+    s "Так точно!"
 
 # game/status.rpy:2442
 translate russia task4_7a3418fb:
 
     # y "There's still some time, make sure that you're prepared."
-    y ""
+    y "Ещё есть немного времени, убедитесь, что вы подготовились."
 
 # game/status.rpy:2443
 translate russia task4_7430afb8:
 
     # c "All right, [playerName]. Don't wait too long though."
-    c ""
+    c "Ладно, [playerName]. Однако не жди слишком долго."
 
 # game/status.rpy:2455
 translate russia task4_e973411a:
 
     # y "I'll have to make sure everyone's available first."
-    y ""
+    y "Сначала я должен убедиться, что все свободны."
 
 # game/status.rpy:2485
 translate russia task4_32ebba32:
 
     # a "Oooooh, have you been working out?~"
-    a ""
+    a "Ооооо, ты тренировался?~"
 
 # game/status.rpy:2486
 translate russia task4_95d63b4c:
 
     # "Agent" "I am so happy you noticed!"
-    "Агент" ""
+    "Агент" "Я так рад, что ты заметила!"
 
 # game/status.rpy:2487
 translate russia task4_e2836781:
 
     # a "You know~... Maybe you and I should slip away and {b}*Whisper* *Whisper* *Whisper*{/b}"
-    a ""
+    a "Знаешь~... Может нам с тобой стоит ускользнуть и {b}*Шёпот* *Шёпот* *Шёпот*{/b}"
 
 # game/status.rpy:2488
 translate russia task4_d2718a14:
 
     # "Agent" "Such suggestions made me detect an anomaly.... in my pants!"
-    "Агент" ""
+    "Агент" "Такое предложения заставило меня обнаружить аномалию..... в штанах!"
 
 # game/status.rpy:2489
 translate russia task4_1f8f20be:
@@ -5188,85 +5188,85 @@ translate russia task4_1f8f20be:
 translate russia task4_dc80e3bd:
 
     # "Agent" "Funny! My desire to burn a dumpster or kick a puppy have suddenly left me completely!"
-    "Агент" ""
+    "Агент" "Смешно! Желание сжечь мусорный бак или пнуть щенка вдруг полностью покинуло меня!"
 
 # game/status.rpy:2491
 translate russia task4_510d30fb_1:
 
     # s "....?"
-    s ""
+    s "....?"
 
 # game/status.rpy:2492
 translate russia task4_243861f6:
 
     # a "See you soon~..."
-    a ""
+    a "Увидимся~..."
 
 # game/status.rpy:2499
 translate russia task4_05bc76db:
 
     # s "(Did you see that, [playerName]?)"
-    s ""
+    s "(Видел это, [playerName]?)"
 
 # game/status.rpy:2500
 translate russia task4_6ac0cb60:
 
     # y "Yeah, she's up to something."
-    y ""
+    y "Да, она что-то задумала."
 
 # game/status.rpy:2501
 translate russia task4_91b8f2bd:
 
     # s "(Okay, I'm going to keep following he-...)"
-    s ""
+    s "(Хорошо, я продолжу приследован-...)"
 
 # game/status.rpy:2502
 translate russia task4_60067f8b:
 
     # s g9 "Ngh~...!!!"
-    s g9 ""
+    s g9 "Нгх~...!!!"
 
 # game/status.rpy:2503
 translate russia task4_150c4e32:
 
     # y "Sam?"
-    y ""
+    y "Сэм?"
 
 # game/status.rpy:2504
 translate russia task4_e702bd2a:
 
     # s "Use... the... V.I.B....!"
-    s ""
+    s "Используй... V.I.B...!"
 
 # game/status.rpy:2521
 translate russia task4_5779ff0d:
 
     # "It's time to use your equipment. Your spies are each equipped with a V.I.B. which can be used to break them out of Nanobot control."
-    ""
+    "Пришло время использовать ваше оборудование. Каждая из ваших шпионок оснащена V.I.B´ом который можно использовать, чтобы вывести их из-под контроля наноботов."
 
 # game/status.rpy:2522
 translate russia task4_c4f78ac2:
 
     # "Use the V.I.B. by {b}pressing 1{/b} on your keyboard to equip it. But be warned, using the V.I.B. for too long can give away a spy's location."
-    ""
+    "Используйте V.I.B. {b}нажимая 1{/b} на клавиатуре. Но учтите, что использование V.I.B. слишком долгое время может выдать местоположение шпиона."
 
 # game/status.rpy:2523
 translate russia task4_f97804c1:
 
     # "You can stop the V.I.B. by {b}pressing 1{/b} again."
-    ""
+    "Вы можете остановить V.I.B. повторным {b}нажатием 1{/b}."
 
 # game/status.rpy:2551
 translate russia task4_b937afae:
 
     # sM "It's a dead-end... We got her now!"
-    sM ""
+    sM "Это тупик... Теперь она наша!"
 
 # game/status.rpy:2552
 translate russia task4_244650a6:
 
     # y "Great."
-    y ""
+    y "Отлично."
 
 # game/status.rpy:2553
 translate russia task4_9500a0b4:
@@ -5278,49 +5278,49 @@ translate russia task4_9500a0b4:
 translate russia task4_20e0f3d5:
 
     # y "So how are you going to break the nanobot control over her?"
-    y ""
+    y "Так как вы собираетесь нарушить контроль её наноботов?"
 
 # game/status.rpy:2555
 translate russia task4_44ab09dd:
 
     # sM "O-oh! Well... I...!"
-    sM ""
+    sM "О-ох! Нуу... Я...!"
 
 # game/status.rpy:2558
 translate russia task4_8bf037cf:
 
     # a y16 "Is someone there...?"
-    a y16 ""
+    a y16 "Тут кто-то есть...?"
 
 # game/status.rpy:2559
 translate russia task4_8d374be0:
 
     # y "Kiss her! It worked last time!"
-    y ""
+    y "Поцелуй её! В прошлый раз это сработало!"
 
 # game/status.rpy:2560
 translate russia task4_b5f749ec:
 
     # s g30 "Nooo~... Alex is my friend. It'd be super awkward!"
-    s g30 ""
+    s g30 "Нееет~... Алекс - моя подруга. Это супер неловко!"
 
 # game/status.rpy:2561
 translate russia task4_4b9de986:
 
     # y "......."
-    y ""
+    y "......."
 
 # game/status.rpy:2562
 translate russia task4_9ef12cf2:
 
     # cM "I'll do it!"
-    cM ""
+    cM "Я сделаю это!"
 
 # game/status.rpy:2575
 translate russia task4_a999ddb1:
 
     # "Out of nowhere, Clover jumps on Alex, pins her to the ground and kisses her deeply!"
-    ""
+    "Из ниоткуда Кловер прыгает на Алекс, прижимает её к полу и целует!"
 
 # game/status.rpy:2578
 translate russia task4_10d46613:
@@ -5332,13 +5332,13 @@ translate russia task4_10d46613:
 translate russia task4_b7de7a0b:
 
     # a ".................."
-    a ""
+    a ".................."
 
 # game/status.rpy:2580
 translate russia task4_bda28dda_1:
 
     # c ".................."
-    c ""
+    c ".................."
 
 # game/status.rpy:2582
 translate russia task4_a0658532:
@@ -5554,7 +5554,7 @@ translate russia task4_d4337478:
 translate russia task4_a9c99c25_1:
 
     # s ".............."
-    s ""
+    s ".............."
 
 # game/status.rpy:2687
 translate russia task4_a220f0a7:
@@ -5626,13 +5626,13 @@ translate russia task4_ac63bf4c:
 translate russia task4_edc59506:
 
     # c r10 "..........................."
-    c r10 ""
+    c r10 "..........................."
 
 # game/status.rpy:2699
 translate russia task4_cc1dd639:
 
     # a y35 "..........................."
-    a y35 ""
+    a y35 "..........................."
 
 # game/status.rpy:2700
 translate russia task4_29af9265:
@@ -5770,7 +5770,7 @@ translate russia task4_d745053e:
 translate russia task4_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:2748
 translate russia task4_e777d866:
@@ -5806,7 +5806,7 @@ translate russia task4_0a470607:
 translate russia task4_9961e9dc:
 
     # a y4 "{b}*Pouts*{/b}"
-    a y4 ""
+    a y4 "{b}*Дуется*{/b}"
 
 # game/status.rpy:2765
 translate russia task4_a23669b1:
@@ -5944,7 +5944,7 @@ translate russia task4_78c26e29:
 translate russia task4_05bf074c:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/status.rpy:2812
 translate russia task4_e1374f3f:
@@ -6196,7 +6196,7 @@ translate russia task4_f57e4845:
 translate russia task4_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:2919
 translate russia task4_9e1a0b33:
@@ -6262,7 +6262,7 @@ translate russia task4_eb1ff9ca:
 translate russia task4_3c39faa4:
 
     # "....................."
-    ""
+    "....................."
 
 # game/status.rpy:2933
 translate russia task4_66139737:
@@ -6304,13 +6304,13 @@ translate russia task4_23ce1a18:
 translate russia task4_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:2941
 translate russia task4_6a82aa3c:
 
     # a y10 "....................."
-    a y10 ""
+    a y10 "....................."
 
 # game/status.rpy:2942
 translate russia task4_392a6859:
@@ -6346,7 +6346,7 @@ translate russia task4_5af6cd56:
 translate russia task4_591d0414:
 
     # a y39 ".................."
-    a y39 ""
+    a y39 ".................."
 
 # game/status.rpy:2948
 translate russia task4_83919b76:
@@ -6448,7 +6448,7 @@ translate russia task4_952e83ef:
 translate russia task4_dade805e:
 
     # a y19 ".................."
-    a y19 ""
+    a y19 ".................."
 
 # game/status.rpy:2974
 translate russia task4_cf2b770a:
@@ -6460,7 +6460,7 @@ translate russia task4_cf2b770a:
 translate russia task4_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:2976
 translate russia task4_13cee79c:
@@ -6712,7 +6712,7 @@ translate russia task4_1ea800ad:
 translate russia task4_e4abb7c7:
 
     # aM "........................."
-    aM ""
+    aM "........................."
 
 # game/status.rpy:3075
 translate russia task4_2b3a4b2f:
@@ -6964,7 +6964,7 @@ translate russia task5_1cf5428b:
 translate russia task5_5c6cf512:
 
     # s ".........................."
-    s ""
+    s ".........................."
 
 # game/status.rpy:3200
 translate russia task5_08691a54:
@@ -7000,7 +7000,7 @@ translate russia task5_ecd4455f:
 translate russia task5_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:3210
 translate russia task5Menu1_b81caa76:
@@ -7060,7 +7060,7 @@ translate russia task5Menu1_c26daee1:
 translate russia task5Menu1_c68162ae:
 
     # a y18 "....?"
-    a y18 ""
+    a y18 "....?"
 
 # game/status.rpy:3223
 translate russia task5Menu1_1a6bdc6f:
@@ -7462,7 +7462,7 @@ translate russia task5Menu1_4630f6e9:
 translate russia task5Menu1_ff3425b3:
 
     # "Clerk" "........................."
-    "Clerk" ""
+    "Clerk" "........................."
 
 # game/status.rpy:3325
 translate russia task5Menu1_83192bd5:
@@ -7492,13 +7492,13 @@ translate russia task5Menu1_7dd6fa04:
 translate russia task5Menu1_56cf6bcc:
 
     # "Clerk" ".........................."
-    "Clerk" ""
+    "Clerk" ".........................."
 
 # game/status.rpy:3330
 translate russia task5Menu1_0bb3a8cb:
 
     # y "..............................."
-    y ""
+    y "..............................."
 
 # game/status.rpy:3331
 translate russia task5Menu1_07557eb2:
@@ -7624,7 +7624,7 @@ translate russia task5Menu1_3f72bfeb:
 translate russia task5Menu1_f79c7075:
 
     # "Clerk" "..........................."
-    "Clerk" ""
+    "Clerk" "..........................."
 
 # game/status.rpy:3379
 translate russia task5Menu1_63222ad0:
@@ -7948,7 +7948,7 @@ translate russia task5Menu1_f6b71780:
 translate russia task5Menu1_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:3551
 translate russia task5Menu1_3b3c0d81:
@@ -8014,7 +8014,7 @@ translate russia task5Menu1_1a4d594a:
 translate russia task5Menu1_b5d3c39c:
 
     # y "...."
-    y ""
+    y "...."
 
 # game/status.rpy:3566
 translate russia task5Menu1_63fad127:
@@ -8530,7 +8530,7 @@ translate russia task6_36896bb4:
 translate russia task6_bc2a54f4:
 
     # s "........................."
-    s ""
+    s "........................."
 
 # game/status.rpy:3772
 translate russia task6_9e6d00b6:
@@ -8728,7 +8728,7 @@ translate russia task6_3f77ad66:
 translate russia task6_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:3822
 translate russia task6_38d6b3e0:
@@ -8794,7 +8794,7 @@ translate russia task6_f358cb0c:
 translate russia task6_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/status.rpy:3833
 translate russia task6_3370fc35:
@@ -9058,7 +9058,7 @@ translate russia task6_e044ac83:
 translate russia task6_5422cbc1:
 
     # s g11 "........................."
-    s g11 ""
+    s g11 "........................."
 
 # game/status.rpy:3910
 translate russia task6_d51f18ec:
@@ -9142,7 +9142,7 @@ translate russia task6_7b6cd9fb:
 translate russia task6_bcb51585:
 
     # s g15 "....................."
-    s g15 ""
+    s g15 "....................."
 
 # game/status.rpy:3928
 translate russia task6_5dea14c4:
@@ -9370,13 +9370,13 @@ translate russia task6_afb628f4:
 translate russia task6_74231502:
 
     # "Aces Gangster" "Woooo! Go Sam!"
-    "Aces Gangster" ""
+    "Туз Гангстер" ""
 
 # game/status.rpy:4020
 translate russia task6_856a633d:
 
     # "Aces Gangster" "You go girl! Nice tiiiiiiits!"
-    "Aces Gangster" ""
+    "Туз Гангстер" ""
 
 # game/status.rpy:4022
 translate russia task6_1514d3ee:
@@ -9388,13 +9388,13 @@ translate russia task6_1514d3ee:
 translate russia task6_a1dc9e40:
 
     # "Aces Gangster" "I knew inviting you to this party was a good idea!"
-    "Aces Gangster" ""
+    "Туз Гангстер" ""
 
 # game/status.rpy:4024
 translate russia task6_2b6654a5:
 
     # "Aces Gangster" "Jiggle them a bit!"
-    "Aces Gangster" ""
+    "Туз Гангстер" ""
 
 # game/status.rpy:4025
 translate russia task6_25b255e3:
@@ -9418,13 +9418,13 @@ translate russia task6_98bef7c7:
 translate russia task6_ab3fe9b2:
 
     # "Aces Gangster" "YOU'RE THE SEXIEST REDHEAD IN THE ACES!"
-    "Aces Gangster" ""
+    "Туз Гангстер" ""
 
 # game/status.rpy:4033
 translate russia task6_215ea3ee:
 
     # y "....?"
-    y ""
+    y "....?"
 
 # game/status.rpy:4036
 translate russia task6_b67dbf3d:
@@ -9502,7 +9502,7 @@ translate russia task6_81153c8b:
 translate russia task6_4b90ee20:
 
     # s g11 ".........................."
-    s g11 ""
+    s g11 ".........................."
 
 # game/status.rpy:4057
 translate russia task6_b7fc50d1:
@@ -9844,7 +9844,7 @@ translate russia task6_f6817b25:
 translate russia task6_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:4179
 translate russia task6_bd21d6b3:
@@ -9952,7 +9952,7 @@ translate russia task6_f35fe4ef:
 translate russia task6_91c884d9:
 
     # c r11 ".........................."
-    c r11 ""
+    c r11 ".........................."
 
 # game/status.rpy:4213
 translate russia task6_132dee16:
@@ -10198,7 +10198,7 @@ translate russia task6_c28258d6:
 translate russia task6_8552c66b:
 
     # "Aces Gangster" "The diamond is gone!"
-    "Aces Gangster" ""
+    "Туз Гангстер" ""
 
 # game/status.rpy:4298
 translate russia task6_25507f85:
@@ -10564,7 +10564,7 @@ translate russia task6_eedfbbef:
 translate russia task6_e2c6fd35:
 
     # s g15 "........................."
-    s g15 ""
+    s g15 "........................."
 
 # game/status.rpy:4390
 translate russia task6_df01d2a6:
@@ -10588,7 +10588,7 @@ translate russia task6_5cbf3310:
 translate russia task6_f2dff589:
 
     # s "...................."
-    s ""
+    s "...................."
 
 # game/status.rpy:4397
 translate russia task6_d39b025a:
@@ -10636,13 +10636,13 @@ translate russia task6_b1d4f52b:
 translate russia task6_5758066b:
 
     # a "........................."
-    a ""
+    a "........................."
 
 # game/status.rpy:4407
 translate russia task6_56694904:
 
     # c "........................."
-    c ""
+    c "........................."
 
 # game/status.rpy:4408
 translate russia task6_b0ad3bdf:
@@ -10702,7 +10702,7 @@ translate russia task6_0eb6ff59:
 translate russia task6_0dc13f23:
 
     # mel ".............."
-    mel ""
+    mel ".............."
 
 # game/status.rpy:4446
 translate russia task6_9a0c1a37:
@@ -10714,7 +10714,7 @@ translate russia task6_9a0c1a37:
 translate russia task6_4d3095ca:
 
     # sM ".................."
-    sM ""
+    sM ".................."
 
 # game/status.rpy:4448
 translate russia task6_cfb18515:
@@ -10756,7 +10756,7 @@ translate russia task6_88b299d8:
 translate russia task6_05bf074c:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/status.rpy:4477
 translate russia task6_799bdeaa:
@@ -10906,7 +10906,7 @@ translate russia task6_76155113:
 translate russia task6_80096dbf:
 
     # mel "...................."
-    mel ""
+    mel "...................."
 
 # game/status.rpy:4506
 translate russia task6_5bc41c22:
@@ -11032,7 +11032,7 @@ translate russia task6_1bd8601d:
 translate russia task6_cd74cae9:
 
     # mel "....................."
-    mel ""
+    mel "....................."
 
 # game/status.rpy:4530
 translate russia task6_dc025c4c:
@@ -11044,7 +11044,7 @@ translate russia task6_dc025c4c:
 translate russia task6_80096dbf_1:
 
     # mel "...................."
-    mel ""
+    mel "...................."
 
 # game/status.rpy:4532
 translate russia task6_390be858:
@@ -11062,7 +11062,7 @@ translate russia task6_b5d110b8:
 translate russia task6_7c3f0cb5:
 
     # mel "........"
-    mel ""
+    mel "........"
 
 # game/status.rpy:4536
 translate russia task6_beef4d69:
@@ -11164,7 +11164,7 @@ translate russia task6_f4740d84:
 translate russia task6_559e7924:
 
     # mel "......."
-    mel ""
+    mel "......."
 
 # game/status.rpy:4555
 translate russia task6_17776065:
@@ -11278,7 +11278,7 @@ translate russia task6_4e901795:
 translate russia task6_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:4574
 translate russia task6_d2277a70:
@@ -11320,7 +11320,7 @@ translate russia task6_b6b0f3b3:
 translate russia task6_66e8d6cd:
 
     # c r37 "..........................."
-    c r37 ""
+    c r37 "..........................."
 
 # game/status.rpy:4581
 translate russia task6_32b1625d:
@@ -11350,7 +11350,7 @@ translate russia task6_d3caf497:
 translate russia task6_07d7c4be:
 
     # s "............................."
-    s ""
+    s "............................."
 
 # game/status.rpy:4592
 translate russia task6_c0aa7a79:
@@ -11434,7 +11434,7 @@ translate russia task6_1a81fa4c:
 translate russia task6_80096dbf_2:
 
     # mel "...................."
-    mel ""
+    mel "...................."
 
 # game/status.rpy:4606
 translate russia task6_d9ea471a:
@@ -11614,25 +11614,25 @@ translate russia task7_03a3f3c7:
 translate russia task7_794a53ad:
 
     # c r10 "....................."
-    c r10 ""
+    c r10 "....................."
 
 # game/status.rpy:4701
 translate russia task7_6a82aa3c:
 
     # a y10 "....................."
-    a y10 ""
+    a y10 "....................."
 
 # game/status.rpy:4703
 translate russia task7_26c4294f:
 
     # s g30 "....................."
-    s g30 ""
+    s g30 "....................."
 
 # game/status.rpy:4704
 translate russia task7_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/status.rpy:4705
 translate russia task7_4a732359:
@@ -11824,7 +11824,7 @@ translate russia task7_28d2677c:
 translate russia task7_c8600e8b:
 
     # "Jerry" ".................."
-    "Jerry" ""
+    "Jerry" ".................."
 
 # game/status.rpy:4768
 translate russia task7_2a0c7f38:
@@ -11908,7 +11908,7 @@ translate russia task7_a5a7b777:
 translate russia task7_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:4803
 translate russia task7_cb3c8129_1:
@@ -11998,7 +11998,7 @@ translate russia task7_2630a435:
 translate russia task7_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:4840
 translate russia task7_e0ffc68b:
@@ -12058,7 +12058,7 @@ translate russia task7_bf55f9f7:
 translate russia task7_09dcad5f:
 
     # s g11 "...................."
-    s g11 ""
+    s g11 "...................."
 
 # game/status.rpy:4853
 translate russia task7_1c33e0ec:
@@ -12082,7 +12082,7 @@ translate russia task7_fa37acc4:
 translate russia task7_fb3c5279:
 
     # a y11 ".................."
-    a y11 ""
+    a y11 ".................."
 
 # game/status.rpy:4865
 translate russia task7_05835e9f:
@@ -12322,13 +12322,13 @@ translate russia task8_6fdd478e:
 translate russia task8_6a5ecf18:
 
     # s g37 "........................."
-    s g37 ""
+    s g37 "........................."
 
 # game/status.rpy:4963
 translate russia task8_65f9469b:
 
     # c r35 "........................."
-    c r35 ""
+    c r35 "........................."
 
 # game/status.rpy:4964
 translate russia task8_949cf1d2:
@@ -12652,7 +12652,7 @@ translate russia task8_13d5181a:
 translate russia task8_150e3d33:
 
     # a y5 "{b}*Pouts*{/b}"
-    a y5 ""
+    a y5 "{b}*Дуется*{/b}"
 
 # game/status.rpy:5053
 translate russia task8_a3d16fad:
@@ -12664,13 +12664,13 @@ translate russia task8_a3d16fad:
 translate russia task8_28966138:
 
     # c r32 "...................."
-    c r32 ""
+    c r32 "...................."
 
 # game/status.rpy:5058
 translate russia task8_09dcad5f:
 
     # s g11 "...................."
-    s g11 ""
+    s g11 "...................."
 
 # game/status.rpy:5059
 translate russia task8_fd395fcc:
@@ -12832,7 +12832,7 @@ translate russia task8_ed91a037:
 translate russia task8_06b67064:
 
     # s g43 "........"
-    s g43 ""
+    s g43 "........"
 
 # game/status.rpy:5093
 translate russia task8_9f34d859:
@@ -12940,7 +12940,7 @@ translate russia task9_14f4b337:
 translate russia task9_215ea3ee:
 
     # y "....?"
-    y ""
+    y "....?"
 
 # game/status.rpy:5151
 translate russia task9_7c7541dd:
@@ -13216,7 +13216,7 @@ translate russia task10_4af5053a:
 translate russia task10_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/status.rpy:5262
 translate russia task10_2153c844:
@@ -13444,7 +13444,7 @@ translate russia task10_203ea696:
 translate russia task10_09f736a6:
 
     # s ".................."
-    s ""
+    s ".................."
 
 # game/status.rpy:5410
 translate russia task10_cc95394c:
@@ -13516,7 +13516,7 @@ translate russia task10_cf954191:
 translate russia task10_2ffa2e54:
 
     # drag "What?"
-    drag ""
+    drag "Что?"
 
 # game/status.rpy:5442
 translate russia task10_f4974dec:
@@ -13642,7 +13642,7 @@ translate russia task10_3077292e:
 translate russia task10_4b1c3e0d:
 
     # drag "..........................."
-    drag ""
+    drag "..........................."
 
 # game/status.rpy:5463
 translate russia task10_4a22a093:
@@ -13768,7 +13768,7 @@ translate russia task10_ef574bd0:
 translate russia task10_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/status.rpy:5502
 translate russia task10_ce57a665:
@@ -13894,7 +13894,7 @@ translate russia task11_f03bb688:
 translate russia task11_4b9de986:
 
     # y "......."
-    y ""
+    y "......."
 
 # game/status.rpy:5562
 translate russia task11_6d91a3b4:
@@ -13912,7 +13912,7 @@ translate russia task11_c50bb328:
 translate russia task11_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:5565
 translate russia task11_ea27f518:
@@ -13954,7 +13954,7 @@ translate russia task11_7d69ea47:
 translate russia task11_05bf074c:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/status.rpy:5588
 translate russia task11_0290412f:
@@ -14104,7 +14104,7 @@ translate russia task11_0769ac09:
 translate russia task11_150e3d33:
 
     # a y5 "{b}*Pouts*{/b}"
-    a y5 ""
+    a y5 "{b}*Дуется*{/b}"
 
 # game/status.rpy:5630
 translate russia task11_777e5208:
@@ -14158,7 +14158,7 @@ translate russia task11_8f854ffb:
 translate russia task11_78f83269:
 
     # a y5 ".................."
-    a y5 ""
+    a y5 ".................."
 
 # game/status.rpy:5641
 translate russia task11_0e57012b:
@@ -14266,13 +14266,13 @@ translate russia task11_7367deb0:
 translate russia task11_dcbddf11:
 
     # a "....................."
-    a ""
+    a "....................."
 
 # game/status.rpy:5661
 translate russia task11_fdd50de4:
 
     # a y15 "..............................."
-    a y15 ""
+    a y15 "..............................."
 
 # game/status.rpy:5662
 translate russia task11_1cf4678f:
@@ -14440,7 +14440,7 @@ translate russia task12_028ca199:
 translate russia task12_db832180:
 
     # y "........"
-    y ""
+    y "........"
 
 # game/status.rpy:5716
 translate russia task12_068314ba:
@@ -14482,7 +14482,7 @@ translate russia task12_396492b3:
 translate russia task12_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:5728
 translate russia task12_93d54475:
@@ -14632,7 +14632,7 @@ translate russia task12_a8931fbf_2:
 translate russia task12_604cdc6f_1:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:5811
 translate russia task12_7515fd78:
@@ -14950,7 +14950,7 @@ translate russia task13_79e1b198:
 translate russia task13_0bb3a8cb:
 
     # y "..............................."
-    y ""
+    y "..............................."
 
 # game/status.rpy:5903
 translate russia task13_2f5d1408:
@@ -14980,7 +14980,7 @@ translate russia task13_b7ca5003:
 translate russia task13_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:5908
 translate russia task13_e09f4529:
@@ -15118,7 +15118,7 @@ translate russia task13_009c9a6a:
 translate russia task13_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:5935
 translate russia task13_13658ccc:
@@ -15226,13 +15226,13 @@ translate russia task13_6793ed22:
 translate russia task13_f2dff589:
 
     # s "...................."
-    s ""
+    s "...................."
 
 # game/status.rpy:5975
 translate russia task13_08cfb640:
 
     # s g16 "What?"
-    s g16 ""
+    s g16 "Что?"
 
 # game/status.rpy:5976
 translate russia task13_ac9cd1ca:
@@ -15490,7 +15490,7 @@ translate russia task13_989c77a6:
 translate russia task13_284cbe34:
 
     # s g18 "....................."
-    s g18 ""
+    s g18 "....................."
 
 # game/status.rpy:6019
 translate russia task13_68f7c1ae:
@@ -15628,7 +15628,7 @@ translate russia task13_686517c9:
 translate russia task13_c5c76dd4:
 
     # a ".........................."
-    a ""
+    a ".........................."
 
 # game/status.rpy:6055
 translate russia task13_240d3d8b:
@@ -15826,7 +15826,7 @@ translate russia task13_3e740c73:
 translate russia task13_5422cbc1:
 
     # s g11 "........................."
-    s g11 ""
+    s g11 "........................."
 
 # game/status.rpy:6120
 translate russia task13_fdac8c8f:
@@ -15910,7 +15910,7 @@ translate russia task15HireSluts_7be7672e:
 translate russia task15_f2dff589:
 
     # s "...................."
-    s ""
+    s "...................."
 
 # game/status.rpy:6210
 translate russia task15_b580280c:
@@ -16264,7 +16264,7 @@ translate russia task15_12135488:
 translate russia task15_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:6308
 translate russia task15_03a944cc:
@@ -16282,25 +16282,25 @@ translate russia task15_8b79b9c9:
 translate russia task15_54f4b238:
 
     # "Aces Gangster 1" "Dude, check out the fireworks!"
-    "Aces Gangster 1" ""
+    "Туз Гангстер 1" ""
 
 # game/status.rpy:6321
 translate russia task15_8d3efd46:
 
     # "Aces Gangster 2" "No way, I'm dancing to the best beats in town!"
-    "Aces Gangster 2" ""
+    "Туз Гангстер 2" ""
 
 # game/status.rpy:6322
 translate russia task15_0c3a047c:
 
     # "Aces Gangster 3" "Who cares about dancing when you're surrounded by the hottest girls in Beverly Hills?!"
-    "Aces Gangster 3" ""
+    "Туз Гангстер 3" ""
 
 # game/status.rpy:6323
 translate russia task15_b93f5678:
 
     # "Aces Gangsters" "Three cheers for Sam!"
-    "Aces Gangsters" ""
+    "Туз Гангстеры" ""
 
 # game/status.rpy:6329
 translate russia task15_5c53bbb3:
@@ -16420,7 +16420,7 @@ translate russia task15_0dbcec78:
 translate russia task15_64a2b68e:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/status.rpy:6363
 translate russia task15_c63fe075:
@@ -16492,7 +16492,7 @@ translate russia task15_f522f32e:
 translate russia task15_9201f464:
 
     # tim "....................."
-    tim ""
+    tim "....................."
 
 # game/status.rpy:6386
 translate russia task15_7c2476dc:
@@ -16582,7 +16582,7 @@ translate russia task15_aa463f16:
 translate russia task15_bc2a54f4:
 
     # s "........................."
-    s ""
+    s "........................."
 
 # game/status.rpy:6401
 translate russia task15_eaa3d227:
@@ -16798,13 +16798,13 @@ translate russia task15_f1d8fa4f:
 translate russia task15_2a8b7d1a:
 
     # c r14 ".........................."
-    c r14 ""
+    c r14 ".........................."
 
 # game/status.rpy:6475
 translate russia task15_172238af:
 
     # a y28 ".........................."
-    a y28 ""
+    a y28 ".........................."
 
 # game/status.rpy:6476
 translate russia task15_385a4a33:
@@ -17356,13 +17356,13 @@ translate russia task16_dd93d99d:
 translate russia task16_7140ce42:
 
     # s g28 "What?"
-    s g28 ""
+    s g28 "Что?"
 
 # game/status.rpy:6734
 translate russia task16_899728a4:
 
     # candy "What?"
-    candy ""
+    candy "Что?"
 
 # game/status.rpy:6735
 translate russia task16_ce895a18:
@@ -17374,7 +17374,7 @@ translate russia task16_ce895a18:
 translate russia task16_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/status.rpy:6737
 translate russia task16_1c44fc01:
@@ -17548,7 +17548,7 @@ translate russia task16_5f60ba9a:
 translate russia task16_f2495b78:
 
     # c r10 "What?"
-    c r10 ""
+    c r10 "Что?"
 
 # game/status.rpy:6785
 translate russia task16_c1e6674f:
@@ -17590,7 +17590,7 @@ translate russia task16_7cda6045:
 translate russia task16_64a2b68e:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/status.rpy:6792
 translate russia task16_cc46b7b3:
@@ -17806,7 +17806,7 @@ translate russia task17_9110359f:
 translate russia task17_8496b542:
 
     # c r11 "...................."
-    c r11 ""
+    c r11 "...................."
 
 # game/status.rpy:6910
 translate russia task17_16f277c4:
@@ -17920,7 +17920,7 @@ translate russia task17_ce619241:
 translate russia task17_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:6932
 translate russia task17_760d0bb3:
@@ -18124,7 +18124,7 @@ translate russia task17_15b27997:
 translate russia task17_215ea3ee:
 
     # y "....?"
-    y ""
+    y "....?"
 
 # game/status.rpy:7007
 translate russia task17_5a792ada:
@@ -18244,7 +18244,7 @@ translate russia task17_e2090944:
 translate russia task17_c2be8bbd:
 
     # c "............................."
-    c ""
+    c "............................."
 
 # game/status.rpy:7049
 translate russia task17_2be05408:
@@ -18388,7 +18388,7 @@ translate russia task17_68fe6300:
 translate russia task17_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:7077
 translate russia task17_2e3e44d6:
@@ -18424,7 +18424,7 @@ translate russia task17_a47f272a:
 translate russia task17_8496b542_1:
 
     # c r11 "...................."
-    c r11 ""
+    c r11 "...................."
 
 # game/status.rpy:7083
 translate russia task17_aea5edba:
@@ -18478,7 +18478,7 @@ translate russia task17_00693272:
 translate russia task17_6db73817_1:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:7099
 translate russia task17_aaeb1096:
@@ -18580,7 +18580,7 @@ translate russia task17_91ba0cb7:
 translate russia task17_6db73817_2:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:7125
 translate russia task17_8b475395:
@@ -19102,7 +19102,7 @@ translate russia task18_6084aa83:
 translate russia task18_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:7323
 translate russia task18SearchMenu_93369552:
@@ -19306,7 +19306,7 @@ translate russia task18SearchMenu_ef574bd0:
 translate russia task18SearchMenu_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/status.rpy:7418
 translate russia task18SearchMenu_3a045eec:
@@ -19402,7 +19402,7 @@ translate russia task18SearchMenu_cd712ced:
 translate russia task18SearchMenu_dfbe9759:
 
     # tali ".................."
-    tali ""
+    tali ".................."
 
 # game/status.rpy:7434
 translate russia task18SearchMenu_71e99c8f:
@@ -19528,7 +19528,7 @@ translate russia task19_a5be9d55:
 translate russia task19_05bf074c:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/status.rpy:7502
 translate russia task19_1fd24b8b:
@@ -19762,7 +19762,7 @@ translate russia task20_a56c31d1:
 translate russia task20_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:7586
 translate russia task20_45122cef:
@@ -20536,7 +20536,7 @@ translate russia task21_5c4ce518:
 translate russia task21_0006d891:
 
     # model "....................."
-    model ""
+    model "....................."
 
 # game/status.rpy:7841
 translate russia task21_355e4339:
@@ -20710,7 +20710,7 @@ translate russia task21_7221e5fc_3:
 translate russia task21_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:7878
 translate russia task21_eb6f83d7:
@@ -20830,7 +20830,7 @@ translate russia task21_9efc9750:
 translate russia task21_71fe8de3:
 
     # feli "...."
-    feli ""
+    feli "...."
 
 # game/status.rpy:7933
 translate russia task21_b1915e37:
@@ -21040,7 +21040,7 @@ translate russia task21_ef7ae042:
 translate russia task21_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/status.rpy:7992
 translate russia task21_a71ae8a0:
@@ -21736,7 +21736,7 @@ translate russia retryHack_9ec4c82f:
 translate russia retryHack_5bdd22cf:
 
     # sM ".............."
-    sM ""
+    sM ".............."
 
 # game/status.rpy:8351
 translate russia retryHack_777f8635:
@@ -21808,7 +21808,7 @@ translate russia retryHack_52abd0ef:
 translate russia retryHack_122ff608:
 
     # seb "..........................."
-    seb ""
+    seb "..........................."
 
 # game/status.rpy:8379
 translate russia retryHack_97a350e6:
@@ -21856,7 +21856,7 @@ translate russia retryHack_b5c49b89:
 translate russia retryHack_6ab26a07:
 
     # seb "..............................."
-    seb ""
+    seb "..............................."
 
 # game/status.rpy:8387
 translate russia retryHack_288fe832:
@@ -21928,7 +21928,7 @@ translate russia retryHack_b5c00f55:
 translate russia retryHack_e4e10500:
 
     # s g52 "........................."
-    s g52 ""
+    s g52 "........................."
 
 # game/status.rpy:8401
 translate russia retryHack_ed6243dd:
@@ -21970,7 +21970,7 @@ translate russia retryHack_1a92a22b:
 translate russia retryHack_b129c5c2:
 
     # s "..........................."
-    s ""
+    s "..........................."
 
 # game/status.rpy:8417
 translate russia retryHack_740b8874:
@@ -22042,7 +22042,7 @@ translate russia retryHack_7a4705f0:
 translate russia retryHack_0c470817:
 
     # s g39 "..........................."
-    s g39 ""
+    s g39 "..........................."
 
 # game/status.rpy:8430
 translate russia retryHack_b1cc3bd6:
@@ -22186,7 +22186,7 @@ translate russia task24_23bf4157:
 translate russia task24_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:8504
 translate russia task24_f79218da:
@@ -22210,7 +22210,7 @@ translate russia task24_8e292182:
 translate russia task24_ac17dec1:
 
     # y "What?"
-    y ""
+    y "Что?"
 
 # game/status.rpy:8508
 translate russia task24_be126726:
@@ -22444,7 +22444,7 @@ translate russia task25PotionDrink_b2cfe249:
 translate russia task25PotionDrink_64a2b68e:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/status.rpy:8653
 translate russia task25PotionDrink_cfefe697:
@@ -23266,7 +23266,7 @@ translate russia task26_c4701bf6:
 translate russia task26_0bb3a8cb:
 
     # y "..............................."
-    y ""
+    y "..............................."
 
 # game/status.rpy:9096
 translate russia task26_ad2ebaad:
@@ -23302,7 +23302,7 @@ translate russia task26_e4a0bbd2:
 translate russia task26_d3a59cb5:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/status.rpy:9102
 translate russia task26_5a5032e7:
@@ -24190,7 +24190,7 @@ translate russia task26_02effa75:
 translate russia task26_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:9481
 translate russia task26_3381473b:
@@ -24214,7 +24214,7 @@ translate russia task26_e64f139e:
 translate russia task26_d3a59cb5_1:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/status.rpy:9485
 translate russia task26_cf4d009c:
@@ -24226,19 +24226,19 @@ translate russia task26_cf4d009c:
 translate russia task26_b129c5c2:
 
     # s "..........................."
-    s ""
+    s "..........................."
 
 # game/status.rpy:9487
 translate russia task26_f707fb5d:
 
     # c "..........................."
-    c ""
+    c "..........................."
 
 # game/status.rpy:9488
 translate russia task26_ff678d23:
 
     # a "..........................."
-    a ""
+    a "..........................."
 
 # game/status.rpy:9489
 translate russia task26_a23669b1:
@@ -24340,7 +24340,7 @@ translate russia task26_225236c2:
 translate russia task26_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:9512
 translate russia task26_b13283e2:
@@ -24364,7 +24364,7 @@ translate russia task26_14624ca4:
 translate russia task26_6db73817_1:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:9548
 translate russia task26_cd1e95ec:
@@ -24736,7 +24736,7 @@ translate russia task26_3904f397:
 translate russia task26_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/status.rpy:9693
 translate russia task26_ef267705:
@@ -24850,7 +24850,7 @@ translate russia task26_3a8b679b:
 translate russia task26_9f483910:
 
     # brit "..........................."
-    brit ""
+    brit "..........................."
 
 # game/status.rpy:9719
 translate russia task26_4b3229d0:
@@ -24922,7 +24922,7 @@ translate russia task26_91d40710:
 translate russia task26_05bf074c:
 
     # y ".............."
-    y ""
+    y ".............."
 
 # game/status.rpy:9755
 translate russia task26_7c62bbc5:
@@ -25186,7 +25186,7 @@ translate russia task26_3f92f050:
 translate russia task26_4570aa49:
 
     # s "....................."
-    s ""
+    s "....................."
 
 # game/status.rpy:9813
 translate russia task26_02c810ee:
@@ -25264,7 +25264,7 @@ translate russia task26_3c9f2f10:
 translate russia task26_bda28dda:
 
     # c ".................."
-    c ""
+    c ".................."
 
 # game/status.rpy:9827
 translate russia task26_93a0b52b:
@@ -25306,7 +25306,7 @@ translate russia task26_7034cbd9:
 translate russia task26_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:9834
 translate russia task26_29d6ce7a:
@@ -25528,7 +25528,7 @@ translate russia task26_643c4bd8:
 translate russia task26_64a2b68e:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/status.rpy:9920
 translate russia task26_5e4b696e:
@@ -25600,7 +25600,7 @@ translate russia task26_1175d191:
 translate russia task26_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:9932
 translate russia task26_1ae99373:
@@ -25618,7 +25618,7 @@ translate russia task26_66c4e52e:
 translate russia task26_1c9ac08f:
 
     # s g19 ".................."
-    s g19 ""
+    s g19 ".................."
 
 # game/status.rpy:9936
 translate russia task26_cde3f8b1:
@@ -25714,7 +25714,7 @@ translate russia task26_052bea24:
 translate russia task26_960ad2e2:
 
     # tim ".............."
-    tim ""
+    tim ".............."
 
 # game/status.rpy:10016
 translate russia task26_38ef7071:
@@ -25738,7 +25738,7 @@ translate russia task26_36819588:
 translate russia task26_88d58953:
 
     # tim "...................."
-    tim ""
+    tim "...................."
 
 # game/status.rpy:10024
 translate russia task26_4dff56b6:
@@ -25816,7 +25816,7 @@ translate russia task26_aea012e4:
 translate russia task26_5772b0d1:
 
     # "........................."
-    ""
+    "........................."
 
 # game/status.rpy:10065
 translate russia task26_6c354608:
@@ -25918,7 +25918,7 @@ translate russia task26_56d82093:
 translate russia task26_9201f464:
 
     # tim "....................."
-    tim ""
+    tim "....................."
 
 # game/status.rpy:10122
 translate russia task26_cccf0ade:
@@ -26104,7 +26104,7 @@ translate russia task26_392a2aa2:
 translate russia task26_5a07bc94:
 
     # s g54 "............................."
-    s g54 ""
+    s g54 "............................."
 
 # game/status.rpy:10156
 translate russia task26_ecfb0991:
@@ -26212,7 +26212,7 @@ translate russia task26_36331e0d:
 translate russia task26_c5f27a34:
 
     # tim "........................."
-    tim ""
+    tim "........................."
 
 # game/status.rpy:10182
 translate russia task26_1cfdf52e:
@@ -26398,7 +26398,7 @@ translate russia task26_51f18613:
 translate russia task26_bd7a95f2:
 
     # jerry "..........................."
-    jerry ""
+    jerry "..........................."
 
 # game/status.rpy:10260
 translate russia task26_4992a4b9:
@@ -26998,7 +26998,7 @@ translate russia endgameMenu1_b78a3734:
 translate russia endgameMenu1_d3a59cb5:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/status.rpy:10425
 translate russia endgameMenu1_af60ac90:
@@ -27112,7 +27112,7 @@ translate russia endgameMenu1_86c12410:
 translate russia endgameMenu1_22bf1846:
 
     # mat "...................."
-    mat ""
+    mat "...................."
 
 # game/status.rpy:10459
 translate russia endgameMenu1_31cbb445:
@@ -27190,7 +27190,7 @@ translate russia endgameMenu1_6486a77e:
 translate russia endgameMenu1_6e4ecfcc:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:10476
 translate russia endgameMenu1_2f9cc419:
@@ -27256,7 +27256,7 @@ translate russia endgameMenu1_60a42dec:
 translate russia endgameMenu1_6e4ecfcc_1:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:10505
 translate russia endgameMenu1_d9403a80:
@@ -27310,13 +27310,13 @@ translate russia endgameMenu1_30a25179:
 translate russia endgameMenu1_2813b604:
 
     # "Agent 1" "..............................."
-    "Агент 1" ""
+    "Агент 1" "..............................."
 
 # game/status.rpy:10523
 translate russia endgameMenu1_f7416194:
 
     # "Agent 2" "..............................."
-    "Агент 2" ""
+    "Агент 2" "..............................."
 
 # game/status.rpy:10524
 translate russia endgameMenu1_286b0707:
@@ -27364,7 +27364,7 @@ translate russia endgameMenu1_7bae650e:
 translate russia endgameMenu1_9f2d2eb2:
 
     # tim "............................."
-    tim ""
+    tim "............................."
 
 # game/status.rpy:10553
 translate russia endgameMenu1_14f4b337:
@@ -27430,7 +27430,7 @@ translate russia endgameMenu1_a80eb1e1:
 translate russia endgameMenu1_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:10567
 translate russia endgameMenu1_9500a0b4_1:
@@ -27472,7 +27472,7 @@ translate russia endgameMenu1_8b285a95:
 translate russia endgameMenu1_79337d99:
 
     # tim ".........................."
-    tim ""
+    tim ".........................."
 
 # game/status.rpy:10576
 translate russia endgameMenu1_b50f2e2b:
@@ -27502,7 +27502,7 @@ translate russia endgameMenu1_398524b9:
 translate russia endgameMenu1_604cdc6f:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:10581
 translate russia endgameMenu1_9fa6e82c:
@@ -27586,7 +27586,7 @@ translate russia endgameMenu1_cccbe4d6:
 translate russia endgameMenu1_6e4ecfcc_2:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:10596
 translate russia endgameMenu1_eb766e59:
@@ -27604,7 +27604,7 @@ translate russia endgameMenu1_eb498a4f_1:
 translate russia endgameMenu1_6e4ecfcc_3:
 
     # y "........................."
-    y ""
+    y "........................."
 
 # game/status.rpy:10599
 translate russia endgameMenu1_fd8e3340:
@@ -27640,7 +27640,7 @@ translate russia endgameMenu1_98972a1d:
 translate russia endgameMenu1_0bb3a8cb:
 
     # y "..............................."
-    y ""
+    y "..............................."
 
 # game/status.rpy:10616
 translate russia endgameMenu1_2a3abf42:
@@ -27856,7 +27856,7 @@ translate russia endgameMenu1_b6e95ed6:
 translate russia endgameMenu1_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:10687
 translate russia endgameMenu1_d2907626:
@@ -27886,7 +27886,7 @@ translate russia endgameMenu1_1c6532db:
 translate russia endgameMenu1_9201f464:
 
     # tim "....................."
-    tim ""
+    tim "....................."
 
 # game/status.rpy:10692
 translate russia endgameMenu1_19226093:
@@ -28012,7 +28012,7 @@ translate russia endgameMenu1_369366ef:
 translate russia endgameMenu1_80096dbf:
 
     # mel "...................."
-    mel ""
+    mel "...................."
 
 # game/status.rpy:10720
 translate russia endgameMenu1_2e0f3460:
@@ -28480,7 +28480,7 @@ translate russia endgameMenu1_26d33ede:
 translate russia endgameMenu1_604cdc6f_1:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:10850
 translate russia endgameMenu1_f6c5e616:
@@ -28570,7 +28570,7 @@ translate russia endgameMenu1_66c7cc68:
 translate russia endgameMenu1_d3a59cb5_1:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/status.rpy:10868
 translate russia endgameMenu1_2b1c8d3e:
@@ -28618,7 +28618,7 @@ translate russia endgameMenu1_204aab6c:
 translate russia endgameMenu1_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/status.rpy:10888
 translate russia endgameMenu1_2f9b5a87:
@@ -28684,7 +28684,7 @@ translate russia endgameMenu1_288e3119:
 translate russia endgameMenu1_5c6cf512:
 
     # s ".........................."
-    s ""
+    s ".........................."
 
 # game/status.rpy:10904
 translate russia endgameMenu1_7d52d827:
@@ -29104,7 +29104,7 @@ translate russia endgameMenu1_f76bcf3b:
 translate russia endgameMenu1_f15bc539:
 
     # tim "..........................."
-    tim ""
+    tim "..........................."
 
 # game/status.rpy:11030
 translate russia endgameMenu1_4e39a5be:
@@ -29266,7 +29266,7 @@ translate russia endgameMenu1_1845457e:
 translate russia endgameMenu1_c109e093:
 
     # s g11 ".............."
-    s g11 ""
+    s g11 ".............."
 
 # game/status.rpy:11138
 translate russia endgameMenu1_45f85c31:
@@ -29530,7 +29530,7 @@ translate russia endgameMenu1_0729e1ea:
 translate russia endgameMenu1_604cdc6f_2:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:11212
 translate russia endgameMenu1_150a3fc8:
@@ -29560,7 +29560,7 @@ translate russia endgameMenu1_c4677a3f:
 translate russia endgameMenu1_6d807c8c:
 
     # a "..............................."
-    a ""
+    a "..............................."
 
 # game/status.rpy:11284
 translate russia endgameMenu1_ee99fffe:
@@ -29572,7 +29572,7 @@ translate russia endgameMenu1_ee99fffe:
 translate russia endgameMenu1_6d807c8c_1:
 
     # a "..............................."
-    a ""
+    a "..............................."
 
 # game/status.rpy:11286
 translate russia endgameMenu1_a2f2ebae:
@@ -29584,7 +29584,7 @@ translate russia endgameMenu1_a2f2ebae:
 translate russia endgameMenu1_6d807c8c_2:
 
     # a "..............................."
-    a ""
+    a "..............................."
 
 # game/status.rpy:11288
 translate russia endgameMenu1_78940657:
@@ -29800,7 +29800,7 @@ translate russia endgameMenu1_1860b0cb:
 translate russia endgameMenu1_604cdc6f_3:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:11342
 translate russia endgameMenu1_28275d05:
@@ -29824,7 +29824,7 @@ translate russia endgameMenu1_655477b5:
 translate russia endgameMenu1_64a2b68e:
 
     # y "..........................."
-    y ""
+    y "..........................."
 
 # game/status.rpy:11351
 translate russia endgameMenu1_20e3212e:
@@ -30304,19 +30304,19 @@ translate russia endgameMenu1_4703d75e:
 translate russia endgameMenu1_e3239423:
 
     # s g10 "..........................."
-    s g10 ""
+    s g10 "..........................."
 
 # game/status.rpy:11452
 translate russia endgameMenu1_4e4bf117:
 
     # a y10 "..........................."
-    a y10 ""
+    a y10 "..........................."
 
 # game/status.rpy:11453
 translate russia endgameMenu1_edc59506:
 
     # c r10 "..........................."
-    c r10 ""
+    c r10 "..........................."
 
 # game/status.rpy:11454
 translate russia endgameMenu1_9c53fbe0:
@@ -30472,7 +30472,7 @@ translate russia endgameMenu1_31b18621:
 translate russia endgameMenu1_80096dbf_1:
 
     # mel "...................."
-    mel ""
+    mel "...................."
 
 # game/status.rpy:11488
 translate russia endgameMenu1_bde3019e:
@@ -30490,7 +30490,7 @@ translate russia endgameMenu1_99b2b65c:
 translate russia endgameMenu1_3c96f34d:
 
     # mel ".................."
-    mel ""
+    mel ".................."
 
 # game/status.rpy:11491
 translate russia endgameMenu1_d0ea9dd6:
@@ -31024,7 +31024,7 @@ translate russia endgameMenu1_efdda47f:
 translate russia endgameMenu1_88d58953:
 
     # tim "...................."
-    tim ""
+    tim "...................."
 
 # game/status.rpy:11746
 translate russia endgameMenu1_d978839c:
@@ -31078,7 +31078,7 @@ translate russia endgameMenu1_327fce89:
 translate russia endgameMenu1_604cdc6f_4:
 
     # y "...................."
-    y ""
+    y "...................."
 
 # game/status.rpy:11756
 translate russia endgameMenu1_d703e90a:
@@ -31408,7 +31408,7 @@ translate russia endgameMenu1_d1453718:
 translate russia endgameMenu1_c5f27a34:
 
     # tim "........................."
-    tim ""
+    tim "........................."
 
 # game/status.rpy:11945
 translate russia endgameMenu1_b9fc413b:
@@ -31456,7 +31456,7 @@ translate russia endgameMenu1_b1d61031:
 translate russia endgameMenu1_846f028c:
 
     # tim ".................."
-    tim ""
+    tim ".................."
 
 # game/status.rpy:11953
 translate russia endgameMenu1_3942a376:
@@ -31486,7 +31486,7 @@ translate russia endgameMenu1_aff2b150:
 translate russia endgameMenu1_846f028c_1:
 
     # tim ".................."
-    tim ""
+    tim ".................."
 
 # game/status.rpy:11958
 translate russia endgameMenu1_e0dbbef3:
@@ -31594,7 +31594,7 @@ translate russia endgameMenu1_ca7422c4:
 translate russia endgameMenu1_9201f464_1:
 
     # tim "....................."
-    tim ""
+    tim "....................."
 
 # game/status.rpy:11990
 translate russia endgameMenu1_17f45df3:
@@ -31948,7 +31948,7 @@ translate russia endgameMenu1_fbe2e031:
 translate russia endgameMenu1_4e524c73:
 
     # brit b32 "...................."
-    brit b32 ""
+    brit b32 "...................."
 
 # game/status.rpy:12126
 translate russia endgameMenu1_46bf87ab:
@@ -32272,7 +32272,7 @@ translate russia task27_2e187d51:
 translate russia task27_bf306508:
 
     # c r10 "...."
-    c r10 ""
+    c r10 "...."
 
 # game/status.rpy:12354
 translate russia task27_94a2a40d:
@@ -32344,7 +32344,7 @@ translate russia task27_80b5f2a5:
 translate russia task27_60ba3760:
 
     # "A new photo has been added to your photoalbum."
-    ""
+    "В ваш фотоальбом добавлена новая фотография."
 
 # game/status.rpy:12390
 translate russia task27_bb93b7ee:
@@ -32380,7 +32380,7 @@ translate russia task30_cdf16704:
 translate russia task30_08cfb640:
 
     # s g16 "What?"
-    s g16 ""
+    s g16 "Что?"
 
 # game/status.rpy:12420
 translate russia task30_f0e35fa9:
@@ -32494,7 +32494,7 @@ translate russia task30_0ae7e92b:
 translate russia task30_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:12439
 translate russia task30_2e89299b:
@@ -32548,7 +32548,7 @@ translate russia task30_9c142da9:
 translate russia task30_5c6cf512:
 
     # s ".........................."
-    s ""
+    s ".........................."
 
 # game/status.rpy:12454
 translate russia task30_ea225281:
@@ -32764,7 +32764,7 @@ translate russia task30_218e7200:
 translate russia task30_b5732a78:
 
     # y "....................."
-    y ""
+    y "....................."
 
 # game/status.rpy:12531
 translate russia task30_63180449:
@@ -32848,7 +32848,7 @@ translate russia task31_67f10d71:
 translate russia task31_71b0c61c:
 
     # "..........................."
-    ""
+    "..........................."
 
 # game/status.rpy:12570
 translate russia task31_7f4f5ce8:
@@ -32986,7 +32986,7 @@ translate russia task32_1ce82017:
 translate russia task32_bf7d1a98:
 
     # s g32 ".................."
-    s g32 ""
+    s g32 ".................."
 
 # game/status.rpy:12667
 translate russia task32_32f84950:
@@ -33046,7 +33046,7 @@ translate russia task32_2c763540:
 translate russia task32_09f736a6:
 
     # s ".................."
-    s ""
+    s ".................."
 
 # game/status.rpy:12680
 translate russia task32_e40637ea:
@@ -33364,7 +33364,7 @@ translate russia task32_62d7c8fd:
 translate russia task32_4570aa49:
 
     # s "....................."
-    s ""
+    s "....................."
 
 # game/status.rpy:12834
 translate russia task32_cb6bbd37:
@@ -33406,7 +33406,7 @@ translate russia task32_dfad1b31:
 translate russia nightCutscenes_8e536f99:
 
     # ".........................."
-    ""
+    ".........................."
 
 # game/status.rpy:12886
 translate russia nightCutscenes_2bdde32d:
@@ -33424,7 +33424,7 @@ translate russia nightCutscenes_829990ca:
 translate russia nightCutscenes_d9ad61fd:
 
     # "Shadowy Figure 2" "...................."
-    "Shadowy Figure 2" ""
+    "Shadowy Figure 2" "...................."
 
 # game/status.rpy:12889
 translate russia nightCutscenes_27c533ea:
@@ -33490,7 +33490,7 @@ translate russia nightCutscenes_7b34275c:
 translate russia nightCutscenes_846f028c:
 
     # tim ".................."
-    tim ""
+    tim ".................."
 
 # game/status.rpy:12930
 translate russia nightCutscenes_0a5ba29c:
@@ -33568,7 +33568,7 @@ translate russia nightCutscenes_372652da:
 translate russia nightCutscenes_88d58953:
 
     # tim "...................."
-    tim ""
+    tim "...................."
 
 # game/status.rpy:12970
 translate russia nightCutscenes_0892e566:
@@ -33616,7 +33616,7 @@ translate russia nightCutscenes_c3fb3a3f:
 translate russia nightCutscenes_846f028c_1:
 
     # tim ".................."
-    tim ""
+    tim ".................."
 
 # game/status.rpy:12978
 translate russia nightCutscenes_9c7f6125:
@@ -34068,7 +34068,7 @@ translate russia strings:
 
     # game/status.rpy:9454
     old "...................."
-    new ""
+    new "...................."
 
     # game/status.rpy:10125
     old "Cut the tension"
@@ -34076,7 +34076,7 @@ translate russia strings:
 
     # game/status.rpy:10125
     old "..............................."
-    new ""
+    new "..............................."
 
     # game/status.rpy:10382
     old "Fight back"
@@ -34224,7 +34224,7 @@ translate russia testMe_b22b20b4:
 translate russia testMe_fba4425f:
 
     # "However, you can lose agents during the fight. Agents can be captured by planning missions and using the {color=#ffeda6}Hypno Earring{/color} gadget."
-    ""
+    "Гипно-Серьги"
 
 # game/status.rpy:1916
 translate russia testMe_3dd9a308:
@@ -34302,7 +34302,7 @@ translate russia testMe_21cfb035:
 translate russia testMe_c98142a2:
 
     # y ".................."
-    y ""
+    y ".................."
 
 # game/status.rpy:1973
 translate russia testMe_d7d1fb09:
@@ -34320,7 +34320,7 @@ translate russia testMe_fa47215b:
 translate russia testMe_28801176:
 
     # "Agent 1" "........................."
-    "Агент 1" ""
+    "Агент 1" "........................."
 
 # game/status.rpy:1976
 translate russia testMe_072f1426:
@@ -34416,7 +34416,7 @@ translate russia testMe_6faed475:
 translate russia testMe_d3a59cb5:
 
     # y "............................."
-    y ""
+    y "............................."
 
 # game/status.rpy:2037
 translate russia testMe_57168065:
@@ -34446,7 +34446,7 @@ translate russia testMe_da97e51d:
 translate russia testMe_db832180:
 
     # y "........"
-    y ""
+    y "........"
 
 # game/status.rpy:2042
 translate russia testMe_0ff703d4:
@@ -34476,13 +34476,13 @@ translate russia testMe_8e1bf4df:
 translate russia testMe_6db73817:
 
     # y ".........................."
-    y ""
+    y ".........................."
 
 # game/status.rpy:2047
 translate russia testMe_fce37da7:
 
     # s g18 "What?"
-    s g18 ""
+    s g18 "Что?"
 
 # game/status.rpy:2048
 translate russia testMe_d4636c00:
@@ -34506,7 +34506,7 @@ translate russia testMe_ec01b85a:
 translate russia testMe_5c6cf512:
 
     # s ".........................."
-    s ""
+    s ".........................."
 
 # game/status.rpy:2053
 translate russia testMe_e3e16dc2:
@@ -34620,7 +34620,7 @@ translate russia testMe_d5c53159:
 translate russia testMe_2a27cb3f:
 
     # "Aces gangster" "We're under attack from all sides! We've got Punks on our left, Outsiders on our right and WOOHP agents fighting us from our front!"
-    "Aces gangster" ""
+    "Туз Гангстер" ""
 
 # game/status.rpy:2100
 translate russia testMe_d48a0b44:
@@ -34632,7 +34632,7 @@ translate russia testMe_d48a0b44:
 translate russia testMe_3032c70f:
 
     # "Outsiders Chick" "More Aces, get them!"
-    "Outsiders Chick" ""
+    "Девушка Аутсайдер" ""
 
 # game/status.rpy:2102
 translate russia testMe_30be022b:

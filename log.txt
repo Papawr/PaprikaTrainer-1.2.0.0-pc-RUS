@@ -1,41 +1,41 @@
-Fri Dec 17 00:04:15 2021
+Fri Dec 17 22:45:39 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
  
 
-Bootstrap to the start of init.init took 0.29s
+Bootstrap to the start of init.init took 0.20s
 Early init took 0.01s
-Loader init took 0.61s
-Loading error handling took 0.34s
-Loading script took 5.72s
-Loading save slot metadata. took 1.46s
-Loading persistent took 0.05s
+Loader init took 1.15s
+Loading error handling took 0.21s
+Loading script took 7.35s
+Loading save slot metadata. took 1.03s
+Loading persistent took 0.06s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Set script version to: (7, 4, 6)
-Running init code took 0.50s
-Loading analysis data took 0.54s
-Analyze and compile ATL took 0.11s
+Running init code took 0.52s
+Loading analysis data took 0.55s
+Analyze and compile ATL took 0.10s
 Index archives took 0.00s
-Dump and make backups. took 0.33s
+Dump and make backups. took 0.28s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.49s
+Initial gc. took 0.40s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.36s
+Init translation took 0.34s
 Build styles took 0.01s
-Load screen analysis took 0.41s
-Analyze screens took 0.01s
-Save screen analysis took 0.00s
-Prepare screens took 1.41s
+Load screen analysis took 0.00s
+Analyze screens took 0.22s
+Save screen analysis took 0.52s
+Prepare screens took 1.36s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
+Save bytecode. took 0.69s
+Running _start took 0.07s
 Performance test:
-Interface start took 0.58s
+Interface start took 0.63s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
@@ -47,4 +47,3 @@ Version: '4.6.0 - Build 26.20.100.7637'
 Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1691, 951) drawable=(1691, 951)
 Maximum texture size: 4096x4096
-
