@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/status.rpy", line 12748: translate statement expects a non-empty block.
-    translate russia task8_714a6083:
-                                    ^
-
-File "game/tl/russia/status.rpy", line 12749: expected statement.
-    Успокойся, Сэм. Тебе прийдётся это делать.
-             ^
+File "game/tl/russia/status.rpy", line 22057: end of line expected.
+    y "Есть идеи, кем может быть "она", о которой говорил Себастиан?"
+                                  ^
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Mon Dec 20 19:47:57 2021
+Thu Dec 23 16:28:57 2021
