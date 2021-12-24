@@ -9526,7 +9526,7 @@ translate russia jump2me_213647d9:
 translate russia jump2me_72679963:
 
     # y "Uh oh... Something bad?"
-    y "Ух охх... Что-то плохое?"
+    y "Ой-ой... Что-то плохое?"
 
 # game/jobReport.rpy:3229
 translate russia jump2me_af012be4:
