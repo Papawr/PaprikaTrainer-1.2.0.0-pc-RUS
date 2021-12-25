@@ -4377,7 +4377,7 @@ translate russia tutStage65_dba83f54:
 translate russia tutStage65_c531b8be:
 
     # "Agent" "Such logic cannot be argued with!{w} What are your orders, sir?"
-    "Агент" "С вашей логикой не поспоришь! Каков ваш приказ, сэр?"
+    "Агент" "С вашей логикой не поспоришь!{w} Каков ваш приказ, сэр?"
 
 # game/intro.rpy:2102
 translate russia tutStage65_ee99fffe:

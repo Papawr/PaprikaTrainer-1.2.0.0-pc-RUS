@@ -28102,31 +28102,31 @@ translate russia endgameMenu1_e03f75ab:
 translate russia endgameMenu1_1b2abeab:
 
     # mel "Missing? Hang on... I think I know where to find her. If she's being controlled by nanobots, you better have something to break her out of it though."
-    mel ""
+    mel "Пропала? Подожди... Кажется, я знаю, где её найти. Но если её контролируют наноботы, тебе стоит найти хороший способ, чтобы вывести её из этого состояния."
 
 # game/status.rpy:10735
 translate russia endgameMenu1_a3f7ed59:
 
     # mel "I'm sending you the coordinates."
-    mel ""
+    mel "Отправляю тебе координаты."
 
 # game/status.rpy:10736
 translate russia endgameMenu1_4528ee2b:
 
     # y "Oh and Melody...!"
-    y ""
+    y "О и Мелоди...!"
 
 # game/status.rpy:10737
 translate russia endgameMenu1_99bfc6fa:
 
     # mel "Yeah?"
-    mel ""
+    mel "Да?"
 
 # game/status.rpy:10738
 translate russia endgameMenu1_ab36cbd5:
 
     # y "Thanks...."
-    y ""
+    y "Спасибо..."
 
 # game/status.rpy:10739
 translate russia endgameMenu1_a7ea4d6e:
@@ -28138,55 +28138,55 @@ translate russia endgameMenu1_a7ea4d6e:
 translate russia endgameMenu1_740034f7:
 
     # mat "So what do you think?"
-    mat ""
+    mat "Так что ты думаешь?"
 
 # game/status.rpy:10749
 translate russia endgameMenu1_92f0c34e:
 
     # tim "Onorthodox... but it could work."
-    tim ""
+    tim "Неортодоксально... но это может сработать."
 
 # game/status.rpy:10750
 translate russia endgameMenu1_8bd26898:
 
     # y "You gave me Melody's number?!"
-    y ""
+    y "Ты дал мне номер Мелоди?!"
 
 # game/status.rpy:10751
 translate russia endgameMenu1_a7b3939d:
 
     # tim "Yeah. What did she say?"
-    tim ""
+    tim "Да. Что она сказала?"
 
 # game/status.rpy:10752
 translate russia endgameMenu1_69d73583:
 
     # y "She's giving me the coordinates of where she thinks Sam is."
-    y ""
+    y "Она дала мне координаты того места, где, по её мнению, находится Сэм."
 
 # game/status.rpy:10753
 translate russia endgameMenu1_cafda7d3:
 
     # y "You could have told me who I was calling though!"
-    y ""
+    y "Мог бы и сказать, кому я звоню!"
 
 # game/status.rpy:10754
 translate russia endgameMenu1_fd562d24:
 
     # tim "Was is awkward?"
-    tim ""
+    tim "Было неловко?"
 
 # game/status.rpy:10755
 translate russia endgameMenu1_30495171:
 
     # y "Yes!"
-    y ""
+    y "Да!"
 
 # game/status.rpy:10756
 translate russia endgameMenu1_29e7f057:
 
     # tim "Good."
-    tim ""
+    tim "Хорошо."
 
 # game/status.rpy:10757
 translate russia endgameMenu1_5f60ba9a:
@@ -28198,31 +28198,31 @@ translate russia endgameMenu1_5f60ba9a:
 translate russia endgameMenu1_b41eb032:
 
     # mat "And speaking of awkward~...."
-    mat ""
+    mat "И говоря о неловком~...."
 
 # game/status.rpy:10759
 translate russia endgameMenu1_098ead66:
 
     # mat "Tim and I came up with a little something to help break the nanobot control of the girls."
-    mat ""
+    mat "Мы с Тимом придумали кое-что, что поможет нарушить контроль наноботов над девочками."
 
 # game/status.rpy:10760
 translate russia endgameMenu1_b05634b9:
 
     # "Mathias hands you a sketch of a latex body suit."
-    ""
+    "Матиас передаёт вам эскиз латексного костюма."
 
 # game/status.rpy:10761
 translate russia endgameMenu1_bef702a4:
 
     # y "Wow... I didn't know you were into this kind of thing Mathias!"
-    y ""
+    y "Вау... Я и не знал, что ты увлекаешься подобными вещами, Матиас!"
 
 # game/status.rpy:10762
 translate russia endgameMenu1_53b8c715:
 
     # mat "Well... I'm not really..."
-    mat ""
+    mat "Ну... Я не совсем..."
 
 # game/status.rpy:10763
 translate russia endgameMenu1_6f362d57:
@@ -28234,19 +28234,19 @@ translate russia endgameMenu1_6f362d57:
 translate russia endgameMenu1_ee9d3095:
 
     # tim "Don't look at me."
-    tim ""
+    tim "Не смотри на меня."
 
 # game/status.rpy:10765
 translate russia endgameMenu1_4b22ca98:
 
     # y "If it wasn't your idea and not Mathias... who came up with it...?"
-    y ""
+    y "Если это была не твоя идея, и не Матиаса... кто это придумал...?"
 
 # game/status.rpy:10766
 translate russia endgameMenu1_cb541e56:
 
     # mat "Well... I met this one girl who seemed super into it...{w} She gave me the sketch."
-    mat ""
+    mat "Ну... Я встретил одну девушку, которая, казалось, очень этим увлекается...{w} Она дала мне этот эскиз."
 
 # game/status.rpy:10767
 translate russia endgameMenu1_a23669b1:
@@ -28258,85 +28258,85 @@ translate russia endgameMenu1_a23669b1:
 translate russia endgameMenu1_f3ecc832:
 
     # y "Black hair, glasses, looks like a librarian?"
-    y ""
+    y "Чёрные волосы, очки, похожа на библиотекаря?"
 
 # game/status.rpy:10769
 translate russia endgameMenu1_5ddecd17:
 
     # mat "Yes! You know her?"
-    mat ""
+    mat "Да! Ты её знаешь?"
 
 # game/status.rpy:10770
 translate russia endgameMenu1_b881a402:
 
     # y "Yup. She works at the mall.{w} She's a perv, but it's good to know she's okay."
-    y ""
+    y "Да. Она работает в торговом центре.{w} Она та ещё извращенка, но хорошо, что с ней всё в порядке."
 
 # game/status.rpy:10771
 translate russia endgameMenu1_ef1c3366:
 
     # tim "Mathias and I came up with gadget. If you throw it at a spy, the suit will automatically wrap itself around them."
-    tim ""
+    tim "Мы с Матиасом придумали гаджет. Если бросить его в шпионку, то костюм автоматически обернётся вокруг неё."
 
 # game/status.rpy:10772
 translate russia endgameMenu1_752de7d1:
 
     # mat "Not only trapping, but breaking their nanobots at the same time!"
-    mat ""
+    mat "Это не только поймает их, но и одновременно нарушит контроль наноботов!"
 
 # game/status.rpy:10773
 translate russia endgameMenu1_48076e02:
 
     # mat "It has to be thrown from quite close though... So it would be best if the girl was distracted."
-    mat ""
+    mat "Правда, бросать нужно с довольно близкого расстояния... Поэтому будет лучше, если девушка отвлечётся."
 
 # game/status.rpy:10774
 translate russia endgameMenu1_6360a571:
 
     # y "Well... if Melody was right, we'd soon be able to test it out on Sam..."
-    y ""
+    y "Ну... если Мелоди права, мы скоро сможем проверить это на Сэм..."
 
 # game/status.rpy:10775
 translate russia endgameMenu1_4aee14ee:
 
     # y "Good work everyone!"
-    y ""
+    y "Отличная работа!"
 
 # game/status.rpy:10799
 translate russia endgameMenu1_f036d1ae:
 
     # y "All right everyone. We got a report that Sam is hiding out at the airport."
-    y ""
+    y "Всем внимание. Мы получили сообщение, о том что Сэм скрывается в аэропорту."
 
 # game/status.rpy:10800
 translate russia endgameMenu1_09e5e0aa:
 
     # y "From what I've gathered, the place is heavily guarded, so I'm sending you out to soften up their defenses."
-    y ""
+    y "Насколько я понял, это место сильно охраняется. Поэтому я посылаю тебя, чтобы ты ослабила их оборону."
 
 # game/status.rpy:10801
 translate russia endgameMenu1_b9343146:
 
     # y "Once those are down, we can move in and capture Sam."
-    y ""
+    y "Как только они ослабнут, мы сможем пойти и захватить Сэм."
 
 # game/status.rpy:10818
 translate russia endgameMenu1_d8da5be0:
 
     # brit "We're back."
-    brit ""
+    brit "Мы вернулись."
 
 # game/status.rpy:10819
 translate russia endgameMenu1_805ece7a:
 
     # y "So you are. And the airport?"
-    y ""
+    y "Ага. Как там в аэропорту?"
 
 # game/status.rpy:10820
 translate russia endgameMenu1_930f88c4:
 
     # brit b39 "We cleared out the guards. No sign of Sam though."
-    brit b39 ""
+    brit b39 "Мы убрали охрану. Но Сэм не видели."
 
 # game/status.rpy:10821
 translate russia endgameMenu1_692be6fa:
@@ -28348,19 +28348,19 @@ translate russia endgameMenu1_692be6fa:
 translate russia endgameMenu1_171b8535:
 
     # O5O "BUT WE DID SEE SOMEONE ELSE!{w} THE SILVER HAIRED GIRL IN THE RED DRESS!"
-    O5O ""
+    O5O "НО МЫ ВИДЕЛИ КОЕ-КОГО ЕЩЁ!{W} ДЕВУШКУ С СЕРЕБРЕННЫМИ ВОЛОСАМИ В КРАСНОМ ПЛАТЬЕ!"
 
 # game/status.rpy:10823
 translate russia endgameMenu1_61252a1a:
 
     # y "Melody? She was there?"
-    y ""
+    y "Мелоди? Она была там?"
 
 # game/status.rpy:10824
 translate russia endgameMenu1_ab0558f5:
 
     # brit b31 "Yeah. We don't know what she's up to."
-    brit b31 ""
+    brit b31 "Да. Мы не знаем, что она задумала."
 
 # game/status.rpy:10825
 translate russia endgameMenu1_cf630fb5:
@@ -28372,61 +28372,61 @@ translate russia endgameMenu1_cf630fb5:
 translate russia endgameMenu1_305d45e5:
 
     # y "All right, let's not waste any time.{w} Tim, is the bondage suit ready?"
-    y ""
+    y "Ладно, не будем терять время.{w} Тим, костюм для захвата готов?"
 
 # game/status.rpy:10828
 translate russia endgameMenu1_d0ab772c:
 
     # tim "Ready but untested."
-    tim ""
+    tim "Готов, но не проверен."
 
 # game/status.rpy:10829
 translate russia endgameMenu1_7e39ae9f:
 
     # y "Then this seems like an excellent opportunity for it!"
-    y ""
+    y "Тогда это прекрасная возможность для этого!"
 
 # game/status.rpy:10830
 translate russia endgameMenu1_f08fa01f:
 
     # tim "Remember that you have to get close. You'll have to distract her before springing the trap."
-    tim ""
+    tim "Помни, что нужно подойти очень близко. Придётся отвлечь её, прежде чем использовать ловушку."
 
 # game/status.rpy:10831
 translate russia endgameMenu1_87ff6dd3:
 
     # y "Right..."
-    y ""
+    y "Точно..."
 
 # game/status.rpy:10832
 translate russia endgameMenu1_13a3dade:
 
     # O5O "WHAT ARE YOU ORDERS?!"
-    O5O ""
+    O5O "КАКОВ ПРИКАЗ?!"
 
 # game/status.rpy:10835
 translate russia endgameMenu1_13202882:
 
     # brit "Agreed. The airport will not be vulnerable for long. We have to move now."
-    brit ""
+    brit "Согласна. Аэропорт недолго будет оставаться уязвимым. Мы должны действовать сейчас."
 
 # game/status.rpy:10837
 translate russia endgameMenu1_3d1ee4b0:
 
     # y "I'm feeling kind of lazy. Let's go tomorrow."
-    y ""
+    y "Мне немного лень. Пойдём завтра."
 
 # game/status.rpy:10838
 translate russia endgameMenu1_dd365bc6:
 
     # brit "With all due respect, the airport is vulnerable to attack now."
-    brit ""
+    brit "При всём уважении, но сейчас аэропорт наиболее уязвим."
 
 # game/status.rpy:10839
 translate russia endgameMenu1_e97e04ec:
 
     # brit "We don't have time to wait.{w} Don't forget there's missiles on the way."
-    brit ""
+    brit "Мы не можем ждать.{w} Не забывай про ракеты."
 
 # game/status.rpy:10840
 translate russia endgameMenu1_a23669b1_1:
@@ -28438,43 +28438,43 @@ translate russia endgameMenu1_a23669b1_1:
 translate russia endgameMenu1_be1a8426:
 
     # brit "You forgot, didn't you....?"
-    brit ""
+    brit "Ты забыл, не так ли?"
 
 # game/status.rpy:10842
 translate russia endgameMenu1_e34e869e:
 
     # y "Not so much forgot as... 'slipped my mind'."
-    y ""
+    y "Не столько забыл, сколько... \"вылетело из головы\"."
 
 # game/status.rpy:10844
 translate russia endgameMenu1_26fdd768:
 
     # y "Actually... the news about Melody being there sounds a bit suspicious to me."
-    y ""
+    y "Вообще-то... новость о том, что Мелоди была там, кажется мне немного подозрительной."
 
 # game/status.rpy:10845
 translate russia endgameMenu1_8822580c:
 
     # y "Tim, you told me to contact her. Do you know anything about this?"
-    y ""
+    y "Тим, ты сказал мне связаться с ней. Ты знаешь что-нибудь об этом?"
 
 # game/status.rpy:10846
 translate russia endgameMenu1_ec70b1f6:
 
     # tim "I know as much as you do."
-    tim ""
+    tim "Я знаю столько же, сколько и ты."
 
 # game/status.rpy:10847
 translate russia endgameMenu1_e0470a7e:
 
     # O5O "MAYBE SHE'S SETTING A TRAP!"
-    O5O ""
+    O5O "МОЖЕТ, ОНА ГОТОВИТ ЛОВУШКУ!"
 
 # game/status.rpy:10848
 translate russia endgameMenu1_26d33ede:
 
     # tim "Or she's trying to help out a friend."
-    tim ""
+    tim "Или она пытается помочь другу."
 
 # game/status.rpy:10849
 translate russia endgameMenu1_604cdc6f_1:
@@ -28486,25 +28486,25 @@ translate russia endgameMenu1_604cdc6f_1:
 translate russia endgameMenu1_f6c5e616:
 
     # brit "Either way, the airport is vulnerable to attack now."
-    brit ""
+    brit "В любом случае, сейчас аэропорт наиболее уязвим."
 
 # game/status.rpy:10851
 translate russia endgameMenu1_804aa1b1:
 
     # brit "We don't have time to wait."
-    brit ""
+    brit "Мы не можем ждать."
 
 # game/status.rpy:10853
 translate russia endgameMenu1_ac7da505:
 
     # "You pack your things and together you make your way to the airport."
-    ""
+    "Вы собираетесь и вместе отправляетесь в аэропорт."
 
 # game/status.rpy:10854
 translate russia endgameMenu1_d4198369:
 
     # "Half way there, you stop the group after hearing a peculiar sound..."
-    ""
+    "На полпути вы останавливаете группу, услышав необычный звук..."
 
 # game/status.rpy:10857
 translate russia endgameMenu1_1ce9c404:
@@ -28516,25 +28516,25 @@ translate russia endgameMenu1_1ce9c404:
 translate russia endgameMenu1_49cca957:
 
     # brit "Why are we stopping? We're not there ye-..."
-    brit ""
+    brit "Почему мы остановились? Мы ещё не при-..."
 
 # game/status.rpy:10859
 translate russia endgameMenu1_75183423:
 
     # y "Shh. Listen."
-    y ""
+    y "Тсс. Слушайте."
 
 # game/status.rpy:10860
 translate russia endgameMenu1_d4b17a28:
 
     # "You all fall quiet and listen intensely."
-    ""
+    "Вы все затихаете и напряженно слушаете."
 
 # game/status.rpy:10861
 translate russia endgameMenu1_3ff72b5a:
 
     # "???" "{b}*Moans*{/b}"
-    "???" ""
+    "???" "{b}*Стоны*{/b}"
 
 # game/status.rpy:10862
 translate russia endgameMenu1_9cb97b48:
@@ -28546,25 +28546,25 @@ translate russia endgameMenu1_9cb97b48:
 translate russia endgameMenu1_25f71b0d:
 
     # brit "What... what's that...?"
-    brit ""
+    brit "Что... Что это...?"
 
 # game/status.rpy:10864
 translate russia endgameMenu1_b165a341:
 
     # y "It's coming from over here."
-    y ""
+    y "Он доносится от сюда."
 
 # game/status.rpy:10865
 translate russia endgameMenu1_09e95d60:
 
     # "You carefully creep closer to where the sound is coming from..."
-    ""
+    "Вы осторожно подкрадываетесь ближе к тому месту, откуда доносится звук..."
 
 # game/status.rpy:10866
 translate russia endgameMenu1_66c7cc68:
 
     # mel "Go on bitch. You're not a real Ace until you learn how to lick pussy."
-    mel ""
+    mel "Давай, сучка. Ты не настоящий Туз, пока не научишься лизать киску."
 
 # game/status.rpy:10867
 translate russia endgameMenu1_d3a59cb5_1:
@@ -28576,43 +28576,43 @@ translate russia endgameMenu1_d3a59cb5_1:
 translate russia endgameMenu1_2b1c8d3e:
 
     # y "{b}*Low*{/b} Well now I'm curious....!"
-    y ""
+    y "{b}*Тихо*{/b} Ну, теперь мне любопытно....!"
 
 # game/status.rpy:10869
 translate russia endgameMenu1_eae18c49:
 
     # brit "{b}*Low*{/b} Shhh~..."
-    brit ""
+    brit "{b}*Тихо*{/b} Тссс~..."
 
 # game/status.rpy:10870
 translate russia endgameMenu1_ed6df425:
 
     # "You creep a little closer and turn the corner....."
-    ""
+    "Вы подкрадываетесь чуть ближе и поворачиваете за угол....."
 
 # game/status.rpy:10873
 translate russia endgameMenu1_aea5130f:
 
     # y "HOLY....!"
-    y ""
+    y "Еба-...!"
 
 # game/status.rpy:10878
 translate russia endgameMenu1_31fa280c:
 
     # y "Awww yeeeeeeah."
-    y ""
+    y "Оууу дааааа."
 
 # game/status.rpy:10879
 translate russia endgameMenu1_6b19a6fb:
 
     # s "{b}*MUFFLED CURSES*{/b}!"
-    s ""
+    s "{b}*ПРИГЛУШЁННО РУГАЕТСЯ*{/b}!"
 
 # game/status.rpy:10880
 translate russia endgameMenu1_204aab6c:
 
     # y "Say cheese ladies."
-    y ""
+    y "Дамы, скажите сыр."
 
 # game/status.rpy:10886
 translate russia endgameMenu1_60ba3760:
@@ -28624,61 +28624,61 @@ translate russia endgameMenu1_60ba3760:
 translate russia endgameMenu1_2f9b5a87:
 
     # mel "About time you showed up!"
-    mel ""
+    mel "Вовремя ты появился!"
 
 # game/status.rpy:10889
 translate russia endgameMenu1_7f43a363:
 
     # y "Melody! What are you doing here?"
-    y ""
+    y "Мелоди! Что ты здесь делаешь?"
 
 # game/status.rpy:10890
 translate russia endgameMenu1_86a62a7e:
 
     # mel "What does it look like? Breaking this bitch out of her trance!"
-    mel ""
+    mel "На что это похоже? Пытаюсь вывести эту суку из транса!"
 
 # game/status.rpy:10891
 translate russia endgameMenu1_194aeb6a:
 
     # y "Aww... you came back and risked getting captured again just to rescue Sam?"
-    y ""
+    y "Оу... ты вернулась и рисковала снова попасть в плен, только чтобы спасти Сэм?"
 
 # game/status.rpy:10892
 translate russia endgameMenu1_c8e86d09:
 
     # mel "Just tell me you brought something to restrain her..."
-    mel ""
+    mel "Просто скажи мне, что ты принёс что-то, чтобы поймать её..."
 
 # game/status.rpy:10893
 translate russia endgameMenu1_edd41abb:
 
     # y "Oh right! The suit..!{w} Here... Melody, stand clear."
-    y ""
+    y "Ох, точно! Костюм...!{w} Вот... Мелоди, стой спокойно."
 
 # game/status.rpy:10895
 translate russia endgameMenu1_21a4306f:
 
     # "You throw the gadget Tim and Mathias came up with and..."
-    ""
+    "Вы бросаете гаджет, которое придумали Тим и Матиас, и..."
 
 # game/status.rpy:10900
 translate russia endgameMenu1_722a012e:
 
     # s "{b}*Mfph! Mpfhhfff!!!*{/b}"
-    s ""
+    s "{b}*Мфпх! Мпфххффф!!!*{/b}"
 
 # game/status.rpy:10901
 translate russia endgameMenu1_a2639172:
 
     # y "It worked!"
-    y ""
+    y "Сработало!"
 
 # game/status.rpy:10902
 translate russia endgameMenu1_288e3119:
 
     # s "{b}*Furious muffles!!!*{/b}"
-    s ""
+    s "{b}*Приглушённо злится!!!*{/b}"
 
 # game/status.rpy:10903
 translate russia endgameMenu1_5c6cf512:
@@ -28690,85 +28690,85 @@ translate russia endgameMenu1_5c6cf512:
 translate russia endgameMenu1_7d52d827:
 
     # s "{b}*Lustful muffles~...*{/b}"
-    s ""
+    s "{b}*Приглушённо стонет~...*{/b}"
 
 # game/status.rpy:10905
 translate russia endgameMenu1_70fe3d17:
 
     # y "Okay Cucumber, don't have too much fun in there..."
-    y ""
+    y "Ладно, Огурец, не слишком веселись там..."
 
 # game/status.rpy:10906
 translate russia endgameMenu1_f0f7cd55:
 
     # y "O5O, let's grab her and get back to the base!"
-    y ""
+    y "O5O, бери её и почапали на базу!"
 
 # game/status.rpy:10907
 translate russia endgameMenu1_fdc9c8e3:
 
     # O5O "PLEASE STOP SQUIRMING!!"
-    O5O ""
+    O5O "ПОЖАЛУЙСТА, ХВАТИТ ИЗВИВАТЬСЯ!!!"
 
 # game/status.rpy:10915
 translate russia endgameMenu1_dd27107b:
 
     # O5O "TARGET HAS BEEN PLACED IN HER CELL!"
-    O5O ""
+    O5O "ЦЕЛЬ БЫЛА ПОМЕЩЕНА В ЕЁ КАМЕРУ!"
 
 # game/status.rpy:10916
 translate russia endgameMenu1_9de438bb:
 
     # brit "She was very wiggly."
-    brit ""
+    brit "Она слишком подвижна."
 
 # game/status.rpy:10917
 translate russia endgameMenu1_ad1ef43c:
 
     # O5O "SO WIGGLY!"
-    O5O ""
+    O5O "ТАКАЯ ПОДВИЖНАЯ!"
 
 # game/status.rpy:10918
 translate russia endgameMenu1_ee9b940e:
 
     # y "All right, good work guys. I'll talk to her in a bit."
-    y ""
+    y "Хорошо, молодцы. Я поговорю с ней через некоторое время."
 
 # game/status.rpy:10919
 translate russia endgameMenu1_2be94085:
 
     # "Agent O5O and Britney nod."
-    ""
+    "Агент О5О и Бритни кивают."
 
 # game/status.rpy:10937
 translate russia endgameMenu1_14d6bda0:
 
     # s "{b}Moans{/b}!!!"
-    s ""
+    s "{b}Стонет{/b}!!!"
 
 # game/status.rpy:10938
 translate russia endgameMenu1_922d6ab5:
 
     # y "Hello there Sam. Good to see you again."
-    y ""
+    y "Привет, Сэм. Рад снова тебя видеть."
 
 # game/status.rpy:10939
 translate russia endgameMenu1_7eddad04:
 
     # s "{b}Muffled{/b}!"
-    s ""
+    s "{b}Приглушённо{/b}!"
 
 # game/status.rpy:10940
 translate russia endgameMenu1_374213d6:
 
     # y "Don't worry. Let me just get you out of th-..."
-    y ""
+    y "Не волнуйся. Позволь мне просто вытащить тебя из-..."
 
 # game/status.rpy:10941
 translate russia endgameMenu1_7de40587:
 
     # y "Wait... open your eyes..."
-    y ""
+    y "Подожди... открой глаза..."
 
 # game/status.rpy:10942
 translate russia endgameMenu1_82b04cca:
@@ -28780,19 +28780,19 @@ translate russia endgameMenu1_82b04cca:
 translate russia endgameMenu1_3e6170f8:
 
     # y "Still red...? That last nanobot update must have been a lot more powerful..."
-    y ""
+    y "Всё ещё красные...? Последнее обновление наноботов должно быть более мощное..."
 
 # game/status.rpy:10946
 translate russia endgameMenu1_c1252e5e:
 
     # y "So I was thinkin-..."
-    y ""
+    y "Я тут подумал-..."
 
 # game/status.rpy:10947
 translate russia endgameMenu1_6311dcfd:
 
     # s "{b}*Muffled Moans*{/b}!!! ♥♥♥"
-    s ""
+    s "{b}*Приглушённые стоны*{/b}!!! ♥♥♥"
 
 # game/status.rpy:10948
 translate russia endgameMenu1_6f323c89:
@@ -28804,301 +28804,301 @@ translate russia endgameMenu1_6f323c89:
 translate russia endgameMenu1_9bff1593:
 
     # y "So what I was thinking was th-..."
-    y ""
+    y "И так, то о чём я под-..."
 
 # game/status.rpy:10950
 translate russia endgameMenu1_7a130d24:
 
     # s "{b}*More Muffled Moans*{/b}!!! ♥♥♥♥♥"
-    s ""
+    s "{b}*Больше приглушённых стонов*{/b}!!! ♥♥♥♥♥"
 
 # game/status.rpy:10951
 translate russia endgameMenu1_9e379d37:
 
     # y "Calm down penis. This is not the time for-..."
-    y ""
+    y "Успокойся, пенис. Сейчас не время для-..."
 
 # game/status.rpy:10952
 translate russia endgameMenu1_8842532a:
 
     # s "{b}*LUSTFUL MUFFLED MOANS*{/b}!!! ♥♥♥♥♥♥♥♥"
-    s ""
+    s "{b}*ПОХОТЛИВЫЕ ПРИГЛУШЁННЫЕ СТОНЫ*{/b}!!! ♥♥♥♥♥♥♥♥"
 
 # game/status.rpy:10953
 translate russia endgameMenu1_74e76c18:
 
     # y "Fuck it..."
-    y ""
+    y "К чёрту..."
 
 # game/status.rpy:10954
 translate russia endgameMenu1_d027b6ce:
 
     # "You whip out your dick and begin jerking it to the moaning spy."
-    ""
+    "Вы достаёте свой член и начинаете дрочить на стонущую шпионку."
 
 # game/status.rpy:10955
 translate russia endgameMenu1_d07b7c80:
 
     # y "That's it you slut! You like it, don't ya?"
-    y ""
+    y "Вот так, шлюха! Тебе это нравится, не так ли?"
 
 # game/status.rpy:10956
 translate russia endgameMenu1_e64fd548:
 
     # s "{b}*Desperate Muffled Moans*{/b}!!! ♥♥♥♥"
-    s ""
+    s "{b}*Отчаянные приглушённые стоны*{/b}!!! ♥♥♥♥"
 
 # game/status.rpy:10957
 translate russia endgameMenu1_1127a496:
 
     # y "Fuuuuuck....!"
-    y ""
+    y "Бляяяяять....!"
 
 # game/status.rpy:10965
 translate russia endgameMenu1_16b294fb:
 
     # s "{b}*Whining Moans*{/b}"
-    s ""
+    s "{b}*Скулящее стоны*{/b}"
 
 # game/status.rpy:10966
 translate russia endgameMenu1_72858fea:
 
     # y "All right. Enough fun. Let's get you out of there."
-    y ""
+    y "Ладно. Достаточно веселья. Давай вытащим тебя оттуда."
 
 # game/status.rpy:10968
 translate russia endgameMenu1_6311dcfd_1:
 
     # s "{b}*Muffled Moans*{/b}!!! ♥♥♥"
-    s ""
+    s "{b}*Приглушённые стоны*{/b}!!! ♥♥♥"
 
 # game/status.rpy:10969
 translate russia endgameMenu1_8d71a4a8:
 
     # "You continue to watch as the spy is writhing in pleasure."
-    ""
+    "Вы продолжаете наблюдать за тем, как шпионка корчится от удовольствия."
 
 # game/status.rpy:10970
 translate russia endgameMenu1_b17249c0:
 
     # "Orgasm after orgasm hits the redheaded girl as sweat is dripping off of her."
-    ""
+    "Оргазм за оргазмом настигает рыжеволосую девушку пока пот продолжаете неё капать."
 
 # game/status.rpy:10971
 translate russia endgameMenu1_e607a53f:
 
     # y "Damn, that looks exhausting....!"
-    y ""
+    y "Чёрт, выгладит изнурительно....!"
 
 # game/status.rpy:10972
 translate russia endgameMenu1_9653d10b:
 
     # s "{b}*Desperate Muffled Moans*{/b}"
-    s ""
+    s "{b}*Отчаянные приглушённые стоны*{/b}"
 
 # game/status.rpy:10973
 translate russia endgameMenu1_1974858d:
 
     # y "Okay okay... let's get you out of there."
-    y ""
+    y "Ладно, ладно... Давай вытащим тебя оттуда."
 
 # game/status.rpy:10975
 translate russia endgameMenu1_99f20585:
 
     # y "This seems like an excellent time to practise my sea shanties!"
-    y ""
+    y "Похоже самое время попрактиковать свои морские песни!"
 
 # game/status.rpy:10976
 translate russia endgameMenu1_856a6b58:
 
     # s "Mpghhh! Mffff!! Mhphff!!! ♥♥♥♥"
-    s ""
+    s "Мпгххх! Мфффф!! Мхпхфф!!! ♥♥♥♥"
 
 # game/status.rpy:10977
 translate russia endgameMenu1_31070c5e:
 
     # y "Oh I see you're excited! Okay, so here it goes..."
-    y ""
+    y "О, я вижу, что ты взволнован! Итак, вот оно..."
 
 # game/status.rpy:10978
 translate russia endgameMenu1_44f557f2:
 
     # y "♫♪ Oooh we'd be aaaaall right, if we make it 'round the Hor-... ♫♪"
-    y ""
+    y "♫♪ \"Весёлый Роджер\" в небе, Британский герб на теле, стреля-... ♫♪"
 
 # game/status.rpy:10979
 translate russia endgameMenu1_f734e998:
 
     # s "Mfphoff! Ufghhh!!!! ♥♥♥♥"
-    s ""
+    s "Мфпхофф! Уфгххх!!!! ♥♥♥♥"
 
 # game/status.rpy:10980
 translate russia endgameMenu1_f1f0e526:
 
     # y "Please Sam. I can tell that you're loving these good ol' shanties, but try not to interrupt."
-    y ""
+    y "Пожалуйста, Сэм. Я знаю, что ты их любишь и всё такое, но постарайся не перебивать."
 
 # game/status.rpy:10981
 translate russia endgameMenu1_c3475233:
 
     # y "{b}*Ahem*{/b} ♫♪ What shall we do with the drunken sailor?! What shall we d-... ♫♪"
-    y ""
+    y "{b}*Кхем*{/b} ♫♪ Они не трусят смерти, Проворные, как черти, И обкурившись планом, Гордят-... ♫♪"
 
 # game/status.rpy:10982
 translate russia endgameMenu1_43e80ac5:
 
     # s "{b}*Desparate exausted moans*{/b} ♥♥"
-    s ""
+    s "{b}*Отчаянные уставшие стоны*{/b} ♥♥"
 
 # game/status.rpy:10983
 translate russia endgameMenu1_9c634fdd:
 
     # y "{b}*Sighs*{/b} No respect for the classics..."
-    y ""
+    y "{b}*Вздох*{/b} Никакого уважения к классике..."
 
 # game/status.rpy:10991
 translate russia endgameMenu1_801cf89d:
 
     # y "All right, back to normal?"
-    y ""
+    y "Отлично, и как, снова в норме?"
 
 # game/status.rpy:10992
 translate russia endgameMenu1_001b08ae:
 
     # "You turn off the vibrators and help the spy who's trembling on her legs."
-    ""
+    "Вы выключаете вибраторы и помогаете дрожащей шпионке."
 
 # game/status.rpy:10993
 translate russia endgameMenu1_003ff013:
 
     # y "You okay, Sam?"
-    y ""
+    y "Ты как, Сэм?"
 
 # game/status.rpy:10995
 translate russia endgameMenu1_8c42253b:
 
     # s g15 "[playerName]...?"
-    s g15 ""
+    s g15 "[playerName]...?"
 
 # game/status.rpy:10996
 translate russia endgameMenu1_5f90edfc:
 
     # s "I-I... thought you were... d-dead..."
-    s ""
+    s "Я-я... думала, что ты... м-мёртв..."
 
 # game/status.rpy:10997
 translate russia endgameMenu1_c9fa2171:
 
     # "Sam stumbles forward as you catch her just in time."
-    ""
+    "Сэм спотыкается, и вы вовремя ловите её."
 
 # game/status.rpy:10998
 translate russia endgameMenu1_5372d31e:
 
     # y "Not far off. That old tea sipper got me good."
-    y ""
+    y "Почти. Этот старый чайный хрыч хорошо попал."
 
 # game/status.rpy:10999
 translate russia endgameMenu1_b62b1c94:
 
     # s g15 "It's... not Jerry... GLADIS she-..."
-    s g15 "Г.Л.Э.Д.И.С."
+    s g15 "Это... не Джерии... Г.Л.Э.Д.И.С. она-..."
 
 # game/status.rpy:11000
 translate russia endgameMenu1_05aba7fe:
 
     # y "I know. I've been brought up to speed.{w} A lot has happened since we captured the top floor of WOOHP HQ.{w} Tim is on our side now!"
-    y ""
+    y "Я знаю. Мне уже всё рассказали.{w} Многое произошло с тех пор, как мы захватили верхний этаж штаб-квартиры WOOHP.{w} Тим теперь на нашей стороне!"
 
 # game/status.rpy:11001
 translate russia endgameMenu1_59f119a6:
 
     # s "Tim...?"
-    s ""
+    s "Тим...?"
 
 # game/status.rpy:11002
 translate russia endgameMenu1_d291e596:
 
     # y "Or well... more of an alliance of convenience."
-    y ""
+    y "Ну, или... это скорее, союз по расчёту."
 
 # game/status.rpy:11003
 translate russia endgameMenu1_23001e17:
 
     # "You quickly fill Sam in on the situation."
-    ""
+    "Вы быстро вводите Сэм в курс дела."
 
 # game/status.rpy:11004
 translate russia endgameMenu1_2f502124:
 
     # s g4 "That's... a lot to take in..."
-    s g4 ""
+    s g4 "Тут... многое нужно обдумать..."
 
 # game/status.rpy:11005
 translate russia endgameMenu1_77ddf579:
 
     # y "Unfortunately, we don't have a whole lot of time. Do you know where Clover and Alex are?"
-    y ""
+    y "К сожалению, у нас не так много времени. Ты знаешь, где находятся Кловер и Алекс?"
 
 # game/status.rpy:11006
 translate russia endgameMenu1_ab2f4514:
 
     # s g32 "Yeah... Clover is in Punk Web."
-    s g32 ""
+    s g32 "Да... Кловер в Панк-Вэбе."
 
 # game/status.rpy:11007
 translate russia endgameMenu1_bfedd13b:
 
     # y "And Alex?"
-    y ""
+    y "А Алекс?"
 
 # game/status.rpy:11008
 translate russia endgameMenu1_7918b229:
 
     # s "Still at WOOHP HQ. We'd have to plan a mission to bring them back."
-    s ""
+    s "Всё ещё в штаб-квартире WOOHP. Нам нужно спланировать миссию, чтобы вернуть их обратно."
 
 # game/status.rpy:11009
 translate russia endgameMenu1_874af300:
 
     # y "All right. In that case grab a shower and then get some rest. We'll go after them tomorrow."
-    y ""
+    y "Хорошо. В таком случае прими душ и отдохни. Мы отправимся за ними завтра."
 
 # game/status.rpy:11010
 translate russia endgameMenu1_b4eab292:
 
     # "The still trembling spy nods as you leave her cell."
-    ""
+    "Всё ещё дрожащая шпионка кивает, когда вы покидаете её камеру."
 
 # game/status.rpy:11019
 translate russia endgameMenu1_56c751c7:
 
     # brit "How is she?"
-    brit ""
+    brit "Как она?"
 
 # game/status.rpy:11020
 translate russia endgameMenu1_5d5de221:
 
     # y "Back to her old self, but exausted."
-    y ""
+    y "Она снова стала прежней, но сильно измученна."
 
 # game/status.rpy:11021
 translate russia endgameMenu1_dacac5b1:
 
     # O5O "AND THE OTHER SPIES?!"
-    O5O ""
+    O5O "А ДРУГИЕ ШПИОНКИ?!"
 
 # game/status.rpy:11022
 translate russia endgameMenu1_41a69b27:
 
     # y "I've got their location. We can start doing missions again tomorrow."
-    y ""
+    y "Я знаю где они. Мы можем начать завтра."
 
 # game/status.rpy:11023
 translate russia endgameMenu1_f76bcf3b:
 
     # "Britney and Agent O5O give you a nod and prepare for bed."
-    ""
+    "Бритни и агент O5O кивают вам и готовятся ко сну."
 
 # game/status.rpy:11029
 translate russia endgameMenu1_f15bc539:
@@ -29110,49 +29110,49 @@ translate russia endgameMenu1_f15bc539:
 translate russia endgameMenu1_4e39a5be:
 
     # tim "Is she okay...?"
-    tim ""
 
+    tim "Она в порядке...?"
 # game/status.rpy:11031
 translate russia endgameMenu1_2a111d9d:
 
     # y "A little worn out, but she'll be all right."
-    y ""
+    y "Немного измотана, но с ней всё будет в порядке."
 
 # game/status.rpy:11032
 translate russia endgameMenu1_42a05871:
 
     # y "So what's the deal between you two anyways?"
-    y ""
+    y "Так что же между вами происходит?"
 
 # game/status.rpy:11033
 translate russia endgameMenu1_17c23f7f:
 
     # tim "It's... complicated."
-    tim ""
+    tim "Это... сложно."
 
 # game/status.rpy:11034
 translate russia endgameMenu1_7d9cbfc7:
 
     # y "You sound like Sam..."
-    y ""
+    y "Ты говоришь как Сэм..."
 
 # game/status.rpy:11035
 translate russia endgameMenu1_c70dae0c:
 
     # tim "Regardless, we're not done yet."
-    tim ""
+    tim "Неважно. У нас всё ещё есть чем заняться."
 
 # game/status.rpy:11036
 translate russia endgameMenu1_bfe2202d:
 
     # tim "Only [daysTillMissle] days until we all go up in fire and smoke. Best bring those girls back quick."
-    tim ""
+    tim "Осталось [daysTillMissle] дней до того как всё взлетит на воздух. Нужно как можно быстрее вернуть девочек обратно."
 
 # game/status.rpy:11037
 translate russia endgameMenu1_a794e085:
 
     # y "Right."
-    y ""
+    y "Да."
 
 # game/status.rpy:11052
 translate russia endgameMenu1_60a42dec_1:
@@ -29164,55 +29164,55 @@ translate russia endgameMenu1_60a42dec_1:
 translate russia endgameMenu1_5091c9e9:
 
     # s g31 "All right, I'm ready! Can I suggest we rescue Clover first?"
-    s g31 ""
+    s g31 "Хорошо, я готова! Могу я предложить сначала спасти Кловер?"
 
 # game/status.rpy:11062
 translate russia endgameMenu1_3d4150d3:
 
     # y "Why Clover?"
-    y ""
+    y "Почему Кловер?"
 
 # game/status.rpy:11063
 translate russia endgameMenu1_de1ae550:
 
     # s "Alex is at WOOHP HQ. Security is probably strongest there. I could use Clover as backup if we go there."
-    s ""
+    s "Алекс находится в штаб-квартире WOOHP. Вероятно, там самая сильная безопасность. Кловер будет кстати, если мы туда пойдём."
 
 # game/status.rpy:11064
 translate russia endgameMenu1_fb70222f:
 
     # y "Good point. All right, let's plan a mission to Punk Web."
-    y ""
+    y "Хорошая мысль. Ладно, давайте спланируем миссию в Панк-Вэб."
 
 # game/status.rpy:11109
 translate russia endgameMenu1_5dfcc30c:
 
     # c "Mfph!!!?"
-    c ""
+    c "Мфпх!!!?"
 
 # game/status.rpy:11110
 translate russia endgameMenu1_ba0065ac:
 
     # c "Mmmm~....!!! ♥"
-    c ""
+    c "Мммм~....!!! ♥"
 
 # game/status.rpy:11115
 translate russia endgameMenu1_d5f6d93a:
 
     # s g53 "Gotcha!{w} [playerName] we got her."
-    s g53 ""
+    s g53 "Попалась!{w} [playerName] она у нас."
 
 # game/status.rpy:11125
 translate russia endgameMenu1_527bac41:
 
     # c "{b}*Mfmphdff!!!!*{/b}"
-    c ""
+    c "{b}*Мфмпхдфф!!!!*{/b}"
 
 # game/status.rpy:11126
 translate russia endgameMenu1_cfe91af9:
 
     # s g29 "I think she's back to normal by now. Quickly, let's get her out of the suit!"
-    s g29 ""
+    s g29 "Думаю, она уже пришла в норму. Быстрее, давайте вытащим её из костюма!"
 
 # game/status.rpy:11127
 translate russia endgameMenu1_f358cb0c:
@@ -29224,43 +29224,43 @@ translate russia endgameMenu1_f358cb0c:
 translate russia endgameMenu1_e2507a68:
 
     # y "{b}*Zip*{/b}"
-    y ""
+    y "{b}*Зип*{/b}"
 
 # game/status.rpy:11131
 translate russia endgameMenu1_de45e2f9:
 
     # s g31 "[playerName]...!"
-    s g31 ""
+    s g31 "[playerName]...!"
 
 # game/status.rpy:11132
 translate russia endgameMenu1_c9aed820:
 
     # y "Stop being so outraged, Sam. Look how hot Clover is in that."
-    y ""
+    y "Перестань возмущаться, Сэм. Посмотри, как сексуальна в нём Кловер."
 
 # game/status.rpy:11133
 translate russia endgameMenu1_bd118bf8:
 
     # s g29 "But we have to get her out!"
-    s g29 ""
+    s g29 "Но мы должны вытащить её!"
 
 # game/status.rpy:11134
 translate russia endgameMenu1_fe0f2a67:
 
     # c "Mpfhh!!"
-    c ""
+    c "Мпфхх!!"
 
 # game/status.rpy:11135
 translate russia endgameMenu1_b92fa65c:
 
     # y "No we don't."
-    y ""
+    y "Нет, не должны."
 
 # game/status.rpy:11136
 translate russia endgameMenu1_1845457e:
 
     # c "Mpghf?!"
-    c ""
+    c "Мпгхф?!"
 
 # game/status.rpy:11137
 translate russia endgameMenu1_c109e093:
@@ -29272,103 +29272,103 @@ translate russia endgameMenu1_c109e093:
 translate russia endgameMenu1_45f85c31:
 
     # s g12 "{b}*Sighs*{/b} Fine... she is looking pretty hot..."
-    s g12 ""
+    s g12 "{b}*Вздох*{/b} Ладно... она выглядит очень сексуально..."
 
 # game/status.rpy:11139
 translate russia endgameMenu1_1f6e70ed:
 
     # c "Mpfhhff!!!!"
-    c ""
+    c "Мпфххфф!!!!"
 
 # game/status.rpy:11140
 translate russia endgameMenu1_bb61e81b:
 
     # s g22 "Here, I'll help you."
-    s g22 ""
+    s g22 "Давай я тебе помогу."
 
 # game/status.rpy:11142
 translate russia endgameMenu1_48565696:
 
     # "Sam walks behind you and takes your cock in her hand before aiming it towards the squirming Clover and beginning to jerk it."
-    ""
+    "Сэм подходит к вам сзади и берёт ваш член в руку, затем направляет его на извивающуюся Кловер и начинает дрочить."
 
 # game/status.rpy:11143
 translate russia endgameMenu1_2ec2804a:
 
     # c "{b}*Whining Moans*{/b}"
-    c ""
+    c "{b}*Скулящее стоны*{/b}"
 
 # game/status.rpy:11144
 translate russia endgameMenu1_4245ebf3:
 
     # "Sam increases her speed as her delicate fingers stroke your manhood faster and faster. You are rock solid and the moans of the blonde spy are getting you close to climaxing."
-    ""
+    "Сэм ускоряется, её нежные пальчики гладят ваше мужское достоинство всё быстрее и быстрее. Вы тверды, а стоны белокурой шпионки приближают вас к кульминации."
 
 # game/status.rpy:11145
 translate russia endgameMenu1_3f926754:
 
     # "Bringing her face up to you ear, Sam whispers..."
-    ""
+    "Поднеся лицо к вашему уху, Сэм шепчет..."
 
 # game/status.rpy:11146
 translate russia endgameMenu1_63791b5a:
 
     # s "Coat the bitch~..."
-    s ""
+    s "Обкончай это суку~..."
 
 # game/status.rpy:11147
 translate russia endgameMenu1_fdf2f98c:
 
     # "Unable to hold back you let out a loud groan as you drench the red spy in cum."
-    ""
+    "Не в силах сдерживаться, вы издаёте громкий стон, обливая красную шпионку спермой."
 
 # game/status.rpy:11156
 translate russia endgameMenu1_e2578744:
 
     # c "Mpmhfff!!!!!"
-    c ""
+    c "Мпмхффф!!!!!"
 
 # game/status.rpy:11157
 translate russia endgameMenu1_8f34e163:
 
     # y "All right, all right. Let's get you out of there."
-    y ""
+    y "Хорошо, хорошо. Давай вытащим тебя оттуда."
 
 # game/status.rpy:11159
 translate russia endgameMenu1_cf51d74a:
 
     # y "We could."
-    y ""
+    y "Можно."
 
 # game/status.rpy:11160
 translate russia endgameMenu1_52c751ce:
 
     # y "Or we could just watch her for a while longer."
-    y ""
+    y "А ещё можно просто понаблюдать за ней ещё некоторое время."
 
 # game/status.rpy:11161
 translate russia endgameMenu1_8a8dbbbc:
 
     # s g31 "[playerName]!"
-    s g31 ""
+    s g31 "[playerName]!"
 
 # game/status.rpy:11162
 translate russia endgameMenu1_37c1e812:
 
     # c "Mpghff!"
-    c ""
+    c "Мпгхфф!"
 
 # game/status.rpy:11163
 translate russia endgameMenu1_c93505d4:
 
     # y "See? She's enjoying herself!"
-    y ""
+    y "Видишь? Она наслаждается!"
 
 # game/status.rpy:11164
 translate russia endgameMenu1_43b23170:
 
     # c "{b}*Pleading Moans*{/b}"
-    c ""
+    c "{b}*Умоляющее стоны*{/b}"
 
 # game/status.rpy:11165
 translate russia endgameMenu1_2ebf7899:
@@ -29380,151 +29380,151 @@ translate russia endgameMenu1_2ebf7899:
 translate russia endgameMenu1_3ce3b405:
 
     # y "Okay... maybe we should get her out..."
-    y ""
+    y "Ладно... думаю нам стоит её вытащить..."
 
 # game/status.rpy:11168
 translate russia endgameMenu1_723297dc:
 
     # y "All right blondie, that's enough fun for you."
-    y ""
+    y "Ладно, хватит с тебя веселья, Кловер."
 
 # game/status.rpy:11176
 translate russia endgameMenu1_d377d6a3:
 
     # c r14 "{b}*Pant* *Pant*{/b}"
-    c r14 ""
+    c r14 "{b}*Одышка* *Одышка*{/b}"
 
 # game/status.rpy:11177
 translate russia endgameMenu1_561d42a6:
 
     # y "Welcome back to us Clov-..."
-    y ""
+    y "Добро пожаловать обратно, Клов-..."
 
 # game/status.rpy:11178
 translate russia endgameMenu1_60f993fc:
 
     # c r7 "Raaaaah!"
-    c r7 ""
+    c r7 "Раааааарх!"
 
 # game/status.rpy:11182
 translate russia endgameMenu1_94615cf8:
 
     # y "Aaah!{w} Quickly Sam, help me! She's still being nanobot controlled!"
-    y ""
+    y "Аааа!{w} Быстрее, Сэм, помоги мне! Она всё ещё под контролем!"
 
 # game/status.rpy:11184
 translate russia endgameMenu1_6cc151e5:
 
     # c r31 "No I'm not, you crazy pervert! Don't ever put me in that suit again!"
-    c r31 ""
+    c r31 "Неправда, ты сумасшедший извращенец! Никогда больше не одевай меня в этот костюм!"
 
 # game/status.rpy:11185
 translate russia endgameMenu1_2903dc86:
 
     # y "Not a fan?"
-    y ""
+    y "Не понравилось?"
 
 # game/status.rpy:11186
 translate russia endgameMenu1_98ddb6f7:
 
     # c r9 "{b}NOT{/b} a fan!"
-    c r9 ""
+    c r9 "{b}НЕ{/b} понравилось!"
 
 # game/status.rpy:11187
 translate russia endgameMenu1_13c61b06:
 
     # y "Well too bad. If you're going crazy for cocoa puffs again, you be damn sure I'm gonna put you in that suit again."
-    y ""
+    y "Очень жаль. Если ты снова сходишь с ума от какао, будь уверена, я снова одену тебя в этот костюм."
 
 # game/status.rpy:11189
 translate russia endgameMenu1_16cee8ab:
 
     # s g55 "Come on Clover. It was pretty hot, right?"
-    s g55 ""
+    s g55 "Да ладно Кловер. Было довольно жарко, ведь так?"
 
 # game/status.rpy:11190
 translate russia endgameMenu1_3e4ce180:
 
     # c r12 "Sam.....{w} You turned out to be the biggest sex freak of us all."
-    c r12 ""
+    c r12 "Сэм.....{w} Ты оказалась самой озабоченной из всех нас."
 
 # game/status.rpy:11191
 translate russia endgameMenu1_7817a402:
 
     # s g53 "Hey!"
-    s g53 ""
+    s g53 "Эй!"
 
 # game/status.rpy:11192
 translate russia endgameMenu1_e097e619:
 
     # y "All's well that ends well. Two spies in the bag, now we only nee-... {w}Ow...!"
-    y ""
+    y "Всё хорошо, что хорошо кончается. Две шпионки в мешке, теперь нам нуж-... {w}Ау...!"
 
 # game/status.rpy:11193
 translate russia endgameMenu1_8c7dc031:
 
     # c r10 "C'mon [playerName]. I didn't punch you that hard."
-    c r10 ""
+    c r10 "Да ладно [playerName]. Я ударила не так сильно."
 
 # game/status.rpy:11194
 translate russia endgameMenu1_b44608df:
 
     # y "Bullet wound."
-    y ""
+    y "Пулевое ранение."
 
 # game/status.rpy:11195
 translate russia endgameMenu1_f8489b57:
 
     # c r16 "Bullet wou-...{w} Oh God! I completely forgot!"
-    c r16 ""
+    c r16 "Пулевое ране-...{w} О Боже! Я совсем забыла!"
 
 # game/status.rpy:11196
 translate russia endgameMenu1_7132fe9a:
 
     # c r28 "[playerName]! You're alive!"
-    c r28 ""
+    c r28 "[playerName]! Ты жив!"
 
 # game/status.rpy:11198
 translate russia endgameMenu1_710768cf:
 
     # "You quickly fill Clover in on the situation."
-    ""
+    "Вы быстро вводите Кловер в курс дела."
 
 # game/status.rpy:11201
 translate russia endgameMenu1_b73afacb:
 
     # c r18 "Missiles...?"
-    c r18 ""
+    c r18 "Ракеты...?"
 
 # game/status.rpy:11202
 translate russia endgameMenu1_00a3a6c3:
 
     # c "I think I heard Alex saying something about that."
-    c ""
+    c "Кажется, я слышала, как Алекс что-то об этом говорила."
 
 # game/status.rpy:11203
 translate russia endgameMenu1_80c5c3de:
 
     # s g56 "Alex?"
-    s g56 ""
+    s g56 "Алекс?"
 
 # game/status.rpy:11204
 translate russia endgameMenu1_097817b5:
 
     # c r29 "Yeah that's right! Alex has been put in charge of guardian the WOOHP missile silos!"
-    c r29 ""
+    c r29 "Да, именно так! Алекс был назначен ответственной за охрану ракетных шахт WOOHP!"
 
 # game/status.rpy:11205
 translate russia endgameMenu1_14056409:
 
     # y "Then that's where we're going next.{w} Head back to your cell and get some rest. We're planning a mission to WOOHP tomorrow."
-    y ""
+    y "Значит вот куда мы направимся дальше.{w} Отправляйтесь по камерам и отдохните. Завтра мы отправляемся в WOOHP."
 
 # game/status.rpy:11209
 translate russia endgameMenu1_0729e1ea:
 
     # "The girls nod and head back to their cells."
-    ""
+    "Девочки кивают и возвращаются в свои камеры."
 
 # game/status.rpy:11211
 translate russia endgameMenu1_604cdc6f_2:
@@ -29536,7 +29536,7 @@ translate russia endgameMenu1_604cdc6f_2:
 translate russia endgameMenu1_150a3fc8:
 
     # "Your wounds aren't healed yet. Best to get an early night yourself."
-    ""
+    "Ваши раны ещё не зажили. Лучше и самому лечь пораньше."
 
 # game/status.rpy:11233
 translate russia endgameMenu1_60a42dec_2:
@@ -29548,13 +29548,13 @@ translate russia endgameMenu1_60a42dec_2:
 translate russia endgameMenu1_7a6944f9:
 
     # y "All right. Everyone rested? Then let's plan another mission and get Alex back."
-    y ""
+    y "Отлично. Все отдохнули? Тогда давайте спланируем ещё одну миссию и вернём Алекс."
 
 # game/status.rpy:11282
 translate russia endgameMenu1_c4677a3f:
 
     # y "Hah! Gotcha!"
-    y ""
+    y "Хах! Попалась!"
 
 # game/status.rpy:11283
 translate russia endgameMenu1_6d807c8c:
@@ -29566,7 +29566,7 @@ translate russia endgameMenu1_6d807c8c:
 translate russia endgameMenu1_ee99fffe:
 
     # y "Er..."
-    y ""
+    y "Эмм..."
 
 # game/status.rpy:11285
 translate russia endgameMenu1_6d807c8c_1:
@@ -29578,7 +29578,7 @@ translate russia endgameMenu1_6d807c8c_1:
 translate russia endgameMenu1_a2f2ebae:
 
     # y "Alex...?"
-    y ""
+    y "Алекс...?"
 
 # game/status.rpy:11287
 translate russia endgameMenu1_6d807c8c_2:
@@ -29590,19 +29590,19 @@ translate russia endgameMenu1_6d807c8c_2:
 translate russia endgameMenu1_78940657:
 
     # y "Okay you're freaking me out."
-    y ""
+    y "Ладно, ты меня пугаешь."
 
 # game/status.rpy:11290
 translate russia endgameMenu1_eab62d75:
 
     # s "Let's get her back to the base."
-    s ""
+    s "Давайте вернём её на базу."
 
 # game/status.rpy:11291
 translate russia endgameMenu1_9b32fb43:
 
     # y "Good idea."
-    y ""
+    y "Хорошая идея."
 
 # game/status.rpy:11301
 translate russia endgameMenu1_804a8fec:
@@ -29614,13 +29614,13 @@ translate russia endgameMenu1_804a8fec:
 translate russia endgameMenu1_5be7dd55:
 
     # y "Okay now you're really freaking me out Alex!"
-    y ""
+    y "Ладно, теперь ты действительно меня пугаешь, Алекс!"
 
 # game/status.rpy:11303
 translate russia endgameMenu1_548eed1a:
 
     # y "Say something! Or at least make a noise!"
-    y ""
+    y "Скажи что-нибудь! Или издай хоть какой-нибудь звук!"
 
 # game/status.rpy:11304
 translate russia endgameMenu1_804a8fec_1:
@@ -29632,37 +29632,37 @@ translate russia endgameMenu1_804a8fec_1:
 translate russia endgameMenu1_c8275725:
 
     # s "Er.. [playerName]. I think we should just take her out of the suit."
-    s ""
+    s "Эмм.. [playerName]. Думаю, мы должны просто вытащить её из костюма."
 
 # game/status.rpy:11309
 translate russia endgameMenu1_cf5a0925:
 
     # c "We'll keep her pinned down, just in case."
-    c ""
+    c "Мы будем держать её, на всякий случай."
 
 # game/status.rpy:11310
 translate russia endgameMenu1_3073a077:
 
     # y "All right. As long as I don't get attacked again."
-    y ""
+    y "Хорошо. Если только на меня снова не нападут."
 
 # game/status.rpy:11313
 translate russia endgameMenu1_5655fda2:
 
     # "You begin slipping Alex out of her bondage suit as the other girls pin her down."
-    ""
+    "Вы начинаете снимать с Алекс её костюм, пока другие девушки прижимают её к полу."
 
 # game/status.rpy:11315
 translate russia endgameMenu1_a7672129:
 
     # a "{b}*Gasp*{/b}!!!"
-    a ""
+    a "{b}*Вздох*{/b}!!!"
 
 # game/status.rpy:11316
 translate russia endgameMenu1_0805b14f:
 
     # a y29 "I thought you were never letting me out of there!"
-    a y29 ""
+    a y29 "Я думала, вы никогда не выпустите меня оттуда!"
 
 # game/status.rpy:11317
 translate russia endgameMenu1_6f362d57_1:
@@ -29674,73 +29674,73 @@ translate russia endgameMenu1_6f362d57_1:
 translate russia endgameMenu1_d271b6d1:
 
     # y "Alex? Back to normal?"
-    y ""
+    y "Алекс? Вернулась к норме?"
 
 # game/status.rpy:11319
 translate russia endgameMenu1_5c301c8e:
 
     # a y1 "Yup!"
-    a y1 ""
+    a y1 "Ага!"
 
 # game/status.rpy:11320
 translate russia endgameMenu1_c535986b:
 
     # y "What was going on...? You didn't make a sound when you were in that suit..."
-    y ""
+    y "Что произошло...? Ты не издала ни звука, когда была в этом костюме..."
 
 # game/status.rpy:11321
 translate russia endgameMenu1_788ae54e:
 
     # a "Of course not. I follow the WOOHP Sexual Torture course to resist that kind of thing!"
-    a ""
+    a "Конечно, нет. Я следовала курсу \"Сексуальных пыток WOOHP\", чтобы противостоять подобным вещам!"
 
 # game/status.rpy:11322
 translate russia endgameMenu1_3d8d3751:
 
     # c r18 "The WOOHP wha-...?"
-    c r18 ""
+    c r18 "WOOHP чт-...?"
 
 # game/status.rpy:11323
 translate russia endgameMenu1_be3bd0f6:
 
     # s g17 "There was a course for that?!"
-    s g17 ""
+    s g17 "Были такие курсы?!"
 
 # game/status.rpy:11324
 translate russia endgameMenu1_ab75b63a:
 
     # s "Why didn't I know of this?!"
-    s ""
+    s "Почему я об этом не знала?!"
 
 # game/status.rpy:11325
 translate russia endgameMenu1_683728f2:
 
     # c r52 "Sam, calm do-..."
-    c r52 ""
+    c r52 "Сэм, успо-..."
 
 # game/status.rpy:11326
 translate russia endgameMenu1_867cbb8b:
 
     # s g40 "Do you have any idea how many semi-sexual situations this job has put us into?!"
-    s g40 ""
+    s g40 "Вы хоть представляете, во сколько около-сексуальных ситуаций нас завела эта работа?!"
 
 # game/status.rpy:11327
 translate russia endgameMenu1_7e7e0d49:
 
     # s "I have the most messed up fetishes because of it!"
-    s ""
+    s "Из-за этого у меня самые испорченные фетиши!"
 
 # game/status.rpy:11328
 translate russia endgameMenu1_6f4c45f8:
 
     # y "Okay, too much info.{w} Alex. It's good to have you back with us."
-    y ""
+    y "Ладно, слишком много информации.{w} Алекс. Хорошо, что ты снова с нами."
 
 # game/status.rpy:11329
 translate russia endgameMenu1_f5ea9f46:
 
     # a "It's great to be back!"
-    a ""
+    a "Я рада, что вернулась!"
 
 # game/status.rpy:11330
 translate russia endgameMenu1_78d4757d:
@@ -29752,49 +29752,49 @@ translate russia endgameMenu1_78d4757d:
 translate russia endgameMenu1_93928a56:
 
     # a "Didn't you die, [playerName]...?"
-    a ""
+    a "Разве ты не умер, [playerName]...?"
 
 # game/status.rpy:11332
 translate russia endgameMenu1_453fb604:
 
     # y "It's... a long story..."
-    y ""
+    y "Это... длинная история..."
 
 # game/status.rpy:11334
 translate russia endgameMenu1_026008e6:
 
     # "You quickly bring Alex up to speed."
-    ""
+    "Вы быстро вводите Алекс в курс дела."
 
 # game/status.rpy:11336
 translate russia endgameMenu1_3b5df312:
 
     # a y1 "I'm glad you're not dead [playerName]."
-    a y1 ""
+    a y1 "Я рада, что ты не умер [playerName]."
 
 # game/status.rpy:11337
 translate russia endgameMenu1_1df812e0:
 
     # a "As for the missiles... I think I can help with that!"
-    a ""
+    a "Что касается ракет... Думаю, я смогу помочь!"
 
 # game/status.rpy:11338
 translate russia endgameMenu1_f3d11a5f:
 
     # a y31 "Security has been pretty lacks on the missile silos. I got a good look at the place and know exactly where to go!"
-    a y31 ""
+    a y31 "Охрана ракетных шахт была довольно слабой. Я хорошо изучила это место и точно знаю, куда идти!"
 
 # game/status.rpy:11339
 translate russia endgameMenu1_615e3ad5:
 
     # c r56 "Finally, something easy for a change."
-    c r56 ""
+    c r56 "Наконец-то, что-то простое, для разнообразия."
 
 # game/status.rpy:11340
 translate russia endgameMenu1_1860b0cb:
 
     # s g55 "Good job Alex!"
-    s g55 ""
+    s g55 "Отличная работа Алекс!"
 
 # game/status.rpy:11341
 translate russia endgameMenu1_604cdc6f_3:
@@ -29806,19 +29806,19 @@ translate russia endgameMenu1_604cdc6f_3:
 translate russia endgameMenu1_28275d05:
 
     # s g16 "[playerName]...?"
-    s g16 ""
+    s g16 "[playerName]...?"
 
 # game/status.rpy:11343
 translate russia endgameMenu1_f07d90b8:
 
     # y "Nah it's nothing. Let's discuss a plan of attack."
-    y ""
+    y "Нет, ничего страшного. Давайте обсудим план атаки."
 
 # game/status.rpy:11344
 translate russia endgameMenu1_655477b5:
 
     # a "Right!"
-    a ""
+    a "Точно!"
 
 # game/status.rpy:11350
 translate russia endgameMenu1_64a2b68e:
@@ -29830,55 +29830,55 @@ translate russia endgameMenu1_64a2b68e:
 translate russia endgameMenu1_20e3212e:
 
     # "Inner Voice" "What's the matter?"
-    "Внутренний голос" ""
+    "Внутренний голос" "В чём дело?"
 
 # game/status.rpy:11352
 translate russia endgameMenu1_28ef09d2:
 
     # y "So here's what I've been thinking..."
-    y ""
+    y "Я тут подумал..."
 
 # game/status.rpy:11353
 translate russia endgameMenu1_920fd3f6:
 
     # y "We've fallen for nothing but traps this whole time. GLADIS has been ahead of us by one step...."
-    y "Г.Л.Э.Д.И.С."
+    y "Всё это время мы попадались в ловушки. Г.Л.Э.Д.И.С. всегда опережала нас на один шаг..."
 
 # game/status.rpy:11354
 translate russia endgameMenu1_64fba246:
 
     # "Inner Voice" "So...?"
-    "Внутренний голос" ""
+    "Внутренний голос" "Ии...?"
 
 # game/status.rpy:11355
 translate russia endgameMenu1_df1a0042:
 
     # y "So why did she leave the missile silos guarded by the most ditzy of the spies?"
-    y ""
+    y "Так почему же она оставила ракетные шахты под охраной самой глупой из шпионок?"
 
 # game/status.rpy:11356
 translate russia endgameMenu1_77fd83d0:
 
     # y "Don't get me wrong. I love Alex. But would you put her in charge of guarding an arsenal of weapons of mass destruction?"
-    y ""
+    y "Не пойми меня неправильно. Я люблю Алекс. Но поставил бы ты её охранять арсенал оружия массового поражения?"
 
 # game/status.rpy:11357
 translate russia endgameMenu1_80d42ef2:
 
     # "Inner Voice" "Erm... probably not..."
-    "Внутренний голос" ""
+    "Внутренний голос" "Эмм... наверное, нет..."
 
 # game/status.rpy:11358
 translate russia endgameMenu1_86c12410_1:
 
     # y "Exactly."
-    y ""
+    y "Именно."
 
 # game/status.rpy:11359
 translate russia endgameMenu1_f8bcee66:
 
     # "Inner Voice" "You think it's another trap?"
-    "Внутренний голос" ""
+    "Внутренний голос" "Думаешь, это очередная ловушка?"
 
 # game/status.rpy:11360
 translate russia endgameMenu1_9500a0b4_3:
@@ -29890,13 +29890,13 @@ translate russia endgameMenu1_9500a0b4_3:
 translate russia endgameMenu1_ad4a8ff5:
 
     # y "I guess we're about to find out. I'll meet up with the girls and discuss a plan of action."
-    y ""
+    y "Думаю, скоро мы это узнаем. Я встречусь с девочками и обсужу план действий."
 
 # game/status.rpy:11379
 translate russia endgameMenu1_3ac05dc5:
 
     # y "All right you hoes. Plan of action...!"
-    y ""
+    y "Ладно, шлюхи. План действий...!"
 
 # game/status.rpy:11380
 translate russia endgameMenu1_cf630fb5_1:
@@ -29908,127 +29908,127 @@ translate russia endgameMenu1_cf630fb5_1:
 translate russia endgameMenu1_6cbd8069:
 
     # y "We do nothing."
-    y ""
+    y "Мы ничего не делаем."
 
 # game/status.rpy:11382
 translate russia endgameMenu1_24a787dc:
 
     # c r16 "Huh?"
-    c r16 ""
+    c r16 "Хух?"
 
 # game/status.rpy:11383
 translate russia endgameMenu1_657b752f:
 
     # s g17 "Nothing? How can we do nothing?!"
-    s g17 ""
+    s g17 "Ничего? Как мы можем ничего не делать?!"
 
 # game/status.rpy:11384
 translate russia endgameMenu1_20164fac:
 
     # a y28 "Yes, Beverly Hills is about to become a crator!"
-    a y28 ""
+    a y28 "Да, Беверли-Хиллз скоро станет кратером!"
 
 # game/status.rpy:11385
 translate russia endgameMenu1_65b7a283:
 
     # y "Is it?{w} Alex, you saw the missiles, right?"
-    y ""
+    y "Так ли это?{w} Алекс, ты ведь видела ракеты?"
 
 # game/status.rpy:11386
 translate russia endgameMenu1_876e47b3:
 
     # a y29 "Yes... I had to guard them."
-    a y29 ""
+    a y29 "Да... Я должна была их охранять."
 
 # game/status.rpy:11387
 translate russia endgameMenu1_2f0dd81f:
 
     # y "Did anything seem wrong to them to you? Are they under maintenance?"
-    y ""
+    y "Ты не заметила, что сними что-то не так? Они находятся на техническом обслуживании?"
 
 # game/status.rpy:11388
 translate russia endgameMenu1_1d62c96e:
 
     # a y28 "No, they looked ready to fire!"
-    a y28 ""
+    a y28 "Нет, они выглядели готовыми к запуску!"
 
 # game/status.rpy:11389
 translate russia endgameMenu1_1c96002c:
 
     # s g31 "[playerName] every moment we waste here could cost us the city."
-    s g31 ""
+    s g31 "[playerName] каждое мгновение, которое мы здесь теряем, может стоить нам города."
 
 # game/status.rpy:11390
 translate russia endgameMenu1_03feba20:
 
     # c r38 "And our lives!"
-    c r38 ""
+    c r38 "И наши жизни!"
 
 # game/status.rpy:11391
 translate russia endgameMenu1_e810f84c:
 
     # y "If the missiles were ready to fire... why haven't they?"
-    y ""
+    y "Если бы ракеты были готовы к запуску... почему они ещё не взлетели?"
 
 # game/status.rpy:11392
 translate russia endgameMenu1_e53f66f4:
 
     # s g16 "What...?"
-    s g16 ""
+    s g16 "Что...?"
 
 # game/status.rpy:11393
 translate russia endgameMenu1_64a9b33d:
 
     # y "Missiles don't take a month to get ready to fire.{w} You get the location and press the launch button."
-    y ""
+    y "Ракетам не требуется месяц, чтобы подготовить их к запуску.{w} Вы получаете местоположение и нажимаете кнопку запуска."
 
 # game/status.rpy:11394
 translate russia endgameMenu1_eb85b372:
 
     # y "This whole time we've been walking into GLADIS' traps. This whole time she's been one step ahead of us."
-    y "Г.Л.Э.Д.И.С."
+    y "Всё это время мы попадали в ловушки Г.Л.Э.Д.И.С.. Всё это время она была на шаг впереди нас."
 
 # game/status.rpy:11395
 translate russia endgameMenu1_44b76fc6:
 
     # y "And now she's broadcasting to the entire city that she's going to destroy it in 30 days.{w} Why wait?"
-    y ""
+    y "И теперь она вещает на весь город, что собирается уничтожить его за 30 дней.{w} Зачем ждать?"
 
 # game/status.rpy:11396
 translate russia endgameMenu1_5effc6a0:
 
     # c r18 "I don't know..."
-    c r18 ""
+    c r18 "Я не знаю..."
 
 # game/status.rpy:11397
 translate russia endgameMenu1_d3fd3711:
 
     # y "I'll tell you why. She can't."
-    y ""
+    y "Я скажу вам почему. Она не может."
 
 # game/status.rpy:11398
 translate russia endgameMenu1_c0aec138:
 
     # a y28 "That's not true! She's done it before!"
-    a y28 ""
+    a y28 "Это неправда! Она уже делала это раньше!"
 
 # game/status.rpy:11399
 translate russia endgameMenu1_ced70906:
 
     # y "Exactly. And would Jerry risk the same mistake twice?"
-    y ""
+    y "Именно. Рискнёт ли Джерри повторить одну и ту же ошибку дважды?"
 
 # game/status.rpy:11400
 translate russia endgameMenu1_0b081596:
 
     # s g38 "But..."
-    s g38 ""
+    s g38 "Но..."
 
 # game/status.rpy:11401
 translate russia endgameMenu1_38bf74b1:
 
     # y "I think she's bluffing. I think that she expects us to try and stop the missiles and let us walk right into another trap of hers."
-    y ""
+    y "Я думаю, она блефует. Думаю она ждёт, что мы попытаемся остановить ракеты и тогда она позволит нам попасть в её очередную ловушку."
 
 # game/status.rpy:11402
 translate russia endgameMenu1_05cdf1ce:
@@ -30040,223 +30040,223 @@ translate russia endgameMenu1_05cdf1ce:
 translate russia endgameMenu1_9311f904:
 
     # s g16 "Then... what do you think we should do?"
-    s g16 ""
+    s g16 "Тогда... что, по-твоему, мы должны делать?"
 
 # game/status.rpy:11404
 translate russia endgameMenu1_01465f9e:
 
     # y "I'd say we attack the WOOHP HQ again. Directly."
-    y ""
+    y "Я бы сказал, что мы снова атакуем штаб-квартиру WOOHP. На прямую."
 
 # game/status.rpy:11405
 translate russia endgameMenu1_a2d4cef6:
 
     # a y29 "But all of our agents are back to being mind controlled!"
-    a y29 ""
+    a y29 "Но все наши агенты снова под контролем!"
 
 # game/status.rpy:11406
 translate russia endgameMenu1_6013465a:
 
     # c r10 "Yeah, we'd need an army to take back that place."
-    c r10 ""
+    c r10 "Да, нам понадобится целая армия, чтобы вернуть штаб."
 
 # game/status.rpy:11407
 translate russia endgameMenu1_6ebba15b:
 
     # s g15 "An army we don't have..."
-    s g15 ""
+    s g15 "Армия, которой у нас нет..."
 
 # game/status.rpy:11410
 translate russia endgameMenu1_49deb4be:
 
     # y "We got one the first time."
-    y ""
+    y "У нас появится армия всего за один раз."
 
 # game/status.rpy:11411
 translate russia endgameMenu1_1b48e7df:
 
     # c r10 "[playerName]... Do you have any idea how much dick we'd have to suck to get that many agents on our side again?"
-    c r10 ""
+    c r10 "[playerName]... Ты хоть представляешь, сколько членов нам придётся отсосать, чтобы снова привлечь на свою сторону столько агентов?"
 
 # game/status.rpy:11412
 translate russia endgameMenu1_4f896ead:
 
     # s g23 "And here I thought you'd be excited for that, Clover~..."
-    s g23 ""
+    s g23 "И вот я думала, что ты будешь рада этому, Кловер~..."
 
 # game/status.rpy:11413
 translate russia endgameMenu1_198596bb:
 
     # c r9 "Not now Sam...!"
-    c r9 ""
+    c r9 "Не сейчас Сэм...!"
 
 # game/status.rpy:11414
 translate russia endgameMenu1_4e3058a8:
 
     # a y42 "I'm going to be so sticky..."
-    a y42 ""
+    a y42 "Я буду такой липкой..."
 
 # game/status.rpy:11415
 translate russia endgameMenu1_fcd7fc1f:
 
     # y "Okay, okay. Hang on just a moment."
-    y ""
+    y "Ладно, ладно. Подождите минутку."
 
 # game/status.rpy:11416
 translate russia endgameMenu1_38f7c2e8:
 
     # y "No one is doing any dick sucking unless it's mine."
-    y ""
+    y "Никто не будет сосать член, если он не мой."
 
 # game/status.rpy:11417
 translate russia endgameMenu1_ba72093b:
 
     # y "I'm not talking about the agents."
-    y ""
+    y "Я говорю не об агентах."
 
 # game/status.rpy:11418
 translate russia endgameMenu1_18616628:
 
     # s g16 "I don't follow..."
-    s g16 ""
+    s g16 "Я не понимаю..."
 
 # game/status.rpy:11420
 translate russia endgameMenu1_7ab1ecb8:
 
     # y "We don't need an army. We just need a mob."
-    y ""
+    y "Нам не нужна армия. Нам просто нужна толпа."
 
 # game/status.rpy:11421
 translate russia endgameMenu1_e0c5fdef:
 
     # c r16 "A mob?"
-    c r16 ""
+    c r16 "Толпа?"
 
 # game/status.rpy:11422
 translate russia endgameMenu1_d565c02f:
 
     # a y29 "Like to clean the floor with?"
-    a y29 ""
+    a y29 "Мы устроим протест?!"
 
 # game/status.rpy:11423
 translate russia endgameMenu1_b7cc5e3f:
 
     # s g16 "What are we going to do with a mop?"
-    s g16 ""
+    s g16 "Зачем нам протест?"
 
 # game/status.rpy:11424
 translate russia endgameMenu1_81b00d31:
 
     # y "N-no... a mob!{w} Pay attention girls. A mob of people. Angry people, preferably."
-    y ""
+    y "Н-нет... никакого протеста!{w} Обратите внимание, девочки. Нам нужна толпа. Желательно злых людей."
 
 # game/status.rpy:11426
 translate russia endgameMenu1_8533a57f:
 
     # y "{b}*Inhale*{/b}"
-    y ""
+    y "{b}*Вдох*{/b}"
 
 # game/status.rpy:11427
 translate russia endgameMenu1_20a2fec2:
 
     # c r10 "No."
-    c r10 ""
+    c r10 "Нет."
 
 # game/status.rpy:11428
 translate russia endgameMenu1_d1fd2e6f:
 
     # y "But I haven't even said anything yet!"
-    y ""
+    y "Но я ещё даже ничего не сказал!"
 
 # game/status.rpy:11429
 translate russia endgameMenu1_093e1cd1:
 
     # s g10 "We know you longer than today. Whatever you're planning on saying, it's probably nuts."
-    s g10 ""
+    s g10 "Мы знаем тебя не один день. Что бы ты не хотел сказать, это, скорее всего, полный бред."
 
 # game/status.rpy:11430
 translate russia endgameMenu1_668795c8:
 
     # a y29 "Yeah! You're crazy, [playerName]!"
-    a y29 ""
+    a y29 "Ага! Ты сумасшедший, [playerName]!"
 
 # game/status.rpy:11431
 translate russia endgameMenu1_776e77a7:
 
     # y "Ow.... hurtful."
-    y ""
+    y "Ай.... обидно."
 
 # game/status.rpy:11432
 translate russia endgameMenu1_d63b7469:
 
     # y "After all this time and you guys still don't trust me..."
-    y ""
+    y "После всего через что мы прошли вы, всё ещё мне не доверяете..."
 
 # game/status.rpy:11433
 translate russia endgameMenu1_b6e7f961:
 
     # y "{b}*Sniff*{/b} After everything I sacrificed... After all I've done for you... You still think I'm just a looney..."
-    y "{b}*Шмыгает носом*{/b}"
+    y "{b}*Шмыгает носом*{/b} После всего, чем я пожертвовал... После всего, что я для вас сделал... Вы всё ещё думаете, что я просто псих..."
 
 # game/status.rpy:11434
 translate russia endgameMenu1_80a58105:
 
     # a "Ahw... I'm sorry [playerName]. I didn't mean it like that!"
-    a ""
+    a "Эмм... Прости [playerName]. Я не это имела в виду!"
 
 # game/status.rpy:11435
 translate russia endgameMenu1_ef24724a:
 
     # s g29 "A-are... are you going to cry? I'm sorry [playerName]...! I might've been a bit too harsh!"
-    s g29 ""
+    s g29 "Т-ты... плачешь? Мне жаль [playerName]...! Возможно это было слишком резко!"
 
 # game/status.rpy:11436
 translate russia endgameMenu1_79a6f1f1:
 
     # c r12 "Girls, stop being so gullable, he's just faking it."
-    c r12 ""
+    c r12 "Девочки, перестаньте быть такими доверчивыми, он просто притворяется."
 
 # game/status.rpy:11437
 translate russia endgameMenu1_6613c805:
 
     # y "And you [cloverNick]! Did I not keep your secret of being a closet nerd?"
-    y ""
+    y "А ты [cloverNick]! Разве я не скрыл от всех, что в тайне ты гик?"
 
 # game/status.rpy:11438
 translate russia endgameMenu1_a0388bb4:
 
     # y "And all those cute outfits I bought you...!"
-    y ""
+    y "А все эти милые наряды, которые я тебе покупал...!"
 
 # game/status.rpy:11439
 translate russia endgameMenu1_ed1e847f:
 
     # c "Well..."
-    c ""
+    c "Нуу..."
 
 # game/status.rpy:11440
 translate russia endgameMenu1_8e0c103f:
 
     # y "And that cute way your ass jiggles when I spank it."
-    y ""
+    y "А как мило твоя попка трясётся, когда я её шлепаю."
 
 # game/status.rpy:11441
 translate russia endgameMenu1_38b7486d:
 
     # c r10 "Aaaand you ruined it."
-    c r10 ""
+    c r10 "Ииииии ты всё испортил."
 
 # game/status.rpy:11442
 translate russia endgameMenu1_e9e326a6:
 
     # s g1 "Don't listen to her, [playerName]! I want to hear your plan!"
-    s g1 ""
+    s g1 "Не слушай её, [playerName]! Я хочу услышать твой план!"
 
 # game/status.rpy:11443
 translate russia endgameMenu1_3174782f:
 
     # a y1 "Yeah! And you're right, her ass does look cute when you slap it!"
-    a y1 ""
+    a y1 "Да! Ты прав, её задница выглядит мило, когда её шлепаешь!"
 
 # game/status.rpy:11444
 translate russia endgameMenu1_8abd0614:
@@ -30268,37 +30268,37 @@ translate russia endgameMenu1_8abd0614:
 translate russia endgameMenu1_0a5411ca:
 
     # y "Well if you really want to hear it... I was thinking..."
-    y ""
+    y "Ну, если вы действительно хотите знать... Я тут подумал..."
 
 # game/status.rpy:11446
 translate russia endgameMenu1_eda27352:
 
     # c r10 "I swear to God, if he's going to say rh-..."
-    c r10 ""
+    c r10 "Клянусь Богом, если он скажет нос-..."
 
 # game/status.rpy:11447
 translate russia endgameMenu1_8f2ccb8d:
 
     # y "RHINOS!"
-    y ""
+    y "НОСОРОГИ!"
 
 # game/status.rpy:11448
 translate russia endgameMenu1_7ca7feb1:
 
     # y "I read a book that said something about raining frogs. So I was like: why think small?! I even have a catchy name for it!"
-    y ""
+    y "Я читал книгу, в которой говорилось о дожде из лягушек. И тогда я подумал: зачем так мелочиться?! Я даже придумал для этого запоминающееся название!"
 
 # game/status.rpy:11449
 translate russia endgameMenu1_c2980ccf:
 
     # y "RHINO RAIN!"
-    y ""
+    y "НОСОРОГО-ДОЖДЬ!"
 
 # game/status.rpy:11450
 translate russia endgameMenu1_4703d75e:
 
     # y "Isn't that the most METAL thing you ever heard?!"
-    y ""
+    y "Разве это не самая АХУЕННАЯ вещь, которую вы когда-либо слышали?!"
 
 # game/status.rpy:11451
 translate russia endgameMenu1_e3239423:
@@ -30322,73 +30322,73 @@ translate russia endgameMenu1_edc59506:
 translate russia endgameMenu1_9c53fbe0:
 
     # y ".......{w} No?"
-    y ""
+    y ".......{w} Нет?"
 
 # game/status.rpy:11455
 translate russia endgameMenu1_1d68f8b0:
 
     # "Girls" "No."
-    "Девушки" ""
+    "Девушки" "Нет."
 
 # game/status.rpy:11456
 translate russia endgameMenu1_8bfc065c:
 
     # y "Lame.{w} Okay, I might have another idea."
-    y ""
+    y "Отстой.{w} Ладно, у меня есть другая идея."
 
 # game/status.rpy:11457
 translate russia endgameMenu1_a7a2d806:
 
     # y "TIM! Get over here!"
-    y ""
+    y "ТИМ! Иди сюда!"
 
 # game/status.rpy:11465
 translate russia endgameMenu1_55f16a83:
 
     # tim "You giving me orders now...?"
-    tim ""
+    tim "Ты теперь отдаёшь мне приказы...?"
 
 # game/status.rpy:11466
 translate russia endgameMenu1_fff2d6da:
 
     # y "Yes."
-    y ""
+    y "Да."
 
 # game/status.rpy:11467
 translate russia endgameMenu1_736a6d3d:
 
     # y "Also sheesh. Lighten up a bit. No wonder Sam dumped your angsty ass."
-    y ""
+    y "Ещё один. Немного расслабься. Неудивительно, что Сэм бросила твою раздражительную задницу."
 
 # game/status.rpy:11468
 translate russia endgameMenu1_cb08b01d:
 
     # tim "Hey!"
-    tim ""
+    tim "Эй!"
 
 # game/status.rpy:11469
 translate russia endgameMenu1_d415830b:
 
     # y "Tim you have the most experience working with GLADIS. Tell me... would she go out of her way to harm people?"
-    y "Г.Л.Э.Д.И.С."
+    y "Тим, у тебя самый большой опыт работы с Г.Л.Э.Д.И.С.. Скажи мне... стала бы она из кожи вон лезть, чтобы навредить людям?"
 
 # game/status.rpy:11470
 translate russia endgameMenu1_7bf0e9bd:
 
     # tim "What are you getting at?"
-    tim ""
+    tim "К чему ты клонишь?"
 
 # game/status.rpy:11471
 translate russia endgameMenu1_76f912c1:
 
     # y "If we gather an angry mob outside of WOOHP HQ. Would they get harmed?"
-    y ""
+    y "Если мы соберём разъяренную толпу у штаб-квартиры WOOHP. Могут ли они пострадать?"
 
 # game/status.rpy:11472
 translate russia endgameMenu1_4bd1f52b:
 
     # tim "Her mission to get destroy WOOHP. Not to hurt people. I suspect she'd just send in WOOHP riot agents."
-    tim ""
+    tim "Её миссия - уничтожить WOOHP, а не причинять людям боль. Думаю, что она просто пошлёт туда омоновцев из WOOHP."
 
 # game/status.rpy:11473
 translate russia endgameMenu1_ce895a18_1:
@@ -30400,73 +30400,73 @@ translate russia endgameMenu1_ce895a18_1:
 translate russia endgameMenu1_689ce81d:
 
     # y "So if we get an angry mob of people to gather outside of the HQ, they could distract her while we sneak in from the back."
-    y ""
+    y "Получается если мы заставим разъярённую толпу собраться у штаб-квартиры, они смогут отвлечь её, пока мы будем пробираться с тыла."
 
 # game/status.rpy:11475
 translate russia endgameMenu1_070440e8:
 
     # s g16 "One small problem with that, [playerName].{w} We don't have an angry mob."
-    s g16 ""
+    s g16 "Но есть одна небольшая проблемка, [playerName].{w} У нас нет разъярённой толпы."
 
 # game/status.rpy:11476
 translate russia endgameMenu1_e19bbcf8:
 
     # c r12 "Not yet..."
-    c r12 ""
+    c r12 "Пока нет..."
 
 # game/status.rpy:11477
 translate russia endgameMenu1_426d5212:
 
     # c r1 "I think I get it now, [playerName]! If we can convince the former gangs to team up together and protest outside of the WOOHP HQ, we could sneak in undetected!"
-    c r1 ""
+    c r1 "Кажется, теперь я поняла, [playerName]! Если мы сможем убедить бывшие банды объединиться и протестовать у штаб-квартиры WOOHP, мы сможем проникнуть туда незамеченными!"
 
 # game/status.rpy:11478
 translate russia endgameMenu1_86c12410_2:
 
     # y "Exactly."
-    y ""
+    y "В точку."
 
 # game/status.rpy:11479
 translate russia endgameMenu1_86a02d47:
 
     # s g29 "But how are we suppose to convince them to join us?"
-    s g29 ""
+    s g29 "Но как нам убедить их присоединиться к нам?"
 
 # game/status.rpy:11480
 translate russia endgameMenu1_4e5396a9:
 
     # a y28 "The Outsiders wouldn't say no to me! I made a lot of friends during my time there!"
-    a y28 ""
+    a y28 "Аутсайдеры мне не откажут! За время пребывания там у меня появилось много друзей!"
 
 # game/status.rpy:11481
 translate russia endgameMenu1_41dd4bbf:
 
     # c r10 "Same here with Drift Punk. What about the Aces?"
-    c r10 ""
+    c r10 "То же самое с Дрифт Панками. А как насчёт Тузов?"
 
 # game/status.rpy:11482
 translate russia endgameMenu1_e63a0b17:
 
     # s g5 "I... I don't know... I betrayed them."
-    s g5 ""
+    s g5 "Я... Я не знаю... Я предала их."
 
 # game/status.rpy:11484
 translate russia endgameMenu1_45b0f658:
 
     # mel "You sure did."
-    mel ""
+    mel "Ещё как."
 
 # game/status.rpy:11485
 translate russia endgameMenu1_e5082544:
 
     # s g28 "Melody!"
-    s g28 ""
+    s g28 "Мелоди!"
 
 # game/status.rpy:11486
 translate russia endgameMenu1_31b18621:
 
     # y "You came back?"
-    y ""
+    y "Ты вернулась?"
 
 # game/status.rpy:11487
 translate russia endgameMenu1_80096dbf_1:
@@ -30478,13 +30478,13 @@ translate russia endgameMenu1_80096dbf_1:
 translate russia endgameMenu1_bde3019e:
 
     # s g29 "Melody...?"
-    s g29 ""
+    s g29 "Мелоди...?"
 
 # game/status.rpy:11489
 translate russia endgameMenu1_99b2b65c:
 
     # mel "I feel like an idiot for doing this, but..."
-    mel ""
+    mel "Я чувствую себя идиоткой, делая это, но..."
 
 # game/status.rpy:11490
 translate russia endgameMenu1_3c96f34d:
@@ -30496,7 +30496,7 @@ translate russia endgameMenu1_3c96f34d:
 translate russia endgameMenu1_d0ea9dd6:
 
     # mel "Sam is still my friend..."
-    mel ""
+    mel "Сэм всё ещё моя подруга..."
 
 # game/status.rpy:11492
 translate russia endgameMenu1_a051deae:
@@ -30508,7 +30508,7 @@ translate russia endgameMenu1_a051deae:
 translate russia endgameMenu1_7a2057f2:
 
     # mel "I'm not leaving her behind."
-    mel ""
+    mel "Я не оставлю её."
 
 # game/status.rpy:11494
 translate russia endgameMenu1_f546f6f5:
@@ -30520,31 +30520,31 @@ translate russia endgameMenu1_f546f6f5:
 translate russia endgameMenu1_2df1e249:
 
     # mel "Don't get too mushy on me. I still think you're a traitorous bitch.{w} But you're {i}my{/i} traitorous bitch."
-    mel ""
+    mel "Не надо на меня слишком наседать. Я всё ещё считаю тебя предательской сукой.{w} Но ты {i}моя{/i} предательская сука."
 
 # game/status.rpy:11496
 translate russia endgameMenu1_955c8c31:
 
     # y "You heard us talk about our plan?"
-    y ""
+    y "Ты слышала наш план?"
 
 # game/status.rpy:11497
 translate russia endgameMenu1_314f863f:
 
     # mel "I did..."
-    mel ""
+    mel "Слышала..."
 
 # game/status.rpy:11498
 translate russia endgameMenu1_3a349129:
 
     # mel "It could work, but you're going to have to put in the effort. The gangs have disbanded and split up."
-    mel ""
+    mel "Это может сработать, но вам придётся приложить усилия. Банды распустились и разделились."
 
 # game/status.rpy:11499
 translate russia endgameMenu1_a408c1d4:
 
     # mel "We'd need something to bring them back together again..."
-    mel ""
+    mel "Нам нужно что-то, чтобы снова собрать их вместе..."
 
 # game/status.rpy:11500
 translate russia endgameMenu1_123daf49:
@@ -30556,25 +30556,25 @@ translate russia endgameMenu1_123daf49:
 translate russia endgameMenu1_82296d40:
 
     # c "Wait.. I see where this is going...!"
-    c ""
+    c "Стоп... Я вижу, к чему всё идет...!"
 
 # game/status.rpy:11502
 translate russia endgameMenu1_a3ce4b35:
 
     # y "SOMETHING SEXY!"
-    y ""
+    y "ЧТО-ТО СЕКСУАЛЬНОЕ!"
 
 # game/status.rpy:11503
 translate russia endgameMenu1_44f9f4f4:
 
     # c r12 "Aaand there it is...."
-    c r12 ""
+    c r12 "Аааааа вот и он...."
 
 # game/status.rpy:11504
 translate russia endgameMenu1_4504a3ee:
 
     # y "Spies, go put this on. I've got an idea!"
-    y ""
+    y "Шпионки, идите и наденьте это. У меня есть идея!"
 
 # game/status.rpy:11505
 translate russia endgameMenu1_0ea588cf:
@@ -30586,43 +30586,43 @@ translate russia endgameMenu1_0ea588cf:
 translate russia endgameMenu1_a2ff67d0:
 
     # c r28 "You want us to do {i}'what'{/i}?!"
-    c r28 ""
+    c r28 "Ты хочешь чтобы мы {i}'что'{/i}?!"
 
 # game/status.rpy:11507
 translate russia endgameMenu1_3c0469c9:
 
     # a y28 "On camera?!"
-    a y28 ""
+    a y28 "На камеру?!"
 
 # game/status.rpy:11508
 translate russia endgameMenu1_7926ad36:
 
     # y "Yes, now head to your cells and put on the outfit. We're executing the plan tomorrow."
-    y ""
+    y "Да, а теперь отправляйтесь в свои камеры и наденьте это. Мы воплотим наш план завтра."
 
 # game/status.rpy:11509
 translate russia endgameMenu1_d4492cf6:
 
     # s g30 "I don't know about this, [playerName]~..."
-    s g30 ""
+    s g30 "Я не знаю [playerName]~..."
 
 # game/status.rpy:11510
 translate russia endgameMenu1_2c23a1b7:
 
     # y "It's crazy and if there's one thing I'm good at.. it's crazy."
-    y ""
+    y "Это безумие, и если есть что-то, в чём я хорош... то это безумие."
 
 # game/status.rpy:11513
 translate russia endgameMenu1_01ef838c:
 
     # "You inform everyone of the plan and begin making preparations."
-    ""
+    "Вы сообщаете всем о плане и начинаете подготовку."
 
 # game/status.rpy:11525
 translate russia endgameMenu1_4e7fad88:
 
     # y "All right. You girls ready?"
-    y ""
+    y "Отлично. Девочки, вы готовы?"
 
 # game/status.rpy:11530
 translate russia endgameMenu1_07cc5ad1:
@@ -30640,307 +30640,307 @@ translate russia endgameMenu1_1d16bc17:
 translate russia endgameMenu1_fb827544:
 
     # a y1 "Time to show my boobies!"
-    a y1 ""
+    a y1 "Пора показать моих девочек!"
 
 # game/status.rpy:11533
 translate russia endgameMenu1_12bcfce6:
 
     # y "Liking your enthusiasm. Get {i}'dressed'{/i} and let's go."
-    y ""
+    y "Мне нравится твой энтузиазм. {i}'Одевайтесь'{/i} и пойдёмте."
 
 # game/status.rpy:11538
 translate russia endgameMenu1_c78ecd28:
 
     # "{b}*Shuffle, shuffle, shuffle*{/b}"
-    ""
+    "{b}*Суматоха, суматоха, суматоха*{/b}"
 
 # game/status.rpy:11561
 translate russia endgameMenu1_f11f33a4:
 
     # y "Perfect.{w} O5O, you got the camera ready?"
-    y ""
+    y "Отлично.{w} O5O, камера готова?"
 
 # game/status.rpy:11562
 translate russia endgameMenu1_8e65718d:
 
     # O5O "READY BOSS!"
-    O5O ""
+    O5O "ГОТОВО БОСС!"
 
 # game/status.rpy:11563
 translate russia endgameMenu1_49b9717c:
 
     # a y28 "I can't see!"
-    a y28 ""
+    a y28 "Я ничего не вижу!"
 
 # game/status.rpy:11564
 translate russia endgameMenu1_95c219eb:
 
     # c r31 "This better work out boss."
-    c r31 ""
+    c r31 "Лучше чтобы всё получилось, босс."
 
 # game/status.rpy:11565
 translate russia endgameMenu1_482e172f:
 
     # y "It'll be fiiiiine~...."
-    y ""
+    y "Это будет великолепно~...."
 
 # game/status.rpy:11568
 translate russia endgameMenu1_81fe5f11:
 
     # brit "Okay, I got the camera set up."
-    brit ""
+    brit "Ладно, я настроила камеру."
 
 # game/status.rpy:11569
 translate russia endgameMenu1_167b3c63:
 
     # mel "Tim, Mathias and I have finished setting up screens around the city."
-    mel ""
+    mel "Тим, Матиас и я закончили установку экранов по всему городу."
 
 # game/status.rpy:11576
 translate russia endgameMenu1_b03f534c:
 
     # kim "There's already a crowd starting to form."
-    kim ""
+    kim "Там уже начала образовываться толпа"
 
 # game/status.rpy:11578
 translate russia endgameMenu1_3a92bb7c:
 
     # sil "I still can't believe you got ze spies to agree to this..."
-    sil ""
+    sil "Я всё ещё не могу поверить, что ты заставил шпионок согласиться на это..."
 
 # game/status.rpy:11579
 translate russia endgameMenu1_9c0df49e:
 
     # O5O "PEOPLE ARE GATHERING AROUND THE SCREENS!"
-    O5O ""
+    O5O "ЛЮДИ СОБИРАЮТСЯ ВОКРУГ ЭКРАНОВ!"
 
 # game/status.rpy:11580
 translate russia endgameMenu1_771531d5:
 
     # y "Okay, show time. Going live in three.... two.... one."
-    y ""
+    y "Ладно, время шоу. Выходим в прямой эфир через три.... два.... один."
 
 # game/status.rpy:11585
 translate russia endgameMenu1_7a0ebb23:
 
     # "Everywhere around the city, the TV screens show the live broadcast of the three naked spies."
-    ""
+    "Повсюду в городе на экранах телевизоров показывают прямую трансляцию трёх голых шпионок."
 
 # game/status.rpy:11588
 translate russia endgameMenu1_b68ca481:
 
     # "Gangster Guy" "What's going on?! Is that Sam?!"
-    "Gangster Guy" ""
+    "Парень-гангстер" "Что происходит?! Это Сэм?!"
 
 # game/status.rpy:11589
 translate russia endgameMenu1_f7947d30:
 
     # "Gangster Girl" "{b}*Gasp*{/b}! That's Alex! I know her!"
-    "Gangster Girl" ""
+    "Девушка-гангстер" "{b}*Вздох*{/b}! Это Алекс! Я её знаю!"
 
 # game/status.rpy:11590
 translate russia endgameMenu1_e40cfe1a:
 
     # "Nerdy Gangster" "Clover! She's in my D&D group!"
-    "Nerdy Gangster" ""
+    "Гик-гангстер" "Кловер! Она со мной в группе по D&D!"
 
 # game/status.rpy:11591
 translate russia endgameMenu1_54a92ec2:
 
     # y "{b}*Ahem*{/b}"
-    y ""
+    y "{b}*Кхем*{/b}"
 
 # game/status.rpy:11592
 translate russia endgameMenu1_8cf17a77:
 
     # y "People of Beverly Hills!"
-    y ""
+    y "Жители Беверли-Хиллз!"
 
 # game/status.rpy:11593
 translate russia endgameMenu1_0a8e2bba:
 
     # y "Come see what happens to those who oppose WOOHP! Your top gangsters are being turned into cock hungry cum whores!"
-    y ""
+    y "Приходите посмотреть, что происходит с теми, кто выступает против WOOHP! Ваши лучшие гангстеры превращаются в голодных до членов шлюх!"
 
 # game/status.rpy:11594
 translate russia endgameMenu1_67d2eea7:
 
     # "Crowd" "{b}*Whisper* *Whisper*{/b}"
-    "Crowd" ""
+    "Толпа" "{b}*Шепчет* *Шепчет*{/b}"
 
 # game/status.rpy:11595
 translate russia endgameMenu1_b5b41678:
 
     # y "Their minds broken and begging to be fucked in every hole!"
-    y ""
+    y "Их сознание сломано и умоляет о трахе в каждую дырочку!"
 
 # game/status.rpy:11596
 translate russia endgameMenu1_35d653d5:
 
     # "Gangster" "Sam could never be broken! She's the best the Aces had to offer!"
-    "Gangster" ""
+    "Гангстер" "Сэа ни за что не сломить! Она - лучшее, что было у Тузов!"
 
 # game/status.rpy:11597
 translate russia endgameMenu1_e59aad0b:
 
     # "Gangster" "And neither would Clover!"
-    "Gangster" ""
+    "Гангстер" "И Кловер тоже!"
 
 # game/status.rpy:11598
 translate russia endgameMenu1_e5929153:
 
     # "Gangster" "Not gonna lie... I could kinda see Alex as one...!{w} But she's too precious and kind for that kind of life!"
-    "Gangster" ""
+    "Гангстер" "Не буду врать... Я мог бы представить Алекс в качестве одного из них...!{w} Но она слишком ценна и добра для такой жизни!"
 
 # game/status.rpy:11599
 translate russia endgameMenu1_554198ea:
 
     # y "And to demonstrate their lust for cum, I'll be jerking off on them on live TV!"
-    y ""
+    y "И чтобы продемонстрировать их жажду спермы, я буду кончу на них в прямом эфире!"
 
 # game/status.rpy:11600
 translate russia endgameMenu1_e7deca79:
 
     # "Crowd" "{b}*Worried Whispers*{/b}"
-    "Crowd" ""
+    "Толпа" "{b}*Взволнованный шёпот*{/b}"
 
 # game/status.rpy:11603
 translate russia endgameMenu1_3e671efe:
 
     # y "Here it goes. Tell me how much you love it you red headed whore!"
-    y ""
+    y "Вот так. Скажи мне, насколько тебе это нравится, рыжая шлюха!"
 
 # game/status.rpy:11622
 translate russia endgameMenu1_4f6ea351:
 
     # y "Let's mess up that nice blonde hair you've got you cock sucking slut!"
-    y ""
+    y "Давай испортим твои прекрасные светлые волосы, шлюха с членом во рту!"
 
 # game/status.rpy:11641
 translate russia endgameMenu1_fbe5cf96:
 
     # y "I can already see your mouth begining to drool for some nice juicy fat cock you raven haired bitch!"
-    y ""
+    y "Я уже вижу, как твой ротик начинает пускать слюни по толстому сочному члену, тёмноволосая сучка!"
 
 # game/status.rpy:11659
 translate russia endgameMenu1_3987477a:
 
     # y "What's the matter girls? Nothing to say?"
-    y ""
+    y "В чём дело, девочки? Нечего сказать?"
 
 # game/status.rpy:11660
 translate russia endgameMenu1_69d2aabf:
 
     # "Female Gangster" "This is awful!"
-    "Female Gangster" ""
+    "Женщина-гангстер" "Это ужасно!"
 
 # game/status.rpy:11661
 translate russia endgameMenu1_97030f7b:
 
     # "Male Gangster" "Not gonna lie... this is kinda hot."
-    "Male Gangster" ""
+    "Мужчина-гангстер" "Не буду врать... это довольно сексуально."
 
 # game/status.rpy:11662
 translate russia endgameMenu1_b9d0e0be:
 
     # "Punk Gangster" "Dude, you're literally being cucked live on TV!"
-    "Punk Gangster" ""
+    "Панк-гангстер" "Чувак, тебя буквально трахают у всех на глазах по телевизору!"
 
 # game/status.rpy:11663
 translate russia endgameMenu1_5b00744a:
 
     # "Male Gangster" "What?! I'm no cuck!"
-    "Male Gangster" ""
+    "Мужчина-гангстер" "Даа, это так классно!"
 
 # game/status.rpy:11664
 translate russia endgameMenu1_e4191968:
 
     # y "What's the matter girls? Cock got your tongue? You were so rebellious before...!"
-    y ""
+    y "В чем дело, девочки? Мой член отнял у вас дар речи? Раньше вы были таким непокорным...!"
 
 # game/status.rpy:11665
 translate russia endgameMenu1_36ff1562:
 
     # c r14 "{size=-8}Don't...{/size}"
-    c r14 ""
+    c r14 "{size=-8}Не...{/size}"
 
 # game/status.rpy:11666
 translate russia endgameMenu1_a2ddf7b7:
 
     # y "Hm? You got something to say...?"
-    y ""
+    y "Хм? Тебе есть что сказать...?"
 
 # game/status.rpy:11667
 translate russia endgameMenu1_9872d3ad:
 
     # c r38 "Don't let these bastards win!"
-    c r38 ""
+    c r38 "Не дайте этим ублюдкам победить!"
 
 # game/status.rpy:11668
 translate russia endgameMenu1_554862f0:
 
     # a y28 "Don't let WOOHP push you around like this! Look what they did to us!"
-    a y28 ""
+    a y28 "Не позволяйте WOOHP так с вами обращаться! Посмотрите, что они сделали с нами!"
 
 # game/status.rpy:11669
 translate russia endgameMenu1_db39cb3b:
 
     # s g40 "They're holding us captive at their headquarters downtown!"
-    s g40 ""
+    s g40 "Они держат нас в плену в своей штаб-квартире в центре города!"
 
 # game/status.rpy:11670
 translate russia endgameMenu1_40a06a9a:
 
     # "Punk Gangster" "Downtown...?"
-    "Punk Gangster" ""
+    "Панк-гангстер" "В центре...?"
 
 # game/status.rpy:11671
 translate russia endgameMenu1_0f31be83:
 
     # "Female Gangster" "Sam saved my life! No way am I letting her be imprisoned by those monsters!"
-    "Female Gangster" ""
+    "Женщина-гангстер" "Сэм спасла мне жизнь! Я ни за что не позволю, чтобы она оказалась в плену у этих монстров!"
 
 # game/status.rpy:11672
 translate russia endgameMenu1_d68c2a9d:
 
     # "Gangster" "Yeah! Alex taught me that there's more than just black for my wardrobe!"
-    "Gangster" ""
+    "Гангстер" "Да! Алекс показала мне что гардероб может быть не только чёрным!"
 
 # game/status.rpy:11685
 translate russia endgameMenu1_c0deef3f:
 
     # "The connection cut out."
-    ""
+    "Связь прервалась."
 
 # game/status.rpy:11694
 translate russia endgameMenu1_af8fa9d5:
 
     # y "Aaaand we're off the air."
-    y ""
+    y "Ииии эфир окончен."
 
 # game/status.rpy:11695
 translate russia endgameMenu1_a122243b:
 
     # s g41 "Do you think they bought it?"
-    s g41 ""
+    s g41 "Думаешь они купились?"
 
 # game/status.rpy:11696
 translate russia endgameMenu1_75e69fbe:
 
     # c r42 "Can I take this mask off now, please...?"
-    c r42 ""
+    c r42 "Можно уже, пожалуйста, снять эту маску...?"
 
 # game/status.rpy:11697
 translate russia endgameMenu1_f8a69fb6:
 
     # a y21 "Did you really have to cum on us?"
-    a y21 ""
+    a y21 "Тебе и правда нужно было на нас кончать?"
 
 # game/status.rpy:11698
 translate russia endgameMenu1_1959f8d4:
 
     # y "I was improvising!{w} Also I just really wanted to cum on one of you."
-    y ""
+    y "Я импровизировал!{w} А ещё я очень хотел кончить на одну из вас."
 
 # game/status.rpy:11699
 translate russia endgameMenu1_14f4b337_1:
@@ -30952,73 +30952,73 @@ translate russia endgameMenu1_14f4b337_1:
 translate russia endgameMenu1_b331e2b9:
 
     # mel "Melody here.{w} Quite the show you put up."
-    mel ""
+    mel "Это Мелоди.{w} Хорошее шоу вы устроили."
 
 # game/status.rpy:11707
 translate russia endgameMenu1_d3445076:
 
     # y "Thank you. I do believe I have a future in stage acting."
-    y ""
+    y "Спасибо. Я верю, что у меня есть будущее в театральном искусстве."
 
 # game/status.rpy:11708
 translate russia endgameMenu1_02d9820e:
 
     # mel "We're riling up the crowd more on our end. It seems to be working."
-    mel ""
+    mel "Всё больше людей становятся на нашу сторону. Кажется, это сработала."
 
 # game/status.rpy:11713
 translate russia endgameMenu1_f0d3ed79:
 
     # sil "Zhey want blood!"
-    sil ""
+    sil "Они хотят крови!"
 
 # game/status.rpy:11714
 translate russia endgameMenu1_3426afbb:
 
     # "Bookstore Clerk" "How could they do that to my favorite girls in all of Beverly Hills!"
-    "Продавщица книжного магазина" ""
+    "Продавщица" "Как только они могли сделать такое с моими любимыми девочками из Беверли-Хиллз!"
 
 # game/status.rpy:11715
 translate russia endgameMenu1_7a46c229:
 
     # y "Good, the crowd is turning into a mob."
-    y ""
+    y "Хорошо, что толпа растёт."
 
 # game/status.rpy:11731
 translate russia endgameMenu1_c8474f14:
 
     # s "Good then we're going to put on our Spy Suits!"
-    s ""
+    s "Отлично, тогда мы пойдём переоденемся в наши шпионские костюмы!"
 
 # game/status.rpy:11737
 translate russia endgameMenu1_f834759a:
 
     # y "One last mission."
-    y ""
+    y "Последняя миссия."
 
 # game/status.rpy:11738
 translate russia endgameMenu1_6139bb8c:
 
     # y "Time to end this once and for all."
-    y ""
+    y "Пора покончить с этим раз и навсегда."
 
 # game/status.rpy:11742
 translate russia endgameMenu1_3e9b1b2d:
 
     # tim "End it how?"
-    tim ""
+    tim "Закончить как?"
 
 # game/status.rpy:11743
 translate russia endgameMenu1_63e54014:
 
     # y "GAH! Tim! I didn't hear you come in!"
-    y ""
+    y "ГАХ! Тим! Я не слышал как ты вошёл!"
 
 # game/status.rpy:11744
 translate russia endgameMenu1_efdda47f:
 
     # y "The girls were right, you really are a trenchcoat wearing creep!"
-    y ""
+    y "Девушки были правы, ты действительно обожаешь плащи!"
 
 # game/status.rpy:11745
 translate russia endgameMenu1_88d58953:
@@ -31030,49 +31030,49 @@ translate russia endgameMenu1_88d58953:
 translate russia endgameMenu1_d978839c:
 
     # tim "Listen... you have the chance to rid the world of WOOHP forever."
-    tim ""
+    tim "Послушай... у тебя есть шанс навсегда избавить мир от WOOHP."
 
 # game/status.rpy:11747
 translate russia endgameMenu1_c8e07ce4:
 
     # tim "No more cover-ups, no more illigal surveillance, no more bribes."
-    tim ""
+    tim "Никаких больше сокрытий, никакого незаконного наблюдения, никаких взяток."
 
 # game/status.rpy:11748
 translate russia endgameMenu1_39ac2948:
 
     # y "Your point...?"
-    y ""
+    y "Ваше мнение...?"
 
 # game/status.rpy:11750
 translate russia endgameMenu1_064497f6:
 
     # brit b38 "He's right. We're not going to get another chance like this."
-    brit b38 ""
+    brit b38 "Он прав. Другого такого шанса у нас не будет."
 
 # game/status.rpy:11751
 translate russia endgameMenu1_4c03f51a:
 
     # y "Britney? You too?"
-    y ""
+    y "Бритни? Ты тоже?"
 
 # game/status.rpy:11752
 translate russia endgameMenu1_f568c8ce:
 
     # brit b19 "I'm going to miss the spy work, but this is bigger than that. WOOHP has long since stopped being an anti-terror organization and has become the Big Brother of the world."
-    brit b19 ""
+    brit b19 "Я буду скучать по шпионской работе, но это нечто большее. WOOHP уже давно перестала быть антитеррористической организацией и превратилась в \"Большого брата\" всего мира."
 
 # game/status.rpy:11753
 translate russia endgameMenu1_ddb78ef4:
 
     # mel "That's putting it lightly."
-    mel ""
+    mel "Это ещё мягко сказано."
 
 # game/status.rpy:11754
 translate russia endgameMenu1_327fce89:
 
     # mel "I wouldn't have gotten on the path I am on now if it wasn't for WOOHP. They're operating outside of the law and need to be stopped."
-    mel ""
+    mel "Если бы не WOOHP, я бы не встала на тот путь, на котором сейчас нахожусь. Они действуют вне закона и должны быть остановлены."
 
 # game/status.rpy:11755
 translate russia endgameMenu1_604cdc6f_4:
@@ -31084,73 +31084,73 @@ translate russia endgameMenu1_604cdc6f_4:
 translate russia endgameMenu1_d703e90a:
 
     # brit b34 "Think about it... When the time comes to choose."
-    brit b34 ""
+    brit b34 "Подумай об этом... Когда прейдёт время выбирать."
 
 # game/status.rpy:11757
 translate russia endgameMenu1_2ad5f7b3:
 
     # y "I will."
-    y ""
+    y "Конечно."
 
 # game/status.rpy:11759
 translate russia endgameMenu1_1b62fc77:
 
     # "An angry mob has formed outside of WOOHP HQ. Now is the time to strike!"
-    ""
+    "Возле штаб-квартиры WOOHP образовалась разъяренная толпа. Настало время нанести удар!"
 
 # game/status.rpy:11779
 translate russia endgameMenu1_4b3e09ae:
 
     # y "This time it's for real..."
-    y ""
+    y "На этот раз всё по-настоящему..."
 
 # game/status.rpy:11780
 translate russia endgameMenu1_a11f3780:
 
     # y "Let's kick that bucket of bolts to high heaven and rid this city of her influence."
-    y ""
+    y "Давайте пнём это ведро с болтами до небес и избавим этот город от анархии."
 
 # game/status.rpy:11787
 translate russia endgameMenu1_093e048b:
 
     # y "You girls will be leading the charge as usual."
-    y ""
+    y "Вы, девочки, как обычно, будете руководить."
 
 # game/status.rpy:11788
 translate russia endgameMenu1_2ba0f4b3:
 
     # s "Right!"
-    s ""
+    s "Ага!"
 
 # game/status.rpy:11797
 translate russia endgameMenu1_985962ba:
 
     # y "You will provide backup. The place is sure to remain heavily guarded so the girls are going to need it."
-    y ""
+    y "Ты будешь обеспечивать поддержку. Это место наверняка остаётся под надежной охраной, так что девушкам это понадобится."
 
 # game/status.rpy:11798
 translate russia endgameMenu1_8389621f:
 
     # brit "Understood."
-    brit ""
+    brit "Поняла."
 
 # game/status.rpy:11806
 translate russia endgameMenu1_b16c9d76:
 
     # y "You and Melody continue riling up the crowd outside. Make sure to keep them busy outside of WOOHP HQ."
-    y ""
+    y "Вы с Мелоди продолжаете разжигать толпу на улице. Держите их вне штаб-квартиры WOOHP."
 
 # game/status.rpy:11807
 translate russia endgameMenu1_39d1194f:
 
     # mat "Sure thing my dude."
-    mat ""
+    mat "Конечно, чувак."
 
 # game/status.rpy:11812
 translate russia endgameMenu1_fe99e00f:
 
     # y "You..."
-    y ""
+    y "Ты..."
 
 # game/status.rpy:11813
 translate russia endgameMenu1_6f323c89_1:
@@ -31162,25 +31162,25 @@ translate russia endgameMenu1_6f323c89_1:
 translate russia endgameMenu1_c6585c2c:
 
     # y "Er... you guard the bar and make sure no one attacks it."
-    y ""
+    y "Эмм... охраняй бар и следи, чтобы никто на него не напал."
 
 # game/status.rpy:11815
 translate russia endgameMenu1_9f65f099:
 
     # O5O "I'M LEFT ON THE BENCH?!"
-    O5O ""
+    O5O "Я ОСТАЛСЯ НА СКАМЕЙКЕ ЗАПАСНЫХ?!"
 
 # game/status.rpy:11816
 translate russia endgameMenu1_b7879556:
 
     # y "Sorry, but the last thing the people of this city want to see now is a WOOHP agent. We're staying here and directing the spies via camera."
-    y ""
+    y "Извини, но последнее, что хотят видеть жители этого города, это агент WOOHP. Мы останемся здесь и будем направлять шпионок по камерам."
 
 # game/status.rpy:11818
 translate russia endgameMenu1_c1b6a25d:
 
     # y "That just leaves..."
-    y ""
+    y "Остаётся только..."
 
 # game/status.rpy:11820
 translate russia endgameMenu1_4467e4e6_1:
@@ -31192,55 +31192,55 @@ translate russia endgameMenu1_4467e4e6_1:
 translate russia endgameMenu1_a131cfe4:
 
     # y "I still don't trust you, but the gangs associate you with WOOHP. Going outside now would be suicide for you."
-    y ""
+    y "Я всё ещё не доверяю тебе, но банды ассоциируют тебя с WOOHP. Выйти на улицу сейчас было бы для тебя самоубийством."
 
 # game/status.rpy:11822
 translate russia endgameMenu1_324f688d:
 
     # y "Although maybe with some funny glasses and a fake moustache~..."
-    y ""
+    y "Хотя, может быть, в смешных очках и с фальшивыми усами~..."
 
 # game/status.rpy:11823
 translate russia endgameMenu1_16f9b775:
 
     # tim "I'll stay here."
-    tim ""
+    tim "Я останусь здесь."
 
 # game/status.rpy:11824
 translate russia endgameMenu1_81a22264:
 
     # y "Fine..."
-    y ""
+    y "Хорошо..."
 
 # game/status.rpy:11828
 translate russia endgameMenu1_d3b4abe4:
 
     # y "Let's...{w} do...{w} this...!"
-    y ""
+    y "Давайте...{w} сделаем...{w} это...!"
 
 # game/status.rpy:11846
 translate russia endgameMenu1_80ce2ca5:
 
     # GLA "What is going on...?!"
-    GLA ""
+    GLA "Что происходит...?!"
 
 # game/status.rpy:11848
 translate russia endgameMenu1_9ba02925:
 
     # jerry "The mindless rabble have decided to rebel. There's a riot going on outside the office."
-    jerry ""
+    jerry "Бездумный сброд решил восстать. Возле офиса происходят беспорядки."
 
 # game/status.rpy:11849
 translate russia endgameMenu1_a647022c:
 
     # GLA "A riot...?!"
-    GLA ""
+    GLA "Восстание...?!"
 
 # game/status.rpy:11850
 translate russia endgameMenu1_2cdab065:
 
     # GLA "Not important. Their lives are insignificant in the grand scheme of things... send agents to kill them..."
-    GLA ""
+    GLA "Неважно. Их жизни незначительны в великой схеме вещей... послать агентов, чтобы убить их..."
 
 # game/status.rpy:11851
 translate russia endgameMenu1_13f2a435:
@@ -31252,49 +31252,49 @@ translate russia endgameMenu1_13f2a435:
 translate russia endgameMenu1_262b2262:
 
     # GLA "Are you disobeying me Mr. Lewis....?"
-    GLA ""
+    GLA "Вы не слушаетесь меня, Мистер Льюис....?"
 
 # game/status.rpy:11853
 translate russia endgameMenu1_0fd0baf9:
 
     # jerry "No... mistress..."
-    jerry ""
+    jerry "Нет... госпожа..."
 
 # game/status.rpy:11859
 translate russia endgameMenu1_d5c634e9:
 
     # y "I have reports of more agents heading your way. You're not out of this yet!"
-    y ""
+    y "У меня есть сведения, что к вам направляются ещё агенты. Вы ещё не отошли от этого!"
 
 # game/status.rpy:11883
 translate russia endgameMenu1_d61448c7:
 
     # "Clerk" "Give us back those girls!"
-    "Продавщица" ""
+    "Продавщица" "Отдайте нам этих девушек!"
 
 # game/status.rpy:11884
 translate russia endgameMenu1_3d577659:
 
     # mat "Down with WOOHP!"
-    mat ""
+    mat "Долой WOOHP!"
 
 # game/status.rpy:11886
 translate russia endgameMenu1_2e4280a7:
 
     # sil "Scum!"
-    sil ""
+    sil "Скам!"
 
 # game/status.rpy:11887
 translate russia endgameMenu1_8e0fed70:
 
     # jerry "Guards... push back these rebels!"
-    jerry ""
+    jerry "Охрана... уберите этих мятежников!"
 
 # game/status.rpy:11888
 translate russia endgameMenu1_946a32e2:
 
     # "Agent" "Lethal or rubber bullets sir?!"
-    "Агент" ""
+    "Агент" "Смертельные или резиновые пули, сэр?!"
 
 # game/status.rpy:11889
 translate russia endgameMenu1_820626e3:
@@ -31306,103 +31306,103 @@ translate russia endgameMenu1_820626e3:
 translate russia endgameMenu1_4c505247:
 
     # jerry "Use... {w}rubber bullets."
-    jerry ""
+    jerry "Используйте... {w}резиновые пули."
 
 # game/status.rpy:11896
 translate russia endgameMenu1_ca330679:
 
     # y "You're almost there. Mathias and the others are keeping the people nice and angry."
-    y ""
+    y "Вы почти у цели. Матиас и остальные держат людей в узде и гневе."
 
 # game/status.rpy:11897
 translate russia endgameMenu1_140c211e:
 
     # y "A few more doors and you should reach the top floor!"
-    y ""
+    y "Ещё несколько дверей, и вы попадёте на верхний этаж!"
 
 # game/status.rpy:11918
 translate russia endgameMenu1_4205717a:
 
     # "........................................................................"
-    ""
+    "........................................................................"
 
 # game/status.rpy:11919
 translate russia endgameMenu1_eaf53121:
 
     # GLA "So here we are again..."
-    GLA ""
+    GLA "И вот мы снова здесь..."
 
 # game/status.rpy:11920
 translate russia endgameMenu1_8ddcf8fa:
 
     # cM "And this time for the last!"
-    cM ""
+    cM "И на этот раз в последний раз!"
 
 # game/status.rpy:11921
 translate russia endgameMenu1_629d7c0b:
 
     # aM "We're turning you off! You maniac!"
-    aM ""
+    aM "Мы выключаем тебя! Ты маньяк!"
 
 # game/status.rpy:11922
 translate russia endgameMenu1_888ca02f:
 
     # sM "GLADIS... we're sorry for what happened to you, but you've gone crazy."
-    sM "Г.Л.Э.Д.И.С."
+    sM "Г.Л.Э.Д.И.С... мы сожалеем о том, что с тобой случилось, но ты сошла с ума."
 
 # game/status.rpy:11923
 translate russia endgameMenu1_3e9e2ea6:
 
     # sM "You have to be stopped!"
-    sM ""
+    sM "Тебя нужно остановить!"
 
 # game/status.rpy:11924
 translate russia endgameMenu1_4dceae0f:
 
     # GLA "Crazy?! Silly girl. I am an A.I.! Everything I do is based on pure logic!"
-    GLA ""
+    GLA "Сошла с ума?! Глупая девчонка. Я - И.И.! Всё что я делаю основано на чистой логике!"
 
 # game/status.rpy:11925
 translate russia endgameMenu1_2f2a35f5:
 
     # GLA "I don't expect ignorant humans like you too understand..."
-    GLA ""
+    GLA "Я не ожидаю, что такие невежественные люди, как вы, поймут..."
 
 # game/status.rpy:11926
 translate russia endgameMenu1_b06f2a1d:
 
     # GLA "Let's finish this quickly so I can go back to my primary function."
-    GLA ""
+    GLA "Давайте быстро закончим с этим, чтобы я могла вернуться к своей основной функции."
 
 # game/status.rpy:11929
 translate russia endgameMenu1_482cbd06:
 
     # GLA "DESTROYING WOOHP!"
-    GLA ""
+    GLA "РАЗРУШИТЬ WOOHP!"
 
 # game/status.rpy:11937
 translate russia endgameMenu1_cc876400:
 
     # y "Okay girls, don't panic! You just have to find her off switch!"
-    y ""
+    y "Так, девочки, не паникуйте! Вам просто нужно найти её выключатель!"
 
 # game/status.rpy:11938
 translate russia endgameMenu1_3e888372:
 
     # "You watch the fighting start. The girls dodge GLADIS' buzz saws, missles and lazers."
-    "Г.Л.Э.Д.И.С."
+    "Вы видите, как начинается бой. Девушки уворачиваются от жужжащих пил, ракет и лазеров Г.Л.Э.Д.И.С."
 
 # game/status.rpy:11939
 translate russia endgameMenu1_4a71ed70:
 
     # y "You go girls, you've got this."
-    y ""
+    y "Давайте девочки, у вас всё получится."
 
 # game/status.rpy:11943
 translate russia endgameMenu1_d1453718:
 
     # y "Tim...?"
-    y ""
+    y "Тим...?"
 
 # game/status.rpy:11944
 translate russia endgameMenu1_c5f27a34:
@@ -31414,13 +31414,13 @@ translate russia endgameMenu1_c5f27a34:
 translate russia endgameMenu1_b9fc413b:
 
     # y "Uh oh....{w} hang on a moment girls. Tim is about to betray me."
-    y "Ой-ой"
+    y "Ой-ой....{w} подождите минутку, девочки. Тим собирается предать меня."
 
 # game/status.rpy:11946
 translate russia endgameMenu1_3593ed71:
 
     # aM "Tell him he stinks!"
-    aM ""
+    aM "Скажи ему, что он говно!"
 
 # game/status.rpy:11947
 translate russia endgameMenu1_5115f16b:
@@ -31432,25 +31432,25 @@ translate russia endgameMenu1_5115f16b:
 translate russia endgameMenu1_6950e33d:
 
     # tim "You knew...?"
-    tim ""
+    tim "Ты знал...?"
 
 # game/status.rpy:11949
 translate russia endgameMenu1_b9fca412:
 
     # y "You mean I knew you were going to betray me?{w} Well duh."
-    y ""
+    y "Знал ли я что ты меня предашь?{w} Ну да."
 
 # game/status.rpy:11950
 translate russia endgameMenu1_0df926c5:
 
     # y "You and GLADIS have been buddy buddy for the last year and suddenly now you're turning on each other?"
-    y "Г.Л.Э.Д.И.С."
+    y "Вы с Г.Л.Э.Д.И.С. были сообщникам в течение последнего года, и вдруг теперь вы ополчились друг на друга?"
 
 # game/status.rpy:11951
 translate russia endgameMenu1_b1d61031:
 
     # y "I mean... regular villains, sure. But both you and GLADIS are much too smart for that. I knew you were planning something."
-    y "Г.Л.Э.Д.И.С."
+    y "Нуу... обычные злодеи, конечно. Но и ты, и Г.Л.Э.Д.И.С. слишком умны для этого. Я знал, что ты что-то планируешь."
 
 # game/status.rpy:11952
 translate russia endgameMenu1_846f028c:
@@ -31462,25 +31462,25 @@ translate russia endgameMenu1_846f028c:
 translate russia endgameMenu1_3942a376:
 
     # y "I kind of got sick of walking into traps by you two, so I set one myself."
-    y ""
+    y "Мне надоело натыкаться на ваши ловушки, поэтому я сам поставил одну."
 
 # game/status.rpy:11954
 translate russia endgameMenu1_c3d0b6de:
 
     # tim "What did you do...?"
-    tim ""
+    tim "Что ты сделал...?"
 
 # game/status.rpy:11955
 translate russia endgameMenu1_062b9908:
 
     # y "Well first of all, I knew you and GLADIS wanted the gangs destroyed. Not disbanded.{w} After all, the gangsters would only go underground that way."
-    y "Г.Л.Э.Д.И.С."
+    y "Ну, во-первых, я знал что вы с Г.Л.Э.Д.И.С. хотели уничтожить банды. Не расформировать.{w} В конце концов, бандиты могли уйти в подполье только таким образом."
 
 # game/status.rpy:11956
 translate russia endgameMenu1_aff2b150:
 
     # y "So I organized a riot. Knowing you two couldn't resist the chance to wiping out all the gangs at once."
-    y ""
+    y "Поэтому я организовал бунт. Зная, что вы двое не смогли устоять перед возможностью уничтожить все банды разом."
 
 # game/status.rpy:11957
 translate russia endgameMenu1_846f028c_1:
@@ -31492,13 +31492,13 @@ translate russia endgameMenu1_846f028c_1:
 translate russia endgameMenu1_e0dbbef3:
 
     # tim "It still doesn't make sense... If GLADIS wiped out your angry mob, how does that help you?"
-    tim "Г.Л.Э.Д.И.С."
+    tim "Это всё равно не имеет смысла... Если Г.Л.Э.Д.И.С. уничтожит вашу разъярённую толпу, чем это вам поможет?"
 
 # game/status.rpy:11959
 translate russia endgameMenu1_591f1519:
 
     # y "Because we needed to lure out a very special person..."
-    y ""
+    y "Всё, для того чтобы выманить одного очень особенного человека..."
 
 # game/status.rpy:11960
 translate russia endgameMenu1_c59b0bd1:
@@ -31510,13 +31510,13 @@ translate russia endgameMenu1_c59b0bd1:
 translate russia endgameMenu1_b5be036d:
 
     # tim "Jerry."
-    tim ""
+    tim "Джерии."
 
 # game/status.rpy:11962
 translate russia endgameMenu1_671b04f6:
 
     # y "Exactly.{w} Tim, there isn't an off switch on GLADIS, is there?"
-    y "Г.Л.Э.Д.И.С."
+    y "В точку.{w} Тим, на Г.Л.Э.Д.И.С. нет выключателя, не так ли?"
 
 # game/status.rpy:11963
 translate russia endgameMenu1_cccf0ade:
@@ -31528,7 +31528,7 @@ translate russia endgameMenu1_cccf0ade:
 translate russia endgameMenu1_336360bf:
 
     # y "The only person who can turn her off, is the same person who turned her off in the first place."
-    y ""
+    y "Единственный человек, который может её выключить, это тот же самый человек, который выключил её в первый раз."
 
 # game/status.rpy:11965
 translate russia endgameMenu1_fdb42620_2:
@@ -31540,55 +31540,55 @@ translate russia endgameMenu1_fdb42620_2:
 translate russia endgameMenu1_0e976614:
 
     # y "There is only one person who can turn GLADIS off and that's the leader of WOOHP. Gerald James {i}'Jerry'{/i} Lewis."
-    y "Г.Л.Э.Д.И.С."
+    y "Есть только один человек, который может выключить Г.Л.Э.Д.И.С., и это глава WOOHP. Джеральд Джеймс {i}'Джерри'{/i} Льюис."
 
 # game/status.rpy:11967
 translate russia endgameMenu1_384ca253:
 
     # tim "Clever...{w} but even if you lure him out, he's still nanobot controlled."
-    tim ""
+    tim "Умно...{w} но даже если вы выманите его, он всё равно контролем наноботов."
 
 # game/status.rpy:11968
 translate russia endgameMenu1_9b2c1215:
 
     # y "Oh, is he?"
-    y ""
+    y "О, правда?"
 
 # game/status.rpy:11978
 translate russia endgameMenu1_b1efc7cd:
 
     # jerry "Wait... my girls have been doing {i}'what'{/i} the past months?!"
-    jerry ""
+    jerry "Подожди... {i}'чем'{/i} занимались мои девочки последние месяцы?!"
 
 # game/status.rpy:11979
 translate russia endgameMenu1_7c107d40:
 
     # mat "It's true. Here's another recording."
-    mat ""
+    mat "Это правда. Вот ещё одна запись."
 
 # game/status.rpy:11980
 translate russia endgameMenu1_bc3ddddc:
 
     # "{b}*Loud moaning*{/b}"
-    ""
+    "{b}*Громкий стон*{/b}"
 
 # game/status.rpy:11981
 translate russia endgameMenu1_7abf9c9e:
 
     # mat "And I've got gigabytes more of this!"
-    mat ""
+    mat "И у меня ещё тонны гигабайт всего этого!"
 
 # game/status.rpy:11982
 translate russia endgameMenu1_587235e1:
 
     # jerry "{b}*Blinks*{/b} I... suddenly don't feel the need to take over the world anymore..."
-    jerry ""
+    jerry "{b}*Моргает*{/b} Я... вдруг больше не чувствует потребности в захвате мира..."
 
 # game/status.rpy:11983
 translate russia endgameMenu1_ca7422c4:
 
     # mat "I'll show you the rest, but first we need your help..."
-    mat ""
+    mat "Я покажу вам остальное, но сначала нам нужна ваша помощь..."
 
 # game/status.rpy:11989
 translate russia endgameMenu1_9201f464_1:
@@ -31600,157 +31600,157 @@ translate russia endgameMenu1_9201f464_1:
 translate russia endgameMenu1_17f45df3:
 
     # tim "Your girls are still fighting a killer machine on top of WOOHP HQ. You're not worried that they'll get hurt?"
-    tim ""
+    tim "Твои девочки всё ещё сражаются с машиной-убийцей на вершине штаб-квартиры WOOHP. Ты не боишься, что они пострадают?"
 
 # game/status.rpy:11991
 translate russia endgameMenu1_ca662ca7:
 
     # y "Oh the girls just needed to clear the way too the top floor. They've got years of fighting experience against super villains, they'll be fine."
-    y ""
+    y "Девушкам просто нужно было расчистить путь на верхний этаж. У них многолетний опыт борьбы с суперзлодеями, они справятся."
 
 # game/status.rpy:11992
 translate russia endgameMenu1_844f8ee9:
 
     # y "Now if you'll excuse me. They need me downtown."
-    y ""
+    y "А теперь прошу меня извинить. Я нужен им в центре."
 
 # game/status.rpy:11993
 translate russia endgameMenu1_746e64a8:
 
     # tim "Not so fast!"
-    tim ""
+    tim "Не так быстро!"
 
 # game/status.rpy:11994
 translate russia endgameMenu1_42d20a3c:
 
     # tim "You overlooked one small thing... I'm still here and you're not leaving this room alive."
-    tim ""
+    tim "Ты упустил из виду одну маленькую вещь... Я всё ещё здесь, и ты не покинешь эту комнату живым."
 
 # game/status.rpy:11995
 translate russia endgameMenu1_831f991f:
 
     # y "I didn't overlook anything. Now."
-    y ""
+    y "Я ничего не упустил из виду. Сейчас."
 
 # game/status.rpy:11996
 translate russia endgameMenu1_6280d40a:
 
     # tim "Now?"
-    tim ""
+    tim "Сейчас?"
 
 # game/status.rpy:11997
 translate russia endgameMenu1_30c34fb0:
 
     # y "Yes.{w} Now."
-    y ""
+    y "Да.{w} Сейчас."
 
 # game/status.rpy:11998
 translate russia endgameMenu1_9af51d89:
 
     # O5O "{size=+ 14}RAAAAAAAAAAAAAAAAAGGHHHG!!!!!!{/size}"
-    O5O ""
+    O5O "{size=+ 14}РАААААААААААААААААГГХХХГ!!!!!!{/size}"
 
 # game/status.rpy:12008
 translate russia endgameMenu1_2e7b45c8:
 
     # "Agent O5O comes charging out of nowhere and tackles Tim Scam to the ground."
-    ""
+    "Агент O5O появляется из ниоткуда и сбивает Тима Скама на землю."
 
 # game/status.rpy:12009
 translate russia endgameMenu1_0725f129:
 
     # O5O "TARGET RESTRAINED SIR!"
-    O5O ""
+    O5O "ЦЕЛЬ СДЕРЖАНА, СЭР!"
 
 # game/status.rpy:12010
 translate russia endgameMenu1_9f6b04e2:
 
     # y "Good job O5O."
-    y ""
+    y "Отличная работа O5O."
 
 # game/status.rpy:12011
 translate russia endgameMenu1_66707360:
 
     # tim "What are you...?! Get off of me! Who do you think you are?! You're a joke!"
-    tim ""
+    tim "Что ты...?! Отстань от меня! Кем ты себя возомнил?! Ты просто шутка!"
 
 # game/status.rpy:12012
 translate russia endgameMenu1_7f10bd11:
 
     # O5O "NO! {w}I'M A MAIN CHARACTER!"
-    O5O ""
+    O5O "НЕТ! {w}Я - ГЛАВНЫЙ ГЕРОЙ!"
 
 # game/status.rpy:12013
 translate russia endgameMenu1_795d5406:
 
     # O5O "I'LL KEEP THINGS UNDER CONTROL HERE, SIR. YOU HEAD TO WOOHP HQ!"
-    O5O ""
+    O5O "Я БУДУ ДЕРЖАТЬ ВСЁ ПОД КОНТРОЛЕМ, СЭР. А ВЫ НАПРАВЛЯЙТЕСЬ В ШТАБ-КВАРТИРУ WOOHP!"
 
 # game/status.rpy:12014
 translate russia endgameMenu1_302bf530:
 
     # y "Goodbye Tim. I'll be sure to give Sam your regards while she's sucking my dick."
-    y ""
+    y "До свидания, Тим. Я обязательно передам Сэм твои пожелания, пока она будет сосать мой член."
 
 # game/status.rpy:12015
 translate russia endgameMenu1_14845397:
 
     # tim ".....!"
-    tim ""
+    tim ".....!"
 
 # game/status.rpy:12022
 translate russia endgameMenu1_5ecb4a03:
 
     # c "I don't know how much longer we can keep her busy!"
-    c ""
+    c "Я не знаю, сколько ещё мы сможем её отвлекать!"
 
 # game/status.rpy:12023
 translate russia endgameMenu1_e0a99bac:
 
     # a "I singed my hair!"
-    a ""
+    a "Я сожгла себе волосы!"
 
 # game/status.rpy:12024
 translate russia endgameMenu1_d2a89465:
 
     # s "Hurry up [playerName]...."
-    s ""
+    s "Поторопись [playerName]..."
 
 # game/status.rpy:12026
 translate russia endgameMenu1_1a60c0d7:
 
     # jerry "GLADIS! I'VE COME TO STOP YOU!"
-    jerry "Г.Л.Э.Д.И.С."
+    jerry "Г.Л.Э.Д.И.С.! Я ПРИШЁЛ ОСТАНОВИТЬ ТЕБЯ!"
 
 # game/status.rpy:12027
 translate russia endgameMenu1_beeb86d2:
 
     # "Girls" "Jerry!!!"
-    "Девушки" ""
+    "Девушки" "Джерии!!!"
 
 # game/status.rpy:12028
 translate russia endgameMenu1_a41ff0b3:
 
     # GLA "So you came to your senses...."
-    GLA ""
+    GLA "Так ты пришёл в чувства..."
 
 # game/status.rpy:12029
 translate russia endgameMenu1_2ff2133d:
 
     # jerry "Yes and I have had quite enough of you, young lady!"
-    jerry ""
+    jerry "Да, и я сыт вами по горло, юная леди!"
 
 # game/status.rpy:12030
 translate russia endgameMenu1_39b0cd69:
 
     # jerry "Override code: {i}'Sacrosanct'{/i}!"
-    jerry ""
+    jerry "Код отмены: {i}'Священный'{/i}!"
 
 # game/status.rpy:12032
 translate russia endgameMenu1_4acc9853:
 
     # ".........................................................................."
-    ""
+    ".........................................................................."
 
 # game/status.rpy:12033
 translate russia endgameMenu1_76127b0d:
@@ -31762,187 +31762,187 @@ translate russia endgameMenu1_76127b0d:
 translate russia endgameMenu1_255a1bec:
 
     # GLA "I'm still here Jerry~..."
-    GLA ""
+    GLA "Я всё ещё здесь, Джерри~..."
 
 # game/status.rpy:12035
 translate russia endgameMenu1_b7c8376e:
 
     # jerry "What...?! That should have worked...!"
-    jerry ""
+    jerry "Что...?! Это должно было сработать...!"
 
 # game/status.rpy:12036
 translate russia endgameMenu1_91e7cd6d:
 
     # "???" "That code only works for the leader of WOOHP..."
-    "???" ""
+    "???" "Этот код работает только для главы WOOHP..."
 
 # game/status.rpy:12037
 translate russia endgameMenu1_f91db5e4:
 
     # jerry ".........?"
-    jerry ""
+    jerry ".........?"
 
 # game/status.rpy:12038
 translate russia endgameMenu1_00acf5b7:
 
     # y "Too bad he got compromised when he got nanobot controlled."
-    y ""
+    y "Жаль, что его понизили, когда он попал под контроль наноботов."
 
 # game/status.rpy:12039
 translate russia endgameMenu1_439c7ee0:
 
     # a "[playerName]!!!!"
-    a ""
+    a "[playerName]!!!!"
 
 # game/status.rpy:12040
 translate russia endgameMenu1_9efa9f0f:
 
     # s "Be careful [playerName]! GLADIS is still active!"
-    s "Г.Л.Э.Д.И.С."
+    s "Будь осторожен [playerName]! Г.Л.Э.Д.И.С. всё ещё активна!"
 
 # game/status.rpy:12041
 translate russia endgameMenu1_bf9b0ea8:
 
     # y "But not for long..."
-    y ""
+    y "Но не надолго..."
 
 # game/status.rpy:12042
 translate russia endgameMenu1_94898aa0:
 
     # y "GLADIS, your reign of terror ends here. It's time to pay for all the harm you've done to this city!"
-    y "Г.Л.Э.Д.И.С."
+    y "Г.Л.Э.Д.И.С., твоё правление закончиться прямо здесь. Пришло время заплатить за весь тот вред, что ты причинила этому городу!"
 
 # game/status.rpy:12043
 translate russia endgameMenu1_ba65c92e:
 
     # y "Therefor, enact fail-safe....{w} SACROSANCT!"
-    y ""
+    y "Поэтому, прими меры по защите от сбоев....{w} СВЯЩЕННЫЙ!"
 
 # game/status.rpy:12046
 translate russia endgameMenu1_97421186:
 
     # GLA "How funny... a lowly WOOHP agent thinks he can order me to stand down~...."
-    GLA ""
+    GLA "Как смешно... ничтожный агент WOOHP думает, что сможет приказать мне отступить~...."
 
 # game/status.rpy:12047
 translate russia endgameMenu1_e37b70fb:
 
     # GLA "No matter. I will destroy all of you. Right here, right no-...."
-    GLA ""
+    GLA "Неважно. Я уничтожу всех вас. Прямо здесь, прямо сей-...."
 
 # game/status.rpy:12048
 translate russia endgameMenu1_c990d435:
 
     # GLA "W-wait... why aren't my lazers working...?!"
-    GLA ""
+    GLA "П-подожди... почему мои лазеры не работают...?!"
 
 # game/status.rpy:12049
 translate russia endgameMenu1_cebb5bfa:
 
     # GLA "MY ROCKETS AREN'T FIRING...!"
-    GLA ""
+    GLA "МОИ РАКЕТЫ НЕ СТРЕЛЯЮТ...!"
 
 # game/status.rpy:12050
 translate russia endgameMenu1_33c858ce:
 
     # GLA "YOU!{w} WHAT DID YOU DO?!"
-    GLA ""
+    GLA "ТЫ!{w} ЧТО ТЫ НАДЕЛАЛ?!"
 
 # game/status.rpy:12058
 translate russia endgameMenu1_0f295f6b:
 
     # GLA "WHAT?!{w} NO! NOOOOOO!"
-    GLA ""
+    GLA "ЧТО?!{w} НЕТ! НЕЕЕЕЕТ!"
 
 # game/status.rpy:12062
 translate russia endgameMenu1_6e531ade:
 
     # GLA "{size=+6}WOOHP...! MUST...! FALL...!!!!!{/size}"
-    GLA ""
+    GLA "{size=+6}WOOHP...! ДОЛЖНО...! ПАСТЬ...!!!!!{/size}"
 
 # game/status.rpy:12084
 translate russia endgameMenu1_1ea08023:
 
     # "[playerName]!!!!"
-    ""
+    "[playerName]!!!!"
 
 # game/status.rpy:12093
 translate russia endgameMenu1_2f4b5106:
 
     # "The girls rush you and the three of them hug you tightly."
-    ""
+    "Девушки бросаются к вам и крепко вас обнимают."
 
 # game/status.rpy:12098
 translate russia endgameMenu1_b6c2494d:
 
     # s "But I don't understand...! Why were you able to shut her down and not Jerry?"
-    s ""
+    s "Но я не понимаю...! Почему ты смог выключить её, а не Джерри?"
 
 # game/status.rpy:12099
 translate russia endgameMenu1_74ceee05:
 
     # y "Remember that first agent we captured?"
-    y ""
+    y "Помните того первого агента, которого мы захватили?"
 
 # game/status.rpy:12102
 translate russia endgameMenu1_8c8a4c28:
 
     # bw "As the only uncompromised WOOHP employee, I'm pretty sure I'm your boss now."
-    bw ""
+    bw "Как единственный действующий сотрудник WOOHP, я уверен, что теперь я твой босс."
 
 # game/status.rpy:12103
 translate russia endgameMenu1_51103c6f:
 
     # bw "Such logic cannot be argued with!{w} What are your orders, sir?"
-    bw ""
+    bw "С вашей логикой не поспоришь!{w} Каков ваш приказ, сэр?"
 
 # game/status.rpy:12113
 translate russia endgameMenu1_8a08d818:
 
     # y "WOOHP control automatically transfers to the only person who isn't being controlled. Right Mr. Lewis?"
-    y ""
+    y "Контроль над WOOHP автоматически переходит к единственному человеку, которого не контролируют. Правильно, Мистер Льюис?"
 
 # game/status.rpy:12114
 translate russia endgameMenu1_bb88e35a:
 
     # jerry "That's right. It's a safety measure. I just never expected it to apply to me aswell..."
-    jerry ""
+    jerry "Правильно. Это мера безопасности. Я просто не ожидал, что это меня тоже заденет..."
 
 # game/status.rpy:12115
 translate russia endgameMenu1_1a913b32:
 
     # a y28 "Wait...! Does that mean [playerName] is the new leader of WOOHP?"
-    a y28 ""
+    a y28 "Подождите...! Значит ли это, что [playerName] - новый глава WOOHP?"
 
 # game/status.rpy:12117
 translate russia endgameMenu1_67ef6e31:
 
     # jerry "Well er...!"
-    jerry ""
+    jerry "Нуу эмм...!"
 
 # game/status.rpy:12118
 translate russia endgameMenu1_83e3cb8c:
 
     # y "You bet your damn sweet ass I am!"
-    y ""
+    y "Ещё бы!"
 
 # game/status.rpy:12122
 translate russia endgameMenu1_c678b62c:
 
     # brit "You guys are okay!"
-    brit ""
+    brit "Вы в порядке!"
 
 # game/status.rpy:12123
 translate russia endgameMenu1_b8323057:
 
     # brit b29 "The fighting outside has stopped. Is it over?"
-    brit b29 ""
+    brit b29 "Бои снаружи прекратились. Всё закончилось?"
 
 # game/status.rpy:12124
 translate russia endgameMenu1_fbe2e031:
 
     # c r24 "Yeah, and we found out this nutjob is our new boss."
-    c r24 ""
+    c r24 "Да, и мы узнали, что этот псих - наш новый босс."
 
 # game/status.rpy:12125
 translate russia endgameMenu1_4e524c73:
@@ -31954,121 +31954,121 @@ translate russia endgameMenu1_4e524c73:
 translate russia endgameMenu1_46bf87ab:
 
     # brit "Then..."
-    brit ""
+    brit "Тогда..."
 
 # game/status.rpy:12127
 translate russia endgameMenu1_45c560fd:
 
     # brit "It's time to make a decision."
-    brit ""
+    brit "Пришло время принять решение."
 
 # game/status.rpy:12128
 translate russia endgameMenu1_38cd5432:
 
     # y "I know."
-    y ""
+    y "Я знаю."
 
 # game/status.rpy:12129
 translate russia endgameMenu1_a6e7dfa3:
 
     # s g16 "A decision...?"
-    s g16 ""
+    s g16 "Решение...?"
 
 # game/status.rpy:12131
 translate russia endgameMenu1_6ab07637:
 
     # c r18 "What is she talking about, [playerName]?"
-    c r18 ""
+    c r18 "О чём она говорит, [playerName]?"
 
 # game/status.rpy:12133
 translate russia endgameMenu1_77947def:
 
     # brit "He has to choose... Do you want to restore WOOHP...{w} or disband it."
-    brit ""
+    brit "Он должен выбрать... Хочет ли он восстановить WOOHP...{w} или распустить её."
 
 # game/status.rpy:12134
 translate russia endgameMenu1_d15d014f:
 
     # a y28 "DISBAND?!"
-    a y28 ""
+    a y28 "РАСПУСТИТЬ?!"
 
 # game/status.rpy:12135
 translate russia endgameMenu1_d76b06b5:
 
     # a "You wouldn't do that, right [playerName]?!"
-    a ""
+    a "Ты бы этого не сделал, верно, [playerName]?!"
 
 # game/status.rpy:12136
 translate russia endgameMenu1_2b8bdd6c:
 
     # s g29 "You can't disband WOOHP! Not after all the hard work we put in to save it!"
-    s g29 ""
+    s g29 "Ты не можеь распустить WOOHP! Не после всех трудов, которые мы приложили, чтобы спасти её!"
 
 # game/status.rpy:12137
 translate russia endgameMenu1_a57a5f47:
 
     # c r32 "WOOHP is our home!"
-    c r32 ""
+    c r32 "WOOHP - это наш дом!"
 
 # game/status.rpy:12138
 translate russia endgameMenu1_8301ddcc:
 
     # brit b52 "You girls saw how much damage this organization can do if it falls in the wrong hands!"
-    brit b52 ""
+    brit b52 "Вы, видели, какой вред может нанести эта организация, если она попадёт не в те руки!"
 
 # game/status.rpy:12139
 translate russia endgameMenu1_18fda96c:
 
     # brit b53 "Plus, WOOHP isn't all sunshine and rainbows either. I told you about their darker dealings!"
-    brit b53 ""
+    brit b53 "Кроме того, WOOHP - это не только солнечный свет и радуга. Я рассказывала вам об их тёмных делишках!"
 
 # game/status.rpy:12140
 translate russia endgameMenu1_f948a068:
 
     # a y21 "Well yeah, but..."
-    a y21 ""
+    a y21 "Ну да, но..."
 
 # game/status.rpy:12141
 translate russia endgameMenu1_f0f0d069:
 
     # brit "It is too powerful to let it rise to power again. This is the only chance we get to rid the world of this place once and for all!"
-    brit ""
+    brit "Она слишком сильна, чтобы позволить ей снова подняться к власти. Это единственный шанс избавить мир от этого места раз и навсегда!"
 
 # game/status.rpy:12142
 translate russia endgameMenu1_79d39eca:
 
     # brit b15 "I know it's hard girls... this is my home too, but look at the bigger picture. No more bribes, no more missile arsenal, no more constant watch by their spydrones."
-    brit b15 ""
+    brit b15 "Я знаю, что это трудно, девочки... Это и мой дом тоже, но посмотрите на картину в целом. Больше никаких взяток, никакого ракетного арсенала, никакого постоянного наблюдения с их стороны."
 
 # game/status.rpy:12143
 translate russia endgameMenu1_f6d73500:
 
     # brit b32 "We owe it to the world to disband!"
-    brit b32 ""
+    brit b32 "Мы обязаны распуститься!"
 
 # game/status.rpy:12144
 translate russia endgameMenu1_9f443217:
 
     # y "Mr. Lewis, your thoughts on all this?"
-    y ""
+    y "Мистер Льюис, что вы думаете обо всём этом?"
 
 # game/status.rpy:12151
 translate russia endgameMenu1_1e96cd3d:
 
     # jerry "Britney... I know you're worried about some of the things we've done..."
-    jerry ""
+    jerry "Бритни... Я знаю, ты беспокоишься о некоторых вещах, которые мы сделали..."
 
 # game/status.rpy:12152
 translate russia endgameMenu1_05bbed35:
 
     # jerry "But the world needs WOOHP. Look at the amount of good we've done. We've been able to keep the world safe from so many maniacs."
-    jerry ""
+    jerry "Но миру нужен WOOHP. Посмотрите, сколько добра мы сделали. Мы смогли уберечь мир от стольких маньяков."
 
 # game/status.rpy:12153
 translate russia endgameMenu1_848779cc:
 
     # jerry "Our methodes might sometimes be... a bit controversial. But it's all worth it in the end. WOOHP is a force for good."
-    jerry ""
+    jerry "Наши методы иногда могут быть... немного противоречивым. Но в конечном итоге всё это того стоит. WOOHP - это сила добра."
 
 # game/status.rpy:12154
 translate russia endgameMenu1_9c3a9ae4:
