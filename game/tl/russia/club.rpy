@@ -676,7 +676,7 @@ translate russia clubManagment_3315fbbd:
 translate russia clubManagment_6a530e43:
 
     # s g57 "A titty bar selling lobster...?"
-    s g57 "Сисястый бар, где продают лобстеров...?"
+    s g57 "Стрип-бар, где продают лобстеров...?"
 
 # game/club.rpy:683
 translate russia clubManagment_fd751d74:
@@ -890,7 +890,7 @@ translate russia strings:
 
     # game/club.rpy:713
     old "Hire one ($ 700)"
-    new "Нанять одного ($ 700)"
+    new "Нанять одну ($ 700)"
 
     # game/club.rpy:713
     old "Hire five ($ 3.500)"

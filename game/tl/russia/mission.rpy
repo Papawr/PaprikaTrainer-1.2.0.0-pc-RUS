@@ -112,13 +112,13 @@ translate russia loadingLevel_49df6cfe:
 translate russia loadingLevel_9cbc8fc7:
 
     # "Database" "Facial recognition complete. Maggie T. - Bounty: $500."
-    "База данных" ""
+    "База данных" "Распознавание завершено. Мэгги Т. - Награда: $500."
 
 # game/mission.rpy:3319
 translate russia loadingLevel_5dbf1479:
 
     # y "Get her, she's one of the Aces Lieutenants!"
-    y ""
+    y "Хватайте её, она одна из лейтенантов Тузов!"
 
 # game/mission.rpy:3325
 translate russia loadingLevel_05db0e13:
