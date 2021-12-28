@@ -867,3 +867,76 @@ translate russia strings:
     # game/animation.rpy:3032
     old "Never mind (jump nightcycle)"
     new "Неважно (скип ночи)"
+# TODO: Translation updated at 2021-12-26 13:04
+
+# game/animation.rpy:1074
+translate russia samSex2_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:1181
+translate russia samSex3_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:1336
+translate russia samSex4_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:1481
+translate russia samSex5_ae68ac49:
+
+    # "Progress anal scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:1869
+translate russia cloverSex2_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:1974
+translate russia cloverSex3_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:2083
+translate russia cloverSex4_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:2191
+translate russia cloverSex5_ae68ac49:
+
+    # "Progress anal scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:2514
+translate russia alexSex2_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:2619
+translate russia alexSex3_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:2728
+translate russia alexSex4_130518cd:
+
+    # "Progress sex scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."
+
+# game/animation.rpy:2838
+translate russia alexSex5_ae68ac49:
+
+    # "Progress anal scene by swiping right."
+    "Продвигайтесь по сцене, проводя пальцем в право."

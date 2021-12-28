@@ -484,32 +484,32 @@ default intelCost = 0
 screen missionScreenButtons:
     hbox:
         xpos 160 ypos 47
-        text "{size=-1}{color=#f7c64f}Spy 1{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-1}{color=#f7c64f}Spy 1{/color}{/size}") font "fonts/BigSquareDots.ttf"
     hbox:
         xpos 325 ypos 47
-        text "{size=-1}{color=#f7c64f}Spy 2{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-1}{color=#f7c64f}Spy 2{/color}{/size}") font "fonts/BigSquareDots.ttf"
     hbox:
         xpos 490 ypos 47
-        text "{size=-1}{color=#f7c64f}Spy 3{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-1}{color=#f7c64f}Spy 3{/color}{/size}") font "fonts/BigSquareDots.ttf"
     hbox:
         xpos 714 ypos 47
-        text "{size=-1}{color=#f7c64f}Location{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-1}{color=#f7c64f}Location{/color}{/size}") font "fonts/BigSquareDots.ttf"
     hbox:
         xpos 876 ypos 49
-        text "{size=-3}{color=#f7c64f}Intel cost: [intel]/[intelCost]{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-3}{color=#f7c64f}Intel cost: [intel]/[intelCost]{/color}{/size}") font "fonts/BigSquareDots.ttf"
     hbox:
         xpos 149 ypos 469
-        text "{size=-1}{color=#f7c64f}Backup{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-1}{color=#f7c64f}Backup{/color}{/size}") font "fonts/BigSquareDots.ttf"
     hbox:
         xpos 722 ypos 475
-        text "{size=-1}{color=#f7c64f}Gadgets{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-1}{color=#f7c64f}Gadgets{/color}{/size}") font "fonts/BigSquareDots.ttf"
     hbox:
         xalign 0.955 yalign 0.966
-        text "{size=-1}{color=#f7c64f}FINISH >>{/color}{/size}" font "fonts/BigSquareDots.ttf"
+        text _("{size=-1}{color=#f7c64f}FINISH >>{/color}{/size}") font "fonts/BigSquareDots.ttf"
     if gadgetJetpack >= 1:
         hbox:
             xalign 0.625 yalign 0.9
-            text "{size=-8}{color=#f7c64f}*Jetpack available{/color}{/size}" font "fonts/BigSquareDots.ttf"
+            text _("{size=-8}{color=#f7c64f}*Jetpack available{/color}{/size}") font "fonts/BigSquareDots.ttf"
 
 
     if missionScreenFrontlineSelect == 1:
@@ -1929,7 +1929,7 @@ screen gadgetButtons:
                 action SetVariable("craftCurrentGadget", 1), Jump("craftGadgetLabel")
         $ tooltip = GetTooltip()
         if tooltip == "ttEarrings":
-            text "{color=#000000}{font=fonts/freshmarker.ttf}HYPNO EARRINGS - THROW TO HYPNOTIZE TARGETS. \n1 SALTPETER, 1 VALUABLES, 1 COOLING AGENT{/font}{/color}" xpos 110 ypos 550
+            text _("{color=#000000}{font=fonts/freshmarker.ttf}HYPNO EARRINGS - THROW TO HYPNOTIZE TARGETS. \n1 SALTPETER, 1 VALUABLES, 1 COOLING AGENT{/font}{/color}") xpos 110 ypos 550
             add "gui/gadgets/matsEarrings.jpg" xalign 0.08 yalign 0.06
             text "{size=-4}{color=#000000}[matsDust]/1{/color}{/size}" xpos 130 ypos 80
             text "{size=-4}{color=#000000}[matsValu]/1{/color}{/size}" xpos 220 ypos 80

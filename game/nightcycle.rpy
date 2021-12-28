@@ -680,7 +680,7 @@ label nightCycle:
         jump task7
 
     scene black with fade
-    show text "The night passes and all is quiet."
+    show text _("The night passes and all is quiet.")
     with d5
     pause 1.5
     hide text

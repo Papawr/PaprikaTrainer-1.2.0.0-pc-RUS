@@ -1061,3 +1061,49 @@ translate russia strings:
     # game/base.rpy:2300
     old "Carla Wong"
     new "Карла Вонг"
+# TODO: Translation updated at 2021-12-28 19:53
+
+translate russia strings:
+
+    # game/base.rpy:1932
+    old "{color=#000000}{font=fonts/freshmarker.ttf}HYPNO EARRINGS - THROW TO HYPNOTIZE TARGETS. \n1 SALTPETER, 1 VALUABLES, 1 COOLING AGENT{/font}{/color}"
+    new "{color=#000000}{font=fonts/freshmarker.ttf}ГИПНО-СЕРЬГИ - БРОСЬТЕ, ЧТОБЫ ЗАГИПНОТИЗИРОВАТЬ ЦЕЛЬ. \n1 СЕЛИТРА, 1 ЦЕННОСТИ, 1 ОХЛАДИТЕЛЬ{/font}{/color}"
+# TODO: Translation updated at 2021-12-28 20:04
+
+translate russia strings:
+
+    # game/base.rpy:487
+    old "{size=-1}{color=#f7c64f}Spy 1{/color}{/size}"
+    new "{size=-1}{color=#f7c64f}Шпион{/color}{/size}"
+
+    # game/base.rpy:490
+    old "{size=-1}{color=#f7c64f}Spy 2{/color}{/size}"
+    new "{size=-1}{color=#f7c64f}Шпион{/color}{/size}"
+
+    # game/base.rpy:493
+    old "{size=-1}{color=#f7c64f}Spy 3{/color}{/size}"
+    new "{size=-1}{color=#f7c64f}Шпион{/color}{/size}"
+
+    # game/base.rpy:496
+    old "{size=-1}{color=#f7c64f}Location{/color}{/size}"
+    new "{size=-1}{color=#f7c64f}Локация{/color}{/size}"
+
+    # game/base.rpy:499
+    old "{size=-3}{color=#f7c64f}Intel cost: [intel]/[intelCost]{/color}{/size}"
+    new "{size=-3}{color=#f7c64f}Сведения:[intel]/[intelCost]{/color}{/size}"
+
+    # game/base.rpy:502
+    old "{size=-1}{color=#f7c64f}Backup{/color}{/size}"
+    new "{size=-1}{color=#f7c64f}Подмога{/color}{/size}"
+
+    # game/base.rpy:505
+    old "{size=-1}{color=#f7c64f}Gadgets{/color}{/size}"
+    new "{size=-1}{color=#f7c64f}Гаджеты{/color}{/size}"
+
+    # game/base.rpy:508
+    old "{size=-1}{color=#f7c64f}FINISH >>{/color}{/size}"
+    new "{size=-1}{color=#f7c64f}                  ГОТОВО>>{/color}{/size}"
+
+    # game/base.rpy:512
+    old "{size=-8}{color=#f7c64f}*Jetpack available{/color}{/size}"
+    new "{size=-8}{color=#f7c64f}*Доступен джетпак{/color}{/size}"

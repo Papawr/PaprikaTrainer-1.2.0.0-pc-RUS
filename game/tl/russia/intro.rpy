@@ -52,7 +52,7 @@ translate russia beginIntro_0d17423e:
 translate russia beginIntro_ced5018e:
 
     # "Guard" "FRONT AND CENTER INMATE!"
-    "Охранник" "ЗАКЛЮЧЕННЫЙ ПО ЦЕНТРУ!"
+    "Охранник" "ЗАКЛЮЧЁННЫЙ ПО ЦЕНТРУ!"
 
 # game/intro.rpy:78
 translate russia beginIntro_3ad74576:
@@ -100,13 +100,13 @@ translate russia beginIntro_aced5560:
 translate russia beginIntro_428575fc:
 
     # "Guard" "YOUR ORDERS ARE SIMPLE!{w} KEEP MOPPING THAT FLOOR UNTIL IT SPARKLES. I WANT TO SEE MY FACE IN THAT FLOOR!"
-    "Охранник" "У ТЕБЯ ОЧЕНЬ ПРОСТАЯ ЗАДАЧА!{w} НАТРИ ЭТОТ ПОЛ ДО БЛЕСКА, ХОЧУ ВИДЕТЬ В НЁМ МОЕ ОТРАЖЕНИЕ!"
+    "Охранник" "У ТЕБЯ ОЧЕНЬ ПРОСТАЯ ЗАДАЧА!{w} НАТРИ ЭТОТ ПОЛ ДО БЛЕСКА, ХОЧУ ВИДЕТЬ В НЁМ МОЁ ОТРАЖЕНИЕ!"
 
 # game/intro.rpy:93
 translate russia beginIntro_7b0df5a4:
 
     # "Guard" "I WANT IT BETTER THAN CLEAN! I WANT IT TO BE HANDSOME!"
-    "Охранник" "ХОЧУ ЧТОБЫ ОН БЫЛ НЕ ПРОСТО ЧИСТЫМ! А ЧТОБЫ ОН ОСЛЕПИТЕЛЬНО ЧИСТЫМ!"
+    "Охранник" "ХОЧУ ЧТОБЫ ОН БЫЛ НЕ ПРОСТО ЧИСТЫМ! ХОЧУ ЧТОБЫ ОН ОСЛЕПЛЯЛ СВОЕЙ ЧИСТОТОЙ!"
 
 # game/intro.rpy:94
 translate russia beginIntro_d5d362de:
@@ -172,7 +172,7 @@ translate russia beginIntro_2b2bd210:
 translate russia beginIntro_4ec79ff8:
 
     # "Guard" "HOT-DOG! YOU'RE RIGHT!{w} HERE'S A DOLLAR!"
-    "Охранник" "ЁШКИ-МАТРЕКИ! ДА, ТЫ ПРАВ!{w} ВОТ ТЕБЕ ДОЛЛАР!"
+    "Охранник" "ЁШКИ-МАТРЁШКИ! ДА, ТЫ ПРАВ!{w} ВОТ ТЕБЕ ДОЛЛАР!"
 
 # game/intro.rpy:111
 translate russia beginIntro_435f7b80:
@@ -333,7 +333,7 @@ translate russia beginIntro_3fcc1eef:
 translate russia beginIntro_04946c27:
 
     # "You listen closely and hear sirens and what appears to be gunshots going off in the outside world."
-    "Вы прислушиваетесь. Звуки сирены и выстрелов доносятся где-то снаружи."
+    "Вы прислушиваетесь. Звуки сирен и выстрелов доносятся где-то снаружи."
 
 # game/intro.rpy:162
 translate russia beginIntro_66a9666b:
@@ -417,7 +417,7 @@ translate russia beginIntro_205e02de:
 translate russia beginIntro_5103a77d:
 
     # yInmate "Like my old nan always says. {i}'You might scream and cry and hollar, but a dollar is still a dollar.'{/i}."
-    yInmate "Как всегда, говорила моя тётка: {i}'Ты можешь кричать, плакать и биться в агонии, но доллар все равно останется долларом.'{/i}."
+    yInmate "Как всегда, говорила моя тётка: {i}'Ты можешь кричать, плакать и биться в агонии, но доллар всё равно останется долларом.'{/i}."
 
 # game/intro.rpy:209
 translate russia beginIntro_20192415:
@@ -441,7 +441,7 @@ translate russia beginIntro_335c0d89:
 translate russia beginIntro_39746c0f:
 
     # yInmate "Wow... my reflection {i}'is'{/i} handsome!"
-    yInmate "Вау... мое отражение... {i}'это'{/i} офигенно!"
+    yInmate "Вау... моё отражение... {i}'это'{/i} офигенно!"
 
 # game/intro.rpy:215
 translate russia beginIntro_38b84761:
@@ -855,13 +855,13 @@ translate russia tutSpySelect_35103d89:
 translate russia tutSpySelect_1e924af9:
 
     # y "K."
-    y "Хорош"
+    y "К."
 
 # game/intro.rpy:369
 translate russia tutSpySelect_384ba19d:
 
     # s g17 "What do you mean 'K'?"
-    s g17 "Что значит 'Хорош'?"
+    s g17 "Что значит 'К'?"
 
 # game/intro.rpy:370
 translate russia tutSpySelect_8bfd8a4d:
@@ -969,7 +969,7 @@ translate russia tutSpySelect_9a198eff:
 translate russia tutSpySelect_723e1470:
 
     # "{b}*Static*{/b}"
-    "{b}*Неподвижно*{/b}"
+    "{b}*Помехи*{/b}"
 
 # game/intro.rpy:410
 translate russia tutSpySelect_f7953e45:
@@ -1257,7 +1257,7 @@ translate russia tutSpySelect_a42a839a:
 translate russia tutSpySelect_29b18881:
 
     # s g38 "I'm not showing you mine, if that's what you're implying!"
-    s g38 "Свои я тебе не покажу, если это то, что ты имеешь в виду!"
+    s g38 "Свои я тебе не покажу, если ты на это намекаешь!"
 
 # game/intro.rpy:468
 translate russia tutSpySelect_35e10432:
@@ -1371,7 +1371,7 @@ translate russia tutSpySelect_ee8f229e:
 translate russia tutSpySelect_98ccd698:
 
     # s g16 "So will you help now?"
-    s g16 "Ну как насчёт помощи?"
+    s g16 "Ну, как насчёт помощи?"
 
 # game/intro.rpy:495
 translate russia tutSpySelect_2b0c5069:
@@ -1389,7 +1389,7 @@ translate russia tutSpySelect_6997c6e7:
 translate russia tutSpySelect_08bf1216:
 
     # s g34 "We should focus on infiltrating WOOHP, taking out the guards and fighting our way to the top. Then, we can confront the person who's behind this and put them in handcuffs!"
-    s g34 "Мы должны сосредоточиться на том, чтобы проникнуть в WOOHP, уничтожить охранников и пробить себе путь наверх. Затем мы сможем противостоять тому, кто за этим стоит, и заковать его в наручники!"
+    s g34 "Мы должны сосредоточиться на том, чтобы проникнуть в WOOHP, уничтожить охранников и пробить себе путь наверх. Затем мы сможем заковать того, кто за этим стоит, в наручники!"
 
 # game/intro.rpy:505
 translate russia tutSpySelect_9a78f174:
@@ -1401,7 +1401,7 @@ translate russia tutSpySelect_9a78f174:
 translate russia tutSpySelect_fa2694f9:
 
     # y "Solid plan. Now here's my proposal...{w} We don't do any of the things you just said."
-    y "Надёжный план. Вот мое предложение...{w} Мы не делаем ничего из того, что ты только что сказала."
+    y "Надёжный план. Вот моё предложение...{w} Мы не делаем ничего из того, что ты только что сказала."
 
 # game/intro.rpy:507
 translate russia tutSpySelect_ef737003:
@@ -1593,7 +1593,7 @@ translate russia tutStage3_1db49ca3:
 translate russia tutStage3_6c63f76b:
 
     # "Sam gets ready and heads out into the city."
-    "Собравшись Сэм отправляется в город."
+    "Собравшись, Сэм отправляется в город."
 
 # game/intro.rpy:569
 translate russia tutStage3_56163a2a:
@@ -1761,7 +1761,7 @@ translate russia tutStage4_be96616f:
 translate russia tutStage4_9dcf8253:
 
     # "Silva" "Oh heaven no! That credit goes to ze mastermind of this operation. It was his idea to use WOOHP's nanobots against zem."
-    "Сильва" "Ох, божечки, нет! Эта заслуга магистра, он организовал эту операцию. Это была его идея использовать наноботов WOOHP против них самих же."
+    "Сильва" "Ох, божечки, нет! Эта заслуга Организатора. Это была его идея использовать наноботов WOOHP против них самих же."
 
 # game/intro.rpy:629
 translate russia tutStage4_55dcbf44:
@@ -1803,13 +1803,13 @@ translate russia tutStage4_32972633:
 translate russia tutStage4_aa7708e8:
 
     # "Silva" "Ze mastermind freed us from our cells to prove ourselves. We all took control of gangs here in ze city. I'm in command of 'Les Épines'."
-    "Сильва" "Магистр освободил нас из заключения, чтобы мы могли проявить себя. Мы все взяли под контроль разные банды в этом городе. Я командую 'Шипами'."
+    "Сильва" "Организатор освободил нас из заключения, чтобы мы могли проявить себя. Мы все взяли под контроль разные банды в этом городе. Я командую 'Шипами'."
 
 # game/intro.rpy:636
 translate russia tutStage4_79bcb7e5:
 
     # "Silva" "Ze one who manages to take over all of Beverly Hills can join ze mastermind in his conquest for world domination."
-    "Сильва" "Тот, кому удастся захватить весь Беверли-Хиллз, сможет присоединиться к магистру в его борьбе за мировое господство."
+    "Сильва" "Тот, кому удастся захватить весь Беверли-Хиллз, сможет присоединиться к Организатору в его борьбе за мировое господство."
 
 # game/intro.rpy:637
 translate russia tutStage4_5989d1f9:
@@ -1851,7 +1851,7 @@ translate russia tutStage4_81384f5a:
 translate russia tutStage4_a279534f:
 
     # "Silva" "I have nothing against you mon ami, but I can't have a rival standing in my way..."
-    "Сильва" "Я не имею ничего против тебя, мона ми, но я не могу допустить, чтобы на моем пути стояли соперники..."
+    "Сильва" "Я не имею ничего против тебя, мона ми, но я не могу допустить, чтобы на моём пути стояли соперники..."
 
 # game/intro.rpy:646
 translate russia tutStage4_04975854:
@@ -2955,7 +2955,7 @@ translate russia tutPrison_b4e54db1:
 translate russia tutPrison_6dfd9913:
 
     # y "With a gettup like this I'm sure someone will hire me!"
-    y "С таким нарядом я уверен, что кто угодно возьмет меня на работу!"
+    y "С таким нарядом я уверен, что кто угодно возьмёт меня на работу!"
 
 # game/intro.rpy:1095
 translate russia tutPrison_fc41a33f:
@@ -3273,7 +3273,7 @@ translate russia tutDesk_f7b6bc76:
 translate russia tutDesk_25050824:
 
     # y "Let's hope nobody saw that...."
-    y "Будем надеяться, что никто этого не видел...."
+    y "Будем надеяться, что никто этого не заметит..."
 
 # game/intro.rpy:1300
 translate russia tutDesk_300263a9:
@@ -3321,7 +3321,7 @@ translate russia tutDesk_2f4ccc78:
 translate russia tutDesk_f4a8703c:
 
     # yInmate "Let's hope nobody saw that...."
-    yInmate "Будем надеяться, что никто этого не видел...."
+    yInmate "Будем надеяться, что никто этого не заметит..."
 
 # game/intro.rpy:1322
 translate russia tutDesk_10d4e697:
@@ -3345,13 +3345,13 @@ translate russia tutDesk_f358cb0c:
 translate russia tutDesk_221bfa38:
 
     # y "{i}'Hypno Earrings'{/i}"
-    y "{i}'\"Гипно\" серьги'{/i}"
+    y "{i}'Гипно-серьги'{/i}"
 
 # game/intro.rpy:1329
 translate russia tutDesk_092605e6:
 
     # y "{i}'Toss the hypnotic earrings near a target to unleash hypnotic gas.'{/i}"
-    y "{i}'Бросьте \"гипно\" серьги рядом с целью, чтобы выпустить гипнотический газ.'{/i}"
+    y "{i}'Бросьте Гипно-серьги рядом с целью, чтобы выпустить гипнотический газ.'{/i}"
 
 # game/intro.rpy:1330
 translate russia tutDesk_567f2f19:
@@ -3663,7 +3663,7 @@ translate russia tutorialStun_6d0df079:
 translate russia tutorialStun_656b4958:
 
     # y "[greenName] we're picking up a lot of radio chatter. You've got to get out of there."
-    y "[greenName] я улавливаю множество радиопереговоров. Ты должна выбираться оттуда."
+    y "Сэм я улавливаю множество радиопереговоров. Ты должна выбираться оттуда."
 
 # game/intro.rpy:1605
 translate russia tutorialStun_68e9bb68:
@@ -3675,7 +3675,7 @@ translate russia tutorialStun_68e9bb68:
 translate russia tutorialStun_52f760c4:
 
     # y "It's the nanobots, [greenName]. She's one of them now."
-    y "Это наноботы, [greenName]. Теперь она одна из них."
+    y "Это наноботы, Сэм. Теперь она одна из них."
 
 # game/intro.rpy:1607
 translate russia tutorialStun_c8ce8090:
@@ -3765,7 +3765,7 @@ translate russia tutorialStun_ae4bfad7_2:
 translate russia tutorialStun_62f54b0d:
 
     # a "[greenName]!"
-    a "[greenName]!"
+    a "Сэм!"
 
 # game/intro.rpy:1657
 translate russia tutorialStun_d1f007e2_2:
@@ -3783,7 +3783,7 @@ translate russia tutorialStun_6bc06009:
 translate russia tutorialStun_b2d084b9:
 
     # a "[greenName]...?"
-    a "[greenName]...?"
+    a "Сэм...?"
 
 # game/intro.rpy:1670
 translate russia tutorialStun_40bc1ddf:
@@ -3909,7 +3909,7 @@ translate russia tutStage65_8d2a06fb:
 translate russia tutStage65_514d73d8:
 
     # y "[greenName] are you okay?"
-    y "[greenName] ты впорядке?"
+    y "Сэм ты впорядке?"
 
 # game/intro.rpy:1944
 translate russia tutStage65_69e9fb24:
@@ -4005,7 +4005,7 @@ translate russia tutStage65_c3f2023d:
 translate russia tutStage65_56c223a1:
 
     # s "Honestly, I feel fin-..."
-    s "Честно говоря, я чувствую себя пре..."
+    s "Честно говоря, я чувствую себя пре-..."
 
 # game/intro.rpy:1982
 translate russia tutStage65_4ada3e88:
@@ -4137,7 +4137,7 @@ translate russia tutStage65_3036e2ae:
 translate russia tutStage65_4f1251fe:
 
     # y "Whelp...! Let's hope this doesn't become a trend. I only have so many spare suits lying around."
-    y "Ух ты...! Будем надеяться, что это не станет обыдённостью. У меня ведь так много запасных костюмов."
+    y "Ух ты...! Будем надеяться, что это не станет обыдённостью. У меня ведь не так много запасных костюмов."
 
 # game/intro.rpy:2023
 translate russia tutStage65_d034d3f2:
@@ -7186,3 +7186,14 @@ translate russia strings:
     # game/intro.rpy:2785
     old "Grab and run! (-Karma)"
     new "Хватай и беги! (-Карма)"
+
+    # game/intro.rpy:70
+    old "{size=+20}{color=#f10000}WARNING{/color}\n{/size} \n The following game is a parody. No endorsements by any company or person parodied is intended to be inferred. The law regarding parody is based upon the CJEU parody regulations under European law. Under this doctrine, certain uses of copyrighted works, which would otherwise by considered infringing, are permissible.\n\n Totally Spies and its associated properties are owned by Marathon Media.\n\n All characters depicted in sexual conduct or in the nude are aged 18 years or older. No actual or identifiable minor was used in the creation of any character depicted herein.\n\n This game contains adult material and is only intended for viewers aged 18 or over. If you are under 18, please do not continue."
+    new "{size=+20}{color=#f10000}ВНИМАНИЕ{/color}\n{/size} \n Данная игра является пародией и не предполагает никакого одобрения со стороны какой-либо компании или пародируемого лица. Закон, касающийся пародии, основан на правилах пародии CJEU в соответствии с европейским законодательством. Согласно этой доктрине, некоторые виды использования произведений, защищенных авторским правом, которые в противном случае считались бы нарушающими авторские права, являются допустимыми.\n\n Totally Spies и всё связанное с этой вселенной принадлежит Marathon Media.\n\n Все персонажи, изображенные в сексуальных действиях или в обнаженном виде, достигли 18 лет. При создании персонажей, изображенных в игре, не использовались несовершеннолетнее.\n\n\n Данная игра содержит материалы для взрослых и предназначена только для литц, достигших 18 лет. Если вам меньше 18 лет, пожалуйста, не продолжайте."
+# TODO: Translation updated at 2021-12-28 19:20
+
+translate russia strings:
+
+    # game/intro.rpy:546
+    old "The night passes and all is quiet."
+    new "Проходит ночь, всё спокойно."

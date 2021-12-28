@@ -661,11 +661,11 @@ layeredimage bgHQ:
     always:
         "bgs/bgHQ.jpg"
     if HQLiberated <= 5:
-        "bgs/HQBlocks/blockOffice.png" 
+        "bgs/HQBlocks/blockOffice.png"
     if HQLiberated <= 4:
         "bgs/HQBlocks/blockIntel.png"
     if HQLiberated <= 3:
-        "bgs/HQBlocks/blockFashion.png" 
+        "bgs/HQBlocks/blockFashion.png"
     if HQLiberated <= 2:
         "bgs/HQBlocks/blockPropaganda.png"
     if HQLiberated <= 1:
@@ -3880,9 +3880,9 @@ default cellAlexHappiness = 0
 layeredimage cellSam:
     always:
         "bgs/cells/bgCell.jpg"
-    if cellSamHall1 == 1:                      
+    if cellSamHall1 == 1:
         "bgs/cells/bgCellHalloween.jpg"
-    if cellSamChrist1 == 1:                      
+    if cellSamChrist1 == 1:
         "bgs/cells/bgCellChristmas.jpg"
     if cellSamLights == 1:
         "bgs/cells/cellLights1.png"
@@ -4427,9 +4427,9 @@ screen cellCloverDeco:
 layeredimage cellClover:
     always:
         "bgs/cells/bgCell.jpg"
-    if cellCloverHall1 == 1:                      
+    if cellCloverHall1 == 1:
         "bgs/cells/bgCellHalloween.jpg"
-    if cellCloverChrist1 == 1:                   
+    if cellCloverChrist1 == 1:
         "bgs/cells/bgCellChristmas.jpg"
     if cellCloverLights == 1:
         "bgs/cells/cellLights1.png"
@@ -4551,9 +4551,9 @@ default cellAlexChrist1 = 0
 layeredimage cellAlex:
     always:
         "bgs/cells/bgCell.jpg"
-    if cellAlexHall1 == 1:                      
+    if cellAlexHall1 == 1:
         "bgs/cells/bgCellHalloween.jpg"
-    if cellAlexChrist1 == 1:                 
+    if cellAlexChrist1 == 1:
         "bgs/cells/bgCellChristmas.jpg"
     if cellAlexLights == 1:
         "bgs/cells/cellLights1.png"
@@ -13340,7 +13340,7 @@ screen bagInteract:
     frame:
         xpos 1093 ypos 100
         has vbox
-        textbutton "Gadgets":
+        textbutton _("Gadgets"):
             action Show("bagInteractGadgets"), Hide("bagInteractBackup"), Hide("bagInteractItems")
         textbutton "[bagRadioName]":
             action Show("bagInteractBackup"), Hide("bagInteractGadgets"), Hide("bagInteractItems")

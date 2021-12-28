@@ -519,3 +519,33 @@ translate russia strings:
     # game/mission.rpy:5460
     old "Continue the mission"
     new "Продолжить миссию"
+# TODO: Translation updated at 2021-12-26 13:04
+
+# game/mission.rpy:3791
+translate russia missionBegin_8302b198:
+
+    # "V.I.B." "Danger! Nanobot control detected. Use your V.I.B. from the gadget menu."
+    "V.I.B." "Опасность! Обнаружен контроль наноботов. Используйте V.I.B. из меню гаджетов."
+# TODO: Translation updated at 2021-12-28 20:17
+
+translate russia strings:
+
+    # game/mission.rpy:2815
+    old "Launching mission.\nLocation: Malibu University."
+    new "Запуск миссии.\nЛокация: Университет Малибу."
+
+    # game/mission.rpy:2828
+    old "Launching mission.\nLocation: Valencia, Spain."
+    new "Запуск миссии.\nЛокация: Валенсия, Испания."
+
+    # game/mission.rpy:2847
+    old "Launching mission.\nLocation: Punk Web."
+    new "Запуск миссии.\nЛокация: Панк-Вэб."
+
+    # game/mission.rpy:2859
+    old "Launching mission.\nLocation: The Carnival."
+    new "Запуск миссии.\nЛокация: Карнавал."
+
+    # game/mission.rpy:2875
+    old "Launching mission.\nLocation: WOOHP HQ."
+    new "Запуск миссии.\nЛокация: Штаб WOOHP."

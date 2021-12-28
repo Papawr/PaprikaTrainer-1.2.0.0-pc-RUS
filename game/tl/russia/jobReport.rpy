@@ -10132,7 +10132,7 @@ translate russia jobReportFinale_0d6678d7:
 translate russia jobReportFinale_eb4a3504:
 
     # "Agent O5O hands you {color=#ffeda6}Cooling Agent{/color} x3."
-    "Агент O5O протягивает {color=#ffeda6}Охлаждающий агент{/color} x3."
+    "Агент O5O протягивает {color=#ffeda6}Охладитель{/color} x3."
 
 # game/jobReport.rpy:3653
 translate russia jobReportFinale_d7ed3c6d:
@@ -10300,7 +10300,7 @@ translate russia jobReportFinale_94bdc13a:
 translate russia jobReportFinale_e3c30181:
 
     # "Britney hands you {color=#ffeda6}Cooling Agent{/color} x2."
-    "Бритни протягивает {color=#ffeda6}Охлаждающий агент{/color} x2."
+    "Бритни протягивает {color=#ffeda6}Охладитель{/color} x2."
 
 # game/jobReport.rpy:3719
 translate russia jobReportFinale_f177e8ac:

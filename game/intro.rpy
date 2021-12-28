@@ -543,7 +543,7 @@ label tutStage2:
 
 label tutStage3:
     $ tutStage = 3
-    show text "The night passes and all is quiet."
+    show text _("The night passes and all is quiet.")
     with d5
     pause 1.5
     hide text
@@ -2417,7 +2417,7 @@ label tutStage7:
     $ mainQuestUpdate = True
     pause 0.3
     scene black with fade
-    show text "The night passes and all is quiet."
+    show text _("The night passes and all is quiet.")
     with d5
     pause 3.0
     hide text

@@ -9727,8 +9727,8 @@ translate russia strings:
     new "Детка"
 
     # game/social.rpy:85
-    old "Cucumber"
-    new "Огурец"
+    old "Cucumber{#CM}"
+    new "Огурчик"
 
     # game/social.rpy:85
     old "Bitch"
@@ -9889,3 +9889,10 @@ translate russia strings:
     # game/social.rpy:3151
     old "Show me your boobs"
     new "Покажи мне свои сиськи"
+# TODO: Translation updated at 2021-12-28 21:12
+
+translate russia strings:
+
+    # game/social.rpy:61
+    old "New Guy [#ngpn]"
+    new "Новичок"

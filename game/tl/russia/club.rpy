@@ -899,3 +899,24 @@ translate russia strings:
     # game/club.rpy:713
     old "Hire ten ($ 7.000)"
     new "Нанять десять ($ 7.000)"
+# TODO: Translation updated at 2021-12-26 13:04
+
+# game/club.rpy:712
+translate russia hireStaff_2a177590:
+
+    # "Hiring a girl costs $800. How many girls do you want to hire?"
+    "Наем девушки стоит 800 долларов. Сколько девушек вы хотите нанять?"
+
+translate russia strings:
+
+    # game/club.rpy:713
+    old "Hire one ($ 800)"
+    new "Нанять одну ($ 800)"
+
+    # game/club.rpy:713
+    old "Hire five ($ 4.000)"
+    new "Нанять пять ($ 4.000)"
+
+    # game/club.rpy:713
+    old "Hire ten ($ 8.000)"
+    new "Нанять десять ($ 8.000)"

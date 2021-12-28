@@ -3,7 +3,7 @@
 
 
 
-define greenName = "Sam"
+define greenName = _("Sam")
 define greenLocation = "Library"
 
 
@@ -18,7 +18,7 @@ define yellowLocation = "Cafetaria"
 define kimName = "Kim"
 
 
-define playerName = "New Guy"
+define playerName = _("New Guy")
 
 
 
@@ -31,78 +31,78 @@ transform ri:
 
 
 
-define y = Character("You", color="#fff", what_color="#fff", image="player", window_style="windowBlue", what_style="say_dialogueLeft", who_style="say_labelLeft")
-define yInmate = Character("You", color="#fff", what_color="#fff", image="playerInmate", window_style="windowBlue", what_style="say_dialogueLeft", who_style="say_labelLeft")
-define s = Character("Sam", color="#fff", what_color="#fff", image="green", window_style="windowGreen", namebox_style="nameboxGreen", what_style="say_dialogueRight", who_style="say_labelRight")
-define sM = Character("Sam", color="#fff", what_color="#fff", image="miniGreen", window_style="windowGreen", namebox_style="nameboxGreen", what_style="say_dialogueRight", who_style="say_labelRight")
-define cM = Character("Clover", color="#fff", what_color="#fff", image="miniRed", window_style="windowRed", namebox_style="nameboxRed", what_style="say_dialogueRight", who_style="say_labelRight")
-define aM = Character("Alex", color="#fff", what_color="#fff", image="miniYellow", window_style="windowYellow", namebox_style="nameboxYellow", what_style="say_dialogueRight", who_style="say_labelRight")
-define c = Character("[redName]", color="#fff", what_color="#fff", image="red", window_style="windowRed", namebox_style="nameboxRed", what_style="say_dialogueRight", who_style="say_labelRight")
-define a = Character("[yellowName]", image="yellow", window_style="windowYellow", namebox_style="nameboxYellow", what_style="say_dialogueRight", who_style="say_labelRight")
-define kim = Character("[kimName]", color="#fff", what_color="#fff", window_style="windowOrange", namebox_style="nameboxOrange", what_style="say_dialogueRight", who_style="say_labelRight")
-define brit = Character("Britney", color="#fff", what_color="#fff", image="britney", window_style="windowCyan", namebox_style="nameboxCyan", what_style="say_dialogueRight", who_style="say_labelRight")
-define bw = Character(" ", color="#fff", what_color="#fff", namebox_style="nameboxBW",  window_style="windowBW")
+define y = Character(_("You"), color="#fff", what_color="#fff", image="player", window_style="windowBlue", what_style="say_dialogueRight", who_style="say_labelRight")
+define yInmate = Character(_("You"), color="#fff", what_color="#fff", image="playerInmate", window_style="windowBlue", what_style="say_dialogueRight", who_style="say_labelRight")
+define s = Character(_("[greenName]"), color="#fff", what_color="#fff", image="green", window_style="windowGreen", namebox_style="nameboxGreen", what_style="say_dialogueRight", who_style="say_labelRight")
+define sM = Character(_("Sam[#dsM]"), color="#fff", what_color="#fff", image="miniGreen", window_style="windowGreen", namebox_style="nameboxGreen", what_style="say_dialogueRight", who_style="say_labelRight")
+define cM = Character(_("Clover"), color="#fff", what_color="#fff", image="miniRed", window_style="windowRed", namebox_style="nameboxRed", what_style="say_dialogueRight", who_style="say_labelRight")
+define aM = Character(_("Alex"), color="#fff", what_color="#fff", image="miniYellow", window_style="windowYellow", namebox_style="nameboxYellow", what_style="say_dialogueRight", who_style="say_labelRight")
+define c = Character(_("[redName]"), color="#fff", what_color="#fff", image="red", window_style="windowRed", namebox_style="nameboxRed", what_style="say_dialogueRight", who_style="say_labelRight")
+define a = Character(_("[yellowName]"), image="yellow", window_style="windowYellow", namebox_style="nameboxYellow", what_style="say_dialogueRight", who_style="say_labelRight")
+define kim = Character(_("[kimName]"), color="#fff", what_color="#fff", window_style="windowOrange", namebox_style="nameboxOrange", what_style="say_dialogueRight", who_style="say_labelRight")
+define brit = Character(_("Britney"), color="#fff", what_color="#fff", image="britney", window_style="windowCyan", namebox_style="nameboxCyan", what_style="say_dialogueRight", who_style="say_labelRight")
+define bw = Character(_(" "), color="#fff", what_color="#fff", namebox_style="nameboxBW",  window_style="windowBW")
 
 
-define O5O = Character("Agent O5O", color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
-define GLA = Character("G.L.A.D.I.S.", color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
-define mat = Character("Mathias", color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
-define jerry = Character("Jerry", color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
+define O5O = Character(_("Agent O5O"), color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
+define GLA = Character(_("G.L.A.D.I.S."), color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
+define mat = Character(_("Mathias"), color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
+define jerry = Character(_("Jerry"), color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
 
 
-define sil = Character("Silva", color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
-define santa = Character("{color=#e01a1a}S{color=#22b613}l{color=#e01a1a}u{color=#22b613}t {color=#e01a1a}S{color=#22b613}h{color=#e01a1a}a{color=#22b613}m{color=#e01a1a}i{color=#22b613}n{color=#e01a1a}g S{color=#22b613}a{color=#e01a1a}n{color=#22b613}t{color=#e01a1a}a{/color}",  namebox_style="nameboxWhite")
-define tim = Character("Tim", color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
-define seb = Character("Sebastian", color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
+define sil = Character(_("Silva"), color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
+define santa = Character(_("{color=#e01a1a}S{color=#22b613}l{color=#e01a1a}u{color=#22b613}t {color=#e01a1a}S{color=#22b613}h{color=#e01a1a}a{color=#22b613}m{color=#e01a1a}i{color=#22b613}n{color=#e01a1a}g S{color=#22b613}a{color=#e01a1a}n{color=#22b613}t{color=#e01a1a}a{/color}"),  namebox_style="nameboxWhite")
+define tim = Character(_("Tim"), color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
+define seb = Character(_("Sebastian"), color="#fff", what_color="#fff",  namebox_style="nameboxBlue")
 
 
 image side miniMaggie = "gui/portraits/miniMaggie.png"
-define mag = Character("Maggie T.", color="#fff", what_color="#fff", image="miniMaggie", what_style="say_dialogueRight", who_style="say_labelRight")
+define mag = Character(_("Maggie T."), color="#fff", what_color="#fff", image="miniMaggie", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniMelody = "gui/portraits/miniMelody.png"
-define mel = Character("Melody", color="#fff", what_color="#fff", image="miniMelody", what_style="say_dialogueRight", who_style="say_labelRight")
+define mel = Character(_("Melody"), color="#fff", what_color="#fff", image="miniMelody", what_style="say_dialogueRight", who_style="say_labelRight")
 
 
 image side miniDragon = "gui/portraits/miniDragon.png"
-define drag = Character("Clara Wong", color="#fff", what_color="#fff", image="miniDragon", what_style="say_dialogueRight", who_style="say_labelRight")
+define drag = Character(_("Clara Wong"), color="#fff", what_color="#fff", image="miniDragon", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniTalia = "gui/portraits/miniTalia.png"
-define tali = Character("Talia", color="#fff", what_color="#fff", image="miniTalia", what_style="say_dialogueRight", who_style="say_labelRight")
+define tali = Character(_("Talia"), color="#fff", what_color="#fff", image="miniTalia", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniCandy = "gui/portraits/miniDragon.png"
-define candy = Character("Margaret", color="#fff", what_color="#fff", what_style="say_dialogueRight", who_style="say_labelRight")
+define candy = Character(_("Margaret"), color="#fff", what_color="#fff", what_style="say_dialogueRight", who_style="say_labelRight")
 
 
 image side miniMuffy = "gui/portraits/miniMuffy.png"
-define muff = Character("Muffy P.", color="#fff", what_color="#fff", image="miniMuffy", what_style="say_dialogueRight", who_style="say_labelRight")
+define muff = Character(_("Muffy P."), color="#fff", what_color="#fff", image="miniMuffy", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniFeli = "gui/portraits/miniFeli.png"
-define feli = Character("Felicity", color="#fff", what_color="#fff", image="miniFeli", what_style="say_dialogueRight", who_style="say_labelRight")
+define feli = Character(_("Felicity"), color="#fff", what_color="#fff", image="miniFeli", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniKand = "gui/portraits/miniDragon.png"
-define kand = Character("The Great Kandinsky", color="#fff", what_color="#fff", what_style="say_dialogueRight", who_style="say_labelRight")
+define kand = Character(_("The Great Kandinsky"), color="#fff", what_color="#fff", what_style="say_dialogueRight", who_style="say_labelRight")
 
 
 define INTERFACE = Character(what_color = "#f7c64f",  what_font="fonts/BigSquareDots.ttf", what_size=25)
 define LOCATION = Character(window_style="windowEmpty", what_style="say_dialogueLOCATION", what_color = "#f7c64f",  what_font="fonts/BigSquareDots.ttf", what_size=25)
 
 image side miniNiece = "gui/portraits/niece.png"
-define niece = Character("Barber's niece", color="#fff", what_color="#fff", image="miniNiece", what_style="say_dialogueRight", who_style="say_labelRight")
+define niece = Character(_("Barber's niece"), color="#fff", what_color="#fff", image="miniNiece", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniShopOwner = "gui/portraits/shopOwner.png"
-define shopOwner = Character("Shop Owner", color="#fff", what_color="#fff", image="miniShopOwner", what_style="say_dialogueRight", who_style="say_labelRight")
+define shopOwner = Character(_("Shop Owner"), color="#fff", what_color="#fff", image="miniShopOwner", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniModel = "gui/portraits/model.png"
-define model = Character("Handsome Model", color="#fff", what_color="#fff", image="miniModel", what_style="say_dialogueRight", who_style="say_labelRight")
+define model = Character(_("Handsome Model"), color="#fff", what_color="#fff", image="miniModel", what_style="say_dialogueRight", who_style="say_labelRight")
 
 image side miniNerd = "gui/portraits/nerd.png"
-define nerd = Character("Nerd", image="miniNerd", color="#fff", what_color="#fff", what_style="say_dialogueRight", who_style="say_labelRight")
+define nerd = Character(_("Nerd"), image="miniNerd", color="#fff", what_color="#fff", what_style="say_dialogueRight", who_style="say_labelRight")
 
 
 
 
 
-default playerName = "New Guy"
+default playerName = _("New Guy")
 default playerKarma = 50
 default karmaCash = 0
 default playerOutfit = 10
@@ -174,7 +174,7 @@ default greenTatPuss = 0
 default greenTatFoot = 0
 
 
-default samNick = "Cucumber"
+default samNick = _("Cucumber")
 default samHealth = 3
 default samMood = 100
 default samSocial = 0
@@ -182,7 +182,7 @@ default samSlut = 0
 default samDailyChat = 0
 default nanoLevelSam = 10
 default samSupLvl = 0
-default samFriend = "Acquaintance"
+default samFriend = _("Acquaintance")
 default samHPTimer = 0
 default samTitSize = 1
 
@@ -746,15 +746,15 @@ layeredimage green:
     if greenChest == 7:
         "models/green/outfit/chest/top7.png"
     if greenChest == 7.1:
-        "models/green/outfit/chest/top7a.png"    
+        "models/green/outfit/chest/top7a.png"
     if greenChest == 7.3:
-        "models/green/outfit/chest/var/top7Var1.png"  
+        "models/green/outfit/chest/var/top7Var1.png"
     if greenChest == 7.4:
-        "models/green/outfit/chest/var/top7Var2.png"  
+        "models/green/outfit/chest/var/top7Var2.png"
     if greenChest == 7.5:
-        "models/green/outfit/chest/var/top7Var3.png"  
+        "models/green/outfit/chest/var/top7Var3.png"
     if greenChest == 7.6:
-        "models/green/outfit/chest/var/top7Var4.png"  
+        "models/green/outfit/chest/var/top7Var4.png"
     if greenChest == 8:
         "models/green/outfit/chest/top8.png"
     if greenChest == 9:
@@ -816,7 +816,7 @@ layeredimage green:
     elif greenHair == 6:
         "models/green/hair/greenHair6.png"
     elif greenHair == 8:
-        "models/green/hair/greenHair8.png"              
+        "models/green/hair/greenHair8.png"
 
 
 
@@ -1846,7 +1846,7 @@ layeredimage yellow:
         "models/yellow/eff/cum3.png"
 
 
-    if yellowChest == 14 or yellowChest == 14.1 or yellowChest == 5:                                                                     
+    if yellowChest == 14 or yellowChest == 14.1 or yellowChest == 5:
         "models/yellow/hair/noHair.png"
     elif yellowBottom == 1:
         "models/yellow/outfit/bott/bott1.png"
@@ -1895,11 +1895,11 @@ layeredimage yellow:
         "models/yellow/outfit/chest/top10.png"
     if yellowChest == 11:
         "models/yellow/outfit/chest/top11.png"
-    if yellowChest == 14:                                                                       
+    if yellowChest == 14:
         "models/yellow/outfit/chest/top14a.png"
     if yellowChest == 14.1:
         "models/yellow/outfit/chest/top14b.png"
-    if yellowChest == 15:                                                                       
+    if yellowChest == 15:
         "models/yellow/outfit/chest/top15a.png"
     if yellowChest == 15.1:
         "models/yellow/outfit/chest/top15b.png"
@@ -2192,7 +2192,7 @@ layeredimage jerryModel:
     if jerryFace == 5:
         "models/jerry/face5.png"
     if jerryFace == 6:
-        "models/jerry/face6.png"  
+        "models/jerry/face6.png"
 
     if jerryArms == 1:
         "models/jerry/arms1.png"

@@ -126,7 +126,7 @@ label quests:
             hide screen task7Text
             jump quests
         "[task1Name]" if 1 <= task2Stage <= 2:
-            show screen task1Text 
+            show screen task1Text
             pause
             hide screen task1Text
             jump quests
@@ -3183,7 +3183,7 @@ label task5:
         scene black with hpunch
         stop music fadeout 2.0
         pause 2.0
-        show text "The night passes and all is...."
+        show text _("The night passes and all is....")
         with d5
         pause 2.5
         y "Gah!" with hpunch
@@ -13031,7 +13031,7 @@ label nightCutscenes:
         jump nightCycle
 
     scene black with fade
-    show text "The night passes and all is quiet."
+    show text _("The night passes and all is quiet.")
     with d5
     pause 1.5
     hide text

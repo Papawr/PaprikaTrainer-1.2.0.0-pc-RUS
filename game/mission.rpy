@@ -342,7 +342,7 @@ label activateGadget:
             xalign 0.381 yalign 0.97
         pause 0.4
         $ gadgetActive = 0
-        hide screen gadgetSelectUI 
+        hide screen gadgetSelectUI
         hide gadgetSelectBlue onlayer minigame
         with d3
         show screen gadgetMenu
@@ -354,7 +354,7 @@ label activateGadget:
             linear 0.18 xalign 0.44 yalign 0.97
         pause 0.4
         $ gadgetActive = 0
-        hide screen gadgetSelectUI 
+        hide screen gadgetSelectUI
         hide gadgetSelectBlue onlayer minigame
         with d3
         show screen gadgetMenu
@@ -374,7 +374,7 @@ label activateGadget:
             hide screen glassScreen
             with d2
         $ gadgetActive = 0
-        hide screen gadgetSelectUI 
+        hide screen gadgetSelectUI
         hide gadgetSelectBlue onlayer minigame
         with d3
         show screen gadgetMenu
@@ -397,7 +397,7 @@ label activateGadget:
             xalign 0.381 yalign 0.97
             linear 0.18 xalign 0.606 yalign 0.97
         pause 0.4
-        hide screen gadgetSelectUI 
+        hide screen gadgetSelectUI
         hide gadgetSelectBlue onlayer minigame
         with d3
         show screen gadgetMenu
@@ -1291,7 +1291,7 @@ layeredimage globalImageWOOHP:
     if missionSetting == "WOOHP" and randomBackground == 10:
         "mission/WOOHP3Var3.jpg"
     if missionSetting == "WOOHP" and randomBackground == 11:
-        "mission/WOOHPBalcony.jpg"     
+        "mission/WOOHPBalcony.jpg"
     if missionSetting == "WOOHP" and randomBackground == 12:
         "mission/WOOHPLift.jpg"
 
@@ -1896,7 +1896,7 @@ layeredimage agentShieldAttack:
 layeredimage shieldUnderFire:
     always:
         "mission/enemy/shieldv1.png"
-        xalign 0.0 yalign 0.3 zoom 0.8      
+        xalign 0.0 yalign 0.3 zoom 0.8
 
 layeredimage agentAlert:
 
@@ -2812,7 +2812,7 @@ label missionScreenFinish:
     if missionScreenCurrentLocation == 1:
         $ intel -= 100
         $ missionSetting = "School"
-        show text "Launching mission.\nLocation: Malibu University."
+        show text _("Launching mission.\nLocation: Malibu University.")
         with d5
         pause 1.5
         hide text
@@ -2825,7 +2825,7 @@ label missionScreenFinish:
     if missionScreenCurrentLocation == 2:
         $ intel -= 200
         $ missionSetting = "Castle"
-        show text "Launching mission.\nLocation: Valencia, Spain."
+        show text _("Launching mission.\nLocation: Valencia, Spain.")
         with d5
         pause 1.5
         hide text
@@ -2844,7 +2844,7 @@ label missionScreenFinish:
     if missionScreenCurrentLocation == 3:
         $ intel -= 300
         $ missionSetting = "Database"
-        show text "Launching mission.\nLocation: Punk Web."
+        show text _("Launching mission.\nLocation: Punk Web.")
         with d5
         pause 1.5
         hide text
@@ -2856,7 +2856,7 @@ label missionScreenFinish:
     if missionScreenCurrentLocation == 4:
         $ intel -= 300
         $ missionSetting = "Faire"
-        show text "Launching mission.\nLocation: The Carnival."
+        show text _("Launching mission.\nLocation: The Carnival.")
         with d5
         pause 1.5
         hide text
@@ -2872,7 +2872,7 @@ label missionScreenFinish:
     if missionScreenCurrentLocation == 5 and missionAreaWOOHPActive:
         $ intel -= 0
         $ missionSetting = "WOOHP"
-        show text "Launching mission.\nLocation: WOOHP HQ."
+        show text _("Launching mission.\nLocation: WOOHP HQ.")
         with d5
         pause 1.5
         hide text

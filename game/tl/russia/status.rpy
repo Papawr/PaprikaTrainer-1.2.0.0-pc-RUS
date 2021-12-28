@@ -19066,7 +19066,7 @@ translate russia task18_716a19f0:
 translate russia task18_c1872db4:
 
     # c r42 "I shouldn't have trust her so easily..."
-    c r42 "Нельзя было так легко доверять ей..."
+    c r42 "Нельзя было так легко ей доверять..."
 
 # game/status.rpy:7300
 translate russia task18_7023590e:
@@ -34771,3 +34771,101 @@ translate russia task32_884e3d3f:
 
     # y "Somehow I doubt that this only cost $2.000..."
     y "Как-то я сомневаюсь, что это стоило всего $2.000..."
+# TODO: Translation updated at 2021-12-26 13:04
+
+# game/status.rpy:7189
+translate russia task18_1009f6bf:
+
+    # c "We can use brass rivots for that part. It will look more realistic that way."
+    c "Для этой части можно использовать латунные заклепки. Так будет выглядеть более реалистично."
+
+# game/status.rpy:7233
+translate russia task18_f7724992:
+
+    # c "Okay Talia, here we are."
+    c "Ладно, Талия, а вот и мы."
+
+# game/status.rpy:7239
+translate russia task18_d57fdb87:
+
+    # c "Carla Wong? Yeah, she's in her cell not far from here."
+    c "Карла Вонг? Да, она в своей камере недалеко отсюда."
+
+# game/status.rpy:7242
+translate russia task18_a2dda128:
+
+    # c "Well [playerName]. Her eyes aren't red and she's not showing any signs of aggression. Seems she's not being nano-controlled."
+    c "Ладно [playerName]. Её глаза не красные, и она не проявляет никаких признаков агрессии. Похоже, она не под наноконтролем."
+
+# game/status.rpy:7244
+translate russia task18_6724fd36:
+
+    # c "[playerName]...."
+    c "[playerName]...."
+
+# game/status.rpy:7247
+translate russia task18_b41e85b5:
+
+    # c "Ugh... fine. I'm not gonna be here while you two get it on. Call me if you need me."
+    c "Угх... ладно. Я не собираюсь оставаться здесь, пока вы двое занимаетесь этим. Позови мне, если я тебе понадоблюсь."
+
+# game/status.rpy:7294
+translate russia task18_af106a76:
+
+    # s "We don't know. She smuggled a gadget with her and turned off the lights. She also used it to unlock her cell."
+    s "Мы не знаем. Она пронесла с собой гаджет и выключила свет. Она также использовала его, чтобы разблокировать свою камеру."
+
+# game/status.rpy:7296
+translate russia task18_5f9398f4:
+
+    # c "It gets worse..."
+    c "Дальше - хуже..."
+
+# game/status.rpy:7299
+translate russia task18_f6f943e6:
+
+    # c "I shouldn't have trust her so easily..."
+    c "Нельзя было так легко ей доверять..."
+
+# game/status.rpy:7302
+translate russia task18_c7160e5e:
+
+    # a "Meaning they're still here somewhere!"
+    a "Значит, они всё ещё где-то здесь!"
+
+# game/status.rpy:7358
+translate russia task18SearchMenu_9e59cfd8:
+
+    # c "Shhh~..."
+    c "Тссс~..."
+
+# game/status.rpy:7372
+translate russia task18SearchMenu_28f8ffab:
+
+    # c "There they are!"
+    c "Вот они!"
+
+# game/status.rpy:7390
+translate russia task18SearchMenu_a99b6f84:
+
+    # c "She's under lock and key..."
+    c "Она под замком..."
+
+# game/status.rpy:7391
+translate russia task18SearchMenu_06b5123e:
+
+    # c "................."
+    c "................."
+
+# game/status.rpy:7394
+translate russia task18SearchMenu_9520e531:
+
+    # c "Hmpf~..."
+    c "Хмпф~..."
+# TODO: Translation updated at 2021-12-28 19:21
+
+translate russia strings:
+
+    # game/status.rpy:3186
+    old "The night passes and all is...."
+    new "Проходит ночь, всё..."

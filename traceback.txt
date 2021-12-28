@@ -1,32 +1,20 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While running game code:
-  File "game/tl/russia/social.rpy", line 9786, in script
-    old "Discourage sluttiness"
-  File "game/tl/russia/social.rpy", line 9786, in script
-    old "Discourage sluttiness"
-Exception: A translation for "Discourage sluttiness" already exists at game/tl/russia/jobReport.rpy:10553.
+After initialization, but before game start.
+WindowsError: [Error 32] Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "renpy/bootstrap.py", line 326, in bootstrap
+  File "renpy/bootstrap.py", line 331, in bootstrap
     renpy.main.main()
-  File "renpy/main.py", line 515, in main
-    renpy.game.context().run(node)
-  File "game/tl/russia/social.rpy", line 9786, in script
-    old "Discourage sluttiness"
-  File "game/tl/russia/social.rpy", line 9786, in script
-    old "Discourage sluttiness"
-  File "renpy/ast.py", line 2514, in execute
-    renpy.translation.add_string_translation(self.language, self.old, self.new, newloc)
-  File "renpy/translation/__init__.py", line 453, in add_string_translation
-    stl.add(old, new, newloc)
-  File "renpy/translation/__init__.py", line 394, in add
-    quote_unicode(old), fn, line))
-Exception: A translation for "Discourage sluttiness" already exists at game/tl/russia/jobReport.rpy:10553.
+  File "renpy/main.py", line 612, in main
+    renpy.dump.dump(False)
+  File "renpy/dump.py", line 260, in dump
+    os.rename(new, filename)
+WindowsError: [Error 32] Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird
 
 Windows-10-10.0.19041
-Ren'Py 7.4.8.1895
+Ren'Py 7.4.11.2266
 Paprika Trainer 1.2.0.0
-Mon Oct 25 17:07:22 2021
+Tue Dec 28 21:12:48 2021

@@ -58,7 +58,7 @@ label samCall:
                     "Call me..." if True:
                         menu:
                             "New Guy" if True:
-                                $ playerName = "New Guy"
+                                $ playerName = _("New Guy [#ngpn]")
                                 s "Sure, I can call you New Guy."
                             "Lowlife" if cardSWTitle == True:
                                 $ playerName = "Lowlife"
@@ -86,8 +86,8 @@ label samCall:
                             "Girl" if True:
                                 $ samNick = "Girl"
                                 s "Girl? Er... sure why not."
-                            "Cucumber" if True:
-                                $ samNick = "Cucumber"
+                            "Cucumber{#CM}" if True:
+                                $ samNick = "Cucumber{#CM}"
                                 s "{b}*Sighs*{/b} Fine... Cucumber it is..."
                             "Bitch" if True:
                                 if slutLevel <= 2:

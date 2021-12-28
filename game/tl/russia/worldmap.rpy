@@ -7968,7 +7968,7 @@ translate russia strings:
 
     # game/worldmap.rpy:2233
     old "Buy ten Valuables ($2000)"
-    new "Купить десять ценность ($2000)"
+    new "Купить десять ценностей ($2000)"
 
     # game/worldmap.rpy:2273
     old "Buy one Wiring Kit ($40)"
@@ -8209,3 +8209,22 @@ translate russia strings:
     # game/worldmap.rpy:4574
     old "Don't hug Sam"
     new "Не обнимать Сэм"
+# TODO: Translation updated at 2021-12-26 13:04
+
+translate russia strings:
+
+    # game/worldmap.rpy:2233
+    old "Buy one Valuables ($300)"
+    new "Купить одну ценность ($300)"
+
+    # game/worldmap.rpy:2233
+    old "Buy two Valuables ($600)"
+    new "Купить две ценности ($600)"
+
+    # game/worldmap.rpy:2233
+    old "Buy three Valuables ($900)"
+    new "Купить три ценности ($900)"
+
+    # game/worldmap.rpy:2233
+    old "Buy ten Valuables ($3000)"
+    new "Купить десять ценностей ($3000)"
