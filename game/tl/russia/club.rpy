@@ -634,7 +634,7 @@ translate russia clubManagment_3715f6cb:
 translate russia clubManagment_85edc9e1:
 
     # c r3 "Want me to fix you up a Royal Goblet to make you feel better?"
-    c r3 "Хочешь, я сделаю тебе \"королевский бокал\", чтобы ты почувствовал себя лучше?"
+    c r3 "Хочешь, я сделаю тебе \"Королевский бокал\", чтобы ты почувствовал себя лучше?"
 
 # game/club.rpy:664
 translate russia clubManagment_0dda6d29:
@@ -920,3 +920,42 @@ translate russia strings:
     # game/club.rpy:713
     old "Hire ten ($ 8.000)"
     new "Нанять десять ($ 8.000)"
+# TODO: Translation updated at 2021-12-29 19:31
+
+translate russia strings:
+
+    # game/club.rpy:87
+    old "{color=#C91A1A}{font=fonts/freshMarker.ttf}[menuOption1]          $7.00{/font}{/color}"
+    new "{color=#C91A1A}{font=fonts/freshMarker.ttf}[menuOption1]          $7.00{/font}{/color}"
+
+    # game/club.rpy:90
+    old "{size=-15}{color=#C91A1A}Tastes like crap, but you get to see hotties in revealing \noutfits so stop complaining.{/color}{/size}"
+    new "{size=-15}{color=#C91A1A}На вкус - дерьмо, но зато можно увидеть красоток в откровенных \nнарядах, так что хватит жаловаться.{/color}{/size}"
+
+    # game/club.rpy:102
+    old "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+    new "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+
+    # game/club.rpy:110
+    old "{size=-15}{color=#C91A1A}Our most popular item! Your waitress will bend over, allowing \nyou to slap her ass when she serves you your burger.{/color}{/size}"
+    new "{size=-15}{color=#C91A1A}Наше самое популярное блюдо! Ваша официантка будет наклоняться, позволяя \nшлёпнуть её по заднице, пока она подаёт вам бургер.{/color}{/size}"
+
+    # game/club.rpy:130
+    old "{size=-15}{color=#C91A1A}Your waitress will strip down to her underwear and serve you onion \nrings in her undies.{/color}{/size}"
+    new "{size=-15}{color=#C91A1A}Ваша официантка разденется до нижнего белья и подаст ваши луковые \nкольца в трусах.{/color}{/size}"
+
+    # game/club.rpy:150
+    old "{size=-15}{color=#C91A1A}What's better than nuggets? Nudes, that's what! \nYour waitres will serve these to you topless!{/color}{/size}"
+    new "{size=-15}{color=#C91A1A}Что может быть лучше наггетсов? Обнаженные, вот что! \nВаши официанте будут подавать их топлесс!{/color}{/size}"
+
+    # game/club.rpy:170
+    old "{size=-15}{color=#C91A1A}A Royal Goblet... also known as Booby Beer. For a few dollars more,\nyour waitress will dip her titty into your beer when serving.{/color}{/size}"
+    new "{size=-15}{color=#C91A1A}Королевский бокал... также известный как Пивная Соска. За несколько долларов,\ny ваша официантка окунет свою сиську в ваше пиво при подаче.{/color}{/size}"
+
+    # game/club.rpy:190
+    old "{size=-15}{color=#C91A1A}Enjoy a lapdance from the hottest girls whilst enjoying the \nbest meal this side of Beverly Hills.{/color}{/size}"
+    new "{size=-15}{color=#C91A1A}Наслаждайтесь танцем на коленях от самых горячих девушек, одновременно наслаждаясь \nлучшей едой по эту сторону Беверли-Хиллз.{/color}{/size}"
+
+    # game/club.rpy:229
+    old "{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}"
+    new "{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}"

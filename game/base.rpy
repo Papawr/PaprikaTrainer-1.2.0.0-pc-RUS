@@ -1968,7 +1968,7 @@ screen gadgetButtons:
                 action SetVariable("craftCurrentGadget", 3), Jump("craftGadgetLabel")
         $ tooltip = GetTooltip()
         if tooltip == "ttBelt":
-            text "{color=#000000}{font=fonts/freshmarker.ttf}FLASHBANG BELT - THROW INTO NEXT ROOM TO INCREASE YOUR CHANCES TO BLOCK.\nHYDROFLUORIC ACID, 1 COMPUTER CHIP, 1 WIRING KIT{/font}{/color}" xpos 110 ypos 550
+            text _("{color=#000000}{font=fonts/freshmarker.ttf}FLASHBANG BELT - THROW INTO NEXT ROOM TO INCREASE YOUR CHANCES TO BLOCK.\nHYDROFLUORIC ACID, 1 COMPUTER CHIP, 1 WIRING KIT{/font}{/color}") xpos 110 ypos 550
             add "gui/gadgets/matsBelt.jpg" xalign 0.5 yalign 0.06
             text "{size=-4}{color=#000000}[matsAcid]/1{/color}{/size}" xpos 550 ypos 80
             text "{size=-4}{color=#000000}[matsChip]/1{/color}{/size}" xpos 650 ypos 80
@@ -1988,7 +1988,7 @@ screen gadgetButtons:
                 action SetVariable("craftCurrentGadget", 9), Jump("craftGadgetLabel")
         $ tooltip = GetTooltip()
         if tooltip == "ttJetpack":
-            text "{color=#000000}{font=fonts/freshmarker.ttf}JETPACK BACKPACK - USE DURING MISSIONS TO SKIP A FEW FLOORS.\n2 SALTPETER, 2 VALUABLES, 2 COOLING AGENTS{/font}{/color}" xpos 110 ypos 550
+            text _("{color=#000000}{font=fonts/freshmarker.ttf}JETPACK BACKPACK - USE DURING MISSIONS TO SKIP A FEW FLOORS.\n2 SALTPETER, 2 VALUABLES, 2 COOLING AGENTS{/font}{/color}") xpos 110 ypos 550
             add "gui/gadgets/matsEarrings.jpg" xalign 0.72 yalign 0.06
             text "{size=-4}{color=#000000}[matsDust]/2{/color}{/size}" xpos 793 ypos 80
             text "{size=-4}{color=#000000}[matsValu]/2{/color}{/size}" xpos 865 ypos 80
@@ -2008,7 +2008,7 @@ screen gadgetButtons:
                 action SetVariable("craftCurrentGadget", 5), Jump("craftGadgetLabel")
         $ tooltip = GetTooltip()
         if tooltip == "ttLove":
-            text "{color=#000000}{font=fonts/freshmarker.ttf}LOVE DART - LOAD REVOLVER WITH A LOVE DART INSTEAD OF KNOCKING AGENTS\nOUT YOU CAN TRY CHARMING THEM. 1 WIRING KIT, 1 ACID{/font}{/color}" xpos 110 ypos 550
+            text _("{color=#000000}{font=fonts/freshmarker.ttf}LOVE DART - LOAD REVOLVER WITH A LOVE DART INSTEAD OF KNOCKING AGENTS\nOUT YOU CAN TRY CHARMING THEM. 1 WIRING KIT, 1 ACID{/font}{/color}") xpos 110 ypos 550
             add "gui/gadgets/matsLove.jpg" xalign 0.28 yalign 0.4
             text "{size=-4}{color=#000000}[matsWires]/1{/color}{/size}" xpos 385 ypos 300
             text "{size=-4}{color=#000000}[matsAcid]/1{/color}{/size}" xpos 485 ypos 300
@@ -2027,7 +2027,7 @@ screen gadgetButtons:
                 action SetVariable("craftCurrentGadget", 4), Jump("craftGadgetLabel")
         $ tooltip = GetTooltip()
         if tooltip == "ttPoison":
-            text "{color=#000000}{font=fonts/freshmarker.ttf}POISON DART - LOAD REVOLVER WITH A POISON DART, INCREASING YOUR BLOCK CHANCE.\n1 ACID{/font}{/color}" xpos 110 ypos 550
+            text _("{color=#000000}{font=fonts/freshmarker.ttf}POISON DART - LOAD REVOLVER WITH A POISON DART, INCREASING YOUR BLOCK CHANCE.\n1 ACID{/font}{/color}") xpos 110 ypos 550
             add "gui/gadgets/matsPoison.jpg" xalign 0.5 yalign 0.4
             text "{size=-4}{color=#000000}[matsAcid]/1{/color}{/size}" xpos 650 ypos 300
     else:
@@ -2045,7 +2045,7 @@ screen gadgetButtons:
                 action SetVariable("craftCurrentGadget", 6), Jump("craftGadgetLabel")
         $ tooltip = GetTooltip()
         if tooltip == "ttDrone":
-            text "{color=#000000}{font=fonts/freshmarker.ttf}DRONE - BEFORE GOING INTO THE NEXT ROOM, ACTIVATE YOUR DRONE TO SEE\nWHAT'S ON AT THE OTHER SIDE. 1 COOLING AGENT, 1 WIRING KIT, 1 COMPUTER CHIP{/font}{/color}" xpos 110 ypos 550
+            text _("{color=#000000}{font=fonts/freshmarker.ttf}DRONE - BEFORE GOING INTO THE NEXT ROOM, ACTIVATE YOUR DRONE TO SEE\nWHAT'S ON AT THE OTHER SIDE. 1 COOLING AGENT, 1 WIRING KIT, 1 COMPUTER CHIP{/font}{/color}") xpos 110 ypos 550
             add "gui/gadgets/matsDrone.jpg" xalign 0.08 yalign 0.4
             text "{size=-4}{color=#000000}[matsGlue]/1{/color}{/size}" xpos 120 ypos 300
             text "{size=-4}{color=#000000}[matsWires]/1{/color}{/size}" xpos 220 ypos 300
@@ -2086,7 +2086,7 @@ screen gadgetButtons:
                 action SetVariable("craftCurrentGadget", 8), Jump("craftGadgetLabel")
         $ tooltip = GetTooltip()
         if tooltip == "ttStealth":
-            text "{color=#000000}{font=fonts/freshmarker.ttf}STEALTH BRACELET - USE TO REDUCE DETECTION RATING.\n1 VALUABLES, 1 WIRING KIT, 1 COMPUTER CHIP{/font}{/color}" xpos 110 ypos 550
+            text _("{color=#000000}{font=fonts/freshmarker.ttf}STEALTH BRACELET - USE TO REDUCE DETECTION RATING.\n1 VALUABLES, 1 WIRING KIT, 1 COMPUTER CHIP{/font}{/color}") xpos 110 ypos 550
             add "gui/gadgets/matsStealth.jpg" xalign 0.72 yalign 0.4
             text "{size=-4}{color=#ffeda6}[matsValu]/1{/color}{/size}" xpos 793 ypos 300
             text "{size=-4}{color=#ffeda6}[matsWires]/1{/color}{/size}" xpos 865 ypos 300
@@ -2132,31 +2132,31 @@ screen deskToolsInterface:
 
     hbox:
         xalign 0.20 yalign 0.36
-        text "[gadgetEarrings]"
+        text _("[gadgetEarrings]")
     hbox:
         xalign 0.375 yalign 0.36
-        text "[gadgetPowder]"
+        text _("[gadgetPowder]")
     hbox:
         xalign 0.55 yalign 0.36
-        text "[gadgetFlashbangBelt]"
+        text _("[gadgetFlashbangBelt]")
     hbox:
         xalign 0.375 yalign 0.68
-        text "[gadgetAfroDart]"
+        text _("[gadgetAfroDart]")
     hbox:
         xalign 0.55 yalign 0.68
-        text "[gadgetStunDart]"
+        text _("[gadgetStunDart]")
     hbox:
         xalign 0.20 yalign 0.68
-        text "[gadgetDrone]"
+        text _("[gadgetDrone]")
 
 
 
     hbox:
         xalign 0.73 yalign 0.68
-        text "[gadgetStealth]"
+        text _("[gadgetStealth]")
     hbox:
         xalign 0.73 yalign 0.36
-        text "[gadgetJetpack]"
+        text _("[gadgetJetpack]")
 
 label craftGadgetLabel:
     hide screen gadgetButtons

@@ -495,3 +495,10 @@ translate russia strings:
     # game/creditcards.rpy:3567
     old "Rebel Weed [herbRebel]"
     new "Бунтарка [herbRebel]"
+# TODO: Translation updated at 2021-12-29 19:51
+
+translate russia strings:
+
+    # game/creditcards.rpy:415
+    old "{size=+40}{color=#000000}{font=fonts/freshmarker.ttf}Lowlife{/font}{/color}{/size}"
+    new "{size=+40}{color=#000000}{font=fonts/freshmarker.ttf}Ничтожество{/font}{/color}{/size}"

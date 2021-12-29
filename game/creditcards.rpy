@@ -412,7 +412,7 @@ label monthlyRewards:
         hide cardSWReward3
         show cardRewardTitle:
             xalign 0.5 yalign 0.43
-        show text "{size=+40}{color=#000000}{font=fonts/freshmarker.ttf}Lowlife{/font}{/color}{/size}":
+        show text _("{size=+40}{color=#000000}{font=fonts/freshmarker.ttf}Lowlife{/font}{/color}{/size}"):
             xalign 0.5 yalign 0.53
         with d2
         call screen cardClaim

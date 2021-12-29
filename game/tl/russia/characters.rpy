@@ -109,18 +109,19 @@ translate russia strings:
     # game/characters.rpy:177
     old "Cucumber"
     new "Огурчик"
-# TODO: Translation updated at 2021-12-28 20:32
-
-translate russia strings:
 
     # game/characters.rpy:36
     old "[greenName]"
     new "Сэм"
-# TODO: Translation updated at 2021-12-28 20:41
-
-translate russia strings:
 
     # game/characters.rpy:37
     old "Sam[#dsM]"
-    new ""
+    new "Сэм"
 
+    # game/characters.rpy:38
+    old "Clover[#dsM]"
+    new "Кловер"
+
+    # game/characters.rpy:39
+    old "Alex[#dsM]"
+    new "Алекс"

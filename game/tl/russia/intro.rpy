@@ -2505,7 +2505,7 @@ translate russia tutLift_59ca44a0:
 translate russia tutLift_98c0ab0a:
 
     # y "There's still penty of time left. I could spend some time cleaning the bar."
-    y "Времени ещё много. Я могу потратить некоторое время на уборку бара."
+    y "Времени ещё много. Могу потратить его на уборку бара."
 
 # game/intro.rpy:891
 translate russia tutLift_d32f081f:
@@ -2517,7 +2517,7 @@ translate russia tutLift_d32f081f:
 translate russia tutLift_85a3a6a2:
 
     # "You spend the rest of the evening cleaning the bar. It looks better than before, but there is still a lot to be done."
-    "Остаток вечера вы проводите за уборкой бара. Он выглядит немного лучше, чем раньше, но ещё многое предстоит сделать."
+    "Остаток вечера вы проводите за уборкой. Бар выглядит немного лучше, чем раньше, но ещё многое предстоит сделать."
 
 # game/intro.rpy:901
 translate russia tutLift_53868d06:
@@ -2541,7 +2541,7 @@ translate russia tutQuarters_ba5a9c92:
 translate russia tutQuarters_f2efe18c:
 
     # s "You called, [playerName]?"
-    s "Ты звал, [playerName]?"
+    s "Ты звал, Новичок?"
 
 # game/intro.rpy:931
 translate russia tutSocialSam_2dbf7efa:
@@ -2631,7 +2631,7 @@ translate russia tutSocialSam_cf630fb5:
 translate russia tutSocialSam_63ace678:
 
     # c "You called, [playerName]?"
-    c "Ты звал, [playerName]?"
+    c "Ты звал, Новичок?"
 
 # game/intro.rpy:965
 translate russia tutSocialClover_154e4fc5:
@@ -2733,7 +2733,7 @@ translate russia tutSocialClover_cf630fb5:
 translate russia tutSocialClover_fcd3c794:
 
     # a "You called, [playerName]?"
-    a "Ты звал, [playerName]?"
+    a "Ты звал, Новичок?"
 
 # game/intro.rpy:1001
 translate russia tutSocialAlex_b2b821d1:
@@ -3135,7 +3135,7 @@ translate russia tutSpyCamera_94140dbd:
 translate russia tutSpyCamera_454e3cc7:
 
     # "Burying her head into her pillow she let's out a muffled scream in embarrassed frustration."
-    "Зарывшись головой в подушку, она издала приглушенный крик смущенного разочарования."
+    "Зарывшись головой в подушку, она издала приглушенный крик смущённого разочарования."
 
 # game/intro.rpy:1214
 translate russia tutSpyCamera_4a059926:
@@ -4593,7 +4593,7 @@ translate russia tutStage65_70be0942:
 translate russia tutStage65_46e875da:
 
     # s g38 "{b}*Ahem*{/b} Yes I have...{w} I'm sorry, I didn't think of that... {w}I'll try keeping the nanobots supressed, [playerName]...."
-    s g38 "{b}*Кхем*{/b} Да слышала...{w} Извиняюсь, я об этом не подумала... {w}Я постараюсь, подавить наноботов, [playerName]...."
+    s g38 "{b}*Кхем*{/b} Да слышала...{w} Извиняюсь, я об этом не подумала... {w}Я постараюсь, подавить наноботов, Новичок...."
 
 # game/intro.rpy:2152
 translate russia tutStage65_f02fed2c:
@@ -5373,7 +5373,7 @@ translate russia tutStage65_f0b7523c:
 translate russia tutStage65_2c93477f:
 
     # c "{b}*Ahem*{/b} Yes well... I guess that's a good way to keep the nanobots supressed... I'll try that, [playerName]...."
-    c "{b}*Кхм*{/b} Да, хорошо... Думаю, это хороший способ подавить наноботов... Я попробую позже, [playerName]...."
+    c "{b}*Кхм*{/b} Да, хорошо... Думаю, это хороший способ подавить наноботов... Я попробую позже, Новичок...."
 
 # game/intro.rpy:2388
 translate russia tutStage65_f02fed2c_1:
@@ -5493,13 +5493,13 @@ translate russia tutStage7_b517444a:
 translate russia tutStage7_b8eaa853:
 
     # s "After going through it in my head, I realised you weren't implying that... you... and I would have... {b}*Ahem*{/size} you know."
-    s "Прокрутив весь разговор в голове, я поняла, что ты не на что ни намекал. Ну что бы... ты... и я занялись... {b}*Кхм*{/size} ну ты знаешь."
+    s "Прокрутив весь разговор в голове, я поняла, что ты ни на что не намекал. Ну что бы... ты... и я занялись... {b}*Кхм*{/size} ну ты знаешь."
 
 # game/intro.rpy:2433
 translate russia tutStage7_a842789b:
 
     # y "Oh no, I totally was."
-    y "Аа ну вообще-то, я как раз намекал."
+    y "Аа, ну вообще-то, я как раз намекал."
 
 # game/intro.rpy:2434
 translate russia tutStage7_447e4a30:
@@ -5511,7 +5511,7 @@ translate russia tutStage7_447e4a30:
 translate russia tutStage7_dcb47040:
 
     # y "I was totally implying we'd get it on."
-    y "Я намекал на то что нам с тобой нужно развлечься."
+    y "Я намекал на то, что нам с тобой нужно развлечься."
 
 # game/intro.rpy:2436
 translate russia tutStage7_38fd6f64:
@@ -5541,7 +5541,7 @@ translate russia tutStage7_8410edaf:
 translate russia tutStage7_67c1b248:
 
     # s g12 "Okay well maybe I did!"
-    s g12 "Ладно, может быть это и так!"
+    s g12 "Ладно, может быть и так!"
 
 # game/intro.rpy:2441
 translate russia tutStage7_63e460d0:
@@ -5649,7 +5649,7 @@ translate russia tutStage7_fba58a36:
 translate russia tutStage7_858f8a81:
 
     # y "You said you had a contact in the Aces? That sounds as good of a start as any."
-    y "Ты говорила, что у тебя есть контакты в \"Тузах\"? Думаю что это то, с чего нужно начать."
+    y "Ты говорила, что у тебя есть контакт в \"Тузах\"? Думаю с этого стоит начать."
 
 # game/intro.rpy:2468
 translate russia tutStage7_619fdce7:
@@ -5871,7 +5871,7 @@ translate russia tutStage7_17d3f607:
 translate russia tutStage7_aded853e:
 
     # y "You said you had a contact within Drift Punk? That sounds as good of a start as any."
-    y "Ты говорила, что у тебя есть контакты среди \"Дрифт Панков\"? Думаю что это то, с чего нужно начать."
+    y "Ты говорила, что у тебя есть контакт в \"Дрифт Панках\"? Думаю с этого стоит начать."
 
 # game/intro.rpy:2516
 translate russia tutStage7_46665f32:
@@ -6069,7 +6069,7 @@ translate russia tutStage8_35184e68:
 translate russia tutStage8_863f8205:
 
     # s g18 "I'm not sure if gangsters are interested in milkshakes, [playerName]..."
-    s g18 "Не думаю, что гангстерам интересны молочные коктейли, [playerName]..."
+    s g18 "Не думаю, что гангстерам интересны молочные коктейли, Новичок..."
 
 # game/intro.rpy:2590
 translate russia tutStage8_05cbe027:
@@ -6951,7 +6951,7 @@ translate russia tutStage10_86670a6a_1:
 translate russia tutStage11_aa3efac5:
 
     # s g1 "[playerName]! Good, I was hoping to talk to you."
-    s g1 "[playerName]! Отлично, как раз хотела с тобой поговорить."
+    s g1 "Новичок! Отлично, как раз хотела с тобой поговорить."
 
 # game/intro.rpy:2873
 translate russia tutStage11_8835fc3a:
@@ -7197,3 +7197,47 @@ translate russia strings:
     # game/intro.rpy:546
     old "The night passes and all is quiet."
     new "Проходит ночь, всё спокойно."
+
+    # game/intro.rpy:448
+    old "We need to safe the world! But... let's start with saving Beverly Hills. We need to find a way to liberate the city and find out who's behind this operation."
+    new ""
+
+    # game/intro.rpy:1837
+    old "Retaking the Taken"
+    new ""
+
+    # game/intro.rpy:1838
+    old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills."
+    new ""
+
+    # game/intro.rpy:2416
+    old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n-Send your spy undercover with one of the gangs in town."
+    new ""
+
+    # game/intro.rpy:2535
+    old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n-Clean up the milkshake bar and convince your spy to work there."
+    new ""
+
+    # game/intro.rpy:2614
+    old "Open for Business"
+    new ""
+
+    # game/intro.rpy:2615
+    old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\nFix up the bar by either working on it yourself, sending your spy to clean it for you, or both."
+    new ""
+
+    # game/intro.rpy:2739
+    old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy."
+    new ""
+
+    # game/intro.rpy:2874
+    old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???"
+    new ""
+
+    # game/intro.rpy:2918
+    old "Open for Business (completed)"
+    new ""
+
+    # game/intro.rpy:2919
+    old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Quest completed!"
+    new ""

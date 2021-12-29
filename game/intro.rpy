@@ -445,7 +445,7 @@ label tutStage2:
     y "Huh...?"
     s "I'm going to need your help and you must want something. Just tell me what you want in return for your help."
     y "...."
-    $ task7Text = "We need to safe the world! But... let's start with saving Beverly Hills. We need to find a way to liberate the city and find out who's behind this operation."
+    $ task7Text = _("We need to safe the world! But... let's start with saving Beverly Hills. We need to find a way to liberate the city and find out who's behind this operation.")
     menu:
         "Power" if True:
             y "Absolute unchallenged POWER!"
@@ -1834,8 +1834,8 @@ layeredimage spyShootingTut:
 image tutDart = "gui/tut/tutDart.png"
 label tutStage65:
     $ _skipping = True
-    $ task7Name = "Retaking the Taken"
-    $ task7Text = "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills."
+    $ task7Name = _("Retaking the Taken")
+    $ task7Text = _("After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.")
     hide screen interactScreen
     hide spyCrouchCorner
     hide spyCornerSide
@@ -2413,7 +2413,7 @@ label tutStage65:
 label tutStage7:
     $ tutStage = 7
     $ daysPlayed += 1
-    $ task7Text = "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n-Send your spy undercover with one of the gangs in town."
+    $ task7Text = _("After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n-Send your spy undercover with one of the gangs in town.")
     $ mainQuestUpdate = True
     pause 0.3
     scene black with fade
@@ -2532,7 +2532,7 @@ label tutStage7:
 
 label tutStage8:
     $ mainQuestUpdate = True
-    $ task7Text = "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n-Clean up the milkshake bar and convince your spy to work there."
+    $ task7Text = _("After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n-Clean up the milkshake bar and convince your spy to work there.")
     if spyGreenActive and greenDayJob == 0:
         y "I should probably send Sam out to bring back some intel."
         call screen mapButtons
@@ -2611,8 +2611,8 @@ label tutStage8:
         y "See what we can accomplish when we put our heads together?{w} Okay, let's get busy cleaning this place up."
         hide green with d3
         hide scene_darkening with d3
-        $ task1Name = "Open for Business"
-        $ task1Text = "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\nFix up the bar by either working on it yourself, sending your spy to clean it for you, or both."
+        $ task1Name = _("Open for Business")
+        $ task1Text = _("Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\nFix up the bar by either working on it yourself, sending your spy to clean it for you, or both.")
         $ task1Stage = 1
         call qAccept from _call_qAccept
         pause 1.0
@@ -2736,7 +2736,7 @@ label tutStage9:
         $ beachActive = True
         $ task1Stage = 2
         call qUpdated from _call_qUpdated
-        $ task1Text = "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy."
+        $ task1Text = _("Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.")
         scene black with fade
         if tod == 1:
             "You finish off the last bit of work that needs to be done and it soon turns to evening."
@@ -2871,7 +2871,7 @@ label tutStage11:
     $ greenBottom = 1
     $ greenShoes = 1
     $ greenArms = 1
-    $ task7Text = "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???"
+    $ task7Text = _("After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???")
     $ tutorialActive = False
     $ tutStage = 11
     show scene_darkening
@@ -2915,8 +2915,8 @@ label tutStage11:
     hide yellow
     with d3
     $ task1Stage = 3
-    $ task1Name = "Open for Business (completed)"
-    $ task1Text = "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Quest completed!"
+    $ task1Name = _("Open for Business (completed)")
+    $ task1Text = _("Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Quest completed!")
     call qCompleted from _call_qCompleted
     scene bgBase
     with fade

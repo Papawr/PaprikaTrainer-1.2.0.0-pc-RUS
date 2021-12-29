@@ -964,12 +964,12 @@ screen mapButtons:
                 xpadding 22
                 pos (467, 565)
                 has vbox
-                textbutton "{font=fonts/freshmarker.ttf}Quests{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Quests{/font}"):
 
                     action SetVariable("mapSelectButton", 0), Jump("quests")
-                textbutton "{font=fonts/freshmarker.ttf}Lore{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Lore{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("lore")
-                textbutton "{font=fonts/freshmarker.ttf}Status{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Status{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("status")
 
 
@@ -986,12 +986,12 @@ screen mapButtons:
                 xpadding 15
                 pos (582, 565)
                 has vbox
-                textbutton "{font=fonts/freshmarker.ttf}Gadgets{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Gadgets{/font}"):
 
                     clicked SetVariable("mapSelectButton", 0), Jump("desk")
-                textbutton "{font=fonts/freshmarker.ttf}Outfits{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Outfits{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("outfits")
-                textbutton "{font=fonts/freshmarker.ttf}Items{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Items{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("items")
 
 
@@ -1786,12 +1786,12 @@ screen mapButtonsRaid:
             xpadding 22
             pos (467, 565)
             has vbox
-            textbutton "{font=fonts/freshmarker.ttf}Quests{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Quests{/font}"):
 
                 action SetVariable("mapSelectButton", 0), Jump("quests")
-            textbutton "{font=fonts/freshmarker.ttf}Lore{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Lore{/font}"):
                 action SetVariable("mapSelectButton", 0), Jump("lore")
-            textbutton "{font=fonts/freshmarker.ttf}Status{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Status{/font}"):
                 action SetVariable("mapSelectButton", 0), Jump("status")
 
 
@@ -1808,12 +1808,12 @@ screen mapButtonsRaid:
             xpadding 15
             pos (582, 565)
             has vbox
-            textbutton "{font=fonts/freshmarker.ttf}Gadgets{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Gadgets{/font}"):
 
                 clicked SetVariable("mapSelectButton", 0), Jump("desk")
-            textbutton "{font=fonts/freshmarker.ttf}Outfits{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Outfits{/font}"):
                 action SetVariable("mapSelectButton", 0), Jump("outfits")
-            textbutton "{font=fonts/freshmarker.ttf}Items{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Items{/font}"):
                 action SetVariable("mapSelectButton", 0), Jump("items")
 
 
@@ -1888,12 +1888,12 @@ screen mapButtonsRaidFinale:
             xpadding 22
             pos (467, 565)
             has vbox
-            textbutton "{font=fonts/freshmarker.ttf}Quests{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Quests{/font}"):
 
                 action SetVariable("mapSelectButton", 0), Jump("quests")
-            textbutton "{font=fonts/freshmarker.ttf}Lore{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Lore{/font}"):
                 action SetVariable("mapSelectButton", 0), Jump("lore")
-            textbutton "{font=fonts/freshmarker.ttf}Status{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Status{/font}"):
                 action SetVariable("mapSelectButton", 0), Jump("status")
 
 
@@ -1910,13 +1910,13 @@ screen mapButtonsRaidFinale:
             xpadding 15
             pos (582, 585)
             has vbox
-            textbutton "{font=fonts/freshmarker.ttf}Gadgets{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Gadgets{/font}"):
 
                 clicked SetVariable("mapSelectButton", 0), Jump("desk")
             if task26Stage >= 26:
-                textbutton "{font=fonts/freshmarker.ttf}Outfits{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Outfits{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("outfits")
-            textbutton "{font=fonts/freshmarker.ttf}Items{/font}":
+            textbutton _("{font=fonts/freshmarker.ttf}Items{/font}"):
                 action SetVariable("mapSelectButton", 0), Jump("items")
 
 
@@ -2069,12 +2069,12 @@ screen mapButtonsRaidFinale:
                 xpadding 22
                 pos (467, 565)
                 has vbox
-                textbutton "{font=fonts/freshmarker.ttf}Quests{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Quests{/font}"):
 
                     action SetVariable("mapSelectButton", 0), Jump("quests")
-                textbutton "{font=fonts/freshmarker.ttf}Lore{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Lore{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("lore")
-                textbutton "{font=fonts/freshmarker.ttf}Status{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Status{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("status")
 
 
@@ -2091,10 +2091,10 @@ screen mapButtonsRaidFinale:
                 xpadding 15
                 pos (582, 595)
                 has vbox
-                textbutton "{font=fonts/freshmarker.ttf}Gadgets{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Gadgets{/font}"):
 
                     clicked SetVariable("mapSelectButton", 0), Jump("desk")
-                textbutton "{font=fonts/freshmarker.ttf}Items{/font}":
+                textbutton _("{font=fonts/freshmarker.ttf}Items{/font}"):
                     action SetVariable("mapSelectButton", 0), Jump("items")
 
 

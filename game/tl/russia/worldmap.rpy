@@ -7868,11 +7868,11 @@ translate russia strings:
 
     # game/worldmap.rpy:2071
     old "Buy Hydrofluoric Acid ([matsAcid])"
-    new "Купить жидкую кислоту ([matsAcid])"
+    new "Купить Плавиковую кислоту ([matsAcid])"
 
     # game/worldmap.rpy:2071
     old "Buy Computer Chip ([matsChip])"
-    new "Купить компьютерный-чип ([matsChip])"
+    new "Купить компьютерный чип ([matsChip])"
 
     # game/worldmap.rpy:2071
     old "Buy Saltpeter ([matsDust])"

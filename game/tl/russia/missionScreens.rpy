@@ -1498,7 +1498,7 @@ translate russia gadgetUsed_d4613490:
 translate russia gadgetUsed_fde1553f:
 
     # "Flashbang Belt Upgrade triggered!"
-    "Модернизированный пояса \"Флэшка\" успешно сработал!"
+    "Модернизация пояса светошумовых гранат успешна прошла!"
 
 # game/missionScreens.rpy:5376
 translate russia gadgetUsed_fb1371c7:

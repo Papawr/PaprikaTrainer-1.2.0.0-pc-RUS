@@ -84,10 +84,10 @@ screen menuOptions:
 
     hbox:
         spacing 10 xpos 190 yalign 0.35
-        text "{color=#C91A1A}{font=fonts/freshMarker.ttf}[menuOption1]          $7.00{/font}{/color}"
+        text _("{color=#C91A1A}{font=fonts/freshMarker.ttf}[menuOption1]          $7.00{/font}{/color}")
     hbox:
         spacing 10 xpos 190 yalign 0.4
-        text "{size=-15}{color=#C91A1A}Tastes like crap, but you get to see hotties in revealing \noutfits so stop complaining.{/color}{/size}"
+        text _("{size=-15}{color=#C91A1A}Tastes like crap, but you get to see hotties in revealing \noutfits so stop complaining.{/color}{/size}")
     vbox xpos 585 yalign 0.345:
         imagebutton:
             idle "gui/checkBox1.png"
@@ -99,7 +99,7 @@ screen menuOptions:
     if checkMark1 == True:
         hbox:
             xpos 595 yalign 0.35
-            text "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+            text _("{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}")
 
     hbox:
         spacing 10 xpos 190 yalign 0.55
@@ -107,7 +107,7 @@ screen menuOptions:
     if menuOption2 != "Locked":
         hbox:
             spacing 10 xpos 190 yalign 0.6
-            text "{size=-15}{color=#C91A1A}Our most popular item! Your waitress will bend over, allowing \nyou to slap her ass when she serves you your burger.{/color}{/size}"
+            text _("{size=-15}{color=#C91A1A}Our most popular item! Your waitress will bend over, allowing \nyou to slap her ass when she serves you your burger.{/color}{/size}")
         vbox xpos 585 yalign 0.55:
             imagebutton:
                 idle "gui/checkBox1.png"
@@ -119,7 +119,7 @@ screen menuOptions:
         if checkMark2 == True:
             hbox:
                 xpos 595 yalign 0.552
-                text "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+                text _("{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}")
 
     hbox:
         spacing 10 xpos 190 yalign 0.75
@@ -127,7 +127,7 @@ screen menuOptions:
     if menuOption3 != "Locked":
         hbox:
             spacing 10 xpos 190 yalign 0.8
-            text "{size=-15}{color=#C91A1A}Your waitress will strip down to her underwear and serve you onion \nrings in her undies.{/color}{/size}"
+            text _("{size=-15}{color=#C91A1A}Your waitress will strip down to her underwear and serve you onion \nrings in her undies.{/color}{/size}")
         vbox xpos 585 yalign 0.75:
             imagebutton:
                 idle "gui/checkBox1.png"
@@ -139,7 +139,7 @@ screen menuOptions:
         if checkMark3 == True:
             hbox:
                 xpos 595 yalign 0.752
-                text "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+                text _("{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}")
 
     hbox:
         spacing 10 xpos 670 yalign 0.35
@@ -147,7 +147,7 @@ screen menuOptions:
     if menuOption4 != "Locked":
         hbox:
             spacing 10 xpos 670 yalign 0.4
-            text "{size=-15}{color=#C91A1A}What's better than nuggets? Nudes, that's what! \nYour waitres will serve these to you topless!{/color}{/size}"
+            text _("{size=-15}{color=#C91A1A}What's better than nuggets? Nudes, that's what! \nYour waitres will serve these to you topless!{/color}{/size}")
         vbox xpos 1060 yalign 0.35:
             imagebutton:
                 idle "gui/checkBox1.png"
@@ -159,7 +159,7 @@ screen menuOptions:
         if checkMark4 == True:
             hbox:
                 xpos 1069 yalign 0.355
-                text "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+                text _("{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}")
 
     hbox:
         spacing 10 xpos 670 yalign 0.55
@@ -167,7 +167,7 @@ screen menuOptions:
     if menuOption5 != "Locked":
         hbox:
             spacing 10 xpos 670 yalign 0.60
-            text "{size=-15}{color=#C91A1A}A Royal Goblet... also known as Booby Beer. For a few dollars more,\nyour waitress will dip her titty into your beer when serving.{/color}{/size}"
+            text _("{size=-15}{color=#C91A1A}A Royal Goblet... also known as Booby Beer. For a few dollars more,\nyour waitress will dip her titty into your beer when serving.{/color}{/size}")
         vbox xpos 1060 yalign 0.55:
             imagebutton:
                 idle "gui/checkBox1.png"
@@ -179,7 +179,7 @@ screen menuOptions:
         if checkMark5 == True:
             hbox:
                 xpos 1069 yalign 0.552
-                text "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+                text _("{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}")
 
     hbox:
         spacing 10 xpos 670 yalign 0.75
@@ -187,7 +187,7 @@ screen menuOptions:
     if menuOption6 != "Locked":
         hbox:
             spacing 10 xpos 670 yalign 0.80
-            text "{size=-15}{color=#C91A1A}Enjoy a lapdance from the hottest girls whilst enjoying the \nbest meal this side of Beverly Hills.{/color}{/size}"
+            text _("{size=-15}{color=#C91A1A}Enjoy a lapdance from the hottest girls whilst enjoying the \nbest meal this side of Beverly Hills.{/color}{/size}")
         vbox xpos 1060 yalign 0.75:
             imagebutton:
                 idle "gui/checkBox1.png"
@@ -199,7 +199,7 @@ screen menuOptions:
         if checkMark6 == True:
             hbox:
                 xpos 1069 yalign 0.752
-                text "{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}"
+                text _("{color=#ffffff}{font=fonts/freshMarker.ttf}V{/font}{/color}")
 
 
 
@@ -226,7 +226,7 @@ screen stripShowScene:
 
     hbox:
         spacing 10 xalign 0.95 ypos 20
-        text "{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}"
+        text _("{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}")
 
     if greenStrip:
         add "animations/strip/sam.png"
@@ -302,7 +302,7 @@ screen stripShowScene2:
             action Jump("club")
     hbox:
         spacing 10 xalign 0.95 ypos 20
-        text "{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}"
+        text _("{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}")
 
     if britneyStrip:
         vbox xpos 0.12 ypos 0.3:

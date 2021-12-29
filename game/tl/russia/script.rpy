@@ -2487,10 +2487,37 @@ translate russia landgrabPlanning_1e7bdbc2:
 
     # "Muffy Peprich is now available for capture. Send your spies on a mission to The Carnival to capture her."
     "Маффи Пеприч теперь доступна для захвата. Отправьте своих шпионов на Карнавал, чтобы захватить её."
-# TODO: Translation updated at 2021-12-28 20:28
 
 translate russia strings:
 
     # game/script.rpy:13343
     old "Gadgets"
     new "Гаджеты"
+
+translate russia strings:
+
+    # game/script.rpy:970
+    old "{font=fonts/freshmarker.ttf}Lore{/font}"
+    new "{font=fonts/freshmarker.ttf}Лор{/font}"
+
+translate russia strings:
+
+    # game/script.rpy:967
+    old "{font=fonts/freshmarker.ttf}Quests{/font}"
+    new "{font=fonts/freshmarker.ttf}Квесты{/font}"
+
+    # game/script.rpy:972
+    old "{font=fonts/freshmarker.ttf}Status{/font}"
+    new "{font=fonts/freshmarker.ttf}Статус{/font}"
+
+    # game/script.rpy:989
+    old "{font=fonts/freshmarker.ttf}Gadgets{/font}"
+    new "{font=fonts/freshmarker.ttf}Гаджеты{/font}"
+
+    # game/script.rpy:992
+    old "{font=fonts/freshmarker.ttf}Outfits{/font}"
+    new "{font=fonts/freshmarker.ttf}Одежда{/font}"
+
+    # game/script.rpy:994
+    old "{font=fonts/freshmarker.ttf}Items{/font}"
+    new "{font=fonts/freshmarker.ttf}Вещи{/font}"

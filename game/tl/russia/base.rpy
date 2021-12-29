@@ -1107,3 +1107,62 @@ translate russia strings:
     # game/base.rpy:512
     old "{size=-8}{color=#f7c64f}*Jetpack available{/color}{/size}"
     new "{size=-8}{color=#f7c64f}*Доступен джетпак{/color}{/size}"
+# TODO: Translation updated at 2021-12-29 18:39
+
+translate russia strings:
+
+    # game/base.rpy:1971
+    old "{color=#000000}{font=fonts/freshmarker.ttf}FLASHBANG BELT - THROW INTO NEXT ROOM TO INCREASE YOUR CHANCES TO BLOCK.\nHYDROFLUORIC ACID, 1 COMPUTER CHIP, 1 WIRING KIT{/font}{/color}"
+    new "{color=#000000}{font=fonts/freshmarker.ttf}ПОЯС СВЕТОШУМОВЫХ ГРАНАТ - БРОСЬТЕ В СОСЕДНЮЮ КОМНАТУ, ЧТОБЫ УВЕЛИЧИТЬ ШАНСЫ НА БЛОКИРОВКУ.\nПЛАВИКОВАЯ КИСЛОТА, 1 КОМПЬЮТЕРНЫЙ ЧИП, 1 КОМПЛЕКТ ПРОВОДКИ{/font}{/color}"
+
+    # game/base.rpy:1991
+    old "{color=#000000}{font=fonts/freshmarker.ttf}JETPACK BACKPACK - USE DURING MISSIONS TO SKIP A FEW FLOORS.\n2 SALTPETER, 2 VALUABLES, 2 COOLING AGENTS{/font}{/color}"
+    new "{color=#000000}{font=fonts/freshmarker.ttf}ДЖЕТПАК - ИСПОЛЬЗУЙТЕ ВО ВРЕМЯ МИССИЙ, ЧТОБЫ ПРОПУСТИТЬ НЕСКОЛЬКО ЭТАЖЕЙ.\n2 СЕЛИТРЫ, 2 ЦЕННОСТИ, 2 ОХЛАДИТЕЛЯ{/font}{/color}"
+
+    # game/base.rpy:2011
+    old "{color=#000000}{font=fonts/freshmarker.ttf}LOVE DART - LOAD REVOLVER WITH A LOVE DART INSTEAD OF KNOCKING AGENTS\nOUT YOU CAN TRY CHARMING THEM. 1 WIRING KIT, 1 ACID{/font}{/color}"
+    new "{color=#000000}{font=fonts/freshmarker.ttf}ЛЮБОВНЫЙ ДРОТИК - ЗАРЯДИТЕ РЕВОЛЬВЕР ЛЮБОВНЫМ ДРОТИКОМ ВМЕСТО ТОГО, ЧТОБЫ УБИВАТЬ АГЕНТОВ.\nOUT YOU CAN TRY CHARMING THEM. 1 КОМПЛЕКТ ПРОВОДКИ, 1 КИСЛОТА{/font}{/color}"
+
+    # game/base.rpy:2030
+    old "{color=#000000}{font=fonts/freshmarker.ttf}POISON DART - LOAD REVOLVER WITH A POISON DART, INCREASING YOUR BLOCK CHANCE.\n1 ACID{/font}{/color}"
+    new "{color=#000000}{font=fonts/freshmarker.ttf}ЯДОВИТЫЙ ДРОТИК - ЗАРЯДИТЕ РЕВОЛЬВЕР ЯДОВИТЫМ ДРОТИКОМ И УВЕЛИЧЬТЕ ШАНС БЛОКИРОВКИ.\n1 КИСЛОТА{/font}{/color}"
+
+    # game/base.rpy:2048
+    old "{color=#000000}{font=fonts/freshmarker.ttf}DRONE - BEFORE GOING INTO THE NEXT ROOM, ACTIVATE YOUR DRONE TO SEE\nWHAT'S ON AT THE OTHER SIDE. 1 COOLING AGENT, 1 WIRING KIT, 1 COMPUTER CHIP{/font}{/color}"
+    new "{color=#000000}{font=fonts/freshmarker.ttf}ДРОН - ПРЕЖДЕ ЧЕМ ВОЙТИ В СЛЕДУЮЩУЮ КОМНАТУ, АКТИВИРУЙТЕ ЕГО, ЧТОБЫ УВИДЕТЬ\nЧТО ТАМ ПРОИСХОДИТ. 1 ОХЛАДИТЕЛЬ, 1 КОМПЛЕКТ ПРОВОДКИ, 1 КОМПЬЮТЕРНЫЙ ЧИП{/font}{/color}"
+
+    # game/base.rpy:2089
+    old "{color=#000000}{font=fonts/freshmarker.ttf}STEALTH BRACELET - USE TO REDUCE DETECTION RATING.\n1 VALUABLES, 1 WIRING KIT, 1 COMPUTER CHIP{/font}{/color}"
+    new "{color=#000000}{font=fonts/freshmarker.ttf}БРАСЛЕТ НЕВИДИМОСТИ - ИСПОЛЬЗУЕТСЯ ДЛЯ СНИЖЕНИЯ РЕЙТИНГА ОБНАРУЖЕНИЯ.\n1 ЦЕННОСТИ, 1 КОМПЛЕКТ ПРОВОДКИ, 1 КОМПЬЮТЕРНЫЙ ЧИП{/font}{/color}"
+
+    # game/base.rpy:2135
+    old "[gadgetEarrings]"
+    new "[gadgetEarrings]"
+
+    # game/base.rpy:2138
+    old "[gadgetPowder]"
+    new "[gadgetPowder]"
+
+    # game/base.rpy:2141
+    old "[gadgetFlashbangBelt]"
+    new "[gadgetFlashbangBelt]"
+
+    # game/base.rpy:2144
+    old "[gadgetAfroDart]"
+    new "[gadgetAfroDart]"
+
+    # game/base.rpy:2147
+    old "[gadgetStunDart]"
+    new "[gadgetStunDart]"
+
+    # game/base.rpy:2150
+    old "[gadgetDrone]"
+    new "[gadgetDrone]"
+
+    # game/base.rpy:2156
+    old "[gadgetStealth]"
+    new "[gadgetStealth]"
+
+    # game/base.rpy:2159
+    old "[gadgetJetpack]"
+    new "[gadgetJetpack]"
