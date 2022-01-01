@@ -2,21 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/worldmap.rpy", line 2555: expected statement.
-    _("'Take a picture wearing the Mega Milk uniform.\nReward: 3 porn magazines.'")
-                                                                                   ^
-
-File "game/worldmap.rpy", line 2557: expected menuitem
-    _("Accept") if True:
-    ^
-
-File "game/worldmap.rpy", line 2581: expected statement.
-    _("Photo of a girl in her underwear\nReward: Blindfolds.")
-                                                              ^
-
-File "game/worldmap.rpy", line 2583: expected menuitem
-    _("Accept") if True:
+File "game/base.rpy", line 406: expected menuitem
+    _("{color=#EFD66D}'R the Taken'{/color}") if task26Stage == 4:
     ^
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Tue Dec 28 19:32:34 2021
+Sat Jan  1 19:19:38 2022

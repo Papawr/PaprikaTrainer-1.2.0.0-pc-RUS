@@ -926,7 +926,7 @@ translate russia strings:
     old "{color=#EFD66D}'Double Trouble'{/color}"
     new "{color=#EFD66D}'Двойные неприятности'{/color}"
 
-    # game/base.rpy:389
+    # game/base.rpy:410
     old "{color=#EFD66D}'Retaken the Taken'{/color}"
     new "{color=#EFD66D}'Захватить'{/color}"
 

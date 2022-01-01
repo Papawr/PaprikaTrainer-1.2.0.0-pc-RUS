@@ -3798,7 +3798,7 @@ label jobReportFinale:
         pass
     hide scene_darkening with d3
     scene black with fade
-    show text "Despite the chaos, you manage to get some rest."
+    show text _("Despite the chaos, you manage to get some rest.")
     $ tod = 1
     with d5
     pause 1.5
@@ -3823,7 +3823,7 @@ label jobReportFinale2:
     hide scene_darkening with d3
     stop music fadeout 3.0
     scene black with fade
-    show text "Despite the chaos, you manage to get some rest."
+    show text _("Despite the chaos, you manage to get some rest.")
     $ tod = 1
     with d5
     pause 1.5

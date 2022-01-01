@@ -2521,3 +2521,295 @@ translate russia strings:
     # game/script.rpy:994
     old "{font=fonts/freshmarker.ttf}Items{/font}"
     new "{font=fonts/freshmarker.ttf}Вещи{/font}"
+# TODO: Translation updated at 2022-01-01 19:06
+
+translate russia strings:
+
+    # game/script.rpy:337
+    old "Gained [randIntel] INT"
+    new ""
+
+    # game/script.rpy:346
+    old "Gained $[randMoney]"
+    new ""
+
+    # game/script.rpy:355
+    old "Lore gathered"
+    new ""
+
+    # game/script.rpy:364
+    old "Rep gained"
+    new ""
+
+    # game/script.rpy:373
+    old "Item(s) gained"
+    new ""
+
+    # game/script.rpy:382
+    old "Crew gained"
+    new ""
+
+    # game/script.rpy:393
+    old "Quest photo added"
+    new ""
+
+    # game/script.rpy:614
+    old "Spy: [greenName] \nLocation: [greenLocation] \nExpertise: Support"
+    new ""
+
+    # game/script.rpy:624
+    old "Spy: [redName] \nLocation: [redLocation] \nExpertise: Distraction"
+    new ""
+
+    # game/script.rpy:634
+    old "Spy: [yellowName] \nLocation: [yellowLocation] \nExpertise: Infiltration"
+    new ""
+
+    # game/script.rpy:869
+    old "{font=fonts/freshMarker.ttf}{size=-4}Noteriety{/size}{/font}"
+    new ""
+
+    # game/script.rpy:880
+    old "{font=fonts/freshMarker.ttf}{size=-4}Cash{/size}{/font}"
+    new ""
+
+    # game/script.rpy:891
+    old "{font=fonts/freshMarker.ttf}{size=-4}Intel{/size}{/font}"
+    new ""
+
+    # game/script.rpy:903
+    old "{font=fonts/freshMarker.ttf}{size=-4}Agents{/size}{/font}"
+    new ""
+
+    # game/script.rpy:908
+    old "{font=fonts/freshMarker.ttf}{size=-4}Day: [daysPlayed]{/size}{/font}"
+    new ""
+
+    # game/script.rpy:935
+    old "Sam{#tbs}"
+    new ""
+
+    # game/script.rpy:938
+    old "???{#tbs}"
+    new ""
+
+    # game/script.rpy:941
+    old "Clover{#tbs}"
+    new ""
+
+    # game/script.rpy:947
+    old "Alex{#tbs}"
+    new ""
+
+    # game/script.rpy:1101
+    old "{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}"
+    new ""
+
+    # game/script.rpy:1153
+    old "{font=fonts/freshmarker.ttf}{size=+12}Drift Punk{/size}{/font}"
+    new ""
+
+    # game/script.rpy:1201
+    old "{font=fonts/freshmarker.ttf}{size=+14}Outsiders{/size}{/font}"
+    new ""
+
+    # game/script.rpy:2163
+    old "{font=fonts/freshmarker.ttf}{size=+18}Drift Punk{/size}{/font}"
+    new ""
+
+    # game/script.rpy:2182
+    old "{font=fonts/freshmarker.ttf}{size=+18}Outsiders{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4907
+    old "{font=fonts/freshmarker.ttf}{size=+5}Angelic{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4909
+    old "{font=fonts/freshmarker.ttf}{size=+5}Heroic{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4911
+    old "{font=fonts/freshmarker.ttf}{size=+5}Good{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4913
+    old "{font=fonts/freshmarker.ttf}{size=+5}Dubious{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4915
+    old "{font=fonts/freshmarker.ttf}{size=+5}Moralless{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4917
+    old "{font=fonts/freshmarker.ttf}{size=+5}Evil{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4973
+    old "{font=fonts/freshmarker.ttf}{size=+40}SAM{/size}{/font}"
+    new ""
+
+    # game/script.rpy:4975
+    old "{font=fonts/freshmarker.ttf}Healthy{/font}"
+    new ""
+
+    # game/script.rpy:4978
+    old "{font=fonts/freshmarker.ttf}Hurt{/font}"
+    new ""
+
+    # game/script.rpy:4981
+    old "{font=fonts/freshmarker.ttf}}Badly hurt{/font}"
+    new ""
+
+    # game/script.rpy:4985
+    old "{font=fonts/freshmarker.ttf}Prudish{/font}"
+    new ""
+
+    # game/script.rpy:4987
+    old "{font=fonts/freshmarker.ttf}Flirty{/font}"
+    new ""
+
+    # game/script.rpy:4989
+    old "{font=fonts/freshmarker.ttf}}Promiscuous{/font}"
+    new ""
+
+    # game/script.rpy:4991
+    old "{font=fonts/freshmarker.ttf}}Slutty{/font}"
+    new ""
+
+    # game/script.rpy:4993
+    old "{font=fonts/freshmarker.ttf}}Whorish{/font}"
+    new ""
+
+    # game/script.rpy:4996
+    old "{font=fonts/freshmarker.ttf}Depressed{/font}"
+    new ""
+
+    # game/script.rpy:4998
+    old "{font=fonts/freshmarker.ttf}Very low{/font}"
+    new ""
+
+    # game/script.rpy:5000
+    old "{font=fonts/freshmarker.ttf}Low{/font}"
+    new ""
+
+    # game/script.rpy:5002
+    old "{font=fonts/freshmarker.ttf}Normal{/font}"
+    new ""
+
+    # game/script.rpy:5004
+    old "{font=fonts/freshmarker.ttf}High{/font}"
+    new ""
+
+    # game/script.rpy:5006
+    old "{font=fonts/freshmarker.ttf}Very high{/font}"
+    new ""
+
+    # game/script.rpy:5017
+    old "{font=fonts/freshmarker.ttf}Medium{/font}"
+    new ""
+
+    # game/script.rpy:5031
+    old "{font=fonts/freshmarker.ttf}{size=+40}CLOVER{/size}{/font}"
+    new ""
+
+    # game/script.rpy:5090
+    old "{font=fonts/freshmarker.ttf}{size=+40}ALEX{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12353
+    old "{font=fonts/freshMarker.ttf}ACES{/font}"
+    new ""
+
+    # game/script.rpy:12355
+    old "{font=fonts/freshMarker.ttf}DRIFT PUNK{/font}"
+    new ""
+
+    # game/script.rpy:12357
+    old "{font=fonts/freshMarker.ttf}OUTSIDERS{/font}"
+    new ""
+
+    # game/script.rpy:12359
+    old "{font=fonts/freshMarker.ttf}LES EPINES{/font}"
+    new ""
+
+    # game/script.rpy:12361
+    old "{font=fonts/freshMarker.ttf}HUNTERS{/font}"
+    new ""
+
+    # game/script.rpy:12363
+    old "{font=fonts/freshMarker.ttf}GLIMMERS{/font}"
+    new ""
+
+    # game/script.rpy:12365
+    old "{font=fonts/freshMarker.ttf}EXCHANGE{/font}"
+    new ""
+
+    # game/script.rpy:12367
+    old "{font=fonts/freshMarker.ttf}WOOHP{/font}"
+    new ""
+
+    # game/script.rpy:12369
+    old "{font=fonts/freshMarker.ttf}MISC.{/font}"
+    new ""
+
+    # game/script.rpy:12372
+    old "{font=fonts/freshMarker.ttf}{size=+34}ACES{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12374
+    old "{font=fonts/freshMarker.ttf}{size=+25}DRIFT PUNK{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12376
+    old "{font=fonts/freshMarker.ttf}{size=+30}OUTSIDERS{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12378
+    old "{font=fonts/freshMarker.ttf}{size=+25}LES EPINES{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12380
+    old "{font=fonts/freshMarker.ttf}{size=+30}HUNTERS{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12382
+    old "{font=fonts/freshMarker.ttf}{size=+30}GLIMMERS{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12384
+    old "{font=fonts/freshMarker.ttf}{size=+30}EXCHANGE{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12386
+    old "{font=fonts/freshMarker.ttf}{size=+36}WOOHP{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12388
+    old "{font=fonts/freshMarker.ttf}{size=+33}MISC.{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12391
+    old "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12394
+    old "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12397
+    old "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12400
+    old "{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12403
+    old "{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}"
+    new ""
+
+    # game/script.rpy:12406
+    old "{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}"
+    new ""
+

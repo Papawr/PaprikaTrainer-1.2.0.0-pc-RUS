@@ -10568,10 +10568,12 @@ translate russia strings:
     old "Take the three dollars"
     new "Взять себе эти 3 доллара"
 
-# TODO: Translation updated at 2021-10-17 19:03
-
 # game/jobReport.rpy:3415
 translate russia jump2me_e2bc6722:
 
     # a "It went really well! I just practised my dancing while I was there which seemed to give him the motivation he needed to get to work!"
     a "Все прошло отлично! Я просто тренировала свой танец, пока была там. Похоже это его сильно замотивировало!"
+
+    # game/jobReport.rpy:3801
+    old "Despite the chaos, you manage to get some rest."
+    new "Несмотря на хаос, вам удаётся немного отдохнуть."

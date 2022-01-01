@@ -310,7 +310,7 @@ screen gadgetMenu:
         key "K_5" action SetVariable("gadgetActive", 5), Jump("activateGadget")
 
 screen reloadGun:
-    text "Press R to load the gun." xalign 0.5 yalign 1.0
+    text _("Press R to load the gun.") xalign 0.5 yalign 1.0
     key "K_r" action Jump("reloadGun")
 
 label reloadGun:
@@ -3842,53 +3842,53 @@ layeredimage bgDebrief:
 screen debriefHealth:
     if spyGreenActive:
         if samHealth == 3:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}"):
                 xalign 0.30 yalign 0.55
         if samHealth == 2:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}"):
                 xalign 0.30 yalign 0.55
         if samHealth == 1:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Badly hurt{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Badly hurt{/color}{/font}"):
                 xalign 0.30 yalign 0.55
         if samHealth == 0:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}K.O.{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}K.O.{/color}{/font}"):
                 xalign 0.30 yalign 0.55
     else:
-        text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}":
+        text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}"):
             xalign 0.30 yalign 0.55
 
     if spyRedActive:
         if cloverHealth == 3:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}"):
                 xalign 0.30 yalign 0.65
         if cloverHealth == 2:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}"):
                 xalign 0.30 yalign 0.65
         if cloverHealth == 1:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Badly hurt{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Badly hurt{/color}{/font}"):
                 xalign 0.30 yalign 0.65
         if cloverHealth == 0:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}K.O.{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}K.O.{/color}{/font}"):
                 xalign 0.30 yalign 0.65
     else:
-        text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}":
+        text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}"):
             xalign 0.30 yalign 0.65
 
     if spyYellowActive:
         if alexHealth == 3:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}"):
                 xalign 0.30 yalign 0.75
         if alexHealth == 2:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}"):
                 xalign 0.30 yalign 0.75
         if alexHealth == 1:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Badly hurt{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}Badly hurt{/color}{/font}"):
                 xalign 0.30 yalign 0.75
         if alexHealth == 0:
-            text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}K.O.{/color}{/font}":
+            text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}K.O.{/color}{/font}"):
                 xalign 0.30 yalign 0.75
     else:
-        text "{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}":
+        text _("{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}"):
             xalign 0.30 yalign 0.75
 
 screen lootText:
@@ -5433,19 +5433,19 @@ label lootItem:
 
 label missionLootText:
     if 1 <= randomBackground <= 3 and currentPosition == 1:
-        show text "{size=+5}{font=fonts/freshmarker.ttf}Gotcha!{/font}{/size}" at jobReward:
+        show text _("{size=+5}{font=fonts/freshmarker.ttf}Gotcha!{/font}{/size}") at jobReward:
             xalign 0.14 yalign 0.42
             linear 0.35 yalign 0.36
     if 1 <= randomBackground <= 3 and currentPosition == 2:
-        show text "{size=+5}{font=fonts/freshmarker.ttf}Mine!{/font}{/size}" at jobReward:
+        show text _("{size=+5}{font=fonts/freshmarker.ttf}Mine!{/font}{/size}") at jobReward:
             xalign 0.82 yalign 0.67
             linear 0.35 yalign 0.59
     if 4 <= randomBackground <= 7 and currentPosition == 2:
-        show text "{size=+5}{font=fonts/freshmarker.ttf}Ka-ching!{/font}{/size}" at jobReward:
+        show text _("{size=+5}{font=fonts/freshmarker.ttf}Ka-ching!{/font}{/size}") at jobReward:
             xalign 0.56 yalign 0.8
             linear 0.35 yalign 0.75
     if 8 <= randomBackground <= 10 and currentPosition == 1:
-        show text "{size=+5}{font=fonts/freshmarker.ttf}Loot!{/font}{/size}" at jobReward:
+        show text _("{size=+5}{font=fonts/freshmarker.ttf}Loot!{/font}{/size}") at jobReward:
             xalign 0.83 yalign 0.55
             linear 0.35 yalign 0.47
     with d3

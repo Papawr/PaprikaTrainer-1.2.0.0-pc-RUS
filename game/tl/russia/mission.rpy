@@ -549,3 +549,46 @@ translate russia strings:
     # game/mission.rpy:2875
     old "Launching mission.\nLocation: WOOHP HQ."
     new "Запуск миссии.\nЛокация: Штаб WOOHP."
+# TODO: Translation updated at 2022-01-01 13:25
+
+translate russia strings:
+
+    # game/mission.rpy:313
+    old "Press R to load the gun."
+    new "Нажмите R, чтобы перезарядить пистолет."
+
+    # game/mission.rpy:3845
+    old "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}"
+    new "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Здоровье{/color}{/font}"
+
+    # game/mission.rpy:3848
+    old "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}"
+    new "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Травмы{/color}{/font}"
+
+    # game/mission.rpy:3851
+    old "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Badly hurt{/color}{/font}"
+    new "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Тяжёлые травмы{/color}{/font}"
+
+    # game/mission.rpy:3854
+    old "{font=fonts/freshmarker.ttf}{color=#CA1A1E}K.O.{/color}{/font}"
+    new "{font=fonts/freshmarker.ttf}{color=#CA1A1E}К.О.{/color}{/font}"
+
+    # game/mission.rpy:3857
+    old "{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}"
+    new "{font=fonts/freshmarker.ttf}{color=#CA1A1E}- - -{/color}{/font}"
+
+    # game/mission.rpy:5436
+    old "{size=+5}{font=fonts/freshmarker.ttf}Gotcha!{/font}{/size}"
+    new "{size=+5}{font=fonts/freshmarker.ttf}Попався!{/font}{/size}"
+
+    # game/mission.rpy:5440
+    old "{size=+5}{font=fonts/freshmarker.ttf}Mine!{/font}{/size}"
+    new "{size=+5}{font=fonts/freshmarker.ttf}Моё!{/font}{/size}"
+
+    # game/mission.rpy:5444
+    old "{size=+5}{font=fonts/freshmarker.ttf}Ka-ching!{/font}{/size}"
+    new "{size=+5}{font=fonts/freshmarker.ttf}Ка-чау!{/font}{/size}"
+
+    # game/mission.rpy:5448
+    old "{size=+5}{font=fonts/freshmarker.ttf}Loot!{/font}{/size}"
+    new "{size=+5}{font=fonts/freshmarker.ttf}Хватай!{/font}{/size}"

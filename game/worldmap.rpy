@@ -23,8 +23,8 @@ label skipIntro:
             $ greenBottom = 1
             $ greenShoes = 1
             $ task1Stage = 3
-            $ task1Name = "Open for Business (completed)"
-            $ task1Text = "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Task completed!"
+            $ task1Name = _("Open for Business (completed)")
+            $ task1Text = _("Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Task completed!")
             $ mapSpy1Active = True
             $ mallActive = True
 
@@ -191,7 +191,7 @@ label worldmap:
                 stop music fadeout 5.0
                 with hpunch
                 pause 2.0
-                show text "{size=+1}GAME OVER{/size}" with d10
+                show text _("{size=+1}GAME OVER{/size}") with d10
                 pause
                 hide text
                 $ MainMenu(confirm=False)()
@@ -1910,7 +1910,7 @@ label hacker:
                     show matModel
                     with d3
                     $ hackProgress = 0
-                    $ task2Text = "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Craft the V.I.B. via de gadget screen."
+                    $ task2Text = _("Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Craft the V.I.B. via de gadget screen.")
                     mat "Good news, my dude. I managed to crack a blueprint inside the database."
                     if task2Stage <= 12.5 and spyRedActive == True:
                         $ task2Stage = 12.6
@@ -2551,7 +2551,7 @@ screen bookStoreQuests:
 
 label bsQMag:
     if picQuest1 == 0:
-        $ picQuest1Text = "-Take a picture of any of your spies wearing the milkshake uniform."
+        $ picQuest1Text = _("-Take a picture of any of your spies wearing the milkshake uniform.")
         "'Take a picture wearing the Mega Milk uniform.\nReward: 3 porn magazines.'"
         menu:
             "Accept" if True:
@@ -2577,7 +2577,7 @@ label bsQMag:
         jump pictureLabel
 label bsQMeds:
     if picQuest2 == 0:
-        $ picQuest2Text = "-Take a picture of any of your spies in their underwear."
+        $ picQuest2Text = _("-Take a picture of any of your spies in their underwear.")
         "Photo of a girl in her underwear\nReward: Blindfolds."
         menu:
             "Accept" if True:
@@ -2603,7 +2603,7 @@ label bsQMeds:
         jump pictureLabel
 label bsQMats:
     if picQuest3 == 0:
-        $ picQuest3Text = "-Take a picture of a topless girl, but keep it sexy."
+        $ picQuest3Text = _("-Take a picture of a topless girl, but keep it sexy.")
         "Take a picture of a topless girl, but keep it sexy.\nReward: Fuzzy handcuffs."
         menu:
             "Accept" if True:
@@ -2635,7 +2635,7 @@ label bsQMats:
 
 label bsQCollar:
     if picQuest4 == 0:
-        $ picQuest4Text = "-Take a picture of a naked girl, but keep it sexy"
+        $ picQuest4Text = _("-Take a picture of a naked girl, but keep it sexy")
         "Take a picture of a naked girl, but keep it sexy.\nReward: Slave Collars."
         menu:
             "Accept" if True:
@@ -2661,7 +2661,7 @@ label bsQCollar:
         jump pictureLabel
 label bsQGag:
     if picQuest5 == 0:
-        $ picQuest5Text = "Take a picture of a girl on full display, baring it all."
+        $ picQuest5Text = _("Take a picture of a girl on full display, baring it all.")
         "Take a picture of a girl on full display, baring it all.\nReward: Ballgags."
         menu:
             "Accept" if True:
@@ -2686,7 +2686,7 @@ label bsQGag:
         jump pictureLabel
 label bsQPlug:
     if picQuest6 == 0:
-        $ picQuest6Text = "-Take a picture of one of your spies using her dildo."
+        $ picQuest6Text = _("-Take a picture of one of your spies using her dildo.")
         "Take a picture of one of your spies using her dildo.\nReward: Foxtail Buttplugs."
         menu:
             "Accept" if True:
@@ -2715,7 +2715,7 @@ label bsQPlug:
 
 label bsQHerbs:
     if picQuest7 == 0:
-        $ picQuest7Text = "-Take a picture of one of your spies preforming foreplay."
+        $ picQuest7Text = _("-Take a picture of one of your spies preforming foreplay.")
         "Take a picture of one of your spies preforming foreplay.\nReward: Bondage Chains."
         menu:
             "Accept" if True:
@@ -2751,7 +2751,7 @@ label bsQHerbs:
 
 label bsQCoupons:
     if picQuest8 == 0:
-        $ picQuest8Text = "-Take a picture of a spy having sex."
+        $ picQuest8Text = _("-Take a picture of a spy having sex.")
         "Take a picture of a spy having sex.\nReward: Sybian."
         menu:
             "Accept" if True:
@@ -2781,7 +2781,7 @@ label bsQCoupons:
 
 label bsQSpreader:
     if picQuest9 == 0:
-        $ picQuest9Text = "-Take a picture of a spy having anal sex."
+        $ picQuest9Text = _("-Take a picture of a spy having anal sex.")
         "Take a picture of a spy having anal sex.\nReward: Leg Spreader."
         menu:
             "Accept" if True:
@@ -2811,7 +2811,7 @@ label bsQSpreader:
 
 label bsQCG:
     if picQuest10 == 0:
-        $ picQuest9Text = "-Take a picture of the spies in a foursome."
+        $ picQuest9Text = _("-Take a picture of the spies in a foursome.")
         "Take a picture of the spies in a foursome.\nReward: ???."
         menu:
             "Accept" if True:

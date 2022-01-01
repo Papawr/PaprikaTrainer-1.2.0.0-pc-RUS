@@ -8228,3 +8228,59 @@ translate russia strings:
     # game/worldmap.rpy:2233
     old "Buy ten Valuables ($3000)"
     new "Купить десять ценностей ($3000)"
+# TODO: Translation updated at 2022-01-01 19:12
+
+translate russia strings:
+
+    # game/worldmap.rpy:27
+    old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Task completed!"
+    new ""
+
+    # game/worldmap.rpy:194
+    old "{size=+1}GAME OVER{/size}"
+    new ""
+
+    # game/worldmap.rpy:1913
+    old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Craft the V.I.B. via de gadget screen."
+    new ""
+
+    # game/worldmap.rpy:2554
+    old "-Take a picture of any of your spies wearing the milkshake uniform."
+    new ""
+
+    # game/worldmap.rpy:2580
+    old "-Take a picture of any of your spies in their underwear."
+    new ""
+
+    # game/worldmap.rpy:2606
+    old "-Take a picture of a topless girl, but keep it sexy."
+    new ""
+
+    # game/worldmap.rpy:2638
+    old "-Take a picture of a naked girl, but keep it sexy"
+    new ""
+
+    # game/worldmap.rpy:2664
+    old "Take a picture of a girl on full display, baring it all."
+    new ""
+
+    # game/worldmap.rpy:2689
+    old "-Take a picture of one of your spies using her dildo."
+    new ""
+
+    # game/worldmap.rpy:2718
+    old "-Take a picture of one of your spies preforming foreplay."
+    new ""
+
+    # game/worldmap.rpy:2754
+    old "-Take a picture of a spy having sex."
+    new ""
+
+    # game/worldmap.rpy:2784
+    old "-Take a picture of a spy having anal sex."
+    new ""
+
+    # game/worldmap.rpy:2814
+    old "-Take a picture of the spies in a foursome."
+    new ""
+

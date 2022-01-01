@@ -14,7 +14,7 @@ screen nanoLevelSam:
             action Jump("samCall")
     $ tooltip = GetTooltip()
     if tooltip == "ttNanoControl":
-        text "{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}" xpos 560 yalign 0.07
+        text _("{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}") xpos 560 yalign 0.07
     vbox xalign 0.51 yalign 0.025:
         text "{font=fonts/freshmarker.ttf}[nanoLevelSam]/100{/font}"
 
@@ -1715,7 +1715,7 @@ screen nanoLevelClover:
             action Jump("cloverCall")
     $ tooltip = GetTooltip()
     if tooltip == "ttNanoControl":
-        text "{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}" xpos 560 yalign 0.07
+        text _("{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}") xpos 560 yalign 0.07
     vbox xalign 0.51 yalign 0.025:
         text "{font=fonts/freshmarker.ttf}[nanoLevelClover]/100{/font}"
 
@@ -1870,7 +1870,7 @@ screen nanoLevelAlex:
             action Jump("alexCall")
     $ tooltip = GetTooltip()
     if tooltip == "ttNanoControl":
-        text "{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}" xpos 560 yalign 0.07
+        text _("{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}") xpos 560 yalign 0.07
     vbox xalign 0.51 yalign 0.025:
         text "{font=fonts/freshmarker.ttf}[nanoLevelAlex]/100{/font}"
 

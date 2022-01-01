@@ -7200,44 +7200,44 @@ translate russia strings:
 
     # game/intro.rpy:448
     old "We need to safe the world! But... let's start with saving Beverly Hills. We need to find a way to liberate the city and find out who's behind this operation."
-    new ""
+    new "Мы должны спасти мир! Но... Давайте начнём со спасения Беверли-Хиллз. Нам нужно найти способ освободить город и выяснить, кто стоит за этой операцией."
 
     # game/intro.rpy:1837
     old "Retaking the Taken"
-    new ""
+    new "Наше по праву"
 
     # game/intro.rpy:1838
     old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills."
-    new ""
+    new "После первой миссии, мы выяснили, что окситоцин, секс, помогает подавить наноботов. С помощью захваченных и освобождённых агентов мы сможем освободить Беверли-Хиллз."
 
     # game/intro.rpy:2416
     old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n-Send your spy undercover with one of the gangs in town."
-    new ""
+    new "После первой миссии, мы выяснили, что окситоцин, секс, помогает подавить наноботов. С помощью захваченных и освобождённых агентов мы сможем освободить Беверли-Хиллз.\n\nНам понадобятся деньги и информация для выполнения будущих миссий, поэтому я должен отправить свою шпионку на работу под прикрытием для собора информации в различных бандах города.\n\n-Отправьте свою шпионку под прикрытием в одну из банд города."
 
     # game/intro.rpy:2535
     old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n-Clean up the milkshake bar and convince your spy to work there."
-    new ""
+    new "После первой миссии, мы выяснили, что окситоцин, секс, помогает подавить наноботов. С помощью захваченных и освобождённых агентов мы сможем освободить Беверли-Хиллз.\n\nНам понадобятся деньги и информация для выполнения будущих миссий, поэтому я должен отправить свою шпионку на работу под прикрытием для собора информации в различных бандах города.\n\n{color=#A3A3A3}-Отправьте свою шпионку под прикрытием в одну из банд города.{/color} \n\n-Наведите порядок в баре и убедите свою шпионку работать там."
 
     # game/intro.rpy:2614
     old "Open for Business"
-    new ""
+    new "Открыты для предложений"
 
     # game/intro.rpy:2615
     old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\nFix up the bar by either working on it yourself, sending your spy to clean it for you, or both."
-    new ""
+    new "Нуждаясь в источнике дохода, вы решили перестроить бар и превратить его в захудалый ресторан.\nРаботайте над баром самостоятельно или отправляйте свою шпионку работать над его улучшением."
 
     # game/intro.rpy:2739
     old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy."
-    new ""
+    new "Нуждаясь в источнике дохода, вы решили перестроить бар и превратить его в захудалый ресторан.\n-Работайте над баром самостоятельно или отправляйте свою шпионку работать над его улучшением.\n \n-Бар выглядит идеально, теперь осталось только подобрать сексуальную униформу официантки для вашей шпионки."
 
     # game/intro.rpy:2874
     old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???"
-    new ""
+    new "После первой миссии, мы выяснили, что окситоцин, секс, помогает подавить наноботов. С помощью захваченных и освобождённых агентов мы сможем освободить Беверли-Хиллз.\n\nНам понадобятся деньги и информация для выполнения будущих миссий, поэтому я должен отправить свою шпионку на работу под прикрытием для собора информации в различных бандах города.\n\n{color=#A3A3A3}-Отправьте свою шпионку под прикрытием в одну из банд города.{/color} \n\n{color=#A3A3A3}-Наведите порядок в баре и убедите свою шпионку работать там.{/color}\n\n-???"
 
     # game/intro.rpy:2918
     old "Open for Business (completed)"
-    new ""
+    new "Открыты для предложений (завершено)"
 
     # game/intro.rpy:2919
     old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Quest completed!"
-    new ""
+    new "Нуждаясь в источнике дохода, вы решили перестроить бар и превратить его в захудалый ресторан.\n-Работайте над баром самостоятельно или отправляйте свою шпионку работать над его улучшением.\n \n-Бар выглядит идеально, теперь осталось только подобрать сексуальную униформу официантки для вашей шпионки.\n \n-Квест выполнен!"

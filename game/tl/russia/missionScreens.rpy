@@ -1769,3 +1769,102 @@ translate russia strings:
     # game/missionScreens.rpy:4089
     old "Interrogate"
     new "Допросить"
+# TODO: Translation updated at 2022-01-01 13:25
+
+translate russia strings:
+
+    # game/missionScreens.rpy:2195
+    old "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n-Interrogate Carla Wong at the base."
+    new "Мы обнаружили, что бывший программист видеоигр по имени Карла Вонг, она же Леди Дракон, является ведущим разработчиком Punk Web. Она уже однажды напала на Кловер, так что пришло время привести ее сюда.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n-Interrogate Carla Wong at the base."
+
+    # game/missionScreens.rpy:2367
+    old "Sebastian Sage has been captured and the Drift Punk have lost their leader. With him gone the gang will soon disband."
+    new ""
+
+    # game/missionScreens.rpy:3567
+    old "Database"
+    new ""
+
+    # game/missionScreens.rpy:3570
+    old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n-Plan a mission to the Abandoned Amusement Park and steal fireworks.\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+    new ""
+
+    # game/missionScreens.rpy:3572
+    old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+    new ""
+
+    # game/missionScreens.rpy:3581
+    old "Faire"
+    new ""
+
+    # game/missionScreens.rpy:3584
+    old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+    new ""
+
+    # game/missionScreens.rpy:3596
+    old "School"
+    new ""
+
+    # game/missionScreens.rpy:4015
+    old "Bondage Gadget"
+    new ""
+
+    # game/missionScreens.rpy:4022
+    old "Hypno Earrings"
+    new ""
+
+    # game/missionScreens.rpy:4026
+    old "Distraction Powder"
+    new ""
+
+    # game/missionScreens.rpy:4030
+    old "Flashbang Belt"
+    new ""
+
+    # game/missionScreens.rpy:4034
+    old "AC Drone"
+    new ""
+
+    # game/missionScreens.rpy:4038
+    old "Stealth Bracelet"
+    new ""
+
+    # game/missionScreens.rpy:4041
+    old "Jetpack"
+    new ""
+
+    # game/missionScreens.rpy:5471
+    old "Sam{#tbinmS}"
+    new ""
+
+    # game/missionScreens.rpy:5474
+    old "Clover{#tbinmS}"
+    new ""
+
+    # game/missionScreens.rpy:5477
+    old "Alex{#tbinmS}"
+    new ""
+
+    # game/missionScreens.rpy:5480
+    old "Kim{#tbinmS}"
+    new ""
+
+    # game/missionScreens.rpy:5483
+    old "Britney{#tbinmS}"
+    new ""
+
+    # game/missionScreens.rpy:6246
+    old "Blue Potion"
+    new ""
+
+    # game/missionScreens.rpy:6248
+    old "Green Potion"
+    new ""
+
+    # game/missionScreens.rpy:6250
+    old "Red Potion"
+    new ""
+
+    # game/missionScreens.rpy:6262
+    old "Medkit"
+    new ""

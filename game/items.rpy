@@ -2786,7 +2786,7 @@ label equipSuitGreen:
     $ greenChest = 0
     $ greenBottom = 0
     $ greenShoes = 0
-    call screen outfits 
+    call screen outfits
 
 label equipSuitRed:
     $ redChest = 0
@@ -2829,16 +2829,16 @@ screen under3VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1 and mnt17:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenUnder", 3), SetVariable("greenUnderSet", 3), Hide("under3VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenUnder", 3.1), SetVariable("greenUnderSet", 3.1), Hide("under3VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("under3VarScreen")
         if wardrobeCurrentSpy == 1 and mnt17 == False:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenUnder", 3), SetVariable("greenUnderSet", 3), Hide("under3VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("under3VarScreen")
 
 screen under8VarScreen:
@@ -2849,9 +2849,9 @@ screen under8VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 3:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowUnder", 8), SetVariable("yellowUnderSet", 8), Hide("under8VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("yellowUnder", 8.1), SetVariable("yellowUnderSet", 8.1), Hide("under8VarScreen")
 
 screen under9VarScreen:
@@ -2862,16 +2862,16 @@ screen under9VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenUnder", 9), SetVariable("greenUnderSet", 9), Hide("under9VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenUnder", 9.1), SetVariable("greenUnderSet", 9.1), Hide("under9VarScreen")
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redUnder", 9), SetVariable("redUnderSet", 9), Hide("under9VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redUnder", 9.1), SetVariable("redUnderSet", 9.1), Hide("under9VarScreen")
-            textbutton "Version 3":
+            textbutton _("Version 3"):
                 action SetVariable("redUnder", 9.2), SetVariable("redUnderSet", 9.2), Hide("under9VarScreen")
 
 screen under10VarScreen:
@@ -2882,9 +2882,9 @@ screen under10VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 3 and under10Alex:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowUnder", 10), SetVariable("yellowUnderSet", 10), Hide("under10VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("yellowUnder", 10.1), SetVariable("yellowUnderSet", 10.1), Hide("under10VarScreen")
 
 screen under11VarScreen:
@@ -2895,11 +2895,11 @@ screen under11VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 2 and under11Clover:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redUnder", 11), SetVariable("redUnderSet", 11), Hide("under11VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redUnder", 11.1), SetVariable("redUnderSet", 11.1), Hide("under11VarScreen")
-            textbutton "Version 3":
+            textbutton _("Version 3"):
                 action SetVariable("redUnder", 11.2), SetVariable("redUnderSet", 11.2), Hide("under11VarScreen")
 
 screen under7VarScreen:
@@ -2911,19 +2911,19 @@ screen under7VarScreen:
         has vbox
 
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redUnder", 7), SetVariable("redUnderSet", 7), Hide("under7VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redUnder", 7.1), SetVariable("redUnderSet", 7.1), Hide("under7VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("under7VarScreen")
         if wardrobeCurrentSpy == 3:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowUnder", 7), SetVariable("yellowUnderSet", 7), Hide("under7VarScreen")
             if under7AlexB:
-                textbutton "Version 2":
+                textbutton _("Version 2"):
                     action SetVariable("yellowUnder", 7.1), SetVariable("yellowUnderSet", 7.1), Hide("under7VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("under7VarScreen")
 
 
@@ -2936,13 +2936,13 @@ screen acc1VarScreen15:
         has vbox
 
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redAcces1", 15.1), SetVariable("redAcc1Set", 15.1), Hide("acc1VarScreen15")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redAcces1", 15.2), SetVariable("redAcc1Set", 15.2), Hide("acc1VarScreen15")
-            textbutton "Version 3":
+            textbutton _("Version 3"):
                 action SetVariable("redAcces1", 15.3), SetVariable("redAcc1Set", 15.3), Hide("acc1VarScreen15")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("acc1VarScreen15")
 
 screen top2VarScreen:
@@ -2953,33 +2953,33 @@ screen top2VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenChest", 2), SetVariable("greenChestSet", 2), Hide("top2VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenChest", 2.1), SetVariable("greenChestSet", 2.1), Hide("top2VarScreen")
-            textbutton "Version 3":
+            textbutton _("Version 3"):
                 action SetVariable("greenChest", 2.2), SetVariable("greenChestSet", 2.2), Hide("top2VarScreen")
-            textbutton "Version 4":
+            textbutton _("Version 4"):
                 action SetVariable("greenChest", 2.3), SetVariable("greenChestSet", 2.3), Hide("top2VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top2VarScreen")
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redChest", 2), SetVariable("redChestSet", 2), Hide("top2VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redChest", 2.1), SetVariable("redChestSet", 2.1), Hide("top2VarScreen")
-            textbutton "Version 3":
+            textbutton _("Version 3"):
                 action SetVariable("redChest", 2.2), SetVariable("redChestSet", 2.2), Hide("top2VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top2VarScreen")
         if wardrobeCurrentSpy == 3:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowChest", 2), SetVariable("yellowChestSet", 2), Hide("top2VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("yellowChest", 2.1), SetVariable("yellowChestSet", 2.1), Hide("top2VarScreen")
-            textbutton "Version 3":
+            textbutton _("Version 3"):
                 action SetVariable("yellowChest", 2.2), SetVariable("yellowChestSet", 2.2), Hide("top2VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top2VarScreen")
 
 screen top3VarScreen:
@@ -2989,11 +2989,11 @@ screen top3VarScreen:
     frame:
         pos (x + 10, y + 10)
         has vbox
-        textbutton "Version 1":
+        textbutton _("Version 1"):
             action SetVariable("greenChest", 3), SetVariable("greenChestSet", 3), Hide("top3VarScreen")
-        textbutton "Version 2":
+        textbutton _("Version 2"):
             action SetVariable("greenChest", 3.1), SetVariable("greenChestSet", 3.1), Hide("top3VarScreen")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("top3VarScreen")
 
 screen top4VarScreen:
@@ -3004,18 +3004,18 @@ screen top4VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenChest", 4), SetVariable("greenChestSet", 4), Hide("top4VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenChest", 4.1), SetVariable("greenChestSet", 4.1), Hide("top4VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top4VarScreen")
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redChest", 4), SetVariable("redChestSet", 4), Hide("top4VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redChest", 4.1), SetVariable("redChestSet", 4.1), Hide("top4VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top4VarScreen")
 
 screen top7VarScreen:
@@ -3026,18 +3026,18 @@ screen top7VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenChest", 7), SetVariable("greenChestSet", 7), Hide("top7VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenChest", 7.1), SetVariable("greenChestSet", 7.1), Hide("top7VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top7VarScreen")
         if wardrobeCurrentSpy == 3:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowChest", 7), SetVariable("yellowChestSet", 7), Hide("top7VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("yellowChest", 7.1), SetVariable("yellowChestSet", 7.1), Hide("top7VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top7VarScreen")
 
 
@@ -3049,11 +3049,11 @@ screen top10VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenChest", 10), SetVariable("greenChestSet", 10), Hide("top10VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenChest", 10.1), SetVariable("greenChestSet", 10.1), Hide("top10VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top10VarScreen")
 
 
@@ -3065,11 +3065,11 @@ screen top12VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenChest", 12), SetVariable("greenChestSet", 12), Hide("top12VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenChest", 12.1), SetVariable("greenChestSet", 12.1), Hide("top12VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top12VarScreen")
 
 
@@ -3081,11 +3081,11 @@ screen top14VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 3:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowChest", 14), SetVariable("yellowChestSet", 14), Hide("top14VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("yellowChest", 14.1), SetVariable("yellowChestSet", 14.1), Hide("top14VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top14VarScreen")
 
 screen top15VarScreen:
@@ -3096,35 +3096,35 @@ screen top15VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenChest", 15.1), SetVariable("greenChestSet", 15.1), Hide("top15VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenChest", 15.2), SetVariable("greenChestSet", 15.2),  Hide("top15VarScreen")
-            textbutton "Version 3":
+            textbutton _("Version 3"):
                 action SetVariable("greenChest", 15.3), SetVariable("greenChestSet", 15.3),  Hide("top15VarScreen")
-            textbutton "Version 4":
+            textbutton _("Version 4"):
                 if slutLevel >= 1:
                     action SetVariable("greenChest", 15.4), SetVariable("greenChestSet", 15.4), Hide("top15VarScreen")
                 else:
                     action Hide("top15VarScreen"), Jump("declineOutfit")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top15VarScreen")
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redChest", 15), SetVariable("redChestSet", 15), Hide("top15VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 if slutLevel >= 1:
                     action SetVariable("redChest", 15.1), SetVariable("redChestSet", 15.1), Hide("top15VarScreen")
                 else:
                     action Hide("top15VarScreen"), Jump("declineOutfit")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top15VarScreen")
         if wardrobeCurrentSpy == 3:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowChest", 15), SetVariable("yellowChestSet", 15), Hide("top15VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("yellowChest", 15.1), SetVariable("yellowChestSet", 15.1), Hide("top15VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("top15VarScreen")
 
 
@@ -3135,11 +3135,11 @@ screen bott2VarScreen:
     frame:
         pos (x + 10, y + 10)
         has vbox
-        textbutton "Version 1":
+        textbutton _("Version 1"):
             action SetVariable("greenBottom", 2), SetVariable("greenBottomSet", 2), Hide("bott2VarScreen")
-        textbutton "Version 2":
+        textbutton _("Version 2"):
             action SetVariable("greenBottom", 2.1), SetVariable("greenBottomSet", 2.1), Hide("bott2VarScreen")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("bott2VarScreen")
 screen bott7VarScreen:
     modal True
@@ -3149,18 +3149,18 @@ screen bott7VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenBottom", 7), SetVariable("greenBottomSet", 7), Hide("bott7VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenBottom", 7.1), SetVariable("greenBottomSet", 7.1), Hide("bott7VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("bott7VarScreen")
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redBottom", 7), SetVariable("redBottomSet", 7), Hide("bott7VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redBottom", 7.1), SetVariable("redBottomSet", 7.1), Hide("bott7VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("bott7VarScreen")
 screen bott15VarScreen:
     modal True
@@ -3170,11 +3170,11 @@ screen bott15VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 3:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("yellowBottom", 15), SetVariable("yellowBottomSet", 15), Hide("bott15VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("yellowBottom", 15.1), SetVariable("yellowBottomSet", 15.1), Hide("bott15VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("bott7VarScreen")
 
 
@@ -3185,11 +3185,11 @@ screen shoes6VarScreen:
     frame:
         pos (x + 10, y + 10)
         has vbox
-        textbutton "Version 1":
+        textbutton _("Version 1"):
             action SetVariable("yellowShoes", 6.1), SetVariable("yellowShoesSet", 6.1), Hide("shoes6VarScreen")
-        textbutton "Version 2":
+        textbutton _("Version 2"):
             action SetVariable("yellowShoes", 6.2), SetVariable("yellowShoesSet", 6.2), Hide("shoes6VarScreen")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("shoes6VarScreen")
 screen shoes7VarScreen:
     modal True
@@ -3198,11 +3198,11 @@ screen shoes7VarScreen:
     frame:
         pos (x + 10, y + 10)
         has vbox
-        textbutton "Version 1":
+        textbutton _("Version 1"):
             action SetVariable("greenShoes", 7), SetVariable("greenShoesSet", 7), Hide("shoes7VarScreen")
-        textbutton "Version 2":
+        textbutton _("Version 2"):
             action SetVariable("greenShoes", 7.1), SetVariable("greenShoesSet", 7.1), Hide("shoes7VarScreen")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("shoes7VarScreen")
 screen shoes12VarScreen:
     modal True
@@ -3211,11 +3211,11 @@ screen shoes12VarScreen:
     frame:
         pos (x + 10, y + 10)
         has vbox
-        textbutton "Version 1":
+        textbutton _("Version 1"):
             action SetVariable("greenShoes", 12), SetVariable("greenShoesSet", 12), Hide("shoes12VarScreen")
-        textbutton "Version 2":
+        textbutton _("Version 2"):
             action SetVariable("greenShoes", 12.1), SetVariable("greenShoesSet", 12.1), Hide("shoes12VarScreen")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("shoes12VarScreen")
 screen shoes15VarScreen:
     modal True
@@ -3225,18 +3225,18 @@ screen shoes15VarScreen:
         pos (x + 10, y + 10)
         has vbox
         if wardrobeCurrentSpy == 1:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("greenShoes", 15), SetVariable("greenShoesSet", 15), Hide("shoes15VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("greenShoes", 15.1), SetVariable("greenShoesSet", 15.1), Hide("shoes15VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("shoes15VarScreen")
         if wardrobeCurrentSpy == 2:
-            textbutton "Version 1":
+            textbutton _("Version 1"):
                 action SetVariable("redShoes", 15), SetVariable("redShoesSet", 15), Hide("shoes15VarScreen")
-            textbutton "Version 2":
+            textbutton _("Version 2"):
                 action SetVariable("redShoes", 15.1), SetVariable("redShoesSet", 15.1), Hide("shoes15VarScreen")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("shoes15VarScreen")
 
 
@@ -3448,11 +3448,11 @@ screen items:
         frame:
             pos (x + 20, y + 15)
             has vbox
-            textbutton "View":
+            textbutton _("View"):
                 clicked SetVariable("itemsSelectButton", 0), Jump("sellLoot")
-            textbutton "Inspect":
+            textbutton _(_("Inspect")):
                 clicked SetVariable("itemsSelectButton", 0), Jump("inspLoot")
-            textbutton "Back":
+            textbutton _(_("Back")):
                 action SetVariable("itemsSelectButton", 0), Jump("items")
 
 
@@ -3470,9 +3470,9 @@ screen items:
         frame:
             pos (x + 20, y + 15)
             has vbox
-            textbutton "Inspect":
+            textbutton _("Inspect"):
                 clicked SetVariable("itemsSelectButton", 0), Jump("inspHerbs")
-            textbutton "Back":
+            textbutton _("Back"):
                 action SetVariable("itemsSelectButton", 0), Jump("items")
 
 
@@ -3494,11 +3494,11 @@ screen items:
             frame:
                 pos (x + 20, y + 15)
                 has vbox
-                textbutton "Use":
+                textbutton _("Use"):
                     clicked SetVariable("itemsSelectButton", 0), Jump("useInjectorSmall")
-                textbutton "Inspect":
+                textbutton _("Inspect"):
                     clicked SetVariable("itemsSelectButton", 0), Jump("inspInjectorSmall")
-                textbutton "Back":
+                textbutton _("Back"):
                     action SetVariable("itemsSelectButton", 0), Jump("items")
 
 
@@ -3520,11 +3520,11 @@ screen items:
             frame:
                 pos (x + 20, y + 15)
                 has vbox
-                textbutton "Use":
+                textbutton _("Use"):
                     clicked SetVariable("itemsSelectButton", 0), Jump("useMedkit")
-                textbutton "Inspect":
+                textbutton _("Inspect"):
                     clicked SetVariable("itemsSelectButton", 0), Jump("inspMedkit")
-                textbutton "Back":
+                textbutton _("Back"):
                     action SetVariable("itemsSelectButton", 0), Jump("items")
 
 
@@ -3565,9 +3565,9 @@ screen items:
             frame:
                 pos (x + 20, y + 15)
                 has vbox
-                textbutton "Check intel":
+                textbutton _("Check intel"):
                     clicked SetVariable("itemsSelectButton", 0), Jump("inspIntelBoost")
-                textbutton "Back":
+                textbutton _("Back"):
                     action SetVariable("itemsSelectButton", 0), Jump("items")
 
 
@@ -3586,9 +3586,9 @@ screen items:
             frame:
                 pos (x + 20, y + 15)
                 has vbox
-                textbutton "Unpack":
+                textbutton _("Unpack"):
                     clicked SetVariable("itemsSelectButton", 0), Jump("inspMatsBoost")
-                textbutton "Back":
+                textbutton _("Back"):
                     action SetVariable("itemsSelectButton", 0), Jump("items")
 
 
@@ -3607,9 +3607,9 @@ screen items:
             frame:
                 pos (x + 20, y + 15)
                 has vbox
-                textbutton "Sell":
+                textbutton _("Sell"):
                     clicked SetVariable("itemsSelectButton", 0), Jump("inspCashBoost")
-                textbutton "Back":
+                textbutton _("Back"):
                     action SetVariable("itemsSelectButton", 0), Jump("items")
 
 
@@ -3635,11 +3635,11 @@ screen inspCandyMenu:
         pos (x + 10, y + 10)
         has vbox
         if spyGreenActive:
-            textbutton "Share":
+            textbutton _("Share"):
                 action SetVariable("candyInteract", 1), Hide("inspCandyMenu"), Jump("candyAction")
-            textbutton "Inspect":
+            textbutton _("Inspect"):
                 action SetVariable("candyInteract", 2), Hide("inspCandyMenu"), Jump("candyAction")
-        textbutton "Back":
+        textbutton _("Back"):
             action Hide("inspCandyMenu")
 
 label candyAction:
@@ -3820,24 +3820,24 @@ screen injectUI:
     text "{font=fonts/freshmarker.ttf}[nanoLevelAlex]{/font}" xpos 400 ypos 205
 
     if nanoLevelSam >= 95:
-        text "{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/color}{/font}{/size}" xpos 415 ypos 80
+        text _("{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/color}{/font}{/size}") xpos 415 ypos 80
     if nanoLevelClover >= 95:
-        text "{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/font}{/color}{/size}" xpos 415 ypos 135
+        text _("{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/font}{/color}{/size}") xpos 415 ypos 135
     if nanoLevelAlex >= 95:
-        text "{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/font}{/color}{/size}" xpos 415 ypos 190
+        text _("{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/font}{/color}{/size}") xpos 415 ypos 190
 
     if skillRank >= 2:
-        text "{size=-3}{font=fonts/freshmarker.ttf}Powerspy - Improve takedown chance by 15%.{/font}{/size}" xpos 130 ypos 355
+        text _("{size=-3}{font=fonts/freshmarker.ttf}Powerspy - Improve takedown chance by 15%.{/font}{/size}") xpos 130 ypos 355
     if skillRank >= 3:
-        text "{size=-3}{font=fonts/freshmarker.ttf}Wizkid - Hacking boost increased by 25%.{/font}{/size}" xpos 130 ypos 390
+        text _("{size=-3}{font=fonts/freshmarker.ttf}Wizkid - Hacking boost increased by 25%.{/font}{/size}") xpos 130 ypos 390
     if skillRank >= 4:
-        text "{size=-3}{font=fonts/freshmarker.ttf}Second chance - Increases the block chance of spies.{/font}{/size}" xpos 130 ypos 425
+        text _("{size=-3}{font=fonts/freshmarker.ttf}Second chance - Increases the block chance of spies.{/font}{/size}") xpos 130 ypos 425
     if skillRank >= 5:
-        text "{size=-3}{font=fonts/freshmarker.ttf}Happiness Juices - Morale improves more at night.{/font}{/size}" xpos 130 ypos 460
+        text _("{size=-3}{font=fonts/freshmarker.ttf}Happiness Juices - Morale improves more at night.{/font}{/size}") xpos 130 ypos 460
     if skillRank >= 6:
-        text "{size=-3}{font=fonts/freshmarker.ttf}Flexible - Spies bring in more money while stripping.{/font}{/size}" xpos 130 ypos 495
+        text _("{size=-3}{font=fonts/freshmarker.ttf}Flexible - Spies bring in more money while stripping.{/font}{/size}") xpos 130 ypos 495
     if skillRank >= 7:
-        text "{size=-3}{font=fonts/freshmarker.ttf}Bad Intend - Notoriety doesn't drop below 25.{/font}{/size}" xpos 130 ypos 530
+        text _("{size=-3}{font=fonts/freshmarker.ttf}Bad Intend - Notoriety doesn't drop below 25.{/font}{/size}") xpos 130 ypos 530
 
 label inspInjectorSmall:
     if task4Stage <= 6:
@@ -4025,17 +4025,17 @@ screen smoothieScreen:
                 action SetVariable("smoothieSelect", 6), Jump("inspSmoothie")
     $ tooltip = GetTooltip()
     if tooltip == "kiwi":
-        text "{font=fonts/freshMarker.ttf}{size=+6}Kiwi Smoothie x [kiwiSmoothie]{/size}{/font}" xalign 0.17 yalign 0.3
+        text _("{font=fonts/freshMarker.ttf}{size=+6}Kiwi Smoothie x [kiwiSmoothie]{/size}{/font}") xalign 0.17 yalign 0.3
     if tooltip == "straw":
-        text "{font=fonts/freshMarker.ttf}{size=+6}Strawberry Smoothie x [strawSmoothie]{/size}{/font}" xalign 0.53 yalign 0.3
+        text _("{font=fonts/freshMarker.ttf}{size=+6}Strawberry Smoothie x [strawSmoothie]{/size}{/font}") xalign 0.53 yalign 0.3
     if tooltip == "banana":
-        text "{font=fonts/freshMarker.ttf}{size=+6}Banana Smoothie x [bananSmoothie]{/size}{/font}" xalign 0.84 yalign 0.3
+        text _("{font=fonts/freshMarker.ttf}{size=+6}Banana Smoothie x [bananSmoothie]{/size}{/font}") xalign 0.84 yalign 0.3
     if tooltip == "orange":
-        text "{font=fonts/freshMarker.ttf}{size=+6}Orange Smoothie x [orangeSmoothie]{/size}{/font}" xalign 0.17 yalign 0.8
+        text _("{font=fonts/freshMarker.ttf}{size=+6}Orange Smoothie x [orangeSmoothie]{/size}{/font}") xalign 0.17 yalign 0.8
     if tooltip == "pink":
-        text "{font=fonts/freshMarker.ttf}{size=+6}Dragonfruit Smoothie x [pinkSmoothie]{/size}{/font}" xalign 0.53 yalign 0.8
+        text _("{font=fonts/freshMarker.ttf}{size=+6}Dragonfruit Smoothie x [pinkSmoothie]{/size}{/font}") xalign 0.53 yalign 0.8
     if tooltip == "avoc":
-        text "{font=fonts/freshMarker.ttf}{size=+6}Avocado Smoothie x [avocSmoothie]{/size}{/font}" xalign 0.84 yalign 0.8
+        text _("{font=fonts/freshMarker.ttf}{size=+6}Avocado Smoothie x [avocSmoothie]{/size}{/font}") xalign 0.84 yalign 0.8
 
 label inspSmoothie:
     scene bgSmoothie

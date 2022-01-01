@@ -328,3 +328,10 @@ translate russia strings:
     # game/screens.rpy:940
     old "Русский"
     new "Русский"
+# TODO: Translation updated at 2022-01-01 13:31
+
+translate russia strings:
+
+    # game/screens.rpy:494
+    old "Main menu"
+    new "Главное меню"

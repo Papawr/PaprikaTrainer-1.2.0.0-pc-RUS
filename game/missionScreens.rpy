@@ -2192,7 +2192,7 @@ label bossInteract:
                     pause 0.35
                     pause 0.4
                     $ prisonersNew = True
-                    $ task10Text = "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n-Interrogate Carla Wong at the base."
+                    $ task10Text = _("We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n-Interrogate Carla Wong at the base.")
                     drag "My fire has gone out..."
                     drag "Take me back to prison, I won't resist..."
                     hide obstDragon
@@ -2274,7 +2274,7 @@ label bossInteract:
                     pause 0.35
                     pause 0.4
                     $ prisonersNew = True
-                    $ task10Text = "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n-Interrogate Carla Wong at the base."
+                    $ task10Text = _("We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n-Interrogate Carla Wong at the base.")
                     tali "Oh no! You tore my favorite coat~..."
                     tali "I couldn't possibly go on. Take me to prison. I won't resist..."
                     hide obstTalia
@@ -2364,7 +2364,7 @@ label bossInteract:
                     pause 0.35
                     pause 0.4
                     $ prisonersNew = True
-                    $ task23Text = "Sebastian Sage has been captured and the Drift Punk have lost their leader. With him gone the gang will soon disband."
+                    $ task23Text = _("Sebastian Sage has been captured and the Drift Punk have lost their leader. With him gone the gang will soon disband.")
                     c "Oof~....!"
                     hide bossSeb4
                     hide spyCombat2
@@ -3564,12 +3564,12 @@ label interInteract:
                         $ hackResult = 0
 
 
-                        if task15Music == False and missionSetting == "Database":
+                        if task15Music == False and missionSetting == _("Database"):
                             $ task15Music = True
                             if task15Fireworks == False:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n-Plan a mission to the Abandoned Amusement Park and steal fireworks.\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n-Plan a mission to the Abandoned Amusement Park and steal fireworks.\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             if task15Fireworks == True:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             play sound "audio/sfx/itemGot.mp3"
                             "You find the music you need for the party!"
                             menu:
@@ -3578,12 +3578,12 @@ label interInteract:
                                     jump jumpStartScene
                                 "Pull out" if True:
                                     jump missionComplete
-                        if task15Fireworks == False and missionSetting == "Faire":
+                        if task15Fireworks == False and missionSetting == _("Faire"):
                             $ task15Fireworks = True
                             if task15Music == False:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             if task15Music == True:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             play sound "audio/sfx/itemGot.mp3"
                             "You find the fireworks you need for the party!"
                             menu:
@@ -3593,7 +3593,7 @@ label interInteract:
                                 "Pull out" if True:
                                     jump missionComplete
 
-                        if acesBounty3 == 1 and missionSetting == "School":
+                        if acesBounty3 == 1 and missionSetting == _("School"):
                             $ acesBounty3 = 2
                             play sound "audio/sfx/itemGot.mp3"
                             "You find the upcoming test answers."
@@ -3724,9 +3724,9 @@ label interInteract:
                         if task15Music == False and missionSetting == "Database":
                             $ task15Music = True
                             if task15Fireworks == False:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n-Plan a mission to the Abandoned Amusement Park and steal fireworks.\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n-Plan a mission to the Abandoned Amusement Park and steal fireworks.\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             if task15Fireworks == True:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             play sound "audio/sfx/itemGot.mp3"
                             "You find the music you need for the party!"
                             menu:
@@ -3738,9 +3738,9 @@ label interInteract:
                         if task15Fireworks == False and missionSetting == "Faire":
                             $ task15Fireworks = True
                             if task15Music == False:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             if task15Music == True:
-                                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000."
+                                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n{color=#A3A3A3}-Plan a mission to the Abandoned Amusement Park and steal fireworks.{/color}\n{color=#A3A3A3}-Plan a mission to Punk Web and steal the hottest mixtape.{/color}\n-Visit the school and pick up some thots.\n-Have at least $2.000.")
                             play sound "audio/sfx/itemGot.mp3"
                             "You find the fireworks you need for the party!"
                             menu:
@@ -4012,35 +4012,35 @@ screen bagInteractGadgets:
         pos (x - 253, y + 15)
         has vbox
         if task26Stage == 23 and missionProgression == 10:
-            textbutton "Bondage Gadget":
+            textbutton _("Bondage Gadget"):
                 action Hide("bagInteract"), Hide("bagInteractGadgets"), Jump("task26")
         if task26Stage == 25 and missionProgression == 10:
-            textbutton "Bondage Gadget":
+            textbutton _("Bondage Gadget"):
                 action Hide("bagInteract"), Hide("bagInteractGadgets"), Jump("task26")
         if gadgetEarrings >= 1:
             if missionScreenGadget1Select == 1 or missionScreenGadget2Select == 1 or missionScreenGadget3Select == 1 or missionScreenGadget4Select == 1:
-                textbutton "Hypno Earrings":
+                textbutton _("Hypno Earrings"):
                     action Hide("bagInteract"), Hide("bagInteractGadgets"), SetVariable("gadgetUsed", 1), Jump("gadgetUsed")
         if gadgetPowder >= 1:
             if missionScreenGadget1Select == 2 or missionScreenGadget2Select == 2 or missionScreenGadget3Select == 2 or missionScreenGadget4Select == 2:
-                textbutton "Distraction Powder":
+                textbutton _("Distraction Powder"):
                     action Hide("bagInteract"), Hide("bagInteractGadgets"), SetVariable("gadgetUsed", 2), Jump("gadgetUsed")
         if gadgetFlashbangBelt >= 1:
             if missionScreenGadget1Select == 3 or missionScreenGadget2Select == 3 or missionScreenGadget3Select == 3 or missionScreenGadget4Select == 3:
-                textbutton "Flashbang Belt":
+                textbutton _("Flashbang Belt"):
                     action Hide("bagInteract"), Hide("bagInteractGadgets"), SetVariable("gadgetUsed", 3), Jump("gadgetUsed")
         if gadgetDrone >= 1:
             if missionScreenGadget1Select == 4 or missionScreenGadget2Select == 4 or missionScreenGadget3Select == 4 or missionScreenGadget4Select == 4:
-                textbutton "AC Drone":
+                textbutton _("AC Drone"):
                     action Hide("bagInteract"), Hide("bagInteractGadgets"), SetVariable("gadgetUsed", 4), Jump("gadgetUsed")
         if gadgetStealth >= 1:
             if missionScreenGadget1Select == 5 or missionScreenGadget2Select == 5 or missionScreenGadget3Select == 5 or missionScreenGadget4Select == 5:
-                textbutton "Stealth Bracelet":
+                textbutton _("Stealth Bracelet"):
                     action Hide("bagInteract"), Hide("bagInteractGadgets"), SetVariable("gadgetUsed", 5), Jump("gadgetUsed")
         if gadgetJetpack >= 1:
-            textbutton "Jetpack":
+            textbutton _("Jetpack"):
                 action Hide("bagInteract"), Hide("bagInteractGadgets"), SetVariable("gadgetUsed", 6), Jump("gadgetUsed")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("bagInteractGadgets")
 
 label gadgetUsed:
@@ -5468,21 +5468,21 @@ screen bagInteractBackup:
         xpos 1000 ypos 100
         has vbox
         if backupSamActive and backup1 >= 6:
-            textbutton "Sam":
+            textbutton _("Sam{#tbinmS}"):
                 action Hide("bagInteract"), Hide("bagInteractBackup"), SetVariable("backupUsed", 1), SetVariable("backup1", 0), Jump("backupUsed")
         if backupCloverActive and backup2 >= 6:
-            textbutton "Clover":
+            textbutton _("Clover{#tbinmS}"):
                 action Hide("bagInteract"), Hide("bagInteractBackup"), SetVariable("backupUsed", 2), SetVariable("backup2", 0), Jump("backupUsed")
         if backupAlexActive and backup3 >= 6:
-            textbutton "Alex":
+            textbutton _("Alex{#tbinmS}"):
                 action Hide("bagInteract"), Hide("bagInteractBackup"), SetVariable("backupUsed", 3), SetVariable("backup3", 0), Jump("backupUsed")
         if backupKimActive and backup4 >= 6:
-            textbutton "Kim":
+            textbutton _("Kim{#tbinmS}"):
                 action Hide("bagInteract"), Hide("bagInteractBackup"), SetVariable("backupUsed", 4), SetVariable("backup4", 0), Jump("backupUsed")
         if backupBritneyActive and backup5 >= 6:
-            textbutton "Britney":
+            textbutton _("Britney{#tbinmS}"):
                 action Hide("bagInteract"), Hide("bagInteractBackup"), SetVariable("backupUsed", 5), SetVariable("backup5", 0), Jump("backupUsed")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("bagInteractBackup")
 
 label backupUsed:
@@ -6243,13 +6243,13 @@ screen bagInteractItems:
             pos (x - 213, y + 15)
             has vbox
             if task25Stage >= 4:
-                textbutton "Blue Potion":
+                textbutton _("Blue Potion"):
                     action Hide("bagInteract"), Hide("bagInteractItems"), SetVariable("itemtUsed", 10), Jump("itemUsed")
-                textbutton "Green Potion":
+                textbutton _("Green Potion"):
                     action Hide("bagInteract"), Hide("bagInteractItems"), SetVariable("itemtUsed", 11), Jump("itemUsed")
-                textbutton "Red Potion":
+                textbutton _("Red Potion"):
                     action Hide("bagInteract"), Hide("bagInteractItems"), SetVariable("itemtUsed", 12), Jump("itemUsed")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("bagInteractItems")
     elif bagItemsName == "Items":
         modal True
@@ -6259,9 +6259,9 @@ screen bagInteractItems:
             pos (x - 213, y + 15)
             has vbox
             if medkit >= 1:
-                textbutton "Medkit":
+                textbutton _("Medkit"):
                     action Hide("bagInteract"), Hide("bagInteractItems"), SetVariable("itemtUsed", 1), Jump("itemUsed")
-            textbutton "Cancel":
+            textbutton _("Cancel"):
                 action Hide("bagInteractItems")
 
 label itemUsed:

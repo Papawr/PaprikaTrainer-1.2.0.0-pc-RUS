@@ -172,7 +172,7 @@ label quests:
             jump quests
         "[task15Name]" if 1 <= task15Stage <= 2:
             if task15Fireworks and task15Music and task15Girls and cash >= 2000:
-                $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000.\n\n-Visit Sam to start the party."
+                $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000.\n\n-Visit Sam to start the party.")
             show screen task15Text
             pause
             hide screen task15Text
@@ -330,9 +330,9 @@ screen task2Text:
 label task2:
     if task2Stage == 0:
         $ task2Stage = 1
-        $ task2Name = "Double Trouble"
-        $ task2Text = "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend."
-        $ task7Text = "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???"
+        $ task2Name = _("Double Trouble")
+        $ task2Text = _("Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend.")
+        $ task7Text = _("After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}-Send your spy undercover with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???")
         pause 0.5
         scene bgBase with fade
         show scene_darkening
@@ -728,7 +728,7 @@ label task2:
         call screen interactScreen
     if task2Stage == 9:
         $ task2Stage = 10
-        $ task2Text = "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-Check the Equipment tab in your workbench."
+        $ task2Text = _("Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-Check the Equipment tab in your workbench.")
         $ tod = 2
         stop music fadeout 1.5
         scene black with fade
@@ -998,7 +998,7 @@ label task2:
 
     if task2Stage == 10:
         $ task2Stage = 11
-        $ task2Text = "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.{color=#b5b5b5}\n\n-Check the Equipment tab in your workbench.{/color}\n\n-The Database seems protected. It's going to require someone with computer skills to access it."
+        $ task2Text = _("Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.{color=#b5b5b5}\n\n-Check the Equipment tab in your workbench.{/color}\n\n-The Database seems protected. It's going to require someone with computer skills to access it.")
         y "Let's see what what we can make here..."
         "{b}*Bleep*{/b}"
         "Error: Database Protected."
@@ -1024,7 +1024,7 @@ label task2:
 
     if task2Stage == 11:
         $ task2Stage = 12
-        $ task2Text = "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\nI met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-(optional) Buy a bikini and send your spy to work at Mathias."
+        $ task2Text = _("Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\nI met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-(optional) Buy a bikini and send your spy to work at Mathias.")
         y "Hey Mathias, could you hack into a database for me?"
         mat "I could. Whadda ya need?"
         y "Acces to secured files in the WOOHP network."
@@ -1253,7 +1253,7 @@ label task2:
     if task2Stage == 13:
         $ gadgetVIBActive = True
         $ task2Stage = 14
-        $ task2Text = "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Discuss using the V.I.B. with the girls."
+        $ task2Text = _("Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Discuss using the V.I.B. with the girls.")
         image vibComplete = "gui/gadgets/equipment/vibComplete.png"
         show vibComplete:
             xalign 0.453 ypos 0.020
@@ -1289,7 +1289,7 @@ label task2:
         $ redBottom = 1
         $ task2Name = "Double Trouble (Complete)"
         $ gadgetVIBActive = True
-        $ task2Text = "{size=-5}-The girls have reluctantly agreed to wear their V.I.B. from now on. Their vital signs can be read via the STATUS screen. However with power comes responsibility. How will I treat my spies?{/size}"
+        $ task2Text = _("{size=-5}-The girls have reluctantly agreed to wear their V.I.B. from now on. Their vital signs can be read via the STATUS screen. However with power comes responsibility. How will I treat my spies?{/size}")
         y "{b}*Deep breath*{/b}"
         y "Okay, how am I going to tell them...."
         "Inner Voice" "Be honest and straight forward with them."
@@ -1476,7 +1476,7 @@ label task2:
             y "All right, well done girls."
             y "Head back to your cells for now. We got a busy day tomorrow."
             "The girls nod and take their leave."
-            $ task7Text = "We liberated Clover who has joined us at the base. We also figured out a way to gain intel by going undercover with the gangs around town and money by working at the milkshake bar. We're a little closer in our goal to liberate Beverly Hills.\n\n-Reach rank 2 with the Aces."
+            $ task7Text = _("We liberated Clover who has joined us at the base. We also figured out a way to gain intel by going undercover with the gangs around town and money by working at the milkshake bar. We're a little closer in our goal to liberate Beverly Hills.\n\n-Reach rank 2 with the Aces.")
             hide green
             hide red
             with d3
@@ -1663,7 +1663,7 @@ label task3:
         with d3
         show green g1 at ri with d3
         $ mainQuestUpdate = True
-        $ task7Text = "We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning.\n\n-Plan a mission to the Aces castle and capture Maggie T."
+        $ task7Text = _("We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning.\n\n-Plan a mission to the Aces castle and capture Maggie T.")
         s "Hola."
         y "Hola to you too.{w} How was the Mediterranean?"
         s g28 "It...{w} was...{w} AMAZING!"
@@ -1761,7 +1761,7 @@ label task3:
         pause 1.0
         show scene_darkening with d3
         show red r34 at ce with d3
-        $ task7Text = "We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning. We captured Maggie and locked her up, now all that's left to do is interrogate her.\n\n-Visit Maggie at her cell and interrogate her."
+        $ task7Text = _("We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning. We captured Maggie and locked her up, now all that's left to do is interrogate her.\n\n-Visit Maggie at her cell and interrogate her.")
         c "We're back."
         y "Good, just put her in one of the empty cells. I'll go talk to her when I'm ready."
         c "Understood. Don't wait too long before questioning her."
@@ -1921,7 +1921,7 @@ label task3:
         "Some missions will not become available until you've captured certain gangleaders. Therefor the best order would be to capture the first Lt. of each gang, before moving on to the second."
         pause
         $ mainQuestUpdate = True
-        $ task7Text = "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Free at least 5 WOOHP Agents\n-Assault the Aces during the next Landgrab.\n\nTip: Remember, you can capture more agents by using {color=#ffeda6}Hypno Earrings{/color} during missions."
+        $ task7Text = _("We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Free at least 5 WOOHP Agents\n-Assault the Aces during the next Landgrab.\n\nTip: Remember, you can capture more agents by using {color=#ffeda6}Hypno Earrings{/color} during missions.")
         hide scene_fighting with d3
         pause 0.5
         scene black with fade
@@ -2143,7 +2143,7 @@ label task3:
         hide scene_darkening
         with d3
         play music "audio/music/nighttime.mp3" fadein 3.0
-        $ task7Text = "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Reach rank 2 with Drift Punk and the Outsiders.\n-Capture the first Lieutenant of Drift Punk and the Outsiders."
+        $ task7Text = _("We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Reach rank 2 with Drift Punk and the Outsiders.\n-Capture the first Lieutenant of Drift Punk and the Outsiders.")
         jump base
 
 screen task4Text:
@@ -2158,7 +2158,7 @@ default task4Timer = 0
 label task4:
     if task4Stage == 0 and task3Stage != 3:
         $ mainQuestUpdate = True
-        $ task4Text = "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\n-Top priority: Visit the school."
+        $ task4Text = _("The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\n-Top priority: Visit the school.")
         $ task4Stage = 1
         if firstPick == 1:
             $ task4Name = "Spy in Yellow"
@@ -2260,7 +2260,7 @@ label task4:
             menu:
                 "Go to the meeting" if True:
 
-                    $ task4Text = "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders."
+                    $ task4Text = _("The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders.")
                     $ task4Stage = 2
                     y "Get ready, I'm sending you two out."
                     c r13 "We're like... totally gonna ace this!"
@@ -2272,7 +2272,7 @@ label task4:
                     stop music fadeout 2.0
                     scene black with fade
                     $ missionSetting = "School"
-                    show text "Launching mission.\nLocation: Malibu University."
+                    show text _("Launching mission.\nLocation: Malibu University.")
                     with d5
                     pause 1.5
                     hide text
@@ -2465,8 +2465,8 @@ label task4:
             jump worldmap
     if task4Stage == 2:
         hide screen gadgetMenu
-        $ task4Text = "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\n\nWith her freed up, I should try sending her out to the Outsiders sometime."
-        $ task4Name = "Spy in Yellow"
+        $ task4Text = _("The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\n\nWith her freed up, I should try sending her out to the Outsiders sometime.")
+        $ task4Name = _("Spy in Yellow")
         $ task4Stage = 3
         hide screen equipmentMenu
         show globalImage:
@@ -2769,8 +2769,8 @@ label task4:
         $ task4Stage = 6
         if firstPick == 1:
             pause 1.0
-            $ task4Text = "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders sometime.\n\nAlex is going to need some time to fit in with the Outsiders, but contact has been made. I should send her out again."
-            $ task4Name = "Spy in Yellow"
+            $ task4Text = _("The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders sometime.\n\nAlex is going to need some time to fit in with the Outsiders, but contact has been made. I should send her out again.")
+            $ task4Name = _("Spy in Yellow")
             y "............................"
             y "Where's Alex...?"
             "{b}*Beep* *Beep* *Beep*{/b}"
@@ -3251,8 +3251,8 @@ label task5:
                 y "(The mall is probably a good place to look...)"
                 call qAccept from _call_qAccept_3
                 $ slutLevel = 1
-                $ task5Name = "Dingalingaling"
-                $ task5Text = "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos."
+                $ task5Name = _("Dingalingaling")
+                $ task5Text = _("The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.")
                 scene bgMap with fade:
                     zoom 0.5
                 jump worldmap
@@ -3459,11 +3459,11 @@ label task5:
             zoom 0.5
         with d3
         y "(I should talk it over with my spies when I get the chance.)"
-        $ task5Text = "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-I bought the girls some dildos. Let's see how they react."
+        $ task5Text = _("The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-I bought the girls some dildos. Let's see how they react.")
         jump worldmap
     if task5Stage == 4:
         $ sexAct2 = "Dildo"
-        $ task5Text = "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-The girls reacted better to the dildos than I thought. I can tell them to play with themselves and spy on them via the spy cameras."
+        $ task5Text = _("The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-The girls reacted better to the dildos than I thought. I can tell them to play with themselves and spy on them via the spy cameras.")
         $ samSupLvl = 2
         $ cloverSupLvl = 2
         $ alexSupLvl = 2
@@ -3624,7 +3624,7 @@ label task5:
         "Giving your spies certain items will also boost their happiness."
         pause 0.5
         y "I guess I ought to make it up to them..."
-        $ task5Text = "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some dildos. Let's see how they react.{/color}\n\n-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again."
+        $ task5Text = _("The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some dildos. Let's see how they react.{/color}\n\n-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again.")
         "You decide to head to bed."
         jump nightCycle
     if task5Stage == 7:
@@ -3709,8 +3709,8 @@ label task5:
         $ greenChest = 1
         $ greenUnder = 1
         call qCompleted from _call_qCompleted_3
-        $ task5Text = "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some diildos. Let's see how they react.{/color}\n\n{color=#b5b5b5}-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again.{/color}\n\n-Everything came up Millhouse! I can now stay and watch as the girls masturbate in their cells."
-        $ task5Name = "Dingalingaling (COMPLETE)"
+        $ task5Text = _("The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some diildos. Let's see how they react.{/color}\n\n{color=#b5b5b5}-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again.{/color}\n\n-Everything came up Millhouse! I can now stay and watch as the girls masturbate in their cells.")
+        $ task5Name = _("Dingalingaling (COMPLETE)")
         pause 1.5
         "New restaurant options are available."
         jump base
@@ -3718,7 +3718,7 @@ label task5:
 
 
 default task6Stage = 0
-default task6Name = "A Foot in the Door"
+default task6Name = _("A Foot in the Door")
 default task6Text = ""
 
 screen task6Text:
@@ -3732,7 +3732,7 @@ label task6:
         $ spy1Status = 1
         $ greenDayJob = 1
         $ mapSpy1Selected = False
-        $ task6Text = "You sent Sam out to the Aces."
+        $ task6Text = _("You sent Sam out to the Aces.")
         sM "The Aces got a heist planned for today, but I'm pretty sure we can pull it off with nobody getting hurt."
         y "Okay, stay on your guard."
         sM "{b}*Nods*{/b}"
@@ -3744,7 +3744,7 @@ label task6:
         $ greenDayJob = 0
         $ coverCounter += 4
         $ spy1Status = 0
-        $ task6Text = "You sent Sam out to the Aces. She said it went fine, but she's acting a bit off. I should check up on her in her cell."
+        $ task6Text = _("You sent Sam out to the Aces. She said it went fine, but she's acting a bit off. I should check up on her in her cell.")
         pause 0.5
         show scene_darkening with d3
         pause 0.5
@@ -3766,7 +3766,7 @@ label task6:
         hide scene_darkening with d3
         jump nextReport
     if task6Stage == 2:
-        $ task6Text = "Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces."
+        $ task6Text = _("Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces.")
         hide screen nanoLevelSam
         $ task6Stage = 3
         show scene_darkening with d3
@@ -3856,7 +3856,7 @@ label task6:
         pause 0.4
         "New cell decorations are available for Sam."
         "New shopping options are available for Sam at the mall."
-        $ task6Text = "Sam's reputation with the Aces is increasing. Keep building your reputation to get closer to Melody."
+        $ task6Text = _("Sam's reputation with the Aces is increasing. Keep building your reputation to get closer to Melody.")
         jump nextReport
 
 
@@ -4425,7 +4425,7 @@ label task6:
         "Alex and Clover head of to their cells."
         "Sam has won Melody's trust and we can now travel to the castle to take her in."
         "New clothing options are available for Sam at the mall."
-        $ task6Text = "Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces.\n\nHaving spend some time with the Aces, Sam has grown closer to their second Lieutenant.\n\n-Plan a mission to the Castle and capture Melody."
+        $ task6Text = _("Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces.\n\nHaving spend some time with the Aces, Sam has grown closer to their second Lieutenant.\n\n-Plan a mission to the Castle and capture Melody.")
         $ specialMelodyStatus = 1
         hide scene_darkening with d3
         jump base
@@ -5142,8 +5142,8 @@ label task9:
         y "Then we're going to find out what they're up to."
         y "Sneak into their base and report back on what you find."
         cM "Aw... so much for my day off...."
-        $ task10Name = "Living in a database"
-        $ task10Text = "Something is going on with Drift Punk. They're testing out something new so I sent Clover to investigate."
+        $ task10Name = _("Living in a database")
+        $ task10Text = _("Something is going on with Drift Punk. They're testing out something new so I sent Clover to investigate.")
         call qAccept from _call_qAccept_6
         hide scene_darkening with d3
         jump worldmap
@@ -5234,7 +5234,7 @@ label task9:
         "{color=#ffeda6}Punk Web{/color} has now been unlocked for missions."
         $ spy2Status = 0
         "New shopping options are available for Clover at the mall."
-        $ task10Text = "Drift Punk is working on a digital world where they can lay low and terrorize the world from within a computer.\n\nI should continue sending my spies undercover with Drift Punk and see if we can find out who's in charge."
+        $ task10Text = _("Drift Punk is working on a digital world where they can lay low and terrorize the world from within a computer.\n\nI should continue sending my spies undercover with Drift Punk and see if we can find out who's in charge.")
         hide scene_darkening with d3
         hide scene_darkening
         hide red
@@ -5281,7 +5281,7 @@ label task10:
         $ redShoes = 0
         $ redOutfit = 1
         $ redOutfitArms = 1
-        $ task10Text = "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n-Set up a mission and capture Carla Wong."
+        $ task10Text = _("We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n-Set up a mission and capture Carla Wong.")
         "{b}*Beep* *Beep* *Beep*{/b}"
         scene bgDatabase with fade
         show scene_darkening with d3
@@ -5439,8 +5439,8 @@ label task10:
         $ task10Stage = 4
         $ specialDragonStatus = 3
         $ carlaSocial = 1
-        $ task10Text = "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n{color=#b5b5b5}-Interrogate Carla Wong at the base.{/color}"
-        $ task10Name = "Living in a database (complete)"
+        $ task10Text = _("We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n{color=#b5b5b5}-Interrogate Carla Wong at the base.{/color}")
+        $ task10Name = _("Living in a database (complete)")
         y "Let's see what info WOOHP has on you...{w}Carla Wong, aka The Dragon Lady."
         drag "......................."
         y "Your file also says you're a massive nerd who's into video games."
@@ -5555,8 +5555,8 @@ screen task11Text:
 
 label task11:
     if task11Stage == 0:
-        $ task11Name = "Anarchy Alex"
-        $ task11Text = "I sent Alex out to get more comfortable with going undercover with the Outsiders.\n\n-Wait to see how Alex reacts to going undercover with the Outsiders."
+        $ task11Name = _("Anarchy Alex")
+        $ task11Text = _("I sent Alex out to get more comfortable with going undercover with the Outsiders.\n\n-Wait to see how Alex reacts to going undercover with the Outsiders.")
         $ task11Stage = 1
         scene bgBar with fade
         show scene_darkening with d3
@@ -5588,7 +5588,7 @@ label task11:
         jump worldmap
     if task11Stage == 1:
         $ task11Stage = 2
-        $ task11Text = "Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders."
+        $ task11Text = _("Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders.")
         show scene_darkening with d3
         show yellow at ri with d3
         y "Okay Alex, tell me about your day with the Outsi-..."
@@ -5626,8 +5626,8 @@ label task11:
     if task11Stage == 3:
         $ task11Stage = 4
         $ missionAreaFaireActive = True
-        $ task11Name = "Anarchy Alex"
-        $ task11Text = "Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders and capture Muffy Peprich.\n\nYou can now plan missions to the Carnival."
+        $ task11Name = _("Anarchy Alex")
+        $ task11Text = _("Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders and capture Muffy Peprich.\n\nYou can now plan missions to the Carnival.")
         show scene_darkening with d3
         show yellow y4 at ri with d3
         a "{size=-8}I'm back...{/size}"
@@ -5731,8 +5731,8 @@ label task12:
         y "...................."
         menu:
             "Accept mission" if True:
-                $ task12Name = "A few snips away of a haircut"
-                $ task12Text = "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\nSend a spy undercover with Drift Punk."
+                $ task12Name = _("A few snips away of a haircut")
+                $ task12Text = _("I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\nSend a spy undercover with Drift Punk.")
                 $ task12Stage = 1
                 y "Okay, I'll do it, but you have to tell me why you speak like that."
                 "Barber" "What do you meeeeeeeean?"
@@ -5758,7 +5758,7 @@ label task12:
     if task12Stage == 1:
         pause 1.0
         $ task12Stage = 2
-        $ task12Text = "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n-The girl may be held in Punk Web. Set up a mission and get her out."
+        $ task12Text = _("I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n-The girl may be held in Punk Web. Set up a mission and get her out.")
         show scene_darkening with d3
         show green at le
         show red r32 at ce
@@ -5795,7 +5795,7 @@ label task12:
         y "Yeah that sounds like the niece we're looking for."
         call screen interactScreenBonus
     if task12Stage == 3:
-        $ task12Text = "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n{color=#A3A3A3}-The girl may be held in Punk Web. Set up a mission and get her out.{/color}"
+        $ task12Text = _("I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n{color=#A3A3A3}-The girl may be held in Punk Web. Set up a mission and get her out.{/color}")
         $ task12Stage = 4
         play sound "audio/sfx/lock.mp3"
         pause 1.0
@@ -5806,8 +5806,8 @@ label task12:
         scene black with longFade
         jump missionComplete
     if task12Stage == 4:
-        $ task12Name = "A few snips away (complete)"
-        $ task12Text = "We managed to release the barber's daughter from Punk Web and can now get free haircuts at the mall whenever we like."
+        $ task12Name = _("A few snips away (complete)")
+        $ task12Text = _("We managed to release the barber's daughter from Punk Web and can now get free haircuts at the mall whenever we like.")
         $ task12Stage = 5
         scene black with fade
         scene bgMall with fade
@@ -5840,7 +5840,7 @@ label task13:
         show scene_darkening with d3
         call undressClover from _call_undressClover_4
         $ redChest = 11
-        $ task13Text = "We've begun talking about having sex together, but Sam is still vividly denying it. I should go talk to her in her cell."
+        $ task13Text = _("We've begun talking about having sex together, but Sam is still vividly denying it. I should go talk to her in her cell.")
         show red r1 at ce with d5
         c "Oh hey [playerName]. Sorry, just got out of the shower, don't mind me."
         hide red with d5
@@ -5966,7 +5966,7 @@ label task13:
         $ task13Stage = 2
         show scene_darkening with d3
         show green g10 at ri with d3
-        $ task13Text = "Sam has begun to open up about sex, but she wants everyone to be prepared.\n\n-Plan a mission to the school and retrieve Sam's notes from her locker\n-Visit the mall and buy an adult video game for Clover from the bookstore."
+        $ task13Text = _("Sam has begun to open up about sex, but she wants everyone to be prepared.\n\n-Plan a mission to the school and retrieve Sam's notes from her locker\n-Visit the mall and buy an adult video game for Clover from the bookstore.")
         s g37 "Before you ask. No, I'm not going to sleep with you."
         menu:
             "Appeal to reason" if True:
@@ -6208,8 +6208,8 @@ screen task15Text:
 
 label task15:
     if task15Stage == 0:
-        $ task15Name = "Party till you drop"
-        $ task15Text = "We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000."
+        $ task15Name = _("Party till you drop")
+        $ task15Text = _("We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000.")
         $ task15Stage = 1
         scene bgBar with fade
         pause 0.6
@@ -6459,8 +6459,8 @@ label task15:
         jump nightCycle
     if task15Stage == 2:
         $ task15Stage = 3
-        $ task15Name = "Party till you drop (Completed)"
-        $ task15Text = "With the party of the century done, we're one step closer to winning the trust of the Aces leader. All we have to do now is increase our reputation a bit more and hopefully take them down."
+        $ task15Name = _("Party till you drop (Completed)")
+        $ task15Text = _("With the party of the century done, we're one step closer to winning the trust of the Aces leader. All we have to do now is increase our reputation a bit more and hopefully take them down.")
         pause 1.0
         scene bgBar with fade
         show scene_darkening
@@ -6842,8 +6842,8 @@ label task17:
         $ spy2Status = 1
         $ mapSpy2Selected = False
         $ redDayJob = 2
-        $ task17Name = "Animo..."
-        $ task17Text = "Clover is struggling with going undercover with Drift Punk. I should send her out a few more times to see if things improve."
+        $ task17Name = _("Animo...")
+        $ task17Text = _("Clover is struggling with going undercover with Drift Punk. I should send her out a few more times to see if things improve.")
         $ task17Stage = 1
         scene bgBar with fade
         pause 0.4
@@ -6942,7 +6942,7 @@ label task17:
         jump nextReport
     if task17Stage == 4:
         $ task17Stage = 5
-        $ task17Text = "The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it."
+        $ task17Text = _("The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it.")
         pause 0.4
         show scene_darkening with d3
         show red r1 at ri with d3
@@ -6968,7 +6968,7 @@ label task17:
         jump nextReport
     if task17Stage == 5:
         $ task17Stage = 6
-        $ task17Text = "The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it.\n\n-Send Clover undercover to Drift Punk and follow her."
+        $ task17Text = _("The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it.\n\n-Send Clover undercover to Drift Punk and follow her.")
         pause 0.4
         show scene_darkening with d3
         show red r19 at ri with d3
@@ -6992,8 +6992,8 @@ label task17:
         jump nextReport
     if task17Stage == 6:
         $ task17Stage = 7
-        $ task17Text = "Turns out, Clover is a closet nerd who loves dressing up as her favorite anime and video game characters."
-        $ task17Name = "Animo... (Complete)"
+        $ task17Text = _("Turns out, Clover is a closet nerd who loves dressing up as her favorite anime and video game characters.")
+        $ task17Name = _("Animo... (Complete)")
         cM "Okay, I'll be heading off to the Punks again today!"
         "Clover heads off to the Dift Punks."
         pause 1.0
@@ -7153,8 +7153,8 @@ screen task18Text:
 label task18:
     if task18Stage == 0:
         $ task18Stage = 1
-        $ task18Name = "Nourishing Beats"
-        $ task18Text = "Send Clover to Drift Punk to get closer to Talia Hardwire."
+        $ task18Name = _("Nourishing Beats")
+        $ task18Text = _("Send Clover to Drift Punk to get closer to Talia Hardwire.")
         show bgBase with fade
         show scene_darkening with d3
         show red at ri with d3
@@ -7181,7 +7181,7 @@ label task18:
         jump worldmap
     if task18Stage == 1:
         $ task18Stage = 2
-        $ task18Text = "Talia has been willing to cooperate, but is afraid that Drift Punk will come after her. We just have to get her out and make it seem believable.\n\n-Plan a mission to Punk Web and capture Talia Hardwire."
+        $ task18Text = _("Talia has been willing to cooperate, but is afraid that Drift Punk will come after her. We just have to get her out and make it seem believable.\n\n-Plan a mission to Punk Web and capture Talia Hardwire.")
         $ coverCounter += 2
         $ cash += randMoney
         $ intel += randIntel
@@ -7224,8 +7224,8 @@ label task18:
     if task18Stage == 2:
         $ task18Stage = 3
         $ specialTaliaStatus = 3
-        $ task18Name = "Nourishing Beats (Complete)"
-        $ task18Text = "Talia caused some trouble for us, but we managed to capture her."
+        $ task18Name = _("Nourishing Beats (Complete)")
+        $ task18Text = _("Talia caused some trouble for us, but we managed to capture her.")
         $ punkRep = 0
         $ punkRank = 3
         call undressSam from _call_undressSam_10
@@ -7706,8 +7706,8 @@ screen task21Text:
 
 label task21:
     if task21Stage == 0:
-        $ task21Name = "Pink is thew New Black"
-        $ task21Text = "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces."
+        $ task21Name = _("Pink is thew New Black")
+        $ task21Text = _("We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.")
         $ task21Stage = 1
         $ yellowDayJob = 3
         $ spy3Status = 1
@@ -7795,8 +7795,8 @@ label task21:
         with fade
         jump worldmap
     if task21Stage == 3:
-        $ task21Name = "Pink is thew New Black"
-        $ task21Text = "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\n-Stalk and kidnap the handsome model on his daily walk on the beach."
+        $ task21Name = _("Pink is thew New Black")
+        $ task21Text = _("We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\n-Stalk and kidnap the handsome model on his daily walk on the beach.")
         $ task21Stage = 4
         $ outsideRep += 1
         $ yellowDayJob = 0
@@ -7825,9 +7825,9 @@ label task21:
         with d3
         jump nextReport
     if task21Stage == 4:
-        $ task21Name = "Pink is thew New Black"
+        $ task21Name = _("Pink is thew New Black")
         $ task21Stage = 5
-        $ task21Text = "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}"
+        $ task21Text = _("We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}")
         scene bgStreet4 with fade
         model "................"
         y "Target has been spotted..."
@@ -7912,8 +7912,8 @@ label task21:
         with fade
         jump worldmap
     if task21Stage == 5:
-        $ task21Name = "Pink is thew New Black"
-        $ task21Text = "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\nFelicity seemed to have liked our gift.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}\n\n-Setup a mission to the Carnival and capture Felicity Fences."
+        $ task21Name = _("Pink is thew New Black")
+        $ task21Text = _("We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\nFelicity seemed to have liked our gift.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}\n\n-Setup a mission to the Carnival and capture Felicity Fences.")
         $ task21Stage = 6
         $ yellowDayJob = 0
         $ spy3Status = 0
@@ -7932,7 +7932,7 @@ label task21:
         with d3
         jump nextReport
     if task21Stage == 6:
-        $ task21Text = "We managed to capture and interrogate Felicity. Striking one more lieutenant off the records."
+        $ task21Text = _("We managed to capture and interrogate Felicity. Striking one more lieutenant off the records.")
         $ task21Stage = 7
         $ specialFelicityStatus = 3
         show scene_darkening with d3
@@ -8464,7 +8464,7 @@ label task23:
             zoom 0.5
         show expression "gui/mapGangs/gangRepGraphic.png":
             xpos 720 ypos 430
-        show text "{font=fonts/freshmarker.ttf}{size=+20}Drift Punk{/size}{/font}":
+        show text _("{font=fonts/freshmarker.ttf}{size=+20}Drift Punk{/size}{/font}"):
             xpos 885 ypos 522
         show expression "gui/mapGangs/punkLt1Cap.png":
             xpos 825 ypos 600
@@ -9011,7 +9011,7 @@ label task25:
             zoom 0.5
         show expression "gui/mapGangs/gangRepGraphic.png":
             xpos 920 ypos 130
-        show text "{font=fonts/freshmarker.ttf}{size=+20}Outsiders{/size}{/font}":
+        show text _("{font=fonts/freshmarker.ttf}{size=+20}Outsiders{/size}{/font}"):
             xpos 1100 ypos 222
         show expression "gui/mapGangs/outsidersLt1Cap.png":
             xpos 1025 ypos 300
@@ -9283,7 +9283,7 @@ label task26:
         $ spy1Status = 10
         $ spy2Status = 10
         $ spy3Status = 10
-        $ task7Text = "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. She has infected with the girls with a powerful new set of nanobots that require some extra dedication to break."
+        $ task7Text = _("The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. She has infected with the girls with a powerful new set of nanobots that require some extra dedication to break.")
         $ task26Stage = 4
         jump base
     if task26Stage == 4:
@@ -9357,8 +9357,8 @@ label task26:
         "You quickly move on to the other girls and after a long night of buttfuckin' everyone is back to their senses."
         y "Phew~... still got it in me."
         "Tired, but thoroughly satisfied, you head to bed."
-        $ sexAct5 = "Anal"
-        $ task7Text = "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. Continue liberating WOOHP and capture her!"
+        $ sexAct5 = _("Anal")
+        $ task7Text = _("The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. Continue liberating WOOHP and capture her!")
         jump nightCycle
     if task26Stage == 6:
         $ task26Stage = 7
@@ -9448,7 +9448,7 @@ label task26:
         scene bgBase with longFade
         jump base
     if task26Stage == 7:
-        $ task7Text = "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. Continue liberating WOOHP and capture her!"
+        $ task7Text = _("The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. Continue liberating WOOHP and capture her!")
         $ task26Stage = 8
         if HQLiberated >= 3:
             $ HQLiberated = 2
@@ -9535,7 +9535,7 @@ label task26:
         $ redOutfitArms = 1
         $ yellowOutfit = 1
         $ yellowOutfitArms = 1
-        $ task7Text = "Britney is proving to be a challenge to bring in. We'll have to deal with this problem head on.\n\n-Plan a mission to WOOHP HQ to bring back Britney."
+        $ task7Text = _("Britney is proving to be a challenge to bring in. We'll have to deal with this problem head on.\n\n-Plan a mission to WOOHP HQ to bring back Britney.")
         scene bgPropaganda with fade
         show scene_darkening with d3
         play sound "audio/sfx/punch1.mp3"
@@ -9637,7 +9637,7 @@ label task26:
         $ redOutfitArms = 1
         $ yellowOutfit = 1
         $ yellowOutfitArms = 1
-        $ task7Text = "Britney has been captured! I should visit her in her cell to break her nanobot control."
+        $ task7Text = _("Britney has been captured! I should visit her in her cell to break her nanobot control.")
         pause 1.0
         show scene_darkening with d3
         show yellow y57 at le
@@ -9663,7 +9663,7 @@ label task26:
         pause 0.4
         show scene_darkening with d3
         show britney b12 at ri with d3
-        $ task7Text = "Britney's control has been broken, she can now help us liberate the rest of WOOHP HQ and is available as a new Backup option during missions."
+        $ task7Text = _("Britney's control has been broken, she can now help us liberate the rest of WOOHP HQ and is available as a new Backup option during missions.")
         brit "So this is where you've been hiding? This is a pretty shitty base."
         y "Hey, don't talk bad about my base!"
         brit b18 "And what's with these cells? Don't tell me you guys actually sleep in one aswell."
@@ -9874,7 +9874,7 @@ label task26:
         show scene_darkening with d3
         show britney b49 at ri with d3
         pause 0.4
-        $ task7Text = "Britney has told us about the Mastermind. Someone or something called GLADIS. Not far to go now. We should continue taking back floors of the WOOHP HQ."
+        $ task7Text = _("Britney has told us about the Mastermind. Someone or something called GLADIS. Not far to go now. We should continue taking back floors of the WOOHP HQ.")
         brit b49 "Well.... this is more revealing than I'm used to..."
         show yellow y55 at le with d3
         a "You'll get used to it!"
@@ -9964,7 +9964,7 @@ label task26:
         $ greenBlush = 0
         jump jobReport
     if task26Stage == 13:
-        $ task7Text = "Capture Tim Scam!"
+        $ task7Text = _("Capture Tim Scam!")
         stop music fadeout 1.0
         pause 0.5
         $ task26Stage = 14
@@ -10062,7 +10062,7 @@ label task26:
         $ randomBossHP = 3
         jump missionScreenFinish
     if task26Stage == 15:
-        $ task7Text = "Tim Scam has been captured, now all that's left is to bring down GLADIS."
+        $ task7Text = _("Tim Scam has been captured, now all that's left is to bring down GLADIS.")
         $ task26Stage = 16
         stop music fadeout 1.0
         scene bgIntel with fade
@@ -10127,7 +10127,7 @@ label task26:
         show timModel at ri
         show green g54 at le
         with d3
-        $ task7Text = "With Tim Scam in custody it's time to move on to the final level of the WOOHP HQ and take down the mastermind!"
+        $ task7Text = _("With Tim Scam in custody it's time to move on to the final level of the WOOHP HQ and take down the mastermind!")
         tim "........................"
         s "......................."
         y "......................."
@@ -10201,7 +10201,7 @@ label task26:
         jump base
     if task26Stage == 17:
         play music "audio/music/ambient1.mp3" fadein 1.0
-        $ task7Text = "Send the last of your loyal followers out to look for Mathias."
+        $ task7Text = _("Send the last of your loyal followers out to look for Mathias.")
         $ task26Stage = 18
         call undressSam from _call_undressSam_23
         call undressClover from _call_undressClover_16
@@ -10408,7 +10408,7 @@ label task26:
                         pause 1.0
                         "And so you decided to leave Beverly Hills to its fate."
                         "Soon after you evacuated, the US Military moved in and GLADIS launched her missle arsenal. Leaving the city and WOOHP in ruins."
-                        show text "Game Over" with dissolve
+                        show text _("Game Over") with dissolve
                         pause
                         $ MainMenu(confirm=False)()
                     "What am I saying?! Of course not!" if True:
@@ -10498,7 +10498,7 @@ label task26:
         with d3
         stop music fadeout 3.0
         scene black with fade
-        show text "Despite the chaos, you manage to get some rest."
+        show text _("Despite the chaos, you manage to get some rest.")
         with d5
         pause 1.5
         hide text
@@ -10788,7 +10788,7 @@ label task26:
         call screen mapButtonsRaidFinale
 
     if task26Stage == 20:
-        $ task7Text = "Soft your followers out to soften up the airport's defenses and bring Sam back home."
+        $ task7Text = _("Soft your followers out to soften up the airport's defenses and bring Sam back home.")
         $ task26Stage = 21
         scene bgClub1 with fade
         pause 0.5
@@ -10936,7 +10936,7 @@ label task26:
         jump base
     if task26Stage == 22:
         call undressSam from _call_undressSam_27
-        $ task7Text = "Rescue Clover by planning a mission to Drift Punk and using the Bondage gadget on her."
+        $ task7Text = _("Rescue Clover by planning a mission to Drift Punk and using the Bondage gadget on her.")
         $ task26Stage = 23
         $ greenArms = 1
         $ greenOutfit = 4
@@ -11048,7 +11048,7 @@ label task26:
         hide scene_darkening with d3
         stop music fadeout 3.0
         scene black with fade
-        show text "Despite the chaos, you manage to get some rest."
+        show text _("Despite the chaos, you manage to get some rest.")
         with d5
         pause 1.5
         hide text
@@ -11124,7 +11124,7 @@ label task26:
         s g53 "Gotcha!{w} [playerName] we got her."
         jump missionComplete
     if task26Stage == 24:
-        $ task7Text = "With Sam and Clover back on our side, it's time to free Alex. Plan a mission to WOOHP HQ to use the bondage gadget on her."
+        $ task7Text = _("With Sam and Clover back on our side, it's time to free Alex. Plan a mission to WOOHP HQ to use the bondage gadget on her.")
         $ task26Stage = 25
         pause 0.5
         show scene_darkening with d3
@@ -11229,7 +11229,7 @@ label task26:
         hide scene_darkening with d3
         stop music fadeout 3.0
         scene black with fade
-        show text "Despite the chaos, you manage to get some rest."
+        show text _("Despite the chaos, you manage to get some rest.")
         with d5
         pause 1.5
         hide text
@@ -11374,7 +11374,7 @@ label task26:
         with d3
         jump base
     if task26Stage == 27:
-        $ task7Text = "Discuss your plan with the spies."
+        $ task7Text = _("Discuss your plan with the spies.")
         $ task26Stage = 28
         scene bgBar with fade
         call greenOutfitSet from _call_greenOutfitSet_11
@@ -11524,7 +11524,7 @@ label task26:
         scene bgBase with fade
         jump base
     if task26Stage == 28:
-        $ task7Text = "Lead the final assault on WOOHP HQ."
+        $ task7Text = _("Lead the final assault on WOOHP HQ.")
         $ task26Stage = 29
         call greenOutfitSet from _call_greenOutfitSet_12
         call redOutfitSet from _call_redOutfitSet_10
@@ -12670,8 +12670,8 @@ label task32:
         hide scene_fighting with d2
         menu:
             "Build a stripclub" if True:
-                $ task32Name = "Build-A-Bar"
-                $ task32Text = "Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.\n\n-Have atleast $2000.\n-Have atleast 4 staff members.\n-Find someone who can help you get the word out."
+                $ task32Name = _("Build-A-Bar")
+                $ task32Text = _("Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.\n\n-Have atleast $2000.\n-Have atleast 4 staff members.\n-Find someone who can help you get the word out.")
                 $ task32Stripclub = 1
                 y "Not only would it be a good way to bring in some extra money. It should also help keeping your nanobots suppressed."
                 s g31 "But I'm n-...!"
@@ -12742,7 +12742,7 @@ label task32:
                     if tod == 2:
                         jump base
                 $ task32Stage = 2
-                $ task32Text = "{color=#A3A3A3}Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.{/color}\n\nThe stripclub has opened and I can now send my girls to go stripping there in the evening."
+                $ task32Text = _("{color=#A3A3A3}Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.{/color}\n\nThe stripclub has opened and I can now send my girls to go stripping there in the evening.")
                 $ cash -= 2000
                 kim "Moneh moneh moneh!"
                 kim "Okay, let's get things moving~..."
@@ -12881,7 +12881,7 @@ label nightCutscenes:
         scene black with fade
         play music "audio/music/ambient1.mp3" fadein 1.5
         pause 1.0
-        show text "Meanwhile at WOOHP Headquarters...."
+        show text _("Meanwhile at WOOHP Headquarters....")
         with d5
         pause 1.5
         hide text
@@ -12908,14 +12908,14 @@ label nightCutscenes:
         hide scene_darkening
         with d5
     if specialMaggieStatus >= 3 and specialMuffyStatus >= 3 and specialDragonStatus >= 3 and nighttime2Event:
-        $ task7Text = "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Capture the second Lieutenant of the Aces,  Drift Punk and the Outsiders."
+        $ task7Text = _("We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Capture the second Lieutenant of the Aces,  Drift Punk and the Outsiders.")
         $ mainQuestUpdate = True
         $ nighttime2Event = False
         stop music fadeout 1.0
         scene black with fade
         play music "audio/music/ambient1.mp3" fadein 1.5
         pause 1.0
-        show text "Meanwhile........"
+        show text _("Meanwhile........")
         with d5
         pause 1.5
         hide text
@@ -12954,13 +12954,13 @@ label nightCutscenes:
         "Mastermind" "Don't worry though... all is still going according to plan..."
         jump nightCycle
     if specialMelodyStatus >= 3 and specialTaliaStatus >= 3 and specialFelicityStatus >= 3 and nighttime3Event:
-        $ task7Text = "All the lieutenants have been captured. Only the gang leaders remain. Continue participating in landgrabs until all of Beverly Hills is free!\n\n-Capture the gangleader of each of the three gangs."
+        $ task7Text = _("All the lieutenants have been captured. Only the gang leaders remain. Continue participating in landgrabs until all of Beverly Hills is free!\n\n-Capture the gangleader of each of the three gangs.")
         $ nighttime3Event = False
         stop music fadeout 1.0
         scene black with fade
         play music "audio/music/ambient1.mp3" fadein 1.5
         pause 1.0
-        show text "Meanwhile........"
+        show text _("Meanwhile........")
         with d5
         pause 1.5
         hide text
@@ -12995,13 +12995,13 @@ label nightCutscenes:
         with d3
         jump nightCycle
     if specialCandyStatus >= 3 and specialSebStatus >= 3 and specialKandStatus >= 3 and nighttime4Event:
-        $ task7Text = "All major gang leaders have been captured and it's time to take the fight to WOOHP. Visit the airport to travel to WOOHP HQ and take back the taken.\n\n-Gather enough intel and freed agents to fight your way to the top of WOOHP HQ."
+        $ task7Text = _("All major gang leaders have been captured and it's time to take the fight to WOOHP. Visit the airport to travel to WOOHP HQ and take back the taken.\n\n-Gather enough intel and freed agents to fight your way to the top of WOOHP HQ.")
         $ nighttime4Event = False
         stop music fadeout 1.0
         scene black with fade
         play music "audio/music/ambient1.mp3" fadein 1.5
         pause 1.0
-        show text "Meanwhile........"
+        show text _("Meanwhile........")
         with d5
         pause 1.5
         hide text

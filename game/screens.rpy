@@ -491,7 +491,7 @@ screen navigation():
 
         elif not main_menu:
 
-            textbutton "Main menu":
+            textbutton _("Main menu"):
                 text_style "mainMenu"
                 action MainMenu()
 

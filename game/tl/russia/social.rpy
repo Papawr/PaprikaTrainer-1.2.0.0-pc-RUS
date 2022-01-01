@@ -9896,3 +9896,11 @@ translate russia strings:
     # game/social.rpy:61
     old "New Guy [#ngpn]"
     new "Новичок"
+# TODO: Translation updated at 2022-01-01 19:06
+
+translate russia strings:
+
+    # game/social.rpy:17
+    old "{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}"
+    new ""
+

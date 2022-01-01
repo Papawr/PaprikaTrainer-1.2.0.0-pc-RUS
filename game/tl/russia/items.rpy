@@ -773,3 +773,106 @@ translate russia strings:
     # game/items.rpy:4043
     old "Give to Alex"
     new "Отдать Алекс"
+# TODO: Translation updated at 2022-01-01 13:06
+
+translate russia strings:
+
+    # game/items.rpy:2832
+    old "Version 1"
+    new "Вариант 1"
+
+    # game/items.rpy:2834
+    old "Version 2"
+    new "Вариант 2"
+
+    # game/items.rpy:2874
+    old "Version 3"
+    new "Вариант 3"
+
+    # game/items.rpy:2962
+    old "Version 4"
+    new "Вариант 4"
+
+    # game/items.rpy:3451
+    old "View"
+    new "Вид"
+
+    # game/items.rpy:3453
+    old "Inspect"
+    new "Осмотреть"
+
+    # game/items.rpy:3497
+    old "Use"
+    new "Использовать"
+
+    # game/items.rpy:3568
+    old "Check intel"
+    new "Проверить сведенья"
+
+    # game/items.rpy:3589
+    old "Unpack"
+    new "Распаковать"
+
+    # game/items.rpy:3610
+    old "Sell"
+    new "Продать"
+
+    # game/items.rpy:3638
+    old "Share"
+    new "Поделиться"
+
+    # game/items.rpy:3823
+    old "{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/color}{/font}{/size}"
+    new "{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}внимание{/color}{/font}{/size}"
+
+    # game/items.rpy:3825
+    old "{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}warning{/font}{/color}{/size}"
+    new "{size=-10}{font=fonts/freshmarker.ttf}{color=#ff0500}внимание{/font}{/color}{/size}"
+
+    # game/items.rpy:3830
+    old "{size=-3}{font=fonts/freshmarker.ttf}Powerspy - Improve takedown chance by 15%.{/font}{/size}"
+    new "{size=-3}{font=fonts/freshmarker.ttf}Powerspy - повышает шанс захвата на 15%.{/font}{/size}"
+
+    # game/items.rpy:3832
+    old "{size=-3}{font=fonts/freshmarker.ttf}Wizkid - Hacking boost increased by 25%.{/font}{/size}"
+    new "{size=-3}{font=fonts/freshmarker.ttf}Wizkid - навык взлома увеличен на 25%.{/font}{/size}"
+
+    # game/items.rpy:3834
+    old "{size=-3}{font=fonts/freshmarker.ttf}Second chance - Increases the block chance of spies.{/font}{/size}"
+    new "{size=-3}{font=fonts/freshmarker.ttf}Второй шанс - увеличивает шанс блокировки шпионов.{/font}{/size}"
+
+    # game/items.rpy:3836
+    old "{size=-3}{font=fonts/freshmarker.ttf}Happiness Juices - Morale improves more at night.{/font}{/size}"
+    new "{size=-3}{font=fonts/freshmarker.ttf}Соки счастья - ночью моральное состояние восстанавливается лучше.{/font}{/size}"
+
+    # game/items.rpy:3838
+    old "{size=-3}{font=fonts/freshmarker.ttf}Flexible - Spies bring in more money while stripping.{/font}{/size}"
+    new "{size=-3}{font=fonts/freshmarker.ttf}Гибкость - Шпионки приносят больше денег во время стриптиза.{/font}{/size}"
+
+    # game/items.rpy:3840
+    old "{size=-3}{font=fonts/freshmarker.ttf}Bad Intend - Notoriety doesn't drop below 25.{/font}{/size}"
+    new "{size=-3}{font=fonts/freshmarker.ttf}Злой умысел - Известность не опускается ниже 25.{/font}{/size}"
+
+    # game/items.rpy:4028
+    old "{font=fonts/freshMarker.ttf}{size=+6}Kiwi Smoothie x [kiwiSmoothie]{/size}{/font}"
+    new "{font=fonts/freshMarker.ttf}{size=+6}Смузи из киви x [kiwiSmoothie]{/size}{/font}"
+
+    # game/items.rpy:4030
+    old "{font=fonts/freshMarker.ttf}{size=+6}Strawberry Smoothie x [strawSmoothie]{/size}{/font}"
+    new "{font=fonts/freshMarker.ttf}{size=+6}Клубничный смузи x [strawSmoothie]{/size}{/font}"
+
+    # game/items.rpy:4032
+    old "{font=fonts/freshMarker.ttf}{size=+6}Banana Smoothie x [bananSmoothie]{/size}{/font}"
+    new "{font=fonts/freshMarker.ttf}{size=+6}Банановый смузи x [bananSmoothie]{/size}{/font}"
+
+    # game/items.rpy:4034
+    old "{font=fonts/freshMarker.ttf}{size=+6}Orange Smoothie x [orangeSmoothie]{/size}{/font}"
+    new "{font=fonts/freshMarker.ttf}{size=+6}Апельсиновый смузи x [orangeSmoothie]{/size}{/font}"
+
+    # game/items.rpy:4036
+    old "{font=fonts/freshMarker.ttf}{size=+6}Dragonfruit Smoothie x [pinkSmoothie]{/size}{/font}"
+    new "{font=fonts/freshMarker.ttf}{size=+6}Смузи из питайя x [pinkSmoothie]{/size}{/font}"
+
+    # game/items.rpy:4038
+    old "{font=fonts/freshMarker.ttf}{size=+6}Avocado Smoothie x [avocSmoothie]{/size}{/font}"
+    new "{font=fonts/freshMarker.ttf}{size=+6}Смузи из авокадо x [avocSmoothie]{/size}{/font}"

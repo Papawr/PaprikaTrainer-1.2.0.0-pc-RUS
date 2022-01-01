@@ -3,7 +3,7 @@ label nightCycle:
     if task26Stage == 27:
         stop music fadeout 3.0
         scene black with fade
-        show text "Despite the chaos, you manage to get some rest."
+        show text _("Despite the chaos, you manage to get some rest.")
         $ tod = 1
         with d5
         pause 1.5

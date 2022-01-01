@@ -334,7 +334,7 @@ transform jobReward:
 
 label missionRewardInt:
     play sound "audio/sfx/jobReward.mp3"
-    show text "Gained [randIntel] INT" at jobReward:
+    show text _("Gained [randIntel] INT") at jobReward:
         xalign 0.99
     with d2
     hide text
@@ -343,7 +343,7 @@ return
 
 label missionRewardMoney:
     play sound "audio/sfx/jobReward.mp3"
-    show text "Gained $[randMoney]" at jobReward:
+    show text _("Gained $[randMoney]") at jobReward:
         xalign 0.99
     with d2
     hide text
@@ -352,7 +352,7 @@ return
 
 label missionRewardLore:
     play sound "audio/sfx/jobReward.mp3"
-    show text "Lore gathered" at jobReward:
+    show text _("Lore gathered") at jobReward:
         xalign 0.99
     with d2
     hide text
@@ -361,7 +361,7 @@ return
 
 label missionRewardRep:
     play sound "audio/sfx/jobReward.mp3"
-    show text "Rep gained" at jobReward:
+    show text _("Rep gained") at jobReward:
         xalign 0.99
     with d2
     hide text
@@ -370,7 +370,7 @@ return
 
 label missionRewardItem:
     play sound "audio/sfx/jobReward.mp3"
-    show text "Item(s) gained" at jobReward:
+    show text _("Item(s) gained") at jobReward:
         xalign 0.99
     with d2
     hide text
@@ -379,7 +379,7 @@ return
 
 label missionRewardCrew:
     play sound "audio/sfx/jobReward.mp3"
-    show text "Crew gained" at jobReward:
+    show text _("Crew gained") at jobReward:
         xalign 0.99
     with d2
     hide text
@@ -390,7 +390,7 @@ label newPhoto:
     play sound "audio/sfx/camera.mp3"
     pause 0.5
     play sound "audio/sfx/jobReward.mp3"
-    show text "Quest photo added" at jobReward:
+    show text _("Quest photo added") at jobReward:
         xalign 0.99
     with d2
     pause 1.0
@@ -611,7 +611,7 @@ screen spyScreens:
                 action Jump("spyCameraGreen")
         hbox:
             spacing 10 xpos 600 ypos 95
-            text "Spy: [greenName] \nLocation: [greenLocation] \nExpertise: Support"
+            text _("Spy: [greenName] \nLocation: [greenLocation] \nExpertise: Support")
 
     if spyRedActive == True:
         vbox xpos 110 ypos 140:
@@ -621,7 +621,7 @@ screen spyScreens:
                 action Jump("spyCameraRed")
         hbox:
             spacing 10 xpos 120 ypos 150
-            text "Spy: [redName] \nLocation: [redLocation] \nExpertise: Distraction"
+            text _("Spy: [redName] \nLocation: [redLocation] \nExpertise: Distraction")
 
     if spyYellowActive == True:
         vbox xpos 652 ypos 369:
@@ -631,7 +631,7 @@ screen spyScreens:
                 action Jump("spyCameraYellow")
         hbox:
             spacing 10 xpos 725 ypos 435
-            text "Spy: [yellowName] \nLocation: [yellowLocation] \nExpertise: Infiltration"
+            text _("Spy: [yellowName] \nLocation: [yellowLocation] \nExpertise: Infiltration")
 
 
 
@@ -866,7 +866,7 @@ screen mapButtons:
                 action Jump("status")
         $ tooltip = GetTooltip()
         if tooltip == "ttCover":
-            text "{font=fonts/freshMarker.ttf}{size=-4}Noteriety{/size}{/font}" xpos 310 yalign 0.055
+            text _("{font=fonts/freshMarker.ttf}{size=-4}Noteriety{/size}{/font}") xpos 310 yalign 0.055
         text "{font=fonts/freshMarker.ttf}[coverCounter]{/font}" xpos 350 yalign 0.012
 
 
@@ -877,7 +877,7 @@ screen mapButtons:
             action Jump("status")
     $ tooltip = GetTooltip()
     if tooltip == "ttMoney":
-        text "{font=fonts/freshMarker.ttf}{size=-4}Cash{/size}{/font}" xpos 470 yalign 0.055
+        text _("{font=fonts/freshMarker.ttf}{size=-4}Cash{/size}{/font}") xpos 470 yalign 0.055
     text "{font=fonts/freshMarker.ttf}[cash]{/font}" xpos 510 yalign 0.012
 
 
@@ -888,7 +888,7 @@ screen mapButtons:
             action Jump("status")
     $ tooltip = GetTooltip()
     if tooltip == "ttIntel":
-        text "{font=fonts/freshMarker.ttf}{size=-4}Intel{/size}{/font}" xpos 630 yalign 0.055
+        text _("{font=fonts/freshMarker.ttf}{size=-4}Intel{/size}{/font}") xpos 630 yalign 0.055
     text "{font=fonts/freshMarker.ttf}[intel]{/font}" xpos 670 yalign 0.012
 
 
@@ -900,12 +900,12 @@ screen mapButtons:
                 action Jump("checkStatusAgents")
         $ tooltip = GetTooltip()
         if tooltip == "ttAgents":
-            text "{font=fonts/freshMarker.ttf}{size=-4}Agents{/size}{/font}" xpos 800 yalign 0.055
+            text _("{font=fonts/freshMarker.ttf}{size=-4}Agents{/size}{/font}") xpos 800 yalign 0.055
         text "{font=fonts/freshMarker.ttf}[freedAgents]/[capturedAgents]{/font}" xpos 840 yalign 0.012
 
 
     add "gui/dayCounter.png" xpos 940 yalign 0.0
-    text "{font=fonts/freshMarker.ttf}{size=-4}Day: [daysPlayed]{/size}{/font}" xpos 990 yalign 0.012
+    text _("{font=fonts/freshMarker.ttf}{size=-4}Day: [daysPlayed]{/size}{/font}") xpos 990 yalign 0.012
 
 
     if mainQuestUpdate:
@@ -932,22 +932,22 @@ screen mapButtons:
                 pos (360, 555)
                 has vbox
                 if spyGreenActive:
-                    textbutton "Sam":
+                    textbutton _("Sam{#tbs}"):
                         clicked Hide("menu1"), Jump("samCall")
                 else:
-                    textbutton "???":
+                    textbutton _("???{#tbs}"):
                         clicked Hide("menu1"), Jump("worldmap")
                 if spyRedActive:
-                    textbutton "Clover":
+                    textbutton _("Clover{#tbs}"):
                         clicked Hide("menu1"), Jump("cloverCall")
                 else:
-                    textbutton "???":
+                    textbutton _("???{#tbs}"):
                         clicked Hide("menu1"), Jump("worldmap")
                 if spyYellowActive:
-                    textbutton "Alex":
+                    textbutton _("Alex{#tbs}"):
                         clicked Hide("menu1"), Jump("alexCall")
                 else:
-                    textbutton "???":
+                    textbutton _("???{#tbs}"):
                         clicked Hide("menu1"), Jump("worldmap")
 
 
@@ -1098,7 +1098,7 @@ screen mapButtons:
         $ tooltip = GetTooltip()
         if tooltip == "ttAces":
             add "gui/mapGangs/gangRepGraphic.png" xpos 120 ypos 130
-            text "{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}" xpos 265 ypos 202
+            text _("{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}") xpos 265 ypos 202
             if specialMaggieStatus == 1:
                 add "gui/mapGangs/acesLt1.png" xpos 225 ypos 300
             elif specialMaggieStatus >= 2:
@@ -1150,7 +1150,7 @@ screen mapButtons:
         $ tooltip = GetTooltip()
         if tooltip == "ttPunks":
             add "gui/mapGangs/gangRepGraphic.png" xpos 940 ypos 420
-            text "{font=fonts/freshmarker.ttf}{size=+12}Drift Punk{/size}{/font}" xpos 1030 ypos 500
+            text _("{font=fonts/freshmarker.ttf}{size=+12}Drift Punk{/size}{/font}") xpos 1030 ypos 500
             if specialDragonStatus == 1:
                 add "gui/mapGangs/punkLt1.png" xpos 1045 ypos 590
             if specialDragonStatus >= 2:
@@ -1198,7 +1198,7 @@ screen mapButtons:
         $ tooltip = GetTooltip()
         if tooltip == "ttOutsiders":
             add "gui/mapGangs/gangRepGraphic.png" xpos 840 ypos 60
-            text "{font=fonts/freshmarker.ttf}{size=+14}Outsiders{/size}{/font}" xpos 935 ypos 136
+            text _("{font=fonts/freshmarker.ttf}{size=+14}Outsiders{/size}{/font}") xpos 935 ypos 136
             if specialMuffyStatus == 1:
                 add "gui/mapGangs/outsidersLt1.png" xpos 945 ypos 230
             if specialMuffyStatus >= 2:
@@ -1703,7 +1703,7 @@ screen mapButtonsRaid:
         $ tooltip = GetTooltip()
         if tooltip == "ttAcesGrab":
             add "gui/mapGangs/gangRepGraphic.png" xpos 120 ypos 130
-            text "{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}" xpos 265 ypos 202
+            text _("{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}") xpos 265 ypos 202
             if specialMaggieStatus >= 1:
                 add "gui/mapGangs/acesLt1.png" xpos 225 ypos 300
 
@@ -1728,7 +1728,7 @@ screen mapButtonsRaid:
         $ tooltip = GetTooltip()
         if tooltip == "ttPunks":
             add "gui/mapGangs/gangRepGraphic.png" xpos 940 ypos 420
-            text "{font=fonts/freshmarker.ttf}{size=+12}Drift Punk{/size}{/font}" xpos 1030 ypos 500
+            text _("{font=fonts/freshmarker.ttf}{size=+12}Drift Punk{/size}{/font}") xpos 1030 ypos 500
             bar:
                 value punkRep
                 range 18
@@ -1749,7 +1749,7 @@ screen mapButtonsRaid:
         $ tooltip = GetTooltip()
         if tooltip == "ttOutsiders":
             add "gui/mapGangs/gangRepGraphic.png" xpos 840 ypos 60
-            text "{font=fonts/freshmarker.ttf}{size=+14}Outsiders{/size}{/font}" xpos 935 ypos 136
+            text _("{font=fonts/freshmarker.ttf}{size=+14}Outsiders{/size}{/font}") xpos 935 ypos 136
             bar:
                 value outsideRep
                 range 18
@@ -2141,7 +2141,7 @@ default agentsAvailable = 0
 
 screen gangStrengthBarAces:
     add "gui/mapGangs/gangRepGraphic.png" xpos 120 ypos 130
-    text "{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}" xpos 265 ypos 202
+    text _("{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}") xpos 265 ypos 202
     if specialMaggieStatus >= 1:
         add "gui/mapGangs/acesLt1.png" xpos 225 ypos 300
     if specialMelodyStatus >= 1:
@@ -2160,7 +2160,7 @@ screen gangStrengthBarAces:
 
 screen gangStrengthBarPunk:
     add "gui/mapGangs/gangRepGraphic.png" xpos 820 ypos 330
-    text "{font=fonts/freshmarker.ttf}{size=+18}Drift Punk{/size}{/font}" xpos 885 ypos 402
+    text _("{font=fonts/freshmarker.ttf}{size=+18}Drift Punk{/size}{/font}") xpos 885 ypos 402
     if specialDragonStatus >= 1:
         add "gui/mapGangs/punkLt1.png" xpos 923 ypos 500
     if specialTaliaStatus >= 1:
@@ -2179,7 +2179,7 @@ screen gangStrengthBarPunk:
 
 screen gangStrengthBarOutsiders:
     add "gui/mapGangs/gangRepGraphic.png" xpos 820 ypos 130
-    text "{font=fonts/freshmarker.ttf}{size=+18}Outsiders{/size}{/font}" xpos 905 ypos 202
+    text _("{font=fonts/freshmarker.ttf}{size=+18}Outsiders{/size}{/font}") xpos 905 ypos 202
     if specialMuffyStatus >= 1:
         add "gui/mapGangs/outsidersLt1.png" xpos 925 ypos 300
     if specialFelicityStatus >= 1:
@@ -4904,17 +4904,17 @@ screen status:
 
 
     if 90 <= playerKarma <= 100:
-        text "{font=fonts/freshmarker.ttf}{size=+5}Angelic{/size}{/font}" xalign 0.27 yalign 0.555
+        text _("{font=fonts/freshmarker.ttf}{size=+5}Angelic{/size}{/font}") xalign 0.27 yalign 0.555
     if 70 <= playerKarma <= 89:
-        text "{font=fonts/freshmarker.ttf}{size=+5}Heroic{/size}{/font}" xalign 0.27 yalign 0.555
+        text _("{font=fonts/freshmarker.ttf}{size=+5}Heroic{/size}{/font}") xalign 0.27 yalign 0.555
     if 50 <= playerKarma <= 69:
-        text "{font=fonts/freshmarker.ttf}{size=+5}Good{/size}{/font}" xalign 0.27 yalign 0.555
+        text _("{font=fonts/freshmarker.ttf}{size=+5}Good{/size}{/font}") xalign 0.27 yalign 0.555
     if 30 <= playerKarma <= 49:
-        text "{font=fonts/freshmarker.ttf}{size=+5}Dubious{/size}{/font}" xalign 0.27 yalign 0.555
+        text _("{font=fonts/freshmarker.ttf}{size=+5}Dubious{/size}{/font}") xalign 0.27 yalign 0.555
     if 10 <= playerKarma <= 29:
-        text "{font=fonts/freshmarker.ttf}{size=+5}Moralless{/size}{/font}" xalign 0.27 yalign 0.555
+        text _("{font=fonts/freshmarker.ttf}{size=+5}Moralless{/size}{/font}") xalign 0.27 yalign 0.555
     if 0 <= playerKarma <= 9:
-        text "{font=fonts/freshmarker.ttf}{size=+5}Evil{/size}{/font}" xalign 0.27 yalign 0.555
+        text _("{font=fonts/freshmarker.ttf}{size=+5}Evil{/size}{/font}") xalign 0.27 yalign 0.555
 
     text "{font=fonts/freshmarker.ttf}{size=+5}[zone]{/size}{/font}" xalign 0.165 yalign 0.085
 
@@ -4970,40 +4970,40 @@ screen status:
 
     if statusSpy == 1:
         add "gui/statusSpyGreen1.png" xalign 0.5 ypos 150
-        text "{font=fonts/freshmarker.ttf}{size=+40}SAM{/size}{/font}" xalign 0.80 yalign 0.435
+        text _("{font=fonts/freshmarker.ttf}{size=+40}SAM{/size}{/font}") xalign 0.80 yalign 0.435
         if samHealth == 3:
-            text "{font=fonts/freshmarker.ttf}Healthy{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}Healthy{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPGreen.png" xalign 0.75 yalign 0.58
         if samHealth == 2:
-            text "{font=fonts/freshmarker.ttf}Hurt{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}Hurt{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPOrange.png" xalign 0.75 yalign 0.58
         if samHealth == 1:
-            text "{font=fonts/freshmarker.ttf}}Badly hurt{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}}Badly hurt{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPRed.png" xalign 0.75 yalign 0.58
 
         if 0 <= slutLevel <= 2:
-            text "{font=fonts/freshmarker.ttf}Prudish{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}Prudish{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 3:
-            text "{font=fonts/freshmarker.ttf}Flirty{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}Flirty{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 4:
-            text "{font=fonts/freshmarker.ttf}}Promiscuous{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Promiscuous{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 5:
-            text "{font=fonts/freshmarker.ttf}}Slutty{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Slutty{/font}") xalign 0.91 yalign 0.676
         if slutLevel >= 6:
-            text "{font=fonts/freshmarker.ttf}}Whorish{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Whorish{/font}") xalign 0.91 yalign 0.676
 
         if samMood <= 10:
-            text "{font=fonts/freshmarker.ttf}Depressed{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Depressed{/font}") xalign 0.91 yalign 0.743
         if 11 <= samMood <= 25:
-            text "{font=fonts/freshmarker.ttf}Very low{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Very low{/font}") xalign 0.91 yalign 0.743
         if 26 <= samMood <= 45:
-            text "{font=fonts/freshmarker.ttf}Low{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.743
         if 46 <= samMood <= 70:
-            text "{font=fonts/freshmarker.ttf}Normal{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Normal{/font}") xalign 0.91 yalign 0.743
         if 71 <= samMood <= 80:
-            text "{font=fonts/freshmarker.ttf}High{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.743
         if samMood >= 81:
-            text "{font=fonts/freshmarker.ttf}Very high{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Very high{/font}") xalign 0.91 yalign 0.743
 
         text "{font=fonts/freshmarker.ttf}{size=-4}[samFriend]{/size}{/font}" xalign 0.91 yalign 0.81
 
@@ -5012,11 +5012,11 @@ screen status:
 
 
         if samSupLvl == 1:
-            text "{font=fonts/freshmarker.ttf}Low{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.94
         if samSupLvl == 2:
-            text "{font=fonts/freshmarker.ttf}Medium{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Medium{/font}") xalign 0.91 yalign 0.94
         if samSupLvl == 3:
-            text "{font=fonts/freshmarker.ttf}High{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.94
 
         if task2Stage >= 10:
             vbox xalign 0.97 yalign 0.95:
@@ -5028,40 +5028,40 @@ screen status:
 
     if statusSpy == 2:
         add "gui/statusSpyRed1.png" xalign 0.5 ypos 150
-        text "{font=fonts/freshmarker.ttf}{size=+40}CLOVER{/size}{/font}" xalign 0.85 yalign 0.435
+        text _("{font=fonts/freshmarker.ttf}{size=+40}CLOVER{/size}{/font}") xalign 0.85 yalign 0.435
         if cloverHealth == 3:
-            text "{font=fonts/freshmarker.ttf}Healthy{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}Healthy{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPGreen.png" xalign 0.75 yalign 0.58
         if cloverHealth == 2:
-            text "{font=fonts/freshmarker.ttf}Hurt{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}Hurt{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPOrange.png" xalign 0.75 yalign 0.58
         if cloverHealth == 1:
-            text "{font=fonts/freshmarker.ttf}}Badly hurt{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}}Badly hurt{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPRed.png" xalign 0.75 yalign 0.58
 
         if 0 <= slutLevel <= 2:
-            text "{font=fonts/freshmarker.ttf}Prudish{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}Prudish{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 3:
-            text "{font=fonts/freshmarker.ttf}Flirty{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}Flirty{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 4:
-            text "{font=fonts/freshmarker.ttf}}Promiscuous{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Promiscuous{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 5:
-            text "{font=fonts/freshmarker.ttf}}Slutty{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Slutty{/font}") xalign 0.91 yalign 0.676
         if slutLevel >= 6:
-            text "{font=fonts/freshmarker.ttf}}Whorish{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Whorish{/font}") xalign 0.91 yalign 0.676
 
         if cloverMood <= 10:
-            text "{font=fonts/freshmarker.ttf}Depressed{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Depressed{/font}") xalign 0.91 yalign 0.743
         if 11 <= cloverMood <= 25:
-            text "{font=fonts/freshmarker.ttf}Very low{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Very low{/font}") xalign 0.91 yalign 0.743
         if 26 <= cloverMood <= 45:
-            text "{font=fonts/freshmarker.ttf}Low{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.743
         if 46 <= cloverMood <= 70:
-            text "{font=fonts/freshmarker.ttf}Normal{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Normal{/font}") xalign 0.91 yalign 0.743
         if 71 <= cloverMood <= 80:
-            text "{font=fonts/freshmarker.ttf}High{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.743
         if cloverMood >= 81:
-            text "{font=fonts/freshmarker.ttf}Very high{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Very high{/font}") xalign 0.91 yalign 0.743
 
         text "{font=fonts/freshmarker.ttf}{size=-4}[cloverFriend]{/size}{/font}" xalign 0.91 yalign 0.81
 
@@ -5070,11 +5070,11 @@ screen status:
 
 
         if cloverSupLvl == 1:
-            text "{font=fonts/freshmarker.ttf}Low{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.94
         if cloverSupLvl == 2:
-            text "{font=fonts/freshmarker.ttf}Medium{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Medium{/font}") xalign 0.91 yalign 0.94
         if cloverSupLvl == 3:
-            text "{font=fonts/freshmarker.ttf}High{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.94
 
 
         if task2Stage >= 10:
@@ -5087,40 +5087,40 @@ screen status:
 
     if statusSpy == 3:
         add "gui/statusSpyYellow1.png" xalign 0.5 ypos 150
-        text "{font=fonts/freshmarker.ttf}{size=+40}ALEX{/size}{/font}" xalign 0.81 yalign 0.435
+        text _("{font=fonts/freshmarker.ttf}{size=+40}ALEX{/size}{/font}") xalign 0.81 yalign 0.435
         if alexHealth == 3:
-            text "{font=fonts/freshmarker.ttf}Healthy{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}Healthy{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPGreen.png" xalign 0.75 yalign 0.58
         if alexHealth == 2:
-            text "{font=fonts/freshmarker.ttf}Hurt{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}Hurt{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPOrange.png" xalign 0.75 yalign 0.58
         if alexHealth == 1:
-            text "{font=fonts/freshmarker.ttf}}Badly hurt{/font}" xalign 0.85 yalign 0.573
+            text _("{font=fonts/freshmarker.ttf}}Badly hurt{/font}") xalign 0.85 yalign 0.573
             add "gui/statusHPRed.png" xalign 0.75 yalign 0.58
 
         if 0 <= slutLevel <= 2:
-            text "{font=fonts/freshmarker.ttf}Prudish{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}Prudish{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 3:
-            text "{font=fonts/freshmarker.ttf}Flirty{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}Flirty{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 4:
-            text "{font=fonts/freshmarker.ttf}}Promiscuous{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Promiscuous{/font}") xalign 0.91 yalign 0.676
         if slutLevel == 5:
-            text "{font=fonts/freshmarker.ttf}}Slutty{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Slutty{/font}") xalign 0.91 yalign 0.676
         if slutLevel >= 6:
-            text "{font=fonts/freshmarker.ttf}}Whorish{/font}" xalign 0.91 yalign 0.676
+            text _("{font=fonts/freshmarker.ttf}}Whorish{/font}") xalign 0.91 yalign 0.676
 
         if alexMood <= 10:
-            text "{font=fonts/freshmarker.ttf}Depressed{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Depressed{/font}") xalign 0.91 yalign 0.743
         if 11 <= alexMood <= 25:
-            text "{font=fonts/freshmarker.ttf}Very low{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Very low{/font}") xalign 0.91 yalign 0.743
         if 26 <= alexMood <= 45:
-            text "{font=fonts/freshmarker.ttf}Low{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.743
         if 46 <= alexMood <= 70:
-            text "{font=fonts/freshmarker.ttf}Normal{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Normal{/font}") xalign 0.91 yalign 0.743
         if 71 <= alexMood <= 80:
-            text "{font=fonts/freshmarker.ttf}High{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.743
         if alexMood >= 81:
-            text "{font=fonts/freshmarker.ttf}Very high{/font}" xalign 0.91 yalign 0.743
+            text _("{font=fonts/freshmarker.ttf}Very high{/font}") xalign 0.91 yalign 0.743
 
         text "{font=fonts/freshmarker.ttf}{size=-4}[alexFriend]{/size}{/font}" xalign 0.91 yalign 0.81
 
@@ -5132,11 +5132,11 @@ screen status:
 
 
         if alexSupLvl == 1:
-            text "{font=fonts/freshmarker.ttf}Low{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.94
         if alexSupLvl == 2:
-            text "{font=fonts/freshmarker.ttf}Medium{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Medium{/font}") xalign 0.91 yalign 0.94
         if alexSupLvl == 3:
-            text "{font=fonts/freshmarker.ttf}High{/font}" xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.94
 
 
         if task2Stage >= 10:
@@ -12350,60 +12350,60 @@ screen bgLore:
             action SetVariable("loreSelect", 9)
     $ tooltip = GetTooltip()
     if tooltip == "acesLore":
-        text "{font=fonts/freshMarker.ttf}ACES{/font}" xalign 0.11 yalign 0.07
+        text _("{font=fonts/freshMarker.ttf}ACES{/font}") xalign 0.11 yalign 0.07
     if tooltip == "punkLore":
-        text "{font=fonts/freshMarker.ttf}DRIFT PUNK{/font}" xalign 0.11 yalign 0.17
+        text _("{font=fonts/freshMarker.ttf}DRIFT PUNK{/font}") xalign 0.11 yalign 0.17
     if tooltip == "outsidersLore":
-        text "{font=fonts/freshMarker.ttf}OUTSIDERS{/font}" xalign 0.11 yalign 0.27
+        text _("{font=fonts/freshMarker.ttf}OUTSIDERS{/font}") xalign 0.11 yalign 0.27
     if tooltip == "epinesLore":
-        text "{font=fonts/freshMarker.ttf}LES EPINES{/font}" xalign 0.11 yalign 0.37
+        text _("{font=fonts/freshMarker.ttf}LES EPINES{/font}") xalign 0.11 yalign 0.37
     if tooltip == "huntersLore":
-        text "{font=fonts/freshMarker.ttf}HUNTERS{/font}" xalign 0.11 yalign 0.47
+        text _("{font=fonts/freshMarker.ttf}HUNTERS{/font}") xalign 0.11 yalign 0.47
     if tooltip == "glimmersLore":
-        text "{font=fonts/freshMarker.ttf}GLIMMERS{/font}" xalign 0.11 yalign 0.57
+        text _("{font=fonts/freshMarker.ttf}GLIMMERS{/font}") xalign 0.11 yalign 0.57
     if tooltip == "exchangeLore":
-        text "{font=fonts/freshMarker.ttf}EXCHANGE{/font}" xalign 0.11 yalign 0.67
+        text _("{font=fonts/freshMarker.ttf}EXCHANGE{/font}") xalign 0.11 yalign 0.67
     if tooltip == "woohpLore":
-        text "{font=fonts/freshMarker.ttf}WOOHP{/font}" xalign 0.11 yalign 0.77
+        text _("{font=fonts/freshMarker.ttf}WOOHP{/font}") xalign 0.11 yalign 0.77
     if tooltip == "miscLore":
-        text "{font=fonts/freshMarker.ttf}MISC.{/font}" xalign 0.11 yalign 0.87
+        text _("{font=fonts/freshMarker.ttf}MISC.{/font}") xalign 0.11 yalign 0.87
 
     if loreSelect == 1:
-        text "{font=fonts/freshMarker.ttf}{size=+34}ACES{/size}{/font}" xalign 0.84 yalign 0.08
+        text _("{font=fonts/freshMarker.ttf}{size=+34}ACES{/size}{/font}") xalign 0.84 yalign 0.08
     if loreSelect == 2:
-        text "{font=fonts/freshMarker.ttf}{size=+25}DRIFT PUNK{/size}{/font}" xalign 0.89 yalign 0.09
+        text _("{font=fonts/freshMarker.ttf}{size=+25}DRIFT PUNK{/size}{/font}") xalign 0.89 yalign 0.09
     if loreSelect == 3:
-        text "{font=fonts/freshMarker.ttf}{size=+30}OUTSIDERS{/size}{/font}" xalign 0.89 yalign 0.09
+        text _("{font=fonts/freshMarker.ttf}{size=+30}OUTSIDERS{/size}{/font}") xalign 0.89 yalign 0.09
     if loreSelect == 4:
-        text "{font=fonts/freshMarker.ttf}{size=+25}LES EPINES{/size}{/font}" xalign 0.89 yalign 0.09
+        text _("{font=fonts/freshMarker.ttf}{size=+25}LES EPINES{/size}{/font}" )xalign 0.89 yalign 0.09
     if loreSelect == 5:
-        text "{font=fonts/freshMarker.ttf}{size=+30}HUNTERS{/size}{/font}" xalign 0.88 yalign 0.08
+        text _("{font=fonts/freshMarker.ttf}{size=+30}HUNTERS{/size}{/font}") xalign 0.88 yalign 0.08
     if loreSelect == 6:
-        text "{font=fonts/freshMarker.ttf}{size=+30}GLIMMERS{/size}{/font}" xalign 0.88 yalign 0.08
+        text _("{font=fonts/freshMarker.ttf}{size=+30}GLIMMERS{/size}{/font}") xalign 0.88 yalign 0.08
     if loreSelect == 7:
-        text "{font=fonts/freshMarker.ttf}{size=+30}EXCHANGE{/size}{/font}" xalign 0.88 yalign 0.08
+        text _("{font=fonts/freshMarker.ttf}{size=+30}EXCHANGE{/size}{/font}") xalign 0.88 yalign 0.08
     if loreSelect == 8:
-        text "{font=fonts/freshMarker.ttf}{size=+36}WOOHP{/size}{/font}" xalign 0.85 yalign 0.08
+        text _("{font=fonts/freshMarker.ttf}{size=+36}WOOHP{/size}{/font}") xalign 0.85 yalign 0.08
     if loreSelect == 9:
-        text "{font=fonts/freshMarker.ttf}{size=+33}MISC.{/size}{/font}" xalign 0.84 yalign 0.08
+        text _("{font=fonts/freshMarker.ttf}{size=+33}MISC.{/size}{/font}") xalign 0.84 yalign 0.08
 
     if loreSelect == 1:
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}" xalign 0.83 yalign 0.20:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}") xalign 0.83 yalign 0.20:
             if acesLoreUnlock >= 1:
                 action SetVariable("acesEntry", 1)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}" xalign 0.83 yalign 0.25:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}") xalign 0.83 yalign 0.25:
             if acesLoreUnlock >= 2:
                 action SetVariable("acesEntry", 2)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}" xalign 0.83 yalign 0.30:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}") xalign 0.83 yalign 0.30:
             if acesLoreUnlock >= 3:
                 action SetVariable("acesEntry", 3)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}" xalign 0.83 yalign 0.35:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}") xalign 0.83 yalign 0.35:
             if acesLoreUnlock >= 4:
                 action SetVariable("acesEntry", 4)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}" xalign 0.83 yalign 0.40:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}") xalign 0.83 yalign 0.40:
             if acesLoreUnlock >= 5:
                 action SetVariable("acesEntry", 5)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}" xalign 0.83 yalign 0.45:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}") xalign 0.83 yalign 0.45:
             if acesLoreUnlock >= 6:
                 action SetVariable("acesEntry", 6)
 
@@ -12435,22 +12435,22 @@ screen bgLore:
 
 
     if loreSelect == 2:
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}" xalign 0.83 yalign 0.20:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}") xalign 0.83 yalign 0.20:
             if punkLoreUnlock >= 1:
                 action SetVariable("punkEntry", 1)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}" xalign 0.83 yalign 0.25:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}") xalign 0.83 yalign 0.25:
             if punkLoreUnlock >= 2:
                 action SetVariable("punkEntry", 2)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}" xalign 0.83 yalign 0.30:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}") xalign 0.83 yalign 0.30:
             if punkLoreUnlock >= 3:
                 action SetVariable("punkEntry", 3)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}" xalign 0.83 yalign 0.35:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}") xalign 0.83 yalign 0.35:
             if punkLoreUnlock >= 4:
                 action SetVariable("punkEntry", 4)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}" xalign 0.83 yalign 0.40:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}") xalign 0.83 yalign 0.40:
             if punkLoreUnlock >= 5:
                 action SetVariable("punkEntry", 5)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}" xalign 0.83 yalign 0.45:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}") xalign 0.83 yalign 0.45:
             if punkLoreUnlock >= 6:
                 action SetVariable("punkEntry", 6)
 
@@ -12482,22 +12482,22 @@ screen bgLore:
 
 
     if loreSelect == 3:
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}" xalign 0.83 yalign 0.20:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}") xalign 0.83 yalign 0.20:
             if outsidersLoreUnlock >= 1:
                 action SetVariable("outsidersEntry", 1)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}" xalign 0.83 yalign 0.25:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}") xalign 0.83 yalign 0.25:
             if outsidersLoreUnlock >= 2:
                 action SetVariable("outsidersEntry", 2)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}" xalign 0.83 yalign 0.30:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}") xalign 0.83 yalign 0.30:
             if outsidersLoreUnlock >= 3:
                 action SetVariable("outsidersEntry", 3)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}" xalign 0.83 yalign 0.35:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}") xalign 0.83 yalign 0.35:
             if outsidersLoreUnlock >= 4:
                 action SetVariable("outsidersEntry", 4)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}" xalign 0.83 yalign 0.40:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}") xalign 0.83 yalign 0.40:
             if outsidersLoreUnlock >= 5:
                 action SetVariable("outsidersEntry", 5)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}" xalign 0.83 yalign 0.45:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}") xalign 0.83 yalign 0.45:
             if outsidersLoreUnlock >= 6:
                 action SetVariable("outsidersEntry", 6)
 
@@ -12529,13 +12529,13 @@ screen bgLore:
 
 
     if loreSelect == 4:
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}" xalign 0.83 yalign 0.20:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}") xalign 0.83 yalign 0.20:
             if epinesLoreUnlock >= 1:
                 action SetVariable("epinesEntry", 1)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}" xalign 0.83 yalign 0.25:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}") xalign 0.83 yalign 0.25:
             if epinesLoreUnlock >= 2:
                 action SetVariable("epinesEntry", 2)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}" xalign 0.83 yalign 0.30:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}") xalign 0.83 yalign 0.30:
             if epinesLoreUnlock >= 3:
                 action SetVariable("epinesEntry", 3)
 
@@ -12555,13 +12555,13 @@ screen bgLore:
 
 
     if loreSelect == 5:
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}" xalign 0.83 yalign 0.20:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}") xalign 0.83 yalign 0.20:
             if huntersLoreUnlock >= 1:
                 action SetVariable("huntersEntry", 1)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}" xalign 0.83 yalign 0.25:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}") xalign 0.83 yalign 0.25:
             if huntersLoreUnlock >= 2:
                 action SetVariable("huntersEntry", 2)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}" xalign 0.83 yalign 0.30:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}") xalign 0.83 yalign 0.30:
             if huntersLoreUnlock >= 3:
                 action SetVariable("huntersEntry", 3)
 
@@ -12581,13 +12581,13 @@ screen bgLore:
 
 
     if loreSelect == 6:
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}" xalign 0.83 yalign 0.20:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}") xalign 0.83 yalign 0.20:
             if glimmersLoreUnlock >= 1:
                 action SetVariable("glimmersEntry", 1)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}" xalign 0.83 yalign 0.25:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}") xalign 0.83 yalign 0.25:
             if glimmersLoreUnlock >= 2:
                 action SetVariable("glimmersEntry", 2)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}" xalign 0.83 yalign 0.30:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}") xalign 0.83 yalign 0.30:
             if glimmersLoreUnlock >= 3:
                 action SetVariable("glimmersEntry", 3)
 
@@ -12607,13 +12607,13 @@ screen bgLore:
 
 
     if loreSelect == 8:
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}" xalign 0.83 yalign 0.20:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}") xalign 0.83 yalign 0.20:
             if woohpLoreUnlock >= 1:
                 action SetVariable("woohpEntry", 1)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}" xalign 0.83 yalign 0.25:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}") xalign 0.83 yalign 0.25:
             if woohpLoreUnlock >= 2:
                 action SetVariable("woohpEntry", 2)
-        textbutton "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}" xalign 0.83 yalign 0.30:
+        textbutton _("{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}") xalign 0.83 yalign 0.30:
             if woohpLoreUnlock >= 3:
                 action SetVariable("woohpEntry", 3)
 
@@ -13347,7 +13347,7 @@ screen bagInteract:
         textbutton "[bagItemsName]":
             if bagItemsName != "- - -":
                 action Show("bagInteractItems"), Hide("bagInteractGadgets"), Hide("bagInteractBackup")
-        textbutton "Cancel":
+        textbutton _("Cancel"):
             action Hide("bagInteract")
 
 

@@ -34869,3 +34869,395 @@ translate russia strings:
     # game/status.rpy:3186
     old "The night passes and all is...."
     new "Проходит ночь, всё..."
+# TODO: Translation updated at 2022-01-01 19:06
+
+translate russia strings:
+
+    # game/status.rpy:175
+    old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000.\n\n-Visit Sam to start the party."
+    new ""
+
+    # game/status.rpy:333
+    old "Double Trouble"
+    new ""
+
+    # game/status.rpy:334
+    old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend."
+    new ""
+
+    # game/status.rpy:731
+    old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-Check the Equipment tab in your workbench."
+    new ""
+
+    # game/status.rpy:1001
+    old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.{color=#b5b5b5}\n\n-Check the Equipment tab in your workbench.{/color}\n\n-The Database seems protected. It's going to require someone with computer skills to access it."
+    new ""
+
+    # game/status.rpy:1027
+    old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\nI met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-(optional) Buy a bikini and send your spy to work at Mathias."
+    new ""
+
+    # game/status.rpy:1256
+    old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Discuss using the V.I.B. with the girls."
+    new ""
+
+    # game/status.rpy:1292
+    old "{size=-5}-The girls have reluctantly agreed to wear their V.I.B. from now on. Their vital signs can be read via the STATUS screen. However with power comes responsibility. How will I treat my spies?{/size}"
+    new ""
+
+    # game/status.rpy:1479
+    old "We liberated Clover who has joined us at the base. We also figured out a way to gain intel by going undercover with the gangs around town and money by working at the milkshake bar. We're a little closer in our goal to liberate Beverly Hills.\n\n-Reach rank 2 with the Aces."
+    new ""
+
+    # game/status.rpy:1666
+    old "We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning.\n\n-Plan a mission to the Aces castle and capture Maggie T."
+    new ""
+
+    # game/status.rpy:1764
+    old "We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning. We captured Maggie and locked her up, now all that's left to do is interrogate her.\n\n-Visit Maggie at her cell and interrogate her."
+    new ""
+
+    # game/status.rpy:1924
+    old "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Free at least 5 WOOHP Agents\n-Assault the Aces during the next Landgrab.\n\nTip: Remember, you can capture more agents by using {color=#ffeda6}Hypno Earrings{/color} during missions."
+    new ""
+
+    # game/status.rpy:2146
+    old "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Reach rank 2 with Drift Punk and the Outsiders.\n-Capture the first Lieutenant of Drift Punk and the Outsiders."
+    new ""
+
+    # game/status.rpy:2161
+    old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\n-Top priority: Visit the school."
+    new ""
+
+    # game/status.rpy:2263
+    old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders."
+    new ""
+
+    # game/status.rpy:2468
+    old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\n\nWith her freed up, I should try sending her out to the Outsiders sometime."
+    new ""
+
+    # game/status.rpy:2469
+    old "Spy in Yellow"
+    new ""
+
+    # game/status.rpy:2772
+    old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders sometime.\n\nAlex is going to need some time to fit in with the Outsiders, but contact has been made. I should send her out again."
+    new ""
+
+    # game/status.rpy:3254
+    old "Dingalingaling"
+    new ""
+
+    # game/status.rpy:3255
+    old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos."
+    new ""
+
+    # game/status.rpy:3462
+    old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-I bought the girls some dildos. Let's see how they react."
+    new ""
+
+    # game/status.rpy:3466
+    old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-The girls reacted better to the dildos than I thought. I can tell them to play with themselves and spy on them via the spy cameras."
+    new ""
+
+    # game/status.rpy:3627
+    old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some dildos. Let's see how they react.{/color}\n\n-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again."
+    new ""
+
+    # game/status.rpy:3712
+    old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some diildos. Let's see how they react.{/color}\n\n{color=#b5b5b5}-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again.{/color}\n\n-Everything came up Millhouse! I can now stay and watch as the girls masturbate in their cells."
+    new ""
+
+    # game/status.rpy:3713
+    old "Dingalingaling (COMPLETE)"
+    new ""
+
+    # game/status.rpy:3721
+    old "A Foot in the Door"
+    new ""
+
+    # game/status.rpy:3735
+    old "You sent Sam out to the Aces."
+    new ""
+
+    # game/status.rpy:3747
+    old "You sent Sam out to the Aces. She said it went fine, but she's acting a bit off. I should check up on her in her cell."
+    new ""
+
+    # game/status.rpy:3769
+    old "Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces."
+    new ""
+
+    # game/status.rpy:3859
+    old "Sam's reputation with the Aces is increasing. Keep building your reputation to get closer to Melody."
+    new ""
+
+    # game/status.rpy:4428
+    old "Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces.\n\nHaving spend some time with the Aces, Sam has grown closer to their second Lieutenant.\n\n-Plan a mission to the Castle and capture Melody."
+    new ""
+
+    # game/status.rpy:5145
+    old "Living in a database"
+    new ""
+
+    # game/status.rpy:5146
+    old "Something is going on with Drift Punk. They're testing out something new so I sent Clover to investigate."
+    new ""
+
+    # game/status.rpy:5237
+    old "Drift Punk is working on a digital world where they can lay low and terrorize the world from within a computer.\n\nI should continue sending my spies undercover with Drift Punk and see if we can find out who's in charge."
+    new ""
+
+    # game/status.rpy:5284
+    old "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n-Set up a mission and capture Carla Wong."
+    new ""
+
+    # game/status.rpy:5442
+    old "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n{color=#b5b5b5}-Interrogate Carla Wong at the base.{/color}"
+    new ""
+
+    # game/status.rpy:5443
+    old "Living in a database (complete)"
+    new ""
+
+    # game/status.rpy:5558
+    old "Anarchy Alex"
+    new ""
+
+    # game/status.rpy:5559
+    old "I sent Alex out to get more comfortable with going undercover with the Outsiders.\n\n-Wait to see how Alex reacts to going undercover with the Outsiders."
+    new ""
+
+    # game/status.rpy:5591
+    old "Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders."
+    new ""
+
+    # game/status.rpy:5630
+    old "Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders and capture Muffy Peprich.\n\nYou can now plan missions to the Carnival."
+    new ""
+
+    # game/status.rpy:5734
+    old "A few snips away of a haircut"
+    new ""
+
+    # game/status.rpy:5735
+    old "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\nSend a spy undercover with Drift Punk."
+    new ""
+
+    # game/status.rpy:5761
+    old "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n-The girl may be held in Punk Web. Set up a mission and get her out."
+    new ""
+
+    # game/status.rpy:5798
+    old "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n{color=#A3A3A3}-The girl may be held in Punk Web. Set up a mission and get her out.{/color}"
+    new ""
+
+    # game/status.rpy:5809
+    old "A few snips away (complete)"
+    new ""
+
+    # game/status.rpy:5810
+    old "We managed to release the barber's daughter from Punk Web and can now get free haircuts at the mall whenever we like."
+    new ""
+
+    # game/status.rpy:5843
+    old "We've begun talking about having sex together, but Sam is still vividly denying it. I should go talk to her in her cell."
+    new ""
+
+    # game/status.rpy:5969
+    old "Sam has begun to open up about sex, but she wants everyone to be prepared.\n\n-Plan a mission to the school and retrieve Sam's notes from her locker\n-Visit the mall and buy an adult video game for Clover from the bookstore."
+    new ""
+
+    # game/status.rpy:6211
+    old "Party till you drop"
+    new ""
+
+    # game/status.rpy:6212
+    old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000."
+    new ""
+
+    # game/status.rpy:6462
+    old "Party till you drop (Completed)"
+    new ""
+
+    # game/status.rpy:6463
+    old "With the party of the century done, we're one step closer to winning the trust of the Aces leader. All we have to do now is increase our reputation a bit more and hopefully take them down."
+    new ""
+
+    # game/status.rpy:6845
+    old "Animo..."
+    new ""
+
+    # game/status.rpy:6846
+    old "Clover is struggling with going undercover with Drift Punk. I should send her out a few more times to see if things improve."
+    new ""
+
+    # game/status.rpy:6945
+    old "The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it."
+    new ""
+
+    # game/status.rpy:6971
+    old "The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it.\n\n-Send Clover undercover to Drift Punk and follow her."
+    new ""
+
+    # game/status.rpy:6995
+    old "Turns out, Clover is a closet nerd who loves dressing up as her favorite anime and video game characters."
+    new ""
+
+    # game/status.rpy:6996
+    old "Animo... (Complete)"
+    new ""
+
+    # game/status.rpy:7156
+    old "Nourishing Beats"
+    new ""
+
+    # game/status.rpy:7157
+    old "Send Clover to Drift Punk to get closer to Talia Hardwire."
+    new ""
+
+    # game/status.rpy:7184
+    old "Talia has been willing to cooperate, but is afraid that Drift Punk will come after her. We just have to get her out and make it seem believable.\n\n-Plan a mission to Punk Web and capture Talia Hardwire."
+    new ""
+
+    # game/status.rpy:7227
+    old "Nourishing Beats (Complete)"
+    new ""
+
+    # game/status.rpy:7228
+    old "Talia caused some trouble for us, but we managed to capture her."
+    new ""
+
+    # game/status.rpy:7709
+    old "Pink is thew New Black"
+    new ""
+
+    # game/status.rpy:7710
+    old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces."
+    new ""
+
+    # game/status.rpy:7799
+    old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\n-Stalk and kidnap the handsome model on his daily walk on the beach."
+    new ""
+
+    # game/status.rpy:7830
+    old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}"
+    new ""
+
+    # game/status.rpy:7916
+    old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\nFelicity seemed to have liked our gift.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}\n\n-Setup a mission to the Carnival and capture Felicity Fences."
+    new ""
+
+    # game/status.rpy:7935
+    old "We managed to capture and interrogate Felicity. Striking one more lieutenant off the records."
+    new ""
+
+    # game/status.rpy:8467
+    old "{font=fonts/freshmarker.ttf}{size=+20}Drift Punk{/size}{/font}"
+    new ""
+
+    # game/status.rpy:9014
+    old "{font=fonts/freshmarker.ttf}{size=+20}Outsiders{/size}{/font}"
+    new ""
+
+    # game/status.rpy:9286
+    old "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. She has infected with the girls with a powerful new set of nanobots that require some extra dedication to break."
+    new ""
+
+    # game/status.rpy:9360
+    old "Anal"
+    new ""
+
+    # game/status.rpy:9361
+    old "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. Continue liberating WOOHP and capture her!"
+    new ""
+
+    # game/status.rpy:9538
+    old "Britney is proving to be a challenge to bring in. We'll have to deal with this problem head on.\n\n-Plan a mission to WOOHP HQ to bring back Britney."
+    new ""
+
+    # game/status.rpy:9640
+    old "Britney has been captured! I should visit her in her cell to break her nanobot control."
+    new ""
+
+    # game/status.rpy:9666
+    old "Britney's control has been broken, she can now help us liberate the rest of WOOHP HQ and is available as a new Backup option during missions."
+    new ""
+
+    # game/status.rpy:9877
+    old "Britney has told us about the Mastermind. Someone or something called GLADIS. Not far to go now. We should continue taking back floors of the WOOHP HQ."
+    new ""
+
+    # game/status.rpy:9967
+    old "Capture Tim Scam!"
+    new ""
+
+    # game/status.rpy:10065
+    old "Tim Scam has been captured, now all that's left is to bring down GLADIS."
+    new ""
+
+    # game/status.rpy:10130
+    old "With Tim Scam in custody it's time to move on to the final level of the WOOHP HQ and take down the mastermind!"
+    new ""
+
+    # game/status.rpy:10204
+    old "Send the last of your loyal followers out to look for Mathias."
+    new ""
+
+    # game/status.rpy:10411
+    old "Game Over"
+    new ""
+
+    # game/status.rpy:10791
+    old "Soft your followers out to soften up the airport's defenses and bring Sam back home."
+    new ""
+
+    # game/status.rpy:10939
+    old "Rescue Clover by planning a mission to Drift Punk and using the Bondage gadget on her."
+    new ""
+
+    # game/status.rpy:11127
+    old "With Sam and Clover back on our side, it's time to free Alex. Plan a mission to WOOHP HQ to use the bondage gadget on her."
+    new ""
+
+    # game/status.rpy:11377
+    old "Discuss your plan with the spies."
+    new ""
+
+    # game/status.rpy:11527
+    old "Lead the final assault on WOOHP HQ."
+    new ""
+
+    # game/status.rpy:12673
+    old "Build-A-Bar"
+    new ""
+
+    # game/status.rpy:12674
+    old "Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.\n\n-Have atleast $2000.\n-Have atleast 4 staff members.\n-Find someone who can help you get the word out."
+    new ""
+
+    # game/status.rpy:12745
+    old "{color=#A3A3A3}Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.{/color}\n\nThe stripclub has opened and I can now send my girls to go stripping there in the evening."
+    new ""
+
+    # game/status.rpy:12884
+    old "Meanwhile at WOOHP Headquarters...."
+    new ""
+
+    # game/status.rpy:12911
+    old "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Capture the second Lieutenant of the Aces,  Drift Punk and the Outsiders."
+    new ""
+
+    # game/status.rpy:12918
+    old "Meanwhile........"
+    new ""
+
+    # game/status.rpy:12957
+    old "All the lieutenants have been captured. Only the gang leaders remain. Continue participating in landgrabs until all of Beverly Hills is free!\n\n-Capture the gangleader of each of the three gangs."
+    new ""
+
+    # game/status.rpy:12998
+    old "All major gang leaders have been captured and it's time to take the fight to WOOHP. Visit the airport to travel to WOOHP HQ and take back the taken.\n\n-Gather enough intel and freed agents to fight your way to the top of WOOHP HQ."
+    new ""
+
