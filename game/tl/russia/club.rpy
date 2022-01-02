@@ -16,19 +16,19 @@ translate russia club_d32f081f:
 translate russia club_b50a6741:
 
     # "You spend the rest of the day cleaning up the place."
-    "Остаток дня ты проводишь за уборкой."
+    "Остаток дня вы проводите за уборкой."
 
 # game/club.rpy:411
 translate russia club_b92e9533:
 
     # "The bar is looking better than before, but still needs more fixing."
-    "Бар выглядит лучше, чем раньше, но все ещё нуждается в доработке."
+    "Бар выглядит лучше, чем раньше, но всё ещё нуждается в доработке."
 
 # game/club.rpy:424
 translate russia club_53868d06:
 
     # "You decide to head to bed."
-    "Ты решаешь лечь спать."
+    "Вы решаете лечь спать."
 
 # game/club.rpy:431
 translate russia club_74662bc8:
@@ -70,7 +70,7 @@ translate russia club_d028be2f:
 translate russia club_9375114a:
 
     # sil "I'm sure I still have one of those around..."
-    sil "Я уверена, что у меня все ещё есть парочка..."
+    sil "Я уверена, что у меня всё ещё есть парочка..."
 
 # game/club.rpy:520
 translate russia clubManagment_729e5907:

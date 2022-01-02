@@ -8554,13 +8554,13 @@ translate russia task6_c164ca17:
 translate russia task6_8ad0089d:
 
     # s "During the Heist, another gang showed up called The Glimmers and a firefight broke out."
-    s "Во время ограбления появилась другая банда под названием \"Проблеск\", и началась перестрелка."
+    s "Во время ограбления появилась другая банда под названием \"Глиммеры\", и началась перестрелка."
 
 # game/status.rpy:3776
 translate russia task6_f0b398d1:
 
     # s "One of the Glimmers was hit and killed. They pulled back after that, but..."
-    s "Один из \"Поблеска\" был ранен и погиб. После этого они отступили, но..."
+    s "Один из \"Глиммеры\" был ранен и погиб. После этого они отступили, но..."
 
 # game/status.rpy:3777
 translate russia task6_df682738:
@@ -19468,7 +19468,7 @@ translate russia task19_b1fcc6fc:
 translate russia task19_5ec585bf:
 
     # y "They're just doing it for the thrill. Let's teach them a lesson and put them behind bars."
-    y "Они делают это просто ради острых ощущений. Давайте преподадим им урок и посадим их за решетку."
+    y "Они делают это просто ради острых ощущений. Давай преподадим им урок и посадим их за решетку."
 
 # game/status.rpy:7478
 translate russia task19_da6bf7d7:
@@ -34869,65 +34869,62 @@ translate russia strings:
     # game/status.rpy:3186
     old "The night passes and all is...."
     new "Проходит ночь, всё..."
-# TODO: Translation updated at 2022-01-01 19:06
-
-translate russia strings:
 
     # game/status.rpy:175
     old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000.\n\n-Visit Sam to start the party."
-    new ""
+    new "Мы собираемся устроить вечеринку, которую Тузы запомнят на долгие годы. Но нам нужно кое-что сделать.\n\n-Спланируйте миссию в Заброшенном парке развлечений и украдите фейерверки.\n-Спланируйте миссию в Панк-Вэб и украдите самый горячий микстейп.\n-Пойти в школу и найти девушек.\n-Иметь не менее $2.000.\n\n-Посетите Сэм, чтобы начать вечеринку."
 
     # game/status.rpy:333
     old "Double Trouble"
-    new ""
+    new "Двойные неприятности"
 
     # game/status.rpy:334
     old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend."
-    new ""
+    new "Обсудив ситуацию, стало ясно, что нам не помешает дополнительное подкрепление, чтобы вернуть Беверли-Хиллз. Нужно спланировать миссию и послать шпионку в школу, чтобы схватить её подругу."
 
     # game/status.rpy:731
     old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-Check the Equipment tab in your workbench."
-    new ""
+    new "Обсудив ситуацию, стало ясно, что нам не помешает дополнительное подкрепление, чтобы вернуть Беверли-Хиллз. Нужно спланировать миссию и послать шпионку в школу, чтобы схватить её подругу. \n\nМы поймали новую шпионку, но контроль над наноботами, похоже, ухудшается. Нужно проверить верстак, чтобы узнать, есть ли что-то полезное в базе данных WOOHP на этот счёт.\n\n-Проверьте вкладку Оборудование на верстаке."
 
     # game/status.rpy:1001
     old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.{color=#b5b5b5}\n\n-Check the Equipment tab in your workbench.{/color}\n\n-The Database seems protected. It's going to require someone with computer skills to access it."
-    new ""
+    new "Обсудив ситуацию, стало ясно, что нам не помешает дополнительное подкрепление, чтобы вернуть Беверли-Хиллз. Нужно спланировать миссию и послать шпионку в школу, чтобы схватить её подругу. \n\nМы поймали новую шпионку, но контроль над наноботами, похоже, ухудшается. Нужно проверить верстак, чтобы узнать, есть ли что-то полезное в базе данных WOOHP на этот счёт.{color=#b5b5b5}\n\n-Проверьте вкладку Оборудование на верстаке.{/color}\n\n-Похоже база данных защищенна. Для доступа к ней потребуется кто-то с компьютерными навыками."
 
     # game/status.rpy:1027
     old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\nWe brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\nI met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-(optional) Buy a bikini and send your spy to work at Mathias."
-    new ""
+    new "Обсудив ситуацию, стало ясно, что нам не помешает дополнительное подкрепление, чтобы вернуть Беверли-Хиллз. Нужно спланировать миссию и послать шпионку в школу, чтобы схватить её подругу. \n\nМы поймали новую шпионку, но контроль над наноботами, похоже, ухудшается. Нужно проверить верстак, чтобы узнать, есть ли что-то полезное в базе данных WOOHP на этот счёт.\n\n-Я встретил человека, который может взломать базу данных, но на это потребуется время. Я могу ускорить процесс, если уговорю одну из моих шпионок надеть бикини и навестить Матиаса.\n\n-(опционально) Купите бикини и отправьте шпионку к Матиасу."
 
     # game/status.rpy:1256
     old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Discuss using the V.I.B. with the girls."
-    new ""
+    new "Обсудив ситуацию, стало ясно, что нам не помешает дополнительное подкрепление, чтобы вернуть Беверли-Хиллз. Нужно спланировать миссию и послать шпионку в школу, чтобы схватить её подругу. \n\n-Мы поймали новую шпионку, но контроль над наноботами, похоже, ухудшается. Нужно проверить верстак, чтобы узнать, есть ли что-то полезное в базе данных WOOHP на этот счёт.\n\n-Я встретил человека, который может взломать базу данных, но на это потребуется время. Я могу ускорить процесс, если уговорю одну из моих шпионок надеть бикини и навестить Матиаса.\n\n-Обсудите использование V.I.B. с девочками."
 
     # game/status.rpy:1292
     old "{size=-5}-The girls have reluctantly agreed to wear their V.I.B. from now on. Their vital signs can be read via the STATUS screen. However with power comes responsibility. How will I treat my spies?{/size}"
-    new ""
+    new "{size=-5}-Девушки неохотно согласились носить V.I.B.´ы с этого момента. Их жизненные показатели можно прочесть на экране STATUS. Однако с силой приходит и ответственность. Как я буду обращаться со своими шпионками?{/size}"
 
     # game/status.rpy:1479
     old "We liberated Clover who has joined us at the base. We also figured out a way to gain intel by going undercover with the gangs around town and money by working at the milkshake bar. We're a little closer in our goal to liberate Beverly Hills.\n\n-Reach rank 2 with the Aces."
-    new ""
+    new "Мы освободили Кловер, которая присоединилась к нам. Мы также придумали способ добывать информацию, работая под прикрытием в бандах по всему городу. А деньги, работая в нашем баре. Мы немного приблизились к освобождению Беверли-Хиллз.\n\n-Достичь 2-го ранга с тузами."
 
     # game/status.rpy:1666
     old "We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning.\n\n-Plan a mission to the Aces castle and capture Maggie T."
-    new ""
+    new "Мы нашли одного из лейтенантов Тузов, скрывающегося в замках. Нашим главным приоритетом должна быть её поимка и допрос.\n\n-Спланируйте миссию в замок Тузов и захватите Мэгги Ти."
 
     # game/status.rpy:1764
     old "We've located one of the Aces lieutenants hiding out at the Aces Castles. Our top priority should be to capture her and bring her back for questioning. We captured Maggie and locked her up, now all that's left to do is interrogate her.\n\n-Visit Maggie at her cell and interrogate her."
-    new ""
+    new "Мы нашли одного из лейтенантов Тузов, скрывающегося в замках. Нашим главным приоритетом должна быть её поимка и допрос. Мы захватили Мэгги и заперли её, теперь осталось только допросить.\n\n-Посетите Мэгги в камере и допросите её."
 
     # game/status.rpy:1924
     old "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Free at least 5 WOOHP Agents\n-Assault the Aces during the next Landgrab.\n\nTip: Remember, you can capture more agents by using {color=#ffeda6}Hypno Earrings{/color} during missions."
-    new ""
+    new "Мы нашли способ вывести главарей из укрытия. Если мы достаточно поиздеваемся над их бандой во время войны, они покажутся.\n\nЗатем, если наша репутация будет достаточно высокой, мы сможем подобраться к этим лейтенантам и попытаться захватить их.\n\n-Освободить не менее 5 агентов WOOHP\n-Напасть на Тузы во время следующего захвата территорий.\n\nСовет: Помните, что вы можете схватить больше агентов, используя {color=#ffeda6}Гипно-Серьги{/color} вовремя миссий."
 
     # game/status.rpy:2146
     old "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Reach rank 2 with Drift Punk and the Outsiders.\n-Capture the first Lieutenant of Drift Punk and the Outsiders."
-    new ""
+    new "Мы нашли способ вывести главарей из укрытия. Если мы достаточно поиздеваемся над их бандой во время войны, они покажутся.\n\nЗатем, если наша репутация будет достаточно высокой, мы сможем подобраться к этим лейтенантам и попытаться захватить их.\n\n-Достигните 2 ранга с Дрифт Панками и Аутсайдерам.\n-Захватите первого лейтенанта Дрифт Панков и Аутсайдеров."
 
     # game/status.rpy:2161
     old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\n-Top priority: Visit the school."
-    new ""
+    new "Девушки нашли последнею шпионку и узнали о собрании, проводимом в школе. Похоже, наше прикрытие ещё не раскрыто. Я могу послать девушек, чтобы собрать больше информации о происходящем и, возможно, вытащить желтую шпионку.\n\n\n-Приоритет: Посетить школу."
 
     # game/status.rpy:2263
     old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders."
@@ -35075,7 +35072,7 @@ translate russia strings:
 
     # game/status.rpy:6212
     old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000."
-    new ""
+    new "Мы собираемся устроить вечеринку, которую Тузы запомнят на долгие годы. Но нам нужно кое-что сделать.\n\n-Спланируйте миссию в Заброшенном парке развлечений и украдите фейерверки.\n-Спланируйте миссию в Панк-Вэб и украдите самый горячий микстейп.\n-Пойти в школу и найти девушек.\n-Иметь не менее $2.000."
 
     # game/status.rpy:6462
     old "Party till you drop (Completed)"
@@ -35260,4 +35257,10 @@ translate russia strings:
     # game/status.rpy:12998
     old "All major gang leaders have been captured and it's time to take the fight to WOOHP. Visit the airport to travel to WOOHP HQ and take back the taken.\n\n-Gather enough intel and freed agents to fight your way to the top of WOOHP HQ."
     new ""
+# TODO: Translation updated at 2022-01-02 14:17
 
+translate russia strings:
+
+    # game/status.rpy:335
+    old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}- with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???"
+    new ""

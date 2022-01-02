@@ -160,7 +160,7 @@ translate russia loadingLevel_211b2056:
 translate russia loadingLevel_77ea7a56:
 
     # y "Just throw the bondage gadget and watch the fireworks."
-    y "Просто брось (бандаж) и смотрите на шоу."
+    y "Просто бросьте Бандаж и смотрите на шоу."
 
 # game/mission.rpy:3351
 translate russia loadingLevel_49df6cfe_1:
@@ -256,7 +256,7 @@ translate russia loadingLevel_60d50e19:
 translate russia loadingLevel_013f72c3:
 
     # y "There's our banana. Quickly, throw the bondage gadget at her and let's get her out of here!"
-    y "А вот и наш бананчик. Быстро, набрось на неё (бандажный гаджет) и забирай её оттуда!"
+    y "А вот и наш бананчик. Быстро, набрось на неё Бандаж и забирай её оттуда!"
 
 # game/mission.rpy:3487
 translate russia loadingLevel_40cc819d:
@@ -274,7 +274,7 @@ translate russia missionBegin_20468a0f:
 translate russia missionBegin_a2fb3cde:
 
     # "V.I.B." "Danger! Nanobot control detected. Use your V.I.B. by pressing 1 on your keyboard."
-    "В.И.Б." "Опасность! Обнаружен контроль наноботов. Используйте свой В.И.Б. нажав 1 на клавиатуре."
+    "V.I.B.." "Опасность! Обнаружен контроль наноботов. Используйте свой V.I.B.. нажав 1 на клавиатуре."
 
 # game/mission.rpy:3802
 translate russia missionBegin_1f88b7b7:
@@ -436,7 +436,7 @@ translate russia allKnockedOut_9e361461:
 translate russia useVIB2_a27d18ce:
 
     # "Nanobot control still active! Keep using your VIB or the spy will run."
-    "Контроль над наноботом по-прежнему активен! Продолжайте использовать свой В.И.Б, иначе шпион может сбежать."
+    "Контроль над наноботом по-прежнему активен! Продолжайте использовать свой V.I.B., иначе шпион может сбежать."
 
 # game/mission.rpy:4783
 translate russia useVIB2_1f88b7b7:

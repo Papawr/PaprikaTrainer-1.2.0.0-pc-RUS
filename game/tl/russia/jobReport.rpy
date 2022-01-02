@@ -166,7 +166,7 @@ translate russia nextReport_a46bea9c:
 translate russia nextReport_42668c91:
 
     # s g28 "Working with the Aces is... {i}'challenging'{/i}. I've never seen anyone spent money so frivolously. I saw someone buy sneakers for a thousand dollars today. Sneakers!"
-    s g28 "Работа с тузами - это... {i}'невыносимо'{/i}. Я никогда не видел, чтобы кто-то так легкомысленно тратил деньги. Сегодня я видел, как кто-то купил кроссовки за тысячу долларов. Кроссовки! Карл!"
+    s g28 "Работать на Тузов -... {i}'невыносимо'{/i}. Я никогда не видела, чтобы кто-то так легкомысленно тратил деньги. Сегодня я видела, как кто-то купил кроссовки за тысячу долларов. Кроссовки! Карл!"
 
 # game/jobReport.rpy:223
 translate russia nextReport_f836880b:
@@ -178,13 +178,13 @@ translate russia nextReport_f836880b:
 translate russia nextReport_1aab7ee4:
 
     # y "When you can no longer impress others with your money, you gotta step it up."
-    y "(Когда вы уже не можете произвести впечатление на других своими деньгами, вы должны сделать шаг вперед.)"
+    y "Когда уже деньгами никого не удивишь, нужно как-то выкручиваться."
 
 # game/jobReport.rpy:225
 translate russia nextReport_bdd67bb7:
 
     # y "People buy all kinds of overpriced shit. Art, clothing, furniture. Just to impress."
-    y "Люди покупают всевозможное дерьмо по завышенным ценам. Искусство, одежда, мебель. Просто чтобы произвести впечатление."
+    y "Люди покупают всевозможное дерьмо по завышенным ценам. Искусство, одежду, мебель. Просто чтобы произвести впечатление."
 
 # game/jobReport.rpy:226
 translate russia nextReport_a56f367f:
@@ -346,13 +346,13 @@ translate russia nextReport_017960f5:
 translate russia nextReport_c78fb069:
 
     # s g37 "{b}*Scoffs*{/b} Do you really need to ask?{w} We went almost the entire day without spending a dime and then came across a street art store."
-    s g37 "{b}*Насмехается*{/b} Тебе действительно всё это интересно?{w} Почти весь день прошёл без траты денег, а потом наткнулись на магазин уличного искусства."
+    s g37 "{b}*Насмехается*{/b} Тебе действительно всё это интересно?{w} Почти весь день прошёл без траты денег, а потом мы наткнулись на магазин уличного искусства."
 
 # game/jobReport.rpy:262
 translate russia nextReport_606ad446:
 
     # s "One of the guys bought the artists full inventory on the spot... And then threatened him that if he ever made art again, he'd kill him."
-    s "Один из парней на месте купил всё портфолио художника... А затем пригрозил ему, что если он еще раз займется искусством, он его убьет."
+    s "Один из парней на месте купил всё портфолио художника... А затем пригрозил ему, что если он ещё раз займётся искусством, он его убьет."
 
 # game/jobReport.rpy:263
 translate russia nextReport_5f150c9f:
@@ -4834,7 +4834,7 @@ translate russia nextReport_dc2e34f6:
 translate russia nextReport_57e867b7:
 
     # c "Somehow the Outsiders got their hands on some valuable gemstones and decided to trade them with the Glimmers."
-    c "Каким-то образом Аутсайдеры заполучили в свои руки несколько ценных драгоценных камней и решили обменять их на Глиммеров."
+    c "Каким-то образом Аутсайдеры заполучили в свои руки несколько ценных драгоценных камней и решили обменять их у Глиммеров."
 
 # game/jobReport.rpy:1714
 translate russia nextReport_86edd8ea:
@@ -10577,3 +10577,10 @@ translate russia jump2me_e2bc6722:
     # game/jobReport.rpy:3801
     old "Despite the chaos, you manage to get some rest."
     new "Несмотря на хаос, вам удаётся немного отдохнуть."
+# TODO: Translation updated at 2022-01-02 14:17
+
+translate russia strings:
+
+    # game/jobReport.rpy:3801
+    old "Despite the chaos, you manage to get some rest."
+    new ""

@@ -2527,289 +2527,315 @@ translate russia strings:
 
     # game/script.rpy:337
     old "Gained [randIntel] INT"
-    new ""
+    new "Получено [randIntel] ИНФ"
 
     # game/script.rpy:346
     old "Gained $[randMoney]"
-    new ""
+    new "Получено $[randMoney]"
 
     # game/script.rpy:355
     old "Lore gathered"
-    new ""
+    new "Собранные сведения"
 
     # game/script.rpy:364
     old "Rep gained"
-    new ""
+    new "Полученная репутация"
 
     # game/script.rpy:373
     old "Item(s) gained"
-    new ""
+    new "Новый(е) предмет(ы)"
 
     # game/script.rpy:382
     old "Crew gained"
-    new ""
+    new "Захваченные"
 
     # game/script.rpy:393
     old "Quest photo added"
-    new ""
+    new "Добавлена фотография квеста"
 
     # game/script.rpy:614
     old "Spy: [greenName] \nLocation: [greenLocation] \nExpertise: Support"
-    new ""
+    new "Шпионка: [greenName] \nЛокация: [greenLocation] \nСпециализация: Поддержка"
 
     # game/script.rpy:624
     old "Spy: [redName] \nLocation: [redLocation] \nExpertise: Distraction"
-    new ""
+    new "Шпионка: [redName] \nЛокация: [redLocation] \nСпециализация: Отвлечение внимания"
 
     # game/script.rpy:634
     old "Spy: [yellowName] \nLocation: [yellowLocation] \nExpertise: Infiltration"
-    new ""
+    new "Шпионка: [yellowName] \nЛокация: [yellowLocation] \nСпециализация: Проникновение"
 
     # game/script.rpy:869
     old "{font=fonts/freshMarker.ttf}{size=-4}Noteriety{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=-4}Известность{/size}{/font}"
 
     # game/script.rpy:880
     old "{font=fonts/freshMarker.ttf}{size=-4}Cash{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=-4}Деньги{/size}{/font}"
 
     # game/script.rpy:891
     old "{font=fonts/freshMarker.ttf}{size=-4}Intel{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=-4}Инфо{/size}{/font}"
 
     # game/script.rpy:903
     old "{font=fonts/freshMarker.ttf}{size=-4}Agents{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=-4}Агенты{/size}{/font}"
 
     # game/script.rpy:908
     old "{font=fonts/freshMarker.ttf}{size=-4}Day: [daysPlayed]{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=-4}День: [daysPlayed]{/size}{/font}"
 
     # game/script.rpy:935
     old "Sam{#tbs}"
-    new ""
+    new "Сэм"
 
     # game/script.rpy:938
     old "???{#tbs}"
-    new ""
+    new "???"
 
     # game/script.rpy:941
     old "Clover{#tbs}"
-    new ""
+    new "Кловер"
 
     # game/script.rpy:947
     old "Alex{#tbs}"
-    new ""
+    new "Алекс"
 
     # game/script.rpy:1101
     old "{font=fonts/freshmarker.ttf}{size=+18}Aces{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+18}Тузы{/size}{/font}"
 
     # game/script.rpy:1153
     old "{font=fonts/freshmarker.ttf}{size=+12}Drift Punk{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+12}Дрифт Панки{/size}{/font}"
 
     # game/script.rpy:1201
     old "{font=fonts/freshmarker.ttf}{size=+14}Outsiders{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+14}Аутсайдеры{/size}{/font}"
 
     # game/script.rpy:2163
     old "{font=fonts/freshmarker.ttf}{size=+18}Drift Punk{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+18}Дрифт Панки{/size}{/font}"
 
     # game/script.rpy:2182
     old "{font=fonts/freshmarker.ttf}{size=+18}Outsiders{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+18}Аутсайдеры{/size}{/font}"
 
     # game/script.rpy:4907
     old "{font=fonts/freshmarker.ttf}{size=+5}Angelic{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+5}Ангельский{/size}{/font}"
 
     # game/script.rpy:4909
     old "{font=fonts/freshmarker.ttf}{size=+5}Heroic{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+5}Героичный{/size}{/font}"
 
     # game/script.rpy:4911
     old "{font=fonts/freshmarker.ttf}{size=+5}Good{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+5}Хорошая{/size}{/font}"
 
     # game/script.rpy:4913
     old "{font=fonts/freshmarker.ttf}{size=+5}Dubious{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+5}Сомнительно{/size}{/font}"
 
     # game/script.rpy:4915
     old "{font=fonts/freshmarker.ttf}{size=+5}Moralless{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+5}Безнравственный{/size}{/font}"
 
     # game/script.rpy:4917
     old "{font=fonts/freshmarker.ttf}{size=+5}Evil{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+5}Злой{/size}{/font}"
 
     # game/script.rpy:4973
     old "{font=fonts/freshmarker.ttf}{size=+40}SAM{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+40}СЭМ{/size}{/font}"
 
     # game/script.rpy:4975
     old "{font=fonts/freshmarker.ttf}Healthy{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Здорова{/font}"
 
     # game/script.rpy:4978
     old "{font=fonts/freshmarker.ttf}Hurt{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Ранена{/font}"
 
     # game/script.rpy:4981
     old "{font=fonts/freshmarker.ttf}}Badly hurt{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}}Сильно ранена{/font}"
 
     # game/script.rpy:4985
     old "{font=fonts/freshmarker.ttf}Prudish{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Ханжа{/font}"
 
     # game/script.rpy:4987
     old "{font=fonts/freshmarker.ttf}Flirty{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Кокетливая{/font}"
 
     # game/script.rpy:4989
     old "{font=fonts/freshmarker.ttf}}Promiscuous{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}}Распутная{/font}"
 
     # game/script.rpy:4991
     old "{font=fonts/freshmarker.ttf}}Slutty{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}}Похотливая{/font}"
 
     # game/script.rpy:4993
     old "{font=fonts/freshmarker.ttf}}Whorish{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}}Блядский{/font}"
 
     # game/script.rpy:4996
     old "{font=fonts/freshmarker.ttf}Depressed{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Подавленный{/font}"
 
     # game/script.rpy:4998
     old "{font=fonts/freshmarker.ttf}Very low{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Очень низкий{/font}"
 
     # game/script.rpy:5000
     old "{font=fonts/freshmarker.ttf}Low{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Низкий{/font}"
 
     # game/script.rpy:5002
     old "{font=fonts/freshmarker.ttf}Normal{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Нормальный{/font}"
 
     # game/script.rpy:5004
     old "{font=fonts/freshmarker.ttf}High{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Высокий{/font}"
 
     # game/script.rpy:5006
     old "{font=fonts/freshmarker.ttf}Very high{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Очень высокий{/font}"
 
     # game/script.rpy:5017
     old "{font=fonts/freshmarker.ttf}Medium{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}Средний{/font}"
 
     # game/script.rpy:5031
     old "{font=fonts/freshmarker.ttf}{size=+40}CLOVER{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+40}КЛОВЕР{/size}{/font}"
 
     # game/script.rpy:5090
     old "{font=fonts/freshmarker.ttf}{size=+40}ALEX{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+40}АЛЕКС{/size}{/font}"
 
     # game/script.rpy:12353
     old "{font=fonts/freshMarker.ttf}ACES{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}ТУЗЫ{/font}"
 
     # game/script.rpy:12355
     old "{font=fonts/freshMarker.ttf}DRIFT PUNK{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}ДРИФТ ПАНКИ{/font}"
 
     # game/script.rpy:12357
     old "{font=fonts/freshMarker.ttf}OUTSIDERS{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}АУТСАЙДЕРЫ{/font}"
 
     # game/script.rpy:12359
     old "{font=fonts/freshMarker.ttf}LES EPINES{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}ШИПЫ{/font}"
 
     # game/script.rpy:12361
     old "{font=fonts/freshMarker.ttf}HUNTERS{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}Охотники{/font}"
 
     # game/script.rpy:12363
     old "{font=fonts/freshMarker.ttf}GLIMMERS{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}ГЛИММЕРЫ{/font}"
 
     # game/script.rpy:12365
     old "{font=fonts/freshMarker.ttf}EXCHANGE{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}ОБМЕН{/font}"
 
     # game/script.rpy:12367
     old "{font=fonts/freshMarker.ttf}WOOHP{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}WOOHP{/font}"
 
     # game/script.rpy:12369
     old "{font=fonts/freshMarker.ttf}MISC.{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}РАЗНОЕ{/font}"
 
     # game/script.rpy:12372
     old "{font=fonts/freshMarker.ttf}{size=+34}ACES{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+34}ТУЗЫ{/size}{/font}"
 
     # game/script.rpy:12374
     old "{font=fonts/freshMarker.ttf}{size=+25}DRIFT PUNK{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+25}ДРИФТ ПАНКИ{/size}{/font}"
 
     # game/script.rpy:12376
     old "{font=fonts/freshMarker.ttf}{size=+30}OUTSIDERS{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+30}АУТСАЙДЕРЫ{/size}{/font}"
 
     # game/script.rpy:12378
     old "{font=fonts/freshMarker.ttf}{size=+25}LES EPINES{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+25}ШИПЫ{/size}{/font}"
 
     # game/script.rpy:12380
     old "{font=fonts/freshMarker.ttf}{size=+30}HUNTERS{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+30}ОХОТНИКИ{/size}{/font}"
 
     # game/script.rpy:12382
     old "{font=fonts/freshMarker.ttf}{size=+30}GLIMMERS{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+30}ГЛИММЕРЫ{/size}{/font}"
 
     # game/script.rpy:12384
     old "{font=fonts/freshMarker.ttf}{size=+30}EXCHANGE{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+30}ОБМЕН{/size}{/font}"
 
     # game/script.rpy:12386
     old "{font=fonts/freshMarker.ttf}{size=+36}WOOHP{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+36}WOOHP{/size}{/font}"
 
     # game/script.rpy:12388
     old "{font=fonts/freshMarker.ttf}{size=+33}MISC.{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+33}РАЗНОЕ{/size}{/font}"
 
     # game/script.rpy:12391
     old "{font=fonts/freshMarker.ttf}{size=+3}Entry 1{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+3}Пункт 1{/size}{/font}"
 
     # game/script.rpy:12394
     old "{font=fonts/freshMarker.ttf}{size=+3}Entry 2{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+3}Пункт 2{/size}{/font}"
 
     # game/script.rpy:12397
     old "{font=fonts/freshMarker.ttf}{size=+3}Entry 3{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+3}Пункт 3{/size}{/font}"
 
     # game/script.rpy:12400
     old "{font=fonts/freshMarker.ttf}{size=+3}Entry 4{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+3}Пункт 4{/size}{/font}"
 
     # game/script.rpy:12403
     old "{font=fonts/freshMarker.ttf}{size=+3}Entry 5{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+3}Пункт 5{/size}{/font}"
 
     # game/script.rpy:12406
     old "{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}"
-    new ""
+    new "{font=fonts/freshMarker.ttf}{size=+3}Пункт 6{/size}{/font}"
+# TODO: Translation updated at 2022-01-02 14:50
 
+translate russia strings:
+
+    # game/script.rpy:5073
+    old "{font=fonts/freshmarker.ttf}Low{/font}{#slvlc}"
+    new "{font=fonts/freshmarker.ttf}Низкий{/font}{#slvlc}"
+
+    # game/script.rpy:5075
+    old "{font=fonts/freshmarker.ttf}Medium{/font}{#slvlc}"
+    new "{font=fonts/freshmarker.ttf}Средний{/font}{#slvlc}"
+
+    # game/script.rpy:5077
+    old "{font=fonts/freshmarker.ttf}High{/font}{#slvlc}"
+    new "{font=fonts/freshmarker.ttf}Высокий{/font}{#slvlc}"
+
+    # game/script.rpy:5135
+    old "{font=fonts/freshmarker.ttf}Low{/font}{#slvla}"
+    new "{font=fonts/freshmarker.ttf}Низкий{/font}{#slvla}"
+
+    # game/script.rpy:5137
+    old "{font=fonts/freshmarker.ttf}Medium{/font}{#slvla}"
+    new "{font=fonts/freshmarker.ttf}Средний{/font}{#slvla}"
+
+    # game/script.rpy:5139
+    old "{font=fonts/freshmarker.ttf}High{/font}{#slvla}"
+    new "{font=fonts/freshmarker.ttf}Высокий{/font}{#slvla}"

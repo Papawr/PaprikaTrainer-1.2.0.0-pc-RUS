@@ -174,7 +174,7 @@ default greenTatPuss = 0
 default greenTatFoot = 0
 
 
-default samNick = _("Cucumber")
+default samNick = _("Cucumber {#dsn}")
 default samHealth = 3
 default samMood = 100
 default samSocial = 0
@@ -182,7 +182,7 @@ default samSlut = 0
 default samDailyChat = 0
 default nanoLevelSam = 10
 default samSupLvl = 0
-default samFriend = _("Acquaintance")
+default samFriend = _("Acquaintance {#dsf}")
 default samHPTimer = 0
 default samTitSize = 1
 
@@ -874,7 +874,7 @@ screen eyesChange:
 
 
 
-default cloverNick = "Girl"
+default cloverNick = _("Girl{#dcn}")
 default cloverHealth = 3
 default cloverSlut = 0
 default cloverMood = 100
@@ -882,7 +882,7 @@ default cloverSocial = 0
 default cloverDailyChat = 0
 default nanoLevelClover = 10
 default cloverSupLvl = 0
-default cloverFriend = "Acquaintance"
+default cloverFriend = _("Acquaintance{#dcf}")
 default cloverHPTimer = 0
 default cloverTitSize = 1
 
@@ -1536,7 +1536,7 @@ image top5Clover:
 
 
 
-default alexNick = "Girl"
+default alexNick = _("Girl{#dan}")
 default alexHealth = 3
 default alexSlut = 0
 default alexMood = 100
@@ -1544,7 +1544,7 @@ default alexSocial = 0
 default alexDailyChat = 0
 default nanoLevelAlex = 10
 default alexSupLvl = 0
-default alexFriend = "Acquaintance"
+default alexFriend = _("Acquaintance{#daf}")
 default alexHPTimer = 0
 default alexTitSize = 1
 

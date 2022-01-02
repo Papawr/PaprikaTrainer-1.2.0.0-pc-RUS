@@ -418,7 +418,7 @@ translate russia samSocial_45fb4aaf:
 translate russia samSocial_a0c44c30:
 
     # s "Don't take this the wrong way, but we need to focus and be on our guard at all times."
-    s "Не пойми меня неправильно, но нам нужно сосредоточиться на деле и оставаться на начеку."
+    s "Не пойми меня неправильно, но нам нужно сосредоточиться на деле и оставаться начеку."
 
 # game/social.rpy:219
 translate russia samSocial_318132a7:
@@ -436,7 +436,7 @@ translate russia samSocial_abef9874:
 translate russia samSocial_226f1b90:
 
     # s "No, not even for that."
-    s "Нет, даже на это."
+    s "Нет, нельзя."
 
 # game/social.rpy:222
 translate russia samSocial_1c8f9e46:
@@ -9902,5 +9902,4 @@ translate russia strings:
 
     # game/social.rpy:17
     old "{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}"
-    new ""
-
+    new "{font=fonts/freshMarker.ttf}{size=-4}Контроль Наноботов{/size}{/font}"

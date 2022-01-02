@@ -1156,7 +1156,7 @@ translate russia hackSkipIntro_33fe0bcb:
 translate russia hackSkipIntro_7d3b7732:
 
     # mat "It's a gadget this time. Some sort of distraction powder bomb."
-    mat "На этот раз это гаджет. Что-то вроде отвлекающей гранаты."
+    mat "На этот раз это гаджет. Что-то вроде гранаты с отвлекающим порошком."
 
 # game/worldmap.rpy:1945
 translate russia hackSkipIntro_33fe0bcb_1:
@@ -2020,7 +2020,7 @@ translate russia pictureLabel_a23669b1:
 translate russia explore_5d628030:
 
     # "You spend the day exploring the city."
-    "Вы проведете день, изучая город."
+    "Вы проводите день, изучая город."
 
 # game/worldmap.rpy:3140
 translate russia explore_90dc1f52:
@@ -7776,7 +7776,7 @@ translate russia strings:
 
     # game/worldmap.rpy:1223
     old "{color=#EFD66D}'Introducing the Aces'{/color}"
-    new "{color=#EFD66D}'Представить Тузов'{/color}"
+    new "{color=#EFD66D}'Знакомьтесь, Тузы!'{/color}"
 
     # game/worldmap.rpy:1229
     old "{color=#EFD66D}'A Foot in the Door'{/color}"
@@ -8234,53 +8234,52 @@ translate russia strings:
 
     # game/worldmap.rpy:27
     old "Needing a source of income, you've decided to rebuild the milkshake bar and turn it into a sleazy restaurant.\n \n-Fix up the bar by either working on it yourself, sending your spy to clean it for you, or both.\n \n-The bar has been fixed now all that's left to do is pick up a sexy waitress uniform for your spy.\n \n-Task completed!"
-    new ""
+    new "Нуждаясь в источнике дохода, вы решили перестроить бар и превратить его в захудалый ресторан.\n \n-Работайте над баром самостоятельно или отправляйте свою шпионку работать над его улучшением.\n \n-Бар выглядит идеально, теперь осталось только подобрать сексуальную униформу официантки для вашей шпионки.\n \n-Квест выполнен!"
 
     # game/worldmap.rpy:194
     old "{size=+1}GAME OVER{/size}"
-    new ""
+    new "{size=+1}ИГРА ОКОНЧЕНА{/size}"
 
     # game/worldmap.rpy:1913
     old "Discussing the situation, it's become clear that we could use the extra backup to take back Beverly Hills. I should set up a mission and send my spy back to school to capture her friend. \n\n-We brought back a new spy, but the nanobot control seems to be getting worse. I should check my crafting table to see if there's something in WOOHP's database about that.\n\n-I met someone who can hack into the network, but it will take time. I could speed things up by convincing one of my spies to wear a bikini and visit Mathias.\n\n-Craft the V.I.B. via de gadget screen."
-    new ""
+    new "Обсудив ситуацию, стало ясно, что нам не помешает дополнительное подкрепление, чтобы вернуть Беверли-Хиллз. Нужно спланировать миссию и послать шпионку в школу, чтобы схватить её подругу. \n\n-Мы поймали новую шпионку, но контроль над наноботами, похоже, ухудшается. Нужно проверить верстак, чтобы узнать, есть ли что-то полезное в базе данных WOOHP на этот счёт.\n\n-Я встретил человека, который может взломать базу данных, но на это потребуется время. Я могу ускорить процесс, если уговорю одну из моих шпионок надеть бикини и навестить Матиаса.\n\n-Сделать V.I.B.. через экран гаджетов."
 
     # game/worldmap.rpy:2554
     old "-Take a picture of any of your spies wearing the milkshake uniform."
-    new ""
+    new "-Сфотографируйте любую из ваших шпионок в униформе бара."
 
     # game/worldmap.rpy:2580
     old "-Take a picture of any of your spies in their underwear."
-    new ""
+    new "-Сфотографируйте любую из ваших шпионок в нижнем белье."
 
     # game/worldmap.rpy:2606
     old "-Take a picture of a topless girl, but keep it sexy."
-    new ""
+    new "-Сфотографируйте девушку топлесс, но сделайте это сексуально."
 
     # game/worldmap.rpy:2638
     old "-Take a picture of a naked girl, but keep it sexy"
-    new ""
+    new "-Сфотографируйте голую девушку, но сделайте это сексуально."
 
     # game/worldmap.rpy:2664
     old "Take a picture of a girl on full display, baring it all."
-    new ""
+    new "Сфотографируйте девушку в полный рост, полностью голой."
 
     # game/worldmap.rpy:2689
     old "-Take a picture of one of your spies using her dildo."
-    new ""
+    new "-Сфотографируйте, как одна из ваших шпионок использует дилдо."
 
     # game/worldmap.rpy:2718
     old "-Take a picture of one of your spies preforming foreplay."
-    new ""
+    new "-Сфотографируйте одну из ваших шпионок во время прелюдия."
 
     # game/worldmap.rpy:2754
     old "-Take a picture of a spy having sex."
-    new ""
+    new "-Сфотографируйте шпионку вовремя секса."
 
     # game/worldmap.rpy:2784
     old "-Take a picture of a spy having anal sex."
-    new ""
+    new "-Сфотографируйте шпионку вовремя анального секса."
 
     # game/worldmap.rpy:2814
     old "-Take a picture of the spies in a foursome."
-    new ""
-
+    new "-Сфотографируйте шпионок в \"четвером\"."

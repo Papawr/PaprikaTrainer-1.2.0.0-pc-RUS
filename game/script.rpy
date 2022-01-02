@@ -5070,11 +5070,11 @@ screen status:
 
 
         if cloverSupLvl == 1:
-            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Low{/font}{#slvlc}") xalign 0.91 yalign 0.94
         if cloverSupLvl == 2:
-            text _("{font=fonts/freshmarker.ttf}Medium{/font}") xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Medium{/font}{#slvlc}") xalign 0.91 yalign 0.94
         if cloverSupLvl == 3:
-            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}High{/font}{#slvlc}") xalign 0.91 yalign 0.94
 
 
         if task2Stage >= 10:
@@ -5132,11 +5132,11 @@ screen status:
 
 
         if alexSupLvl == 1:
-            text _("{font=fonts/freshmarker.ttf}Low{/font}") xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Low{/font}{#slvla}") xalign 0.91 yalign 0.94
         if alexSupLvl == 2:
-            text _("{font=fonts/freshmarker.ttf}Medium{/font}") xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}Medium{/font}{#slvla}") xalign 0.91 yalign 0.94
         if alexSupLvl == 3:
-            text _("{font=fonts/freshmarker.ttf}High{/font}") xalign 0.91 yalign 0.94
+            text _("{font=fonts/freshmarker.ttf}High{/font}{#slvla}") xalign 0.91 yalign 0.94
 
 
         if task2Stage >= 10:

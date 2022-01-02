@@ -1,20 +1,38 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-After initialization, but before game start.
-WindowsError: [Error 32] Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird
+While running game code:
+  File "renpy/common/00start.rpy", line 189, in script
+    python:
+  File "renpy/common/00start.rpy", line 190, in <module>
+    renpy.execute_default_statement(True)
+  File "game/characters.rpy", line 1539, in set_default
+    default alexNick = _()
+  File "game/characters.rpy", line 1539, in <module>
+    default alexNick = _()
+TypeError: _() takes exactly 1 argument (0 given)
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "renpy/bootstrap.py", line 331, in bootstrap
-    renpy.main.main()
-  File "renpy/main.py", line 612, in main
-    renpy.dump.dump(False)
-  File "renpy/dump.py", line 260, in dump
-    os.rename(new, filename)
-WindowsError: [Error 32] Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird
+  File "renpy/common/00start.rpy", line 189, in script
+    python:
+  File "renpy/ast.py", line 928, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "renpy/python.py", line 2245, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 190, in <module>
+    renpy.execute_default_statement(True)
+  File "renpy/exports.py", line 3753, in execute_default_statement
+    i.set_default(start)
+  File "game/characters.rpy", line 1539, in set_default
+    default alexNick = _()
+  File "renpy/python.py", line 2269, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/characters.rpy", line 1539, in <module>
+    default alexNick = _()
+TypeError: _() takes exactly 1 argument (0 given)
 
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
 Paprika Trainer 1.2.0.0
-Tue Dec 28 21:12:48 2021
+Sun Jan  2 14:20:27 2022

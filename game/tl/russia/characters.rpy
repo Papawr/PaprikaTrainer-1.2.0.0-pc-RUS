@@ -102,14 +102,6 @@ translate russia strings:
     old "Nerd"
     new "Гик"
 
-    # game/characters.rpy:185
-    old "Acquaintance"
-    new ""
-
-    # game/characters.rpy:177
-    old "Cucumber"
-    new "Огурчик"
-
     # game/characters.rpy:36
     old "[greenName]"
     new "Сэм"
@@ -125,3 +117,27 @@ translate russia strings:
     # game/characters.rpy:39
     old "Alex[#dsM]"
     new "Алекс"
+
+    # game/characters.rpy:177
+    old "Cucumber {#dsn}"
+    new "Огурчик {#dsn}"
+
+    # game/characters.rpy:185
+    old "Acquaintance {#dsf}"
+    new "Знакомый {#dsf}"
+
+    # game/characters.rpy:877
+    old "Girl{#dcn}"
+    new "Девочка"
+
+    # game/characters.rpy:885
+    old "Acquaintance{#dcf}"
+    new "Знакомый{#dcf}"
+
+    # game/characters.rpy:1539
+    old "Girl{#dan}"
+    new "Девочка"
+
+    # game/characters.rpy:1547
+    old "Acquaintance{#daf}"
+    new "Знакомый{#daf}"
