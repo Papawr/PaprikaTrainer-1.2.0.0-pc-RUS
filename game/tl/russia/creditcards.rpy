@@ -10,157 +10,157 @@ translate russia creditcards_0bce2002:
 translate russia creditcards_155b4a1c:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:78
 translate russia creditcards_155b4a1c_1:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:88
 translate russia creditcards_155b4a1c_2:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:98
 translate russia creditcards_155b4a1c_3:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:108
 translate russia creditcards_155b4a1c_4:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:118
 translate russia creditcards_155b4a1c_5:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:128
 translate russia creditcards_155b4a1c_6:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:138
 translate russia creditcards_155b4a1c_7:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:148
 translate russia creditcards_155b4a1c_8:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:158
 translate russia creditcards_155b4a1c_9:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:168
 translate russia creditcards_155b4a1c_10:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:178
 translate russia creditcards_155b4a1c_11:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:188
 translate russia creditcards_155b4a1c_12:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:198
 translate russia creditcards_155b4a1c_13:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:208
 translate russia creditcards_155b4a1c_14:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:218
 translate russia creditcards_155b4a1c_15:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:228
 translate russia creditcards_155b4a1c_16:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:238
 translate russia creditcards_155b4a1c_17:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:248
 translate russia creditcards_155b4a1c_18:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:258
 translate russia creditcards_155b4a1c_19:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:268
 translate russia creditcards_155b4a1c_20:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:278
 translate russia creditcards_155b4a1c_21:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:288
 translate russia creditcards_155b4a1c_22:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:301
 translate russia creditcards_155b4a1c_23:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:310
 translate russia creditcards_155b4a1c_24:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:319
 translate russia creditcards_155b4a1c_25:
 
     # "This reward has already been claimed."
-    "Ты уже получил эту награду."
+    "Вы уже получили эту награду."
 
 # game/creditcards.rpy:330
 translate russia creditcards_9a3d66bd:
@@ -190,7 +190,7 @@ translate russia creditcards_a6345e82:
 translate russia creditcards_4f306706:
 
     # "Unrecognised code."
-    "Нераспознанный код."
+    "Неправильный код."
 
 # game/creditcards.rpy:740
 translate russia monthlyRewards_ee4df656:
@@ -474,7 +474,7 @@ translate russia strings:
 
     # game/creditcards.rpy:3567
     old "Apple Seed [herbHeal]"
-    new "Семя яблони [herbHeal]"
+    new "Яблочное семя [herbHeal]"
 
     # game/creditcards.rpy:3567
     old "Vigor Leaf [herbAphro]"
@@ -486,7 +486,7 @@ translate russia strings:
 
     # game/creditcards.rpy:3567
     old "Goldthorn [herbGold]"
-    new "Золотой терновник [herbGold]"
+    new "Золоторог [herbGold]"
 
     # game/creditcards.rpy:3567
     old "Whisper Weed [herbWhisper]"
@@ -494,11 +494,12 @@ translate russia strings:
 
     # game/creditcards.rpy:3567
     old "Rebel Weed [herbRebel]"
-    new "Бунтарка [herbRebel]"
-# TODO: Translation updated at 2021-12-29 19:51
-
-translate russia strings:
+    new "Мятежница [herbRebel]"
 
     # game/creditcards.rpy:415
     old "{size=+40}{color=#000000}{font=fonts/freshmarker.ttf}Lowlife{/font}{/color}{/size}"
     new "{size=+40}{color=#000000}{font=fonts/freshmarker.ttf}Ничтожество{/font}{/color}{/size}"
+
+    # game/creditcards.rpy:63
+    old "Enter code..."
+    new "Введите код..."

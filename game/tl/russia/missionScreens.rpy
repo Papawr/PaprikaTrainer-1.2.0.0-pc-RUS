@@ -1868,3 +1868,11 @@ translate russia strings:
     # game/missionScreens.rpy:6262
     old "Medkit"
     new "Аптечка"
+
+    # game/missionScreens.rpy:6238
+    old "Potions{#3}"
+    new "Зелья"
+
+    # game/missionScreens.rpy:6254
+    old "Items{#2}"
+    new "Вещи"

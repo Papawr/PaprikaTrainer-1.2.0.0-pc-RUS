@@ -70,7 +70,7 @@ translate russia candyAction_20bd17e7:
 translate russia candyAction_4a877d1d:
 
     # "You ate all of the candy.{w} Remember to brush your teeth!"
-    "Ты съел все конфеты. Не забудь почистить зубы!"
+    "Вы съели все конфеты.{w} Не забудьте почистить зубы!"
 
 # game/items.rpy:3671
 translate russia candyAction_a1c3c905:
@@ -100,7 +100,7 @@ translate russia inspMats_7d2ae6aa:
 translate russia sellLoot_6f65b38a:
 
     # "You quickly go through the phones."
-    "Ты быстро просматриваешь телефоны."
+    "Вы быстро просматриваете телефоны."
 
 # game/items.rpy:3700
 translate russia sellLoot_7fb55c24:
@@ -124,55 +124,55 @@ translate russia sellLoot_0a7a9904:
 translate russia sellLoot_1d92b38c:
 
     # "You delete the girl's nude pictures."
-    "Ты удаляешь фотографии обнаженной девушки."
+    "Вы удаляете фотографии обнаженной девушки."
 
 # game/items.rpy:3712
 translate russia sellLoot_55f2b3df:
 
     # "You sell the phones."
-    "Ты продаёшь телефоны."
+    "Вы продаёте телефоны."
 
 # game/items.rpy:3718
 translate russia sellLoot_3f1d6a88:
 
     # "There isn't anything interesting on them and you decide to sell them all."
-    "На них нет ничего интересного, и ты решаешь продать все."
+    "На них нет ничего интересного, и вы решаете продать все."
 
 # game/items.rpy:3724
 translate russia sellLoot_49c790c7:
 
     # "You brief through the exams."
-    "Ты кратко излагаешь суть экзаменов."
+    "Вы кратко излагаешь суть экзаменов."
 
 # game/items.rpy:3727
 translate russia sellLoot_87b87995:
 
     # "You find one that's going to be of particular value and manage to sell it for a special price."
-    "Ты находишь (телефон), который представляет особую ценность. Тебе удается продать его по специальной цене."
+    "Вы находите телефон, который представляет особую ценность. Вам удаётся продать его по специальной цене."
 
 # game/items.rpy:3730
 translate russia sellLoot_4b12f7bb:
 
     # "You quickly manage to sell the rest of the exam answers via the internet."
-    "Тебе быстро удается продать остальные экзаменационные ответы через Интернет."
+    "Вам быстро удаётся продать остальные экзаменационные ответы через Интернет."
 
 # game/items.rpy:3737
 translate russia sellLoot_8ddc92c2:
 
     # "You don't find anything special on the exam awnsers, but decide to sell them anyways."
-    "Ты не находишь ничего особенного в экзаменационных проспектах, но все равно решаешь их продать."
+    "Вы не находите ничего особенного в экзаменационных проспектах, но всё равно решаете их продать."
 
 # game/items.rpy:3741
 translate russia sellLoot_4d8b1fab:
 
     # "Some students are willing to pay you for them! You make $[randMoney]."
-    "Некоторые студенты готовы заплатить за них! Ты зарабатываешь $[randMoney]."
+    "Некоторые студенты готовы заплатить за них! Вы зарабатываете $[randMoney]."
 
 # game/items.rpy:3745
 translate russia sellLoot_9ace007c:
 
     # "You sell the trophies."
-    "Ты продаешь трофеи."
+    "Вы продаёте трофеи."
 
 # game/items.rpy:3765
 translate russia inspLoot_e8a17362:
@@ -184,25 +184,25 @@ translate russia inspLoot_e8a17362:
 translate russia inspHerbs_3872e47b:
 
     # "You have the following herbs:\n[herbHeal]x Apple Seed.\n[herbAphro]x Vigor Leaf.\n[herbRebel]x Rebel Weed"
-    "У тебя есть следующие травы:\n[herbHeal]x Яблочное семя.\n[herbAphro]x Бодрый лист.\n[herbRebel]x (Мятежница)"
+    "У вас есть следующие травы:\n[herbHeal]x Яблочное семя.\n[herbAphro]x Бодрый лист.\n[herbRebel]x Мятежница"
 
 # game/items.rpy:3775
 translate russia inspHerbs_e42c59d4:
 
     # "[herbWeed]x Green Herb.\n[herbMutant]x Strange Vine.\n[herbGold]x Goldthorn.\n[herbWhisper]x Whisper Weed."
-    "[herbWeed]x Зеленая трава.\n[herbMutant]x Странная лоза.\n[herbGold]x Золотой терновник.\n[herbWhisper]x Шепчущая трава."
+    "[herbWeed]x Зелёная трава.\n[herbMutant]x Странная лоза.\n[herbGold]x Золоторог.\n[herbWhisper]x Шептун."
 
 # game/items.rpy:3776
 translate russia inspHerbs_3c61aa12:
 
     # "You can gain more from herbs working for Les Epines."
-    "Ты можешь получить больше пользы от трав, работая в Les Epines."
+    "Вы можете получить больше пользы от трав, работая нп \"Шипов\"."
 
 # game/items.rpy:3778
 translate russia inspHerbs_d442fe85:
 
     # "Visit your WOOHP HQ Laboratory to further develop your herbs into medicine."
-    "Посети лабораторию штаб-квартиры WOOHP, чтобы продолжить разработку лекарственных трав."
+    "Посетите лабораторию штаб-квартиры WOOHP, чтобы продолжить разработку лекарственных трав."
 
 # game/items.rpy:3844
 translate russia inspInjectorSmall_4861afa9:
@@ -232,7 +232,7 @@ translate russia useInjectorSmall_8c6e9a49:
 translate russia injectButton_8bd0ca6c:
 
     # "You unlocked a new skill!"
-    "Ты разблокировал новый навык!"
+    "Вы разблокировали новый навык!"
 
 # game/items.rpy:3885
 translate russia injectButton_f3aa000e:
@@ -244,7 +244,7 @@ translate russia injectButton_f3aa000e:
 translate russia injectButton_8bd0ca6c_1:
 
     # "You unlocked a new skill!"
-    "Ты разблокировал новый навык!"
+    "Вы разблокировали новый навык!"
 
 # game/items.rpy:3894
 translate russia injectButton_452ab4f5:
@@ -256,7 +256,7 @@ translate russia injectButton_452ab4f5:
 translate russia injectButton_8bd0ca6c_2:
 
     # "You unlocked a new skill!"
-    "Ты разблокировал новый навык!"
+    "Вы разблокировали новый навык!"
 
 # game/items.rpy:3903
 translate russia injectButton_c5e00700:
@@ -268,7 +268,7 @@ translate russia injectButton_c5e00700:
 translate russia injectButton_8bd0ca6c_3:
 
     # "You unlocked a new skill!"
-    "Ты разблокировал новый навык!"
+    "Вы разблокировали новый навык!"
 
 # game/items.rpy:3911
 translate russia injectButton_255d423e:
@@ -280,7 +280,7 @@ translate russia injectButton_255d423e:
 translate russia injectButton_8bd0ca6c_4:
 
     # "You unlocked a new skill!"
-    "Ты разблокировал новый навык!"
+    "Вы разблокировали новый навык!"
 
 # game/items.rpy:3918
 translate russia injectButton_1b84abe8:
@@ -292,7 +292,7 @@ translate russia injectButton_1b84abe8:
 translate russia injectButton_8bd0ca6c_5:
 
     # "You unlocked a new skill!"
-    "Ты разблокировал новый навык!"
+    "Вы разблокировали новый навык!"
 
 # game/items.rpy:3925
 translate russia injectButton_80a7a6af:
@@ -400,7 +400,7 @@ translate russia inspIntelBoost_cae52a7a:
 translate russia inspMatsBoost_54aa4db7:
 
     # "You unpack the material box and gained 3 new materials to craft gadgets with."
-    "Ты распаковываешь ящик с материалами и получаешь 3 новых материала для изготовления гаджетов."
+    "Вы открыли ящик с материалами и получаете 3 новых материала для изготовления гаджетов."
 
 # game/items.rpy:4125
 translate russia inspCashBoost_7dd097c5:
@@ -412,199 +412,199 @@ translate russia inspCashBoost_7dd097c5:
 translate russia openTreatBag_286c0db3:
 
     # "You find a pile of candy!"
-    "ТЫ нашёл кучу конфет!"
+    "Вы нашли кучу конфет!"
 
 # game/items.rpy:4175
 translate russia openTreatBag_d9288d4f:
 
     # "You unlock Clover's hat!"
-    "Ты разблокировал шляпу для Кловер!"
+    "Вы разблокировали шляпу для Кловер!"
 
 # game/items.rpy:4177
 translate russia openTreatBag_c2870cde:
 
     # "You unlock Someone's hat!"
-    "Ты разблокировал шляпу!"
+    "Вы разблокировали шляпу!"
 
 # game/items.rpy:4190
 translate russia openTreatBag_ebc3a874:
 
     # "You unlock Clover's mask!"
-    "Ты разблокировал маску для Кловер!"
+    "Вы разблокировали маску для Кловер!"
 
 # game/items.rpy:4192
 translate russia openTreatBag_4d70c0c6:
 
     # "You unlock Someone's mask!"
-    "Ты разблокировал маску!"
+    "Вы разблокировали маску!"
 
 # game/items.rpy:4206
 translate russia openTreatBag_b46fac15:
 
     # "You unlock Alex's hat!"
-    "Ты разблокировал шляпу для Алекс!"
+    "Вы разблокировали шляпу для Алекс!"
 
 # game/items.rpy:4208
 translate russia openTreatBag_c2870cde_1:
 
     # "You unlock Someone's hat!"
-    "Ты разблокировал шляпу!"
+    "Вы разблокировали шляпу!"
 
 # game/items.rpy:4222
 translate russia openTreatBag_0d2aec01:
 
     # "You unlock Clover's collar!"
-    "Ты разблокировал ошейник для Кловер!"
+    "Вы разблокировали ошейник для Кловер!"
 
 # game/items.rpy:4224
 translate russia openTreatBag_9b79c22c:
 
     # "You unlock Someone's collar!"
-    "Ты разблокировал ошейник!"
+    "Вы разблокировали ошейник!"
 
 # game/items.rpy:4237
 translate russia openTreatBag_13308f1a:
 
     # "You unlock Clover's gloves!"
-    "Ты разблокировал перчатки для Кловер!"
+    "Вы разблокировали перчатки для Кловер!"
 
 # game/items.rpy:4239
 translate russia openTreatBag_fc7103eb:
 
     # "You unlock Someone's gloves!"
-    "Ты разблокировал перчатки!"
+    "Вы разблокировали перчатки!"
 
 # game/items.rpy:4253
 translate russia openTreatBag_b5d284d0:
 
     # "You unlock Alex's pants!"
-    "Ты разблокировал штаны для Алекс!"
+    "Вы разблокировали штаны для Алекс!"
 
 # game/items.rpy:4255
 translate russia openTreatBag_9185a9f9:
 
     # "You unlock Someone's pants!"
-    "Ты разблокировал штаны!"
+    "Вы разблокировали штаны!"
 
 # game/items.rpy:4269
 translate russia openTreatBag_a1c7812c:
 
     # "You unlock Clover's shoes!"
-    "Ты разблокировал обувь для Кловер!"
+    "Вы разблокировали обувь для Кловер!"
 
 # game/items.rpy:4271
 translate russia openTreatBag_04654375:
 
     # "You unlock Someone's shoes!"
-    "Ты разблокировал обувь!"
+    "Вы разблокировали обувь!"
 
 # game/items.rpy:4285
 translate russia openTreatBag_25602851:
 
     # "You unlock Alex's coat!"
-    "Ты разблокировал пальто для Алекс!"
+    "Вы разблокировали пальто для Алекс!"
 
 # game/items.rpy:4287
 translate russia openTreatBag_c98f9ac8:
 
     # "You unlock Someone's coat!"
-    "Ты разблокировал пальто!"
+    "Вы разблокировали пальто!"
 
 # game/items.rpy:4301
 translate russia openTreatBag_c6ca16b3:
 
     # "You unlock Sam's top!"
-    "Ты разблокировал топ для Сэм!"
+    "Вы разблокировали топ для Сэм!"
 
 # game/items.rpy:4303
 translate russia openTreatBag_3aa0dc22:
 
     # "You unlock Someone's top!"
-    "Ты разблокировал топ!"
+    "Вы разблокировали топ!"
 
 # game/items.rpy:4316
 translate russia openTreatBag_980cb425:
 
     # "You unlock Sam's shoes!"
-    "Ты разблокировал обувь для Сэм!"
+    "Вы разблокировали обувь для Сэм!"
 
 # game/items.rpy:4318
 translate russia openTreatBag_04654375_1:
 
     # "You unlock Someone's shoes!"
-    "Ты разблокировал обувь!"
+    "Вы разблокировали обувь!"
 
 # game/items.rpy:4332
 translate russia openTreatBag_08b43b2a:
 
     # "You unlock Clover's skirt!"
-    "Ты разблокировал юбку для Кловер!"
+    "Вы разблокировали юбку для Кловер!"
 
 # game/items.rpy:4334
 translate russia openTreatBag_2e8faab2:
 
     # "You unlock Someone's skirt!"
-    "Ты разблокировал юбку!"
+    "Вы разблокировали юбку!"
 
 # game/items.rpy:4348
 translate russia openTreatBag_4e3f80fa:
 
     # "You unlock Sam's mask!"
-    "Ты разблокировал маску для Сэм!"
+    "Вы разблокировали маску для Сэм!"
 
 # game/items.rpy:4350
 translate russia openTreatBag_4d70c0c6_1:
 
     # "You unlock Someone's mask!"
-    "Ты разблокировал маску!"
+    "Вы разблокировали маску!"
 
 # game/items.rpy:4364
 translate russia openTreatBag_f8ff5895:
 
     # "You unlock Alex's shoes!"
-    "Ты разблокировал обувь для Алекс!"
+    "Вы разблокировали обувь для Алекс!"
 
 # game/items.rpy:4366
 translate russia openTreatBag_04654375_2:
 
     # "You unlock Someone's shoes!"
-    "Ты разблокировал обувь!"
+    "Вы разблокировали обувь!"
 
 # game/items.rpy:4380
 translate russia openTreatBag_86d972f1:
 
     # "You unlock Clover's top!"
-    "Ты разблокировал топ для Кловер!"
+    "Вы разблокировали топ для Кловер!"
 
 # game/items.rpy:4382
 translate russia openTreatBag_3aa0dc22_1:
 
     # "You unlock Someone's top!"
-    "Ты разблокировал топ!"
+    "Вы разблокировали топ!"
 
 # game/items.rpy:4395
 translate russia openTreatBag_286c0db3_1:
 
     # "You find a pile of candy!"
-    "Ты нашёл кучу конфет!"
+    "Вы нашли кучу конфет!"
 
 # game/items.rpy:4405
 translate russia inspRecipeBook_9add54d1:
 
     # "You read a few chapters of the Milkshake Brewers Tome before going to bed."
-    "Перед сном ты читаешь несколько глав из \"Тома Мастера\" о молочных коктейлях."
+    "Перед сном вы читаете несколько глав из \"Тома Мастера\" о молочных коктейлях."
 
 # game/items.rpy:4409
 translate russia inspRecipeBook_2216ab7d:
 
     # "Your knowledge has gone up! You are now a milkshake Connoisseur! Your milkshakes sell for more money."
-    "Знания возросли! Теперь ты - знаток молочных коктейлей! Молочные коктейли продаются дороже."
+    "Знания возросли! Теперь вы - знаток молочных коктейлей! Молочные коктейли продаются дороже."
 
 # game/items.rpy:4413
 translate russia inspRecipeBook_14b50911:
 
     # "Your knowledge has gone up! You are now a milkshake Aficionado! Your milkshakes sell for more money."
-    "Знания возросли! Теперь ты - ценитель молочных коктейлей! Молочные коктейли продаются дороже."
+    "Знания возросли! Теперь вы - ценитель молочных коктейлей! Молочные коктейли продаются дороже."
 
 # game/items.rpy:4417
 translate russia inspRecipeBook_070a6ec9:
@@ -628,7 +628,7 @@ translate russia inspRecipeBook_0e511767:
 translate russia inspRecipeBook_3ffb5de4:
 
     # "Congratulations! You have finished the handbook of the milkshake brewers!"
-    "Поздравляем! Ты проитал весь справочник по приготовлению молочных коктейлей!"
+    "Поздравляем! Вы прочитали весь справочник по приготовлению молочных коктейлей!"
 
 # game/items.rpy:4427
 translate russia inspRecipeBook_f6709199:
@@ -646,7 +646,7 @@ translate russia inspRecipeBook_f09b62bc:
 translate russia inspRecipeBook_e908793b:
 
     # "Brewer" "It is you...! You are the chosen one!"
-    "(Мастер)" "Это ты...! Ты избранный!"
+    "Мастер" "Это ты...! Ты избранный!"
 
 # game/items.rpy:4433
 translate russia inspRecipeBook_8a911f6f:
@@ -658,7 +658,7 @@ translate russia inspRecipeBook_8a911f6f:
 translate russia inspRecipeBook_84d0345a:
 
     # "Brewer" "The one fortold in legend! The second coming of the Milkshake Brewer God!"
-    "(Мастер)" "Тот, о котором говорится в легенде! Второе пришествие Бога Мастера Молочных Коктейлей!"
+    "Мастер" "Тот, о котором говорится в легенде! Второе пришествие Бога Мастера Молочных Коктейлей!"
 
 # game/items.rpy:4435
 translate russia inspRecipeBook_84be4283:
@@ -670,7 +670,7 @@ translate russia inspRecipeBook_84be4283:
 translate russia inspRecipeBook_f268c2ba:
 
     # "Brewer" "Here to wash away this sinful world in a tide of white sugary goodness!"
-    "(Мастер)" "Я здесь, чтобы смыть этот грешный мир приливом белого сладкого добра!"
+    "Мастер" "Я здесь, чтобы смыть этот грешный мир приливом белого сладкого добра!"
 
 # game/items.rpy:4437
 translate russia inspRecipeBook_dd333df9:
@@ -682,13 +682,13 @@ translate russia inspRecipeBook_dd333df9:
 translate russia inspRecipeBook_1fc8bf63:
 
     # "Brewer" "The day of reckoning is not yet here. For now, you must continue to live your days serving the finest milkshakes in the lands!"
-    "(Мастер)" "День расплаты ещё не настал. Пока что вы должны продолжать жить, подавая лучшие молочные коктейли в стране!"
+    "Мастер" "День расплаты ещё не настал. Пока что вы должны продолжать жить, подавая лучшие молочные коктейли в стране!"
 
 # game/items.rpy:4439
 translate russia inspRecipeBook_4c8d668d:
 
     # "Brewer" "Until we meet agaaaaain~....!"
-    "(Мастер)" "Пока мы не встретимся снова~....!"
+    "Мастер" "Пока мы не встретимся снова~....!"
 
 # game/items.rpy:4441
 translate russia inspRecipeBook_604cdc6f:

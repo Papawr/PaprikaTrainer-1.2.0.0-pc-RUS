@@ -1,42 +1,42 @@
-Sun Jan  2 16:14:57 2022
+Sat Jan  8 22:17:00 2022
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
  
 
-Bootstrap to the start of init.init took 0.23s
+Bootstrap to the start of init.init took 0.29s
 Early init took 0.01s
-Loader init took 0.82s
-Loading error handling took 0.13s
-Loading script took 13.77s
-Loading save slot metadata. took 1.23s
-Loading persistent took 0.07s
+Loader init took 0.61s
+Loading error handling took 0.08s
+Loading script took 15.10s
+Loading save slot metadata. took 1.19s
+Loading persistent took 0.05s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
- - Init at renpy/common/00updater.rpy:23 took 0.46657 s.
 Set script version to: (7, 4, 6)
-Running init code took 0.98s
-Loading analysis data took 0.61s
-Analyze and compile ATL took 0.13s
+ - Init at game/characters.rpy:2298 took 0.28853 s.
+Running init code took 0.74s
+Loading analysis data took 0.46s
+Analyze and compile ATL took 0.12s
 Index archives took 0.00s
-Dump and make backups. took 0.37s
+Dump and make backups. took 0.36s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.38s
+Initial gc. took 0.46s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: "Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
+Creating interface object took 0.01s
 Cleaning stores took 0.00s
-Init translation took 0.42s
+Init translation took 0.37s
 Build styles took 0.01s
-Load screen analysis took 0.56s
-Analyze screens took 0.02s
+Load screen analysis took 0.41s
+Analyze screens took 0.01s
 Save screen analysis took 0.00s
-Prepare screens took 1.84s
+Prepare screens took 1.42s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.59s
 Running _start took 0.01s
 Performance test:
-Interface start took 0.69s
+Interface start took 0.76s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1800, 1200)
@@ -46,5 +46,52 @@ Vendor: 'Intel'
 Renderer: 'Intel(R) HD Graphics 615'
 Version: '4.6.0 - Build 26.20.100.7637'
 Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1109, 624) drawable=(1109, 624)
+Screen sizes: virtual=(1280, 720) physical=(1698, 955) drawable=(1698, 955)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1280, 720) physical=(1800, 1200) drawable=(1800, 1200)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 567.27s
+Early init took 0.00s
+Loader init took 0.53s
+Loading error handling took 0.20s
+Loading script took 4.26s
+Loading save slot metadata. took 1.27s
+Loading persistent took 0.06s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Set script version to: (7, 4, 6)
+Running init code took 0.42s
+Loading analysis data took 0.57s
+Analyze and compile ATL took 0.13s
+Index archives took 0.00s
+Dump and make backups. took 0.34s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.82s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: "Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.01s
+Init translation took 0.44s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.24s
+Save screen analysis took 0.62s
+Prepare screens took 1.70s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.19s
+Running _start took 0.01s
+Performance test:
+Interface start took 0.67s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1800, 1200)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: 'Intel'
+Renderer: 'Intel(R) HD Graphics 615'
+Version: '4.6.0 - Build 26.20.100.7637'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1800, 1200) drawable=(1800, 1200)
 Maximum texture size: 4096x4096

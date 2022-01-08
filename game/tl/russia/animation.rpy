@@ -818,27 +818,27 @@ translate russia strings:
 
     # game/animation.rpy:810
     old "[sexAct1]"
-    new "[sexAct1]"
+    new "Камера"
 
     # game/animation.rpy:810
     old "[sexAct2]"
-    new "[sexAct2]"
+    new "Дилдо"
 
     # game/animation.rpy:810
     old "[sexAct3]"
-    new "[sexAct3]"
+    new "Прелюдия"
 
     # game/animation.rpy:810
     old "[sexAct4]"
-    new "[sexAct4]"
+    new "Секс"
 
     # game/animation.rpy:810
     old "[sexAct5]"
-    new "[sexAct5]"
+    new "Анал"
 
     # game/animation.rpy:810
     old "[sexAct6]"
-    new "[sexAct6]"
+    new "Групавушка"
 
     # game/animation.rpy:1292
     old "Share the photo (-karma)"

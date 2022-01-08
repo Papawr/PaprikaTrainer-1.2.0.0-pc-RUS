@@ -107,24 +107,24 @@ translate russia strings:
     new "Сэм"
 
     # game/characters.rpy:37
-    old "Sam[#dsM]"
+    old "Sam{#dsM}"
     new "Сэм"
 
     # game/characters.rpy:38
-    old "Clover[#dsM]"
+    old "Clover{#dsM}"
     new "Кловер"
 
     # game/characters.rpy:39
-    old "Alex[#dsM]"
+    old "Alex{#dsM}"
     new "Алекс"
 
     # game/characters.rpy:177
-    old "Cucumber {#dsn}"
-    new "Огурчик {#dsn}"
+    old "Cucumber{#dsn}"
+    new "Огурчик"
 
     # game/characters.rpy:185
-    old "Acquaintance {#dsf}"
-    new "Знакомый {#dsf}"
+    old "Acquaintance{#dsf}"
+    new "Знакомый"
 
     # game/characters.rpy:877
     old "Girl{#dcn}"
@@ -132,7 +132,7 @@ translate russia strings:
 
     # game/characters.rpy:885
     old "Acquaintance{#dcf}"
-    new "Знакомый{#dcf}"
+    new "Знакомый"
 
     # game/characters.rpy:1539
     old "Girl{#dan}"
@@ -140,4 +140,30 @@ translate russia strings:
 
     # game/characters.rpy:1547
     old "Acquaintance{#daf}"
-    new "Знакомый{#daf}"
+    new "Знакомый"
+
+translate russia strings:
+
+    # game/characters.rpy:6
+    old "Sam{#dgn}"
+    new "Сэм"
+
+    # game/characters.rpy:10
+    old "Clover{#drn}"
+    new "Кловер"
+
+    # game/characters.rpy:14
+    old "Alex{#dyn}"
+    new "Алекс"
+
+    # game/characters.rpy:18
+    old "Kim{#dkn}"
+    new "Ким"
+# TODO: Translation updated at 2022-01-08 18:50
+
+translate russia strings:
+
+    # game/characters.rpy:21
+    old "Новичок"
+    new ""
+

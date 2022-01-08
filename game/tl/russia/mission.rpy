@@ -28,7 +28,7 @@ translate russia missRandSecret2_9a7f2081:
 translate russia missRandSecret2_1c3d98d8:
 
     # "You find $20.\nYou find {color=#ffeda6}Clothing{/color} x10\nYou find {color=#ffeda6}Medkit{/color} x1"
-    "Ты нашёл $20.\nТы нашёл {color=#ffeda6}Одежду{/color} x10\nТы нашёл {color=#ffeda6}Аптечку{/color} x1"
+    "Вы нашли $20.\nВы нашли {color=#ffeda6}Одежду{/color} x10\nВы нашли {color=#ffeda6}Аптечку{/color} x1"
 
 # game/mission.rpy:429
 translate russia missRandSecret2_9a7f2081_1:
@@ -40,13 +40,13 @@ translate russia missRandSecret2_9a7f2081_1:
 translate russia missRandSecret2_8a8e62a0:
 
     # "You find $25.\nYou find {color=#ffeda6}Water{/color} x5\n{color=#ffeda6}"
-    "Ты нашёл $25.\nТы нашёл {color=#ffeda6}Воду{/color} x5\n{color=#ffeda6}"
+    "Вы нашли $25.\nВы нашли {color=#ffeda6}Воду{/color} x5\n{color=#ffeda6}"
 
 # game/mission.rpy:435
 translate russia missRandSecret2_1b7b4651:
 
     # "You find a secret shortcut! Take it?"
-    "Ты нашёл секретный проход! Пойдёшь?"
+    "Вы нашли секретный проход! Пойдёте?"
 
 # game/mission.rpy:2727
 translate russia missionScreenFinish_27751c82:
@@ -559,7 +559,7 @@ translate russia strings:
 
     # game/mission.rpy:3845
     old "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Healthy{/color}{/font}"
-    new "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Здоровье{/color}{/font}"
+    new "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Здорова{/color}{/font}"
 
     # game/mission.rpy:3848
     old "{font=fonts/freshmarker.ttf}{color=#CA1A1E}Hurt{/color}{/font}"

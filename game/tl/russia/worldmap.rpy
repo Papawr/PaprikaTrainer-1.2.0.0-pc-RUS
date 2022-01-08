@@ -7780,7 +7780,7 @@ translate russia strings:
 
     # game/worldmap.rpy:1229
     old "{color=#EFD66D}'A Foot in the Door'{/color}"
-    new "{color=#EFD66D}'Нога в двери'{/color}"
+    new "{color=#EFD66D}'В дверь с ноги'{/color}"
 
     # game/worldmap.rpy:1375
     old "{color=#EFD66D}'Living in a database'{/color}"
@@ -7822,7 +7822,7 @@ translate russia strings:
     old "{color=#EFD66D}'Build-A-Bar'{/color}"
     new "{color=#EFD66D}'Построй бар'{/color}"
 
-    # game/worldmap.rpy:1877
+    # game/worldmap.rpy:1897
     old "Decrypting Process: [hackProgress]%%"
     new "Процесс расшифровки: [hackProgress]%%"
 
@@ -7836,11 +7836,11 @@ translate russia strings:
 
     # game/worldmap.rpy:2002
     old "Bondage Bug"
-    new "Жук-бондаж"
+    new "V.I.B."
 
     # game/worldmap.rpy:2002
     old "Hacking worm"
-    new "Червь-хакер"
+    new "Устройство взлома"
 
     # game/worldmap.rpy:2002
     old "Flash BANG Belt"
@@ -8020,11 +8020,11 @@ translate russia strings:
 
     # game/worldmap.rpy:2895
     old "Threads"
-    new "Нитки"
+    new "Одежда"
 
     # game/worldmap.rpy:2895
     old "Ho-Style"
-    new "Ho-Style"
+    new "Парикмахер"
 
     # game/worldmap.rpy:2895
     old "Tits and Tats"
@@ -8032,11 +8032,11 @@ translate russia strings:
 
     # game/worldmap.rpy:2895
     old "stoop2low"
-    new "stoop2low (опустить)"
+    new "Спуститься"
 
     # game/worldmap.rpy:2895
     old "leave the mall"
-    new "Уйти"
+    new "Уйти из ТЦ"
 
     # game/worldmap.rpy:2944
     old "Shop"
@@ -8080,7 +8080,7 @@ translate russia strings:
 
     # game/worldmap.rpy:3358
     old "Run in to help"
-    new "Прибежать на помощь"
+    new "Пойти на помощь"
 
     # game/worldmap.rpy:3358
     old "Leave the area"
@@ -8152,7 +8152,7 @@ translate russia strings:
 
     # game/worldmap.rpy:4011
     old "Turn them down"
-    new "Отказаться от них"
+    new "Отказаться"
 
     # game/worldmap.rpy:4021
     old "Take the valuables"
@@ -8283,3 +8283,19 @@ translate russia strings:
     # game/worldmap.rpy:2814
     old "-Take a picture of the spies in a foursome."
     new "-Сфотографируйте шпионок в \"четвером\"."
+
+    # game/worldmap.rpy:3879
+    old "Blobfish"
+    new "Фугу"
+
+    # game/worldmap.rpy:3881
+    old "Bearded vulture"
+    new "бородатого Стервятника"
+
+    # game/worldmap.rpy:3883
+    old "Manatee"
+    new "Ламантин"
+
+    # game/worldmap.rpy:1895
+    old "{color=#EFD66D}'Double Trouble'{/color}{#dt1}"
+    new "{color=#EFD66D}'Двойные неприятности'{/color}"

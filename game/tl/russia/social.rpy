@@ -2278,7 +2278,7 @@ translate russia samSocial_98b65e7d:
 translate russia samSocial_4cc54d48:
 
     # "You can't think of anything to talk about right now. Maybe try raising your rank with the Aces first."
-    "Вы не знаете о чём ещё поговорить. Попробуйте сначала повысить свой ранг у Тузов?"
+    "Вы не знаете о чём ещё поговорить. Попробуйте сначала повысить свой ранг у Тузов."
 
 # game/social.rpy:728
 translate russia samSocial_c1db9b6b:
@@ -4420,7 +4420,7 @@ translate russia alexSocial_30eb682b:
 translate russia alexSocial_acb5f8ca:
 
     # a y18 "Err.. it's [year]."
-    a y18 "Эмм... [год]."
+    a y18 "Эмм... [year]."
 
 # game/social.rpy:1382
 translate russia alexSocial_0a68f464:
@@ -4534,7 +4534,7 @@ translate russia alexSocial_6d5aa0be:
 translate russia alexSocial_d2ff9983:
 
     # a "You knew what I was going to say before I said it!"
-    a "Ты знал, что я хотела сказать, до того, как я это сказал!"
+    a "Ты знал, что я хотела сказать, до того, как я это сказала!"
 
 # game/social.rpy:1418
 translate russia alexSocial_462982c8:
@@ -9680,7 +9680,7 @@ translate russia strings:
 
     # game/social.rpy:36
     old "{color=#EFD66D}'Foot in The Door'{/color}"
-    new "{color=#EFD66D}'Нога в двери'{/color}"
+    new "{color=#EFD66D}'В дверь с ноги'{/color}"
 
     # game/social.rpy:36
     old "{color=#EFD66D}'Open for Business'{/color}"
@@ -9688,11 +9688,11 @@ translate russia strings:
 
     # game/social.rpy:36
     old "{color=#EFD66D}'Retaking the Taken'{/color}"
-    new "{color=#EFD66D}'Возвращение взятого'{/color}"
+    new "{color=#EFD66D}'Наше по праву'{/color}"
 
     # game/social.rpy:36
     old "Nanobot control"
-    new "Управление нанороботами"
+    new "Подавление наноботов"
 
     # game/social.rpy:36
     old "Decorate Cell"
@@ -9704,7 +9704,7 @@ translate russia strings:
 
     # game/social.rpy:57
     old "Call yourself..."
-    new "Называй меня..."
+    new "Называй себя..."
 
     # game/social.rpy:59
     old "New Guy"
@@ -9889,17 +9889,30 @@ translate russia strings:
     # game/social.rpy:3151
     old "Show me your boobs"
     new "Покажи мне свои сиськи"
-# TODO: Translation updated at 2021-12-28 21:12
 
-translate russia strings:
-
-    # game/social.rpy:61
-    old "New Guy [#ngpn]"
-    new "Новичок"
-# TODO: Translation updated at 2022-01-01 19:06
-
-translate russia strings:
-
-    # game/social.rpy:17
     old "{font=fonts/freshMarker.ttf}{size=-4}Nanobot Control{/size}{/font}"
     new "{font=fonts/freshMarker.ttf}{size=-4}Контроль Наноботов{/size}{/font}"
+
+    # game/social.rpy:61
+    old "New Guy{#scm2}"
+    new "Новичок{#scm2}"
+
+    # game/social.rpy:1750
+    old "New Guy{#scm3}"
+    new "Новичок{#scm3}"
+
+    # game/social.rpy:1905
+    old "New Guy{#scm1}"
+    new "Новичок{#scm1}"
+
+    # game/social.rpy:64
+    old "Lowlife{#scl1}"
+    new "Ничтожество{#scl1}"
+
+    # game/social.rpy:1753
+    old "Lowlife{#scl2}"
+    new "Ничтожество{#scl2}"
+
+    # game/social.rpy:1908
+    old "Lowlife{#scl3}"
+    new "Ничтожество{#scl3}"

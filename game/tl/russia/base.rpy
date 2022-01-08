@@ -920,7 +920,7 @@ translate russia strings:
 
     # game/base.rpy:389
     old "{color=#EFD66D}'Dingalingaling'{/color}"
-    new "{color=#EFD66D}'Дингилинги'{/color}"
+    new "{color=#EFD66D}'Штучки-Дрючки'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'Double Trouble'{/color}"
@@ -960,7 +960,7 @@ translate russia strings:
 
     # game/base.rpy:1172
     old "Throw down dirty mags"
-    new "Бросить грязные мешки"
+    new "Бросить порножурналы"
 
     # game/base.rpy:1206
     old "Sam"
@@ -1008,39 +1008,39 @@ translate russia strings:
 
     # game/base.rpy:1557
     old "Sildenafil Pills ([herbAphro]/3 Vigor Leaf)"
-    new "Таблетки Силденафил ([herbAphro]/3 Vigor Leaf)"
+    new "Таблетки Силденафил ([herbAphro]/3 Бодрый лист)"
 
     # game/base.rpy:1557
     old "Whisper Ear Drops ([herbWhisper]/3 Whisper Weed)"
-    new "Ушные капли \"Шёпот\" ([herbWhisper]/3 Whisper Weed)"
+    new "Ушные капли \"Шёпот\" ([herbWhisper]/3 Канабис)"
 
     # game/base.rpy:1557
     old "Medkit ([herbHeal]/3 Apple Seed)"
-    new "Апетчка ([herbHeal]/3 Apple Seed)"
+    new "Аптечка ([herbHeal]/3 Яблочное семя)"
 
     # game/base.rpy:1557
     old "Tonic of Youth ([herbGold]/3 Goldthorn)"
-    new "Тоник \"Молодость\" ([herbGold]/3 Goldthorn)"
+    new "Тоник \"Молодость\" ([herbGold]/3 Золоторог)"
 
     # game/base.rpy:1557
     old "Nanobot Injector ([herbRebel]/3 Rebel Weed)"
-    new "Инжектор наноботов ([herbRebel]/3 Rebel Weed)"
+    new "Инжектор наноботов ([herbRebel]/3 Мятежница)"
 
     # game/base.rpy:1557
     old "Strange Potions ([herbMutant]/1 Strange Vine)"
-    new "Странные зелья ([herbMutant]/1 Strange Vine)"
+    new "Странные зелья ([herbMutant]/1 Странная лоза)"
 
     # game/base.rpy:1557
     old "Advanced"
-    new "Продвинутый"
+    new "Больше"
 
     # game/base.rpy:1633
     old "Breast Enhancement Salve ([medPotion]/2 Strange Potions)"
-    new "Мазь для увеличения груди \"Эверест\" ([medPotion]/2 Strange Potions)"
+    new "Мазь для увеличения груди \"Эверест\" ([medPotion]/2 Странные зелья)"
 
     # game/base.rpy:1633
     old "Breast Reduction Salve ([medPotion]/2 Strange Potions)"
-    new "Мазь для уменьшения груди \"Доска\"([medPotion]/2 Strange Potions)"
+    new "Мазь для уменьшения груди \"Доска\"([medPotion]/2 Странная лоза)"
 
     # game/base.rpy:2296
     old "View bounties"

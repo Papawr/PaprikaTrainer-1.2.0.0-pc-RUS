@@ -58,7 +58,7 @@ translate russia quests_e9d3e274:
 translate russia task2_3c18f6c6:
 
     # y "Okay [greenName]. Today I'm sending you to..."
-    y "Ладно [greenName]. Сегодня я отправляю тебя..."
+    y "Ладно Сэм. Сегодня я отправляю тебя..."
 
 # game/status.rpy:342
 translate russia task2_6f362d57:
@@ -70,13 +70,13 @@ translate russia task2_6f362d57:
 translate russia task2_d752491c:
 
     # y "[greenName]?"
-    y "[greenName]?"
+    y "Сэм?"
 
 # game/status.rpy:345
 translate russia task2_0665c773:
 
     # s "Hey [playerName]. Sorry I'm just feeling a bit distracted."
-    s "Привет [playerName]. Извини, я просто немного задумалась."
+    s "Привет Новичок. Извини, я просто немного задумалась."
 
 # game/status.rpy:346
 translate russia task2_2c996790:
@@ -160,7 +160,7 @@ translate russia task2_44e42824:
 translate russia task2_3b2bef4b:
 
     # y "I'll set up a mission and you can go after her."
-    y "Я подготовлю миссию, а ты сможешь отправиться за ней."
+    y "Я подготовлю миссию и ты сможешь отправиться за ней."
 
 # game/status.rpy:361
 translate russia task2_98a8f8f5:
@@ -298,7 +298,7 @@ translate russia task2_10735e11:
 translate russia task2_5757f912:
 
     # c r22 "Remember that one time you left your diary open and said all those embarrassing things?{w} I told everyone about that..."
-    c r22 "Помнишь, когда ты оставила свой дневник на столе?{w} Я всё прочитала и всем всё этом рассказала..."
+    c r22 "Помнишь, когда ты оставила свой дневник на столе?{w} Я всё прочитала и всем всё рассказала..."
 
 # game/status.rpy:530
 translate russia task2_68ef665f:
@@ -436,7 +436,7 @@ translate russia task2_a9ac52b0:
 translate russia task2_57f9c0af:
 
     # "Agent" "Wait you're that intruder!"
-    "Агент" "Стоп, вы ты самые злоумышленник!"
+    "Агент" "Стоп, вы ты самые шпионки!"
 
 # game/status.rpy:645
 translate russia task2_c0fa3489:
@@ -1588,7 +1588,7 @@ translate russia task2_6b0c5c54:
 translate russia task2_f5b34892:
 
     # c r12 "I got excited for a moment there when you talked about being a model..."
-    c r12 "Я на мгновение обкрадывалась, когда ты заговорил о моделях..."
+    c r12 "Я на мгновение обрадовалась, когда ты заговорил о моделях..."
 
 # game/status.rpy:1093
 translate russia task2_adc3844f:
@@ -1606,7 +1606,7 @@ translate russia task2_298dab44:
 translate russia task2_7f372ff3:
 
     # y "I dunno. Stand around looking hot, do some poses, compliment the guy on his collection of harddrives. Get creative!"
-    y "Не знаю. Постойте в разных позах, выглядите сексуально, постройте глазки, похвалите парня за его коллекцию жестких дисков. Будьте изобретательны!"
+    y "Не знаю. Постойте в разных позах, выглядите сексуально, постройте глазки, похвалите парня за его коллекцию жёстких дисков. Будьте изобретательны!"
 
 # game/status.rpy:1096
 translate russia task2_9c64dbd8:
@@ -2272,7 +2272,7 @@ translate russia vibMenuJump_c31cc4fc:
 translate russia vibMenuJump_56303348:
 
     # s "Is this...?! We're suppose to...?! You expect us to...?!"
-    s "Это...?! Мы нужно...?! Ты думаешь, что мы...?!"
+    s "Это...?! Мы должны...?! Ты думаешь, что мы...?!"
 
 # game/status.rpy:1327
 translate russia vibMenuJump_f889c820:
@@ -2506,7 +2506,7 @@ translate russia vibMenuJump_375c59fb:
 translate russia vibMenuJump_82aae0cd:
 
     # c r22 "Gimme one of those..."
-    c r22 "Дай мне одну..."
+    c r22 "Дай мне один..."
 
 # game/status.rpy:1368
 translate russia vibMenuJump_9f6b27a2:
@@ -3034,7 +3034,7 @@ translate russia vibMenuJump_fc4b0728:
 translate russia vibMenuJump_90b343b3:
 
     # c r18 "So what do you have planned for today?"
-    c r18 "Так что ты запланировано на сегодня?"
+    c r18 "Так что ты запланировал на сегодня?"
 
 # game/status.rpy:1504
 translate russia vibMenuJump_ae79206e:
@@ -6586,7 +6586,7 @@ translate russia task4_2cb514e1:
 translate russia task4_6dcfed77:
 
     # a "S-sure...!"
-    a "К=конечно...!"
+    a "К-конечно...!"
 
 # game/status.rpy:3024
 translate russia task4_420d6ddb:
@@ -19576,7 +19576,7 @@ translate russia task19_128bc2eb:
 translate russia task19_4a2fe431:
 
     # s g16 "Yeah, turns out he insured his entire stock right before the gang uprising so we didn't even have to threaten him."
-    s g16 "Да, оказалось, что он застраховал все свои акции прямо перед восстанием банды. Так что нам даже не пришлось ему угрожать."
+    s g16 "Да, оказалось, он застраховал всё своё имущество прямо перед восстанием банд. Так что нам даже не пришлось ему угрожать."
 
 # game/status.rpy:7520
 translate russia task19_82f2b29a:
@@ -19780,7 +19780,7 @@ translate russia task20_e5abecf9:
 translate russia task20_327b1a43:
 
     # y "{i}'Roses are green, violets are green. I am a monster....{w} and want to eat your spleen.'{/i}"
-    y "{i}'Зелёные розы, зелёные фиалки. Я монстр....{w} который хочет сожрать ваши слезинки.'{/i}"
+    y "{i}'Зелёные розы, зелёные фиалки. Я монстр....{w} который хочет сожрать ваши панамки.'{/i}"
 
 # game/status.rpy:7589
 translate russia task20_34d5447b:
@@ -32824,13 +32824,13 @@ translate russia task31_5e7faeb0:
 translate russia task31_e23909a9:
 
     # kim "I wish.{w} It's some kind of cook book. An old guy with a bird brought it by. Said it was meant for {i}'the one true dairy brewer.'{/i}"
-    kim "Хотелось бы.{w} Это что-то вроде кулинарной книги. Старик с птицей принёс её. Сказал, что она предназначена для \"истинного мастера молочных коктейлей\".'{/i}"
+    kim "Хотелось бы.{w} Это что-то вроде кулинарной книги. Старик с птицей принёс её. Сказал, что она предназначена для \"истинного мастера молочных коктейлей\"."
 
 # game/status.rpy:12565
 translate russia task31_51804239:
 
     # y "Huh...{w} Sounds like a weirdo, did you throw him out?"
-    y "Хм...{w} Чудака какой-то, ты его вывернула?"
+    y "Хм...{w} Чудак какой-то, ты его вышвырнула?"
 
 # game/status.rpy:12567
 translate russia task31_57665d3d:
@@ -33412,61 +33412,61 @@ translate russia nightCutscenes_8e536f99:
 translate russia nightCutscenes_2bdde32d:
 
     # "Shadowy Figure 1" "What is the meaning of this?!"
-    "Теневая фигура 1" "Что это значит?!"
+    "Фигура 1" "Что это значит?!"
 
 # game/status.rpy:12887
 translate russia nightCutscenes_829990ca:
 
     # "Shadowy Figure 1" "Have you gone absolutely mad?! {w}The city is burning!"
-    "Теневая фигура 1" "Ты совсем с ума сошёл?! {w}Город горит!"
+    "Фигура 1" "Ты совсем с ума сошёл?! {w}Город горит!"
 
 # game/status.rpy:12888
 translate russia nightCutscenes_d9ad61fd:
 
     # "Shadowy Figure 2" "...................."
-    "Теневая фигура 2" "...................."
+    "Фигура 2" "...................."
 
 # game/status.rpy:12889
 translate russia nightCutscenes_27c533ea:
 
     # "Shadowy Figure 1" "This is not what we agreed upon! If I had known...!"
-    "Теневая фигура 1" "Это не то, о чём мы договаривались! Если бы я знал...!"
+    "Фигура 1" "Это не то, о чём мы договаривались! Если бы я знал...!"
 
 # game/status.rpy:12890
 translate russia nightCutscenes_2ce59a01:
 
     # "Shadowy Figure 2" "Calm yourself my friend. All is going according to plan~..."
-    "Теневая фигура 2" "Успокойся, друг мой. Всё идёт по плану~..."
+    "Фигура 2" "Успокойся, друг мой. Всё идёт по плану~..."
 
 # game/status.rpy:12891
 translate russia nightCutscenes_285ae607:
 
     # "Shadowy Figure 2" "I do recall that it was {i}'you'{/i} who wanted revenge on WOOHP, is it not?"
-    "Теневая фигура 2" "Я припоминаю, что именно {i}'ты'{/i} хотел отомстить WOOHP, не так ли?"
+    "Фигура 2" "Я припоминаю, что именно {i}'ты'{/i} хотел отомстить WOOHP, не так ли?"
 
 # game/status.rpy:12892
 translate russia nightCutscenes_35f07371:
 
     # "Shadowy Figure 1" "I wanted justice! I wanted redemption! Not {i}'this'{/i}!"
-    "Теневая фигура 1" "Я хотел справедливости! Я хотел искупления! Не {i}'это'{/i}!"
+    "Фигура 1" "Я хотел справедливости! Я хотел искупления! Не {i}'это'{/i}!"
 
 # game/status.rpy:12893
 translate russia nightCutscenes_8785749d:
 
     # "Shadowy Figure 2" "And you shall have your redemption...."
-    "Теневая фигура 2" "Ты получишь своё искупление..."
+    "Фигура 2" "Ты получишь своё искупление..."
 
 # game/status.rpy:12894
 translate russia nightCutscenes_d1daebf8:
 
     # "Shadowy Figure 2" "Be patient... Once this is done, the world will be a much better place..."
-    "Теневая фигура 2" "Будь терпеливым... Когда это будет сделано, мир станет намного лучше..."
+    "Фигура 2" "Будь терпеливым... Когда это будет сделано, мир станет намного лучше..."
 
 # game/status.rpy:12895
 translate russia nightCutscenes_cf1afa3c:
 
     # "Shadowy Figure 1" "..................."
-    "Теневая фигура 1" "..................."
+    "Фигура 1" "..................."
 
 # game/status.rpy:12921
 translate russia nightCutscenes_25613663:
@@ -33736,63 +33736,63 @@ translate russia strings:
 
     # game/status.rpy:122
     old "{color=#EFD66D}[task7Name]{/color}"
-    new "{color=#EFD66D}[task7Name]{/color}"
+    new "{color=#EFD66D}Наше по праву{/color}"
 
     # game/status.rpy:122
     old "[task1Name]"
-    new "[task1Name]"
+    new "Открыт для предложений"
 
     # game/status.rpy:122
     old "[task2Name]"
-    new "[task2Name]"
+    new "Двойные неприятности"
 
     # game/status.rpy:122
     old "[task4Name]"
-    new "[task4Name]"
+    new "Шпионка в жёлтом"
 
     # game/status.rpy:122
     old "[task6Name]"
-    new "[task6Name]"
+    new "В дверь с ноги"
 
     # game/status.rpy:122
     old "[task5Name]"
-    new "[task5Name]"
+    new "Штучки-Дрючки"
 
     # game/status.rpy:122
     old "[task10Name]"
-    new "[task10Name]"
+    new "Жизнь в Базе данных"
 
     # game/status.rpy:122
     old "[task11Name]"
-    new "[task11Name]"
+    new "Анархия Алекс"
 
     # game/status.rpy:122
     old "[task12Name]"
-    new "[task12Name]"
+    new "QR код для стрижки"
 
     # game/status.rpy:122
     old "[task13Name]"
-    new "[task13Name]"
+    new "Давай ибаца!"
 
     # game/status.rpy:122
     old "[task15Name]"
-    new "[task15Name]"
+    new "Пати до упаду"
 
     # game/status.rpy:122
     old "[task17Name]"
-    new "[task17Name]"
+    new "Анимо..."
 
     # game/status.rpy:122
     old "[task18Name]"
-    new "[task18Name]"
+    new "Питательный удар"
 
     # game/status.rpy:122
     old "[task32Name]"
-    new "[task32Name]"
+    new "[Строили, строили и наконец построили]"
 
     # game/status.rpy:122
     old "[task21Name]"
-    new "[task21Name]"
+    new "Розовый это новый чёрный"
 
     # game/status.rpy:122
     old "Picture Quests"
@@ -34016,7 +34016,7 @@ translate russia strings:
 
     # game/status.rpy:7582
     old "Let me read it"
-    new "Дайте мне это прочитать"
+    new "Дай почитать"
 
     # game/status.rpy:7582
     old "Get that away from me"
@@ -34924,143 +34924,143 @@ translate russia strings:
 
     # game/status.rpy:2161
     old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\n-Top priority: Visit the school."
-    new "Девушки нашли последнею шпионку и узнали о собрании, проводимом в школе. Похоже, наше прикрытие ещё не раскрыто. Я могу послать девушек, чтобы собрать больше информации о происходящем и, возможно, вытащить желтую шпионку.\n\n\n-Приоритет: Посетить школу."
+    new "Девушки нашли последнею шпионку и узнали о собрании, проводимом в школе. Похоже, наше прикрытие ещё не раскрыто. Я могу послать девушек, чтобы собрать больше информации о происходящем и, возможно, вытащить шпионку в жёлтом.\n\n\n-Приоритет: Посетить школу."
 
     # game/status.rpy:2263
     old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders."
-    new ""
+    new "Девушки нашли последнею шпионку и узнали о собрании, проводимом в школе. Похоже, наше прикрытие ещё не раскрыто. Я могу послать девушек, чтобы собрать больше информации о происходящем и, возможно, вытащить шпионку в жёлтом.\n\nВы спасли Алекс и узнали об одном парне, возглавляющих восстание WOOHP, Тиме Скаме, бывшем учёном WOOHP.\nОсвободив её, я должен попробовать отправить её к Аутсайдерам."
 
     # game/status.rpy:2468
     old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\n\nWith her freed up, I should try sending her out to the Outsiders sometime."
-    new ""
+    new "Девушки нашли последнею шпионку и узнали о собрании, проводимом в школе. Похоже, наше прикрытие ещё не раскрыто. Я могу послать девушек, чтобы собрать больше информации о происходящем и, возможно, вытащить шпионку в жёлтом.\n\nВы спасли Алекс и узнали об одном парне, возглавляющих восстание WOOHP, Тиме Скаме, бывшем учёном WOOHP.\nОсвободив её, я должен продолжать отправлять её к Аутсайдерам."
 
     # game/status.rpy:2469
     old "Spy in Yellow"
-    new ""
+    new "Шпионка в жёлтом"
 
     # game/status.rpy:2772
     old "The girls ran into the final spy and found out about a meeting being held at the school. It appears our cover hasn't been blown yet. I could send the girls out to gather some more information on what's going on and possibly get the yellow spy out.\n\nYou got Alex out in one piece and found out about one of the guys in charge of the WOOHP rebellion Tim Scam, a former WOOHP scientist.\nWith her freed up, I should try sending her out to the Outsiders sometime.\n\nAlex is going to need some time to fit in with the Outsiders, but contact has been made. I should send her out again."
-    new ""
+    new "Девушки нашли последнею шпионку и узнали о собрании, проводимом в школе. Похоже, наше прикрытие ещё не раскрыто. Я могу послать девушек, чтобы собрать больше информации о происходящем и, возможно, вытащить шпионку в жёлтом.\n\nВы спасли Алекс и узнали об одном парне, возглавляющих восстание WOOHP, Тиме Скаме, бывшем учёном WOOHP.\nОсвободив её, я должен продолжать отправлять её к Аутсайдерам.\n\nАлекс потребуется некоторое время, чтобы влиться в коллектив Аутсайдеров, но контакт уже установлен. Я должен продолжпть послать её."
 
     # game/status.rpy:3254
     old "Dingalingaling"
-    new ""
+    new "Штучки-Дрючки"
 
     # game/status.rpy:3255
     old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos."
-    new ""
+    new "Контроль наноботов становится всё труднее подавить, мне придётся придумать способ это исправить. Думаю стоит зайти в торговый центр и купить им фаллоимитаторы."
 
     # game/status.rpy:3462
     old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-I bought the girls some dildos. Let's see how they react."
-    new ""
+    new "Контроль наноботов становится всё труднее подавить, мне придётся придумать способ это исправить. Думаю стоит зайти в торговый центр и купить им фаллоимитаторы.\n\n-Я купил девочкам несколько фаллоимитаторов. Посмотрим, как они отреагируют."
 
     # game/status.rpy:3466
     old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-The girls reacted better to the dildos than I thought. I can tell them to play with themselves and spy on them via the spy cameras."
-    new ""
+    new "Контроль наноботов становится всё труднее подавить, мне придётся придумать способ это исправить. Думаю стоит зайти в торговый центр и купить им фаллоимитаторы.\n\n-Девушки отреагировали лучше, чем я ожидал. Я предложу им играть самим с собой, а сам буду шпионить через скрытые камеры."
 
     # game/status.rpy:3627
     old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some dildos. Let's see how they react.{/color}\n\n-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again."
-    new ""
+    new "Контроль наноботов становится всё труднее подавить, мне придётся придумать способ это исправить. Думаю стоит зайти в торговый центр и купить им фаллоимитаторы.\n\n-{color=#b5b5b5}-Я купил девочкам несколько фаллоимитаторов. Посмотрим, как они отреагируют.{/color}\n\n-Меня поймали, когда я шпионил за девочками, и они на это обиделись. Я должен поднять их настроение, прежде чем снова браться за них."
 
     # game/status.rpy:3712
     old "The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-{color=#b5b5b5}I bought the girls some diildos. Let's see how they react.{/color}\n\n{color=#b5b5b5}-I got caught spying on the girls and they're moody about it. I should try raising their morale before taking to them again.{/color}\n\n-Everything came up Millhouse! I can now stay and watch as the girls masturbate in their cells."
-    new ""
+    new "Контроль наноботов становится всё труднее подавить, мне придётся придумать способ это исправить. Думаю стоит зайти в торговый центр и купить им фаллоимитаторы.\n\n-{color=#b5b5b5}-Я купил девочкам несколько фаллоимитаторов. Посмотрим, как они отреагируют.{/color}\n\n-Меня поймали, когда я шпионил за девочками, и они на это обиделись. Я должен поднять их настроение, прежде чем снова браться за них.{/color}\n\n-Всё прошло довольно удачно! Теперь я могу остаться и смотреть, как девочки мастурбируют в своих камерах."
 
     # game/status.rpy:3713
     old "Dingalingaling (COMPLETE)"
-    new ""
+    new "Штучки-Дрючки (ЗАВЕРШЁН)"
 
     # game/status.rpy:3721
     old "A Foot in the Door"
-    new ""
+    new "В дверь с ноги"
 
     # game/status.rpy:3735
     old "You sent Sam out to the Aces."
-    new ""
+    new "Вы отправили Сэм к Тузам."
 
     # game/status.rpy:3747
     old "You sent Sam out to the Aces. She said it went fine, but she's acting a bit off. I should check up on her in her cell."
-    new ""
+    new "Вы отправили Сэм к Тузам. Она сказала, что всё прошло нормально, но она ведёт себя немного не так. Стоит проверить её в камере."
 
     # game/status.rpy:3769
     old "Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces."
-    new ""
+    new "Сэм участвовал в ограблении, которое сорвалось. Она собирается провести день в торговом центре с Тузами."
 
     # game/status.rpy:3859
     old "Sam's reputation with the Aces is increasing. Keep building your reputation to get closer to Melody."
-    new ""
+    new "Репутация Сэм среди Тузов растёт. Продолжайте укреплять свою репутацию, чтобы стать ближе к Мелоди."
 
     # game/status.rpy:4428
     old "Sam was part of a robbery that went sour. She's going to spend the day at the mall with the Aces.\n\nHaving spend some time with the Aces, Sam has grown closer to their second Lieutenant.\n\n-Plan a mission to the Castle and capture Melody."
-    new ""
+    new "Сэм участвовал в ограблении, которое сорвалось. Она собирается провести день в торговом центре с Тузами.\n\nПроведя некоторое время с Тузами, Сэм сблизилась с их вторым лейтенантом.\n\n-Спланируйте миссию в замке и захватите Мелоди."
 
     # game/status.rpy:5145
     old "Living in a database"
-    new ""
+    new "Жизнь в Базе данных"
 
     # game/status.rpy:5146
     old "Something is going on with Drift Punk. They're testing out something new so I sent Clover to investigate."
-    new ""
+    new "Что-то происходит у Дрифт Панков. Они тестируют что-то новое, поэтому я отправил Кловер на разведку."
 
     # game/status.rpy:5237
     old "Drift Punk is working on a digital world where they can lay low and terrorize the world from within a computer.\n\nI should continue sending my spies undercover with Drift Punk and see if we can find out who's in charge."
-    new ""
+    new "Дрифт Панки работают над созданием цифрового мира, в котором они смогут затаиться и терроризировать мир изнутри компьютера.\n\nЯ должен продолжать посылать шпионок к Дрифт Панкам, может на удастся выяснить, кто у них главный."
 
     # game/status.rpy:5284
     old "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n-Set up a mission and capture Carla Wong."
-    new ""
+    new "Мы обнаружили, что бывший программист видеоигр по имени Карла Вонг, она же Леди Дракон, является ведущим разработчиком Панк-Вэба. Она уже однажды напала на Кловер, так что пришло время схватить её.\n\n-Спланируйте миссию и захватите Карлу Вонг в Панк-Вэбе."
 
     # game/status.rpy:5442
     old "We discovered that a former video game programmer called Carla Wong, aka The Dragon Lady, is the lead developer on Punk Web. She's already attacked Clover once, so it's time we brought her in.\n\n{color=#b5b5b5}-Set up a mission and capture Carla Wong.{/color}\n\n{color=#b5b5b5}-Interrogate Carla Wong at the base.{/color}"
-    new ""
+    new "Мы обнаружили, что бывший программист видеоигр по имени Карла Вонг, она же Леди Дракон, является ведущим разработчиком Панк-Вэба. Она уже однажды напала на Кловер, так что пришло время схватить её.\n\n{color=#b5b5b5}-Спланируйте миссию и захватите Карлу Вонг в Панк-Вэбе.{color=#b5b5b5}\n\n{color=#b5b5b5}-Допросите Карлу Вонг на базе.{/color}"
 
     # game/status.rpy:5443
     old "Living in a database (complete)"
-    new ""
+    new "Жизнь в Базе данных (ЗАВЕРШЁН)"
 
     # game/status.rpy:5558
     old "Anarchy Alex"
-    new ""
+    new "Анархия Алекс"
 
     # game/status.rpy:5559
     old "I sent Alex out to get more comfortable with going undercover with the Outsiders.\n\n-Wait to see how Alex reacts to going undercover with the Outsiders."
-    new ""
+    new "Я отправил Алекс работать под прикрытием к Аутсайдерам.\n\n-Подождите реакции Алекс на работу под прикрытием у Аутсайдеров."
 
     # game/status.rpy:5591
     old "Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders."
-    new ""
+    new "Алекс сделала первые шаги, чтобы влиться в банду Аутсайдеров.\n\n{color=#b5b5b5}-Подождите реакции Алекс на работу под прикрытием у Аутсайдеров.{/color}\n\n-Повысьте свою репутацию у Аутсайдеров."
 
     # game/status.rpy:5630
     old "Alex has taken her first steps of blending in with the Outsiders.\n\n{color=#b5b5b5}-Wait to see how Alex reacts to going undercover with the Outsiders.{/color}\n\n-Raise your reputation with the Outsiders and capture Muffy Peprich.\n\nYou can now plan missions to the Carnival."
-    new ""
+    new "Алекс сделала первые шаги, чтобы влиться в банду Аутсайдеров.\n\n{color=#b5b5b5}-Подождите реакции Алекс на работу под прикрытием у Аутсайдеров.{/color}\n\n-Повысьте свою репутацию у Аутсайдеров и схватите Маффи Пеприч.\n\nТеперь вы можете планировать миссии на Карнавал."
 
     # game/status.rpy:5734
     old "A few snips away of a haircut"
-    new ""
+    new "QR код для стрижки"
 
     # game/status.rpy:5735
     old "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\nSend a spy undercover with Drift Punk."
-    new ""
+    new "Я обещал разобраться с исчезновением племянницы парикмахера. Очевидно, она была похищена Дрифт Панками, стоит начать поиски оттуда.\n\nОтправьте шпионку под прикрытием к Дрифт Панкам."
 
     # game/status.rpy:5761
     old "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n-The girl may be held in Punk Web. Set up a mission and get her out."
-    new ""
+    new "Я обещал разобраться с исчезновением племянницы парикмахера. Очевидно, она была похищена Дрифт Панками, стоит начать поиски оттуда.\n\n{color=#A3A3A3}Отправьте шпионку под прикрытием к Дрифт Панкам.{/color}\n\n-Возможно девушка находиться в Панк-Вэбе. Спланируйте миссию и вытащите её."
 
     # game/status.rpy:5798
     old "I promised to look into the disappearance of a hairdressers' niece. Apparently she's been kidnapped by Drift Punk, I should begin my search there.\n\n{color=#A3A3A3}Send a spy undercover with Drift Punk.{/color}\n\n{color=#A3A3A3}-The girl may be held in Punk Web. Set up a mission and get her out.{/color}"
-    new ""
+    new "Я обещал разобраться с исчезновением племянницы парикмахера. Очевидно, она была похищена Дрифт Панками, стоит начать поиски оттуда.\n\n{color=#A3A3A3}Отправьте шпионку под прикрытием к Дрифт Панкам.{/color}\n\n{color=#A3A3A3}-Возможно девушка находиться в Панк-Вэбе. Спланируйте миссию и вытащите её.{/color}"
 
     # game/status.rpy:5809
     old "A few snips away (complete)"
-    new ""
+    new "QR код для стрижки (ЗАВЕРШЁН)"
 
     # game/status.rpy:5810
     old "We managed to release the barber's daughter from Punk Web and can now get free haircuts at the mall whenever we like."
-    new ""
+    new "Нам удалось освободить дочь парикмахера из Панк-Вэба, и теперь мы можем бесплатно стричься в торговом центре, когда захотим."
 
     # game/status.rpy:5843
     old "We've begun talking about having sex together, but Sam is still vividly denying it. I should go talk to her in her cell."
-    new ""
+    new "Мы начали обсуждать варианты совместного секса, но Сэм всё ещё активно отказывается. Я должен пойти и поговорить с ней в её камере."
 
     # game/status.rpy:5969
     old "Sam has begun to open up about sex, but she wants everyone to be prepared.\n\n-Plan a mission to the school and retrieve Sam's notes from her locker\n-Visit the mall and buy an adult video game for Clover from the bookstore."
@@ -35084,27 +35084,27 @@ translate russia strings:
 
     # game/status.rpy:6845
     old "Animo..."
-    new ""
+    new "Анимо..."
 
     # game/status.rpy:6846
     old "Clover is struggling with going undercover with Drift Punk. I should send her out a few more times to see if things improve."
-    new ""
+    new "Кловер с трудом справляется с тем, чтобы работать под прикрытием у Дрифт Панков. Стоит отправить её ещё пару раз, чтобы посмотреть, улучшится ли ситуация."
 
     # game/status.rpy:6945
     old "The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it."
-    new ""
+    new "Чем чаще я отправляю Кловер под прикрытием к Дрифт Панкам, тем страннее она себя ведёт. Пока что я должен продолжать посылать её туда, чтобы посмотреть, может всётаки что-нибудь из этого и выйдет."
 
     # game/status.rpy:6971
     old "The more I send Clover undercover with Drift Punk, the stranger she's behaving. For now, I should continue to send her there to see if anything comes from it.\n\n-Send Clover undercover to Drift Punk and follow her."
-    new ""
+    new "Чем чаще я отправляю Кловер под прикрытием к Дрифт Панкам, тем страннее она себя ведёт. Пока что я должен продолжать посылать её туда, чтобы посмотреть, может всё-таки что-нибудь из этого и выйдет.\n\n-Отправить Кловер к Дрифт Панкам и проследите за ней."
 
     # game/status.rpy:6995
     old "Turns out, Clover is a closet nerd who loves dressing up as her favorite anime and video game characters."
-    new ""
+    new "Оказалось, что Кловер - латентный гик, который любит наряжаться в костюмы своих любимых героев аниме и видеоигр."
 
     # game/status.rpy:6996
     old "Animo... (Complete)"
-    new ""
+    new "Анимо... (ЗАВЕРШЁН)"
 
     # game/status.rpy:7156
     old "Nourishing Beats"
@@ -35120,7 +35120,7 @@ translate russia strings:
 
     # game/status.rpy:7227
     old "Nourishing Beats (Complete)"
-    new ""
+    new "(ЗАВЕРШЁН)"
 
     # game/status.rpy:7228
     old "Talia caused some trouble for us, but we managed to capture her."
@@ -35128,35 +35128,35 @@ translate russia strings:
 
     # game/status.rpy:7709
     old "Pink is thew New Black"
-    new ""
+    new "Розовый это новый чёрный"
 
     # game/status.rpy:7710
     old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces."
-    new ""
+    new "Мы попытаемся подобраться к Фелисити. Я должен послать Алекс к Аутсайдерам, чтобы узнать, сможем ли мы добиться её расположения."
 
     # game/status.rpy:7799
     old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\n-Stalk and kidnap the handsome model on his daily walk on the beach."
-    new ""
+    new "Мы попытаемся подобраться к Фелисити. Я должен послать Алекс к Аутсайдерам, чтобы узнать, сможем ли мы добиться её расположения.\n\n-Выследите и похитьте красавца-модель во время его ежедневной прогулки по пляжу."
 
     # game/status.rpy:7830
     old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}"
-    new ""
+    new "Мы попытаемся подобраться к Фелисити. Я должен послать Алекс к Аутсайдерам, чтобы узнать, сможем ли мы добиться её расположения.\n\nМодель была похищена, и Алекс отправилась его доставлять.\n\n{color=#A3A3A3}-Выследите и похитьте красавца-модель во время его ежедневной прогулки по пляжу.{/color}"
 
     # game/status.rpy:7916
     old "We're going to try and get close to Felicity. I should send Alex out to the Outsiders to see if we can get on her good graces.\n\nThe model has been captured and Alex went off to deliver him.\n\nFelicity seemed to have liked our gift.\n\n{color=#A3A3A3}-Stalk and kidnap the handsome model on his daily walk on the beach.{/color}\n\n-Setup a mission to the Carnival and capture Felicity Fences."
-    new ""
+    new "Мы попытаемся подобраться к Фелисити. Я должен послать Алекс к Аутсайдерам, чтобы узнать, сможем ли мы добиться её расположения.\n\nМодель была похищена, и Алекс отправилась его доставлять.\n\nПохоже Фелисити понравился наш подарок.\n\n{color=#A3A3A3}-Выследите и похитьте красавца-модель во время его ежедневной прогулки по пляжу.{/color}\n\n-Организуйте миссию на Карнавале и захватите Фелисити Фенсес."
 
     # game/status.rpy:7935
     old "We managed to capture and interrogate Felicity. Striking one more lieutenant off the records."
-    new ""
+    new "Нам удалось захватить и допросить Фелисити. Снимаем с доски ещё одного лейтенанта."
 
     # game/status.rpy:8467
     old "{font=fonts/freshmarker.ttf}{size=+20}Drift Punk{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+20}Дрифт Панки{/size}{/font}"
 
     # game/status.rpy:9014
     old "{font=fonts/freshmarker.ttf}{size=+20}Outsiders{/size}{/font}"
-    new ""
+    new "{font=fonts/freshmarker.ttf}{size=+20}Аутсайдеры{/size}{/font}"
 
     # game/status.rpy:9286
     old "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. She has infected with the girls with a powerful new set of nanobots that require some extra dedication to break."
@@ -35164,7 +35164,7 @@ translate russia strings:
 
     # game/status.rpy:9360
     old "Anal"
-    new ""
+    new "Анал"
 
     # game/status.rpy:9361
     old "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. Continue liberating WOOHP and capture her!"
@@ -35240,7 +35240,7 @@ translate russia strings:
 
     # game/status.rpy:12884
     old "Meanwhile at WOOHP Headquarters...."
-    new ""
+    new "Тем временем в штаб-квартире WOOHP...."
 
     # game/status.rpy:12911
     old "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Capture the second Lieutenant of the Aces,  Drift Punk and the Outsiders."
@@ -35248,7 +35248,7 @@ translate russia strings:
 
     # game/status.rpy:12918
     old "Meanwhile........"
-    new ""
+    new "Тем временем........"
 
     # game/status.rpy:12957
     old "All the lieutenants have been captured. Only the gang leaders remain. Continue participating in landgrabs until all of Beverly Hills is free!\n\n-Capture the gangleader of each of the three gangs."
@@ -35257,10 +35257,54 @@ translate russia strings:
     # game/status.rpy:12998
     old "All major gang leaders have been captured and it's time to take the fight to WOOHP. Visit the airport to travel to WOOHP HQ and take back the taken.\n\n-Gather enough intel and freed agents to fight your way to the top of WOOHP HQ."
     new ""
-# TODO: Translation updated at 2022-01-02 14:17
-
-translate russia strings:
 
     # game/status.rpy:335
     old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}- with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???"
     new ""
+
+    # game/status.rpy:8785
+    old "Potions{#1}"
+    new "Зелья"
+
+    # game/status.rpy:8881
+    old "Potions{#2}"
+    new "Зелья"
+
+    # game/status.rpy:8931
+    old "Items"
+    new "Вещи"
+
+    # game/status.rpy:722
+    old "Backup"
+    new "Подмога"
+# TODO: Translation updated at 2022-01-08 18:12
+
+translate russia strings:
+
+    # game/status.rpy:97
+    old "[picQuest1Text]"
+    new "-Сфотографируйте любую из ваших шпионок в униформе бара."
+
+    # game/status.rpy:100
+    old "[picQuest2Text]"
+    new "-Сфотографируйте любую из ваших шпионок в нижнем белье."
+
+    # game/status.rpy:103
+    old "[picQuest3Text]"
+    new "-Сфотографируйте девушку топлесс, но сделайте это сексуально."
+
+    # game/status.rpy:106
+    old "[picQuest4Text]"
+    new "-Сфотографируйте девушку голой, но сделайте это сексуально."
+
+    # game/status.rpy:109
+    old "[picQuest5Text]"
+    new "Сфотографируйте девушку в полный рост, полностью голой."
+
+    # game/status.rpy:112
+    old "[picQuest6Text]"
+    new "-Сфотографируйте, как одна из ваших шпионок использует дилдо."
+
+    # game/status.rpy:115
+    old "[picQuest7Text]"
+    new "-Сфотографируйте одну из ваших шпионок во время прелюдий."

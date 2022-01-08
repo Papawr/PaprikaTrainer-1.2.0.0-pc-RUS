@@ -1,4 +1,4 @@
-default menuOption1 = "Teasing Tosti"
+default menuOption1 = ""
 default menuOption2 = "Locked"
 default menuOption3 = "Locked"
 default menuOption4 = "Locked"

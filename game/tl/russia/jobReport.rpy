@@ -2980,7 +2980,7 @@ translate russia nextReport_1d7290cf:
 translate russia nextReport_2f6a6d9c:
 
     # s "Control our VIBs~..."
-    s "Контролируйте наши ВИБы~..."
+    s "Контролируйте наши VIBы~..."
 
 # game/jobReport.rpy:1008
 translate russia nextReport_97861be8:
@@ -5104,7 +5104,7 @@ translate russia nextReport_dd2f7b46:
 translate russia nextReport_80985166:
 
     # c "You're an idiot. Am I dismissed now...?"
-    c "Ты идиот. Я отстранена...?"
+    c "Ты идиот. Я свободна...?"
 
 # game/jobReport.rpy:1832
 translate russia nextReport_46dce6b6:
@@ -6778,7 +6778,7 @@ translate russia nextReport_325c1e07:
 translate russia nextReport_c46b4473:
 
     # y "That's what I like to hear."
-    y "Мне нравится это слышать."
+    y "Рад это слышать."
 
 # game/jobReport.rpy:2409
 translate russia nextReport_e59a2385:

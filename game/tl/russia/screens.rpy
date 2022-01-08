@@ -12,7 +12,7 @@ translate russia strings:
 
     # game/screens.rpy:660
     old "{font=fonts/freshmarker.ttf}{color=#cf1d1d}Return{/color}{/font}"
-    new "{font=fonts/freshmarker.ttf}{color=#cf1d1d}Return{/color}{/font}"
+    new "{font=fonts/freshmarker.ttf}{color=#cf1d1d}Вернуться{/color}{/font}"
 
     # game/screens.rpy:737
     old "About"
@@ -313,9 +313,6 @@ translate russia strings:
     # game/screens.rpy:1629
     old "Menu"
     new "Меню"
-# TODO: Translation updated at 2021-12-26 12:59
-
-translate russia strings:
 
     # game/screens.rpy:938
     old "Language"
@@ -328,9 +325,6 @@ translate russia strings:
     # game/screens.rpy:940
     old "Русский"
     new "Русский"
-# TODO: Translation updated at 2022-01-01 13:31
-
-translate russia strings:
 
     # game/screens.rpy:494
     old "Main menu"

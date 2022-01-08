@@ -496,7 +496,7 @@ translate russia spyCameraGreen_5f7b054b:
 translate russia spyCameraGreen_7cd307cf:
 
     # s "I hate this stupid VIB. Hate it, hate it, hate it!"
-    s "Я ненавижу этот дурацкий ВИБ. Ненавижу, ненавижу, ненавижу!"
+    s "Я ненавижу этот дурацкий VIB. Ненавижу, ненавижу, ненавижу!"
 
 # game/spycameras.rpy:306
 translate russia spyCameraGreen_1e70e177:

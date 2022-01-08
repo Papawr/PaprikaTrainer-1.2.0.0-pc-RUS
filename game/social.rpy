@@ -58,10 +58,10 @@ label samCall:
                     "Call me..." if True:
                         menu:
                             "New Guy" if True:
-                                $ playerName = _("New Guy [#ngpn]")
+                                $ playerName = _("New Guy{#scm2}")
                                 s "Sure, I can call you New Guy."
                             "Lowlife" if cardSWTitle == True:
-                                $ playerName = "Lowlife"
+                                $ playerName = _("Lowlife{#scl1}")
                                 s "That's a weird nickname... But I guess I can call you that from now on."
                                 jump samCall
                             "Boss" if True:
@@ -1747,10 +1747,10 @@ label cloverCall:
                     "Call me..." if True:
                         menu:
                             "New Guy" if True:
-                                $ playerName = "New Guy"
+                                $ playerName = _("New Guy{#scm3}")
                                 c "Sure, I can call you New Guy."
                             "Lowlife" if cardSWTitle == True:
-                                $ playerName = "Lowlife"
+                                $ playerName = _("Lowlife{#scl2}")
                                 c "That's a weird nickname... But I guess I can call you that from now on."
                                 jump cloverCall
                             "Boss" if True:
@@ -1902,10 +1902,10 @@ label alexCall:
                     "Call me..." if True:
                         menu:
                             "New Guy" if True:
-                                $ playerName = "New Guy"
+                                $ playerName = _("New Guy{#scm1}")
                                 a "Sure, I can call you New Guy."
                             "Lowlife" if cardSWTitle == True:
-                                $ playerName = "Lowlife"
+                                $ playerName = _("Lowlife{#scl3}")
                                 a "That's a weird nickname... But I guess I can call you that from now on."
                                 jump alexCall
                             "Boss" if True:

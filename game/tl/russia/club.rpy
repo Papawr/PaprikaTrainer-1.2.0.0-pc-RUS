@@ -846,7 +846,7 @@ translate russia strings:
 
     # game/club.rpy:490
     old "Apple Seed"
-    new "Семя яблони"
+    new "Яблочное семя"
 
     # game/club.rpy:490
     old "Vigor Leaf"
@@ -858,7 +858,7 @@ translate russia strings:
 
     # game/club.rpy:490
     old "Goldthorn"
-    new "Золотой терновник"
+    new "Золоторог"
 
     # game/club.rpy:490
     old "Whisper Weed"
@@ -866,7 +866,7 @@ translate russia strings:
 
     # game/club.rpy:490
     old "Rebel Weed"
-    new "Бунтарка"
+    new "Мятежница"
 
     # game/club.rpy:528
     old "{color=#EFD66D}The Booty Burger{/color}"
@@ -959,3 +959,11 @@ translate russia strings:
     # game/club.rpy:229
     old "{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}"
     new "{size=+12}{font=fonts/freshmarker.ttf}$[cash]{/font}{/size}"
+
+    # game/club.rpy:1
+    old "Teasing Tosti"
+    new "Дразнящие булочки"
+
+    # game/club.rpy:2
+    old "Locked"
+    new "Заблокировано"

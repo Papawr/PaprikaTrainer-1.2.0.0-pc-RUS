@@ -106,7 +106,7 @@ translate russia nightCycle_6d589ff2:
 translate russia nightCycle_959e051f:
 
     # "You will need to participate in Landgrabs to reveal the identity of gang leaders. New agents can be captured by using Hypno Earrings during missions."
-    "Чтобы раскрыть личности лидеров банд, тебе нужно будет принять участие в Landgrabs. Новых агентов можно захватить, используя серьги \"Гипно\" во время миссий."
+    "Чтобы раскрыть личности лидеров банд, тебе нужно будет принять участие в войне за территории. Новых агентов можно захватить, используя Гипно-Серьги во время миссий."
 
 # game/nightcycle.rpy:696
 translate russia nightCycle_236d5a31:

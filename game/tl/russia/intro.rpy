@@ -7005,7 +7005,7 @@ translate russia tutStage11_6a560659:
 translate russia tutStage11_3cc826ac:
 
     # "You give Sam her uniform."
-    "Ты отдаешь Сэм её форму"
+    "Вы отдаёте Сэм её униформу."
 
 # game/intro.rpy:2890
 translate russia tutStage11_8b0d240e:

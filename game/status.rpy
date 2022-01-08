@@ -94,25 +94,25 @@ default picQuest7Text = ""
 screen picQuestText:
     hbox:
         spacing 10 xalign 0.5 ypos 30 xsize 770
-        text "[picQuest1Text]"
+        text _("[picQuest1Text]")
     hbox:
         spacing 10 xalign 0.5 ypos 100 xsize 770
-        text "[picQuest2Text]"
+        text _("[picQuest2Text]")
     hbox:
         spacing 10 xalign 0.5 ypos 170 xsize 770
-        text "[picQuest3Text]"
+        text _("[picQuest3Text]")
     hbox:
         spacing 10 xalign 0.5 ypos 240 xsize 770
-        text "[picQuest4Text]"
+        text _("[picQuest4Text]")
     hbox:
         spacing 10 xalign 0.5 ypos 310 xsize 770
-        text "[picQuest5Text]"
+        text _("[picQuest5Text]")
     hbox:
         spacing 10 xalign 0.5 ypos 380 xsize 770
-        text "[picQuest6Text]"
+        text _("[picQuest6Text]")
     hbox:
         spacing 10 xalign 0.5 ypos 450 xsize 770
-        text "[picQuest7Text]"
+        text _("[picQuest7Text]")
 
 label quests:
     if tutStage == 3:
@@ -3462,7 +3462,7 @@ label task5:
         $ task5Text = _("The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-I bought the girls some dildos. Let's see how they react.")
         jump worldmap
     if task5Stage == 4:
-        $ sexAct2 = "Dildo"
+        $ sexAct2 = _("Dildo")
         $ task5Text = _("The nanobot control of the spies is getting stronger and I'm going to have to figure out a way to reduce it. I should probably stop by the mall to pick them up some dildos.\n\n-The girls reacted better to the dildos than I thought. I can tell them to play with themselves and spy on them via the spy cameras.")
         $ samSupLvl = 2
         $ cloverSupLvl = 2
@@ -8782,7 +8782,7 @@ label task25:
         hide screen glassScreen with d2
         hide screen gadgetMenu
         $ glassMissActive = False
-        $ bagItemsName = "Potions"
+        $ bagItemsName = "Potions{#1}"
         $ blueMagicBlock = True
         show screen equipmentMenu
         $ renpy.pause(hard='True')
@@ -8878,7 +8878,7 @@ label task25:
         pause 0.4
         kand "Agreed. Let's get this over with..."
         $ randomBossHP = 3
-        $ bagItemsName = "Potions"
+        $ bagItemsName = "Potions{#2}"
         $ backupSamActive = True
         $ backupCloverActive = True
         $ backupAlexActive = True

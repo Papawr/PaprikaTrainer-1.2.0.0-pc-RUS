@@ -1892,7 +1892,7 @@ label hacker:
                 pause 0.5
                 y "(That takes care of the advertisement...)"
                 jump worldmap
-            "{color=#EFD66D}'Double Trouble'{/color}" if task2Stage == 11:
+            "{color=#EFD66D}'Double Trouble'{/color}{#dt1}" if task2Stage == 11:
                 jump task2
             "Decrypting Process: [hackProgress]%%" if gadgetJetpackActive == False:
                 if hackProgress <= 25:
@@ -3876,11 +3876,11 @@ label explore:
             y "Isn't that were milk comes from~...?"
             $ randomMilk = renpy.random.randint(1, 3)
             if randomMilk == 1:
-                $ randMilkName = "Blobfish"
+                $ randMilkName = _("Blobfish")
             if randomMilk == 2:
-                $ randMilkName = "Bearded vulture"
+                $ randMilkName = _("Bearded vulture")
             if randomMilk == 3:
-                $ randMilkName = "Manatee"
+                $ randMilkName = _("Manatee")
             "Milkman" "Now if you want to treat yourself, you'll buy some of the finest [randMilkName] milk!"
             y "................"
             menu:

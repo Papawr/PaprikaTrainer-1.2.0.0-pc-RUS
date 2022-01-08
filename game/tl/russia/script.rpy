@@ -2521,9 +2521,6 @@ translate russia strings:
     # game/script.rpy:994
     old "{font=fonts/freshmarker.ttf}Items{/font}"
     new "{font=fonts/freshmarker.ttf}Вещи{/font}"
-# TODO: Translation updated at 2022-01-01 19:06
-
-translate russia strings:
 
     # game/script.rpy:337
     old "Gained [randIntel] INT"
@@ -2812,9 +2809,6 @@ translate russia strings:
     # game/script.rpy:12406
     old "{font=fonts/freshMarker.ttf}{size=+3}Entry 6{/size}{/font}"
     new "{font=fonts/freshMarker.ttf}{size=+3}Пункт 6{/size}{/font}"
-# TODO: Translation updated at 2022-01-02 14:50
-
-translate russia strings:
 
     # game/script.rpy:5073
     old "{font=fonts/freshmarker.ttf}Low{/font}{#slvlc}"
@@ -2839,3 +2833,10 @@ translate russia strings:
     # game/script.rpy:5139
     old "{font=fonts/freshmarker.ttf}High{/font}{#slvla}"
     new "{font=fonts/freshmarker.ttf}Высокий{/font}{#slvla}"
+# TODO: Translation updated at 2022-01-08 15:17
+
+translate russia strings:
+
+    # game/script.rpy:12260
+    old "The Aces have always been in Beverly Hills. A gang of rich kids, living the good life off of their parents money. They have always been involved in petty crimes and the occasional drug charge, but after WOOHP was taken over, they turned to more violent crime.\n\nMost Aces are spoiled snowflakes which run to their parents at the first sight of danger, but a few have found new purpose within the gang and are willing to fight tooth and nail to see their gang rise above all the others.\n\nWith money not being an issue for them, most Aces rob and steal just for the thrill of it. They are well equipped, but due to the exclusivity of their gang, are low in numbers."
+    new "Тузы всегда были в Беверли-Хиллз. Банда богатых детишек, живущих хорошей жизнью на деньги своих родителей. They have always been involved in petty crimes and the occasional drug charge, but after WOOHP was taken over, they turned to more violent crime.\n\nMost Aces are spoiled snowflakes which run to their parents at the first sight of danger, but a few have found new purpose within the gang and are willing to fight tooth and nail to see their gang rise above all the others.\n\nWith money not being an issue for them, most Aces rob and steal just for the thrill of it. They are well equipped, but due to the exclusivity of their gang, are low in numbers."

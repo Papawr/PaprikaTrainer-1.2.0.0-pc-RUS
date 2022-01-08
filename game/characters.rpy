@@ -3,22 +3,22 @@
 
 
 
-define greenName = _("Sam")
+define greenName = _("Sam{#dgn}")
 define greenLocation = "Library"
 
 
-define redName = "Clover"
+define redName = _("Clover{#drn}")
 define redLocation = "Showers"
 
 
-define yellowName = "Alex"
+define yellowName = _("Alex{#dyn}")
 define yellowLocation = "Cafetaria"
 
 
-define kimName = "Kim"
+define kimName = _("Kim{#dkn}")
 
 
-define playerName = _("New Guy")
+define playerName = _("Новичок")
 
 
 
@@ -34,9 +34,9 @@ transform ri:
 define y = Character(_("You"), color="#fff", what_color="#fff", image="player", window_style="windowBlue", what_style="say_dialogueRight", who_style="say_labelRight")
 define yInmate = Character(_("You"), color="#fff", what_color="#fff", image="playerInmate", window_style="windowBlue", what_style="say_dialogueRight", who_style="say_labelRight")
 define s = Character(_("[greenName]"), color="#fff", what_color="#fff", image="green", window_style="windowGreen", namebox_style="nameboxGreen", what_style="say_dialogueRight", who_style="say_labelRight")
-define sM = Character(_("Sam[#dsM]"), color="#fff", what_color="#fff", image="miniGreen", window_style="windowGreen", namebox_style="nameboxGreen", what_style="say_dialogueRight", who_style="say_labelRight")
-define cM = Character(_("Clover[#dsM]"), color="#fff", what_color="#fff", image="miniRed", window_style="windowRed", namebox_style="nameboxRed", what_style="say_dialogueRight", who_style="say_labelRight")
-define aM = Character(_("Alex[#dsM]"), color="#fff", what_color="#fff", image="miniYellow", window_style="windowYellow", namebox_style="nameboxYellow", what_style="say_dialogueRight", who_style="say_labelRight")
+define sM = Character(_("Sam{#dsM}"), color="#fff", what_color="#fff", image="miniGreen", window_style="windowGreen", namebox_style="nameboxGreen", what_style="say_dialogueRight", who_style="say_labelRight")
+define cM = Character(_("Clover{#dsM}"), color="#fff", what_color="#fff", image="miniRed", window_style="windowRed", namebox_style="nameboxRed", what_style="say_dialogueRight", who_style="say_labelRight")
+define aM = Character(_("Alex{#dsM}"), color="#fff", what_color="#fff", image="miniYellow", window_style="windowYellow", namebox_style="nameboxYellow", what_style="say_dialogueRight", who_style="say_labelRight")
 define c = Character(_("[redName]"), color="#fff", what_color="#fff", image="red", window_style="windowRed", namebox_style="nameboxRed", what_style="say_dialogueRight", who_style="say_labelRight")
 define a = Character(_("[yellowName]"), image="yellow", window_style="windowYellow", namebox_style="nameboxYellow", what_style="say_dialogueRight", who_style="say_labelRight")
 define kim = Character(_("[kimName]"), color="#fff", what_color="#fff", window_style="windowOrange", namebox_style="nameboxOrange", what_style="say_dialogueRight", who_style="say_labelRight")
@@ -102,7 +102,7 @@ define nerd = Character(_("Nerd"), image="miniNerd", color="#fff", what_color="#
 
 
 
-default playerName = _("New Guy")
+default playerName = _("Новичок")
 default playerKarma = 50
 default karmaCash = 0
 default playerOutfit = 10
@@ -174,7 +174,7 @@ default greenTatPuss = 0
 default greenTatFoot = 0
 
 
-default samNick = _("Cucumber {#dsn}")
+default samNick = _("Cucumber{#dsn}")
 default samHealth = 3
 default samMood = 100
 default samSocial = 0
@@ -182,7 +182,7 @@ default samSlut = 0
 default samDailyChat = 0
 default nanoLevelSam = 10
 default samSupLvl = 0
-default samFriend = _("Acquaintance {#dsf}")
+default samFriend = _("Acquaintance{#dsf}")
 default samHPTimer = 0
 default samTitSize = 1
 

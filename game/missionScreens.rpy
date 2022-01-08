@@ -6235,7 +6235,7 @@ default greenMagicBlock = False
 default redMagicBlock = False
 
 screen bagInteractItems:
-    if bagItemsName == "Potions":
+    if bagItemsName == _("Potions{#3}"):
         modal True
         default x = renpy.get_mouse_pos()[0]
         default y = renpy.get_mouse_pos()[1]
@@ -6251,7 +6251,7 @@ screen bagInteractItems:
                     action Hide("bagInteract"), Hide("bagInteractItems"), SetVariable("itemtUsed", 12), Jump("itemUsed")
             textbutton _("Cancel"):
                 action Hide("bagInteractItems")
-    elif bagItemsName == "Items":
+    elif bagItemsName == _("Items{#2}"):
         modal True
         default x = renpy.get_mouse_pos()[0]
         default y = renpy.get_mouse_pos()[1]
