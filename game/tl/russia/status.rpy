@@ -33328,7 +33328,7 @@ translate russia task32_5ccdd5ed:
 translate russia task32_0edd9cdd:
 
     # "It looks like Kim gave them some advice and your spies put on quite the show!"
-    "Похоже, что Ким дал им несколько советов, и ваши шпионки устроили отличное шоу!"
+    "Похоже, что Ким дала им несколько советов, и ваши шпионки устроили отличное шоу!"
 
 # game/status.rpy:12826
 translate russia task32_1e718a6b:
@@ -33788,7 +33788,7 @@ translate russia strings:
 
     # game/status.rpy:122
     old "[task32Name]"
-    new "[Строили, строили и наконец построили]"
+    new "Строили, строили и наконец построили"
 
     # game/status.rpy:122
     old "[task21Name]"
@@ -35058,17 +35058,21 @@ translate russia strings:
     old "We managed to release the barber's daughter from Punk Web and can now get free haircuts at the mall whenever we like."
     new "Нам удалось освободить дочь парикмахера из Панк-Вэба, и теперь мы можем бесплатно стричься в торговом центре, когда захотим."
 
+    # game/status.rpy:5962
+    old "Let's have sex already!"
+    new "Давай ибаца!"
+
     # game/status.rpy:5843
     old "We've begun talking about having sex together, but Sam is still vividly denying it. I should go talk to her in her cell."
     new "Мы начали обсуждать варианты совместного секса, но Сэм всё ещё активно отказывается. Я должен пойти и поговорить с ней в её камере."
 
     # game/status.rpy:5969
     old "Sam has begun to open up about sex, but she wants everyone to be prepared.\n\n-Plan a mission to the school and retrieve Sam's notes from her locker\n-Visit the mall and buy an adult video game for Clover from the bookstore."
-    new ""
+    new "Сэм начала открыто говорить о сексе, но она хочет, чтобы все хорошенько подготовились.\n\n-Спланируйте миссию в школе и заберите записи Сэм из её шкафчика.\n-Посетите торговый центр и купите в книжном магазине порно-игру для Кловер."
 
     # game/status.rpy:6211
     old "Party till you drop"
-    new ""
+    new "Пати до упаду"
 
     # game/status.rpy:6212
     old "We're going to give a party the Aces will remember for years. We have a few things to do however.\n\n-Plan a mission to the Amusement Park for fireworks.\n-Plan a mission to Punk Web and steal the hottest mixtape.\n-Pick up some thots at school.\n-Have at least $2.000."
@@ -35076,11 +35080,11 @@ translate russia strings:
 
     # game/status.rpy:6462
     old "Party till you drop (Completed)"
-    new ""
+    new "Пати до упаду (ЗАВЕРШЁН)"
 
     # game/status.rpy:6463
     old "With the party of the century done, we're one step closer to winning the trust of the Aces leader. All we have to do now is increase our reputation a bit more and hopefully take them down."
-    new ""
+    new "Завершив вечеринку века, мы стали на шаг ближе к завоеванию доверия лидера Тузов. Всё, что нам теперь нужно сделать, это ещё немного повысить свою репутацию и, надеюсь, победить их."
 
     # game/status.rpy:6845
     old "Animo..."
@@ -35108,23 +35112,23 @@ translate russia strings:
 
     # game/status.rpy:7156
     old "Nourishing Beats"
-    new ""
+    new "Жёсткий бит"
 
     # game/status.rpy:7157
     old "Send Clover to Drift Punk to get closer to Talia Hardwire."
-    new ""
+    new "Отправьте Кловер в Дрифт Панкам, чтобы сблизиться с Талией Хардвайр."
 
     # game/status.rpy:7184
     old "Talia has been willing to cooperate, but is afraid that Drift Punk will come after her. We just have to get her out and make it seem believable.\n\n-Plan a mission to Punk Web and capture Talia Hardwire."
-    new ""
+    new "Талия готова сотрудничать, но боится, что Дрифт Панки придут за ней. Мы просто должны вытащить её и сделать это правдоподобным.\n\n-Спланируйте миссию в Панк-Вэбе и захватите Талию Хардвайр."
 
     # game/status.rpy:7227
     old "Nourishing Beats (Complete)"
-    new "(ЗАВЕРШЁН)"
+    new "Жёсткий бит (ЗАВЕРШЁН)"
 
     # game/status.rpy:7228
     old "Talia caused some trouble for us, but we managed to capture her."
-    new ""
+    new "Талия доставила нам некоторые неприятности, но нам всё же удалось её схватить."
 
     # game/status.rpy:7709
     old "Pink is thew New Black"
@@ -35160,7 +35164,7 @@ translate russia strings:
 
     # game/status.rpy:9286
     old "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. She has infected with the girls with a powerful new set of nanobots that require some extra dedication to break."
-    new ""
+    new "Завоевание штаб-квартиры WOOHP началось, но на вашем пути стоит шпионка в синем. Она заразила девочек новым мощным набором наноботов, для уничтожения которых требуется дополнительная самоотверженность."
 
     # game/status.rpy:9360
     old "Anal"
@@ -35168,43 +35172,43 @@ translate russia strings:
 
     # game/status.rpy:9361
     old "The conquest of WOOHP HQ has begun, but a spy in blue stands in your way. Continue liberating WOOHP and capture her!"
-    new ""
+    new "Завоевание штаб-квартиры WOOHP началось, но на вашем пути стоит шпионка в синем. Захватите её и продолжайте освобождать WOOHP!"
 
     # game/status.rpy:9538
     old "Britney is proving to be a challenge to bring in. We'll have to deal with this problem head on.\n\n-Plan a mission to WOOHP HQ to bring back Britney."
-    new ""
+    new "Бритни оказалась непростой задачкой. Нам придётся решать эту проблему в лоб.\n\n-Спланируйте миссию в штаб-квартире WOOHP, чтобы схватить Бритни."
 
     # game/status.rpy:9640
     old "Britney has been captured! I should visit her in her cell to break her nanobot control."
-    new ""
+    new "Бритни у нас! Стоит посетить её в камере, чтобы сломить контроль её наноботов."
 
     # game/status.rpy:9666
     old "Britney's control has been broken, she can now help us liberate the rest of WOOHP HQ and is available as a new Backup option during missions."
-    new ""
+    new "Бритни больше не контролируют, теперь она может помочь нам освободить остальную часть штаб-квартиры WOOHP. Она доступна в качестве подмоги во время миссий."
 
     # game/status.rpy:9877
     old "Britney has told us about the Mastermind. Someone or something called GLADIS. Not far to go now. We should continue taking back floors of the WOOHP HQ."
-    new ""
+    new "Бритни рассказала нам о Организаторе. Кто-то или что-то по имени ГЛАДИС. Осталось совсем немного. Мы должны продолжать отвоевывать этажи штаб-квартиры WOOHP."
 
     # game/status.rpy:9967
     old "Capture Tim Scam!"
-    new ""
+    new "Схватите Тима Скама!"
 
     # game/status.rpy:10065
     old "Tim Scam has been captured, now all that's left is to bring down GLADIS."
-    new ""
+    new "Тим Скам схвачен, теперь осталось уничтожить ГЛАДИС."
 
     # game/status.rpy:10130
     old "With Tim Scam in custody it's time to move on to the final level of the WOOHP HQ and take down the mastermind!"
-    new ""
+    new "С Тимом Скамом под стражей пора переходить на последний уровень штаб-квартиры WOOHP и уничтожить организатора!"
 
     # game/status.rpy:10204
     old "Send the last of your loyal followers out to look for Mathias."
-    new ""
+    new "Отправьте последних из ваших верных последователей на поиски Матиаса."
 
     # game/status.rpy:10411
     old "Game Over"
-    new ""
+    new "Игра окончена"
 
     # game/status.rpy:10791
     old "Soft your followers out to soften up the airport's defenses and bring Sam back home."
@@ -35228,15 +35232,15 @@ translate russia strings:
 
     # game/status.rpy:12673
     old "Build-A-Bar"
-    new ""
+    new "Строили, строили и наконец построили"
 
     # game/status.rpy:12674
     old "Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.\n\n-Have atleast $2000.\n-Have atleast 4 staff members.\n-Find someone who can help you get the word out."
-    new ""
+    new "Осторожно, Беверли-Хиллз, скоро откроется новый стриптиз-клуб! Но сначала мне нужно сделать кое-какие приготовления. Мне понадобятся деньги на перестройку, персонал, и мне нужно дать о себе знать.\n\n-Иметь не менее $2000.\n-Иметь не менее 4 сотрудников.\n-Найдите человека, который поможет вам распространить эту новость."
 
     # game/status.rpy:12745
     old "{color=#A3A3A3}Watch out Beverly Hills, a new stripclub is opening soon! I need to make some preparations first though. I'll need money for the remodelling, staff and I need to get the word out.{/color}\n\nThe stripclub has opened and I can now send my girls to go stripping there in the evening."
-    new ""
+    new "{color=#A3A3A3}Осторожно, Беверли-Хиллз, скоро откроется новый стриптиз-клуб! Но сначала мне нужно сделать кое-какие приготовления. Мне понадобятся деньги на перестройку, персонал, и мне нужно дать о себе знать.{/color}\n\nСтриптиз-клуб открылся, и теперь я могу посылать туда своих девочек на стриптиз по вечерам."
 
     # game/status.rpy:12884
     old "Meanwhile at WOOHP Headquarters...."
@@ -35244,7 +35248,7 @@ translate russia strings:
 
     # game/status.rpy:12911
     old "We found a way to get gangleaders out of hiding. If we mess enough with their gang during Landgrabs they'll show themselves.\n\nThen, if our reputation is high enough, we can get close to these lieutenants and try to capture them.\n\n-Capture the second Lieutenant of the Aces,  Drift Punk and the Outsiders."
-    new ""
+    new "Мы нашли способ вывести главарей из укрытия. Если мы достаточно поиздеваемся над их бандой во время войны, они покажутся.\n\nЗатем, если наша репутация будет достаточно высокой, мы сможем подобраться к этим лейтенантам и попытаться захватить их.\n\n-Захватите второго лейтенанта Тузов, Дрифт Панков и Аутсайдеров."
 
     # game/status.rpy:12918
     old "Meanwhile........"
@@ -35252,59 +35256,48 @@ translate russia strings:
 
     # game/status.rpy:12957
     old "All the lieutenants have been captured. Only the gang leaders remain. Continue participating in landgrabs until all of Beverly Hills is free!\n\n-Capture the gangleader of each of the three gangs."
-    new ""
+    new "И так все лейтенанты захвачены, теперь остались лишь главари банд.\n\n-Захватите главарей Тузов, Дрифт Панков и Аутсайдеров."
 
     # game/status.rpy:12998
     old "All major gang leaders have been captured and it's time to take the fight to WOOHP. Visit the airport to travel to WOOHP HQ and take back the taken.\n\n-Gather enough intel and freed agents to fight your way to the top of WOOHP HQ."
-    new ""
+    new "Все основные лидеры банд захвачены, и пришло время дать бой WOOHP. Посетите аэропорт, чтобы отправиться в штаб-квартиру WOOHP и захватить её.\n\n-Собирайте достаточно разведданных и освобожденных агентов, чтобы проложить себе путь к вершине штаб-квартиры WOOHP."
 
     # game/status.rpy:335
     old "After my spy returned from her first mission we figured out oxytocin seems to help suppress the nanobots. We can capture agents and use sex to break the control over them. Then use them to help liberate Beverly Hills.\n\nWe will need money and intel to go on future mission, so I should send my spy out to go undercover and collect some intel with the different gangs around town.\n\n{color=#A3A3A3}- with one of the gangs in town.{/color} \n\n{color=#A3A3A3}-Clean up the milkshake bar and convince your spy to work there.{/color}\n\n-???"
-    new ""
-
-    # game/status.rpy:8785
-    old "Potions{#1}"
-    new "Зелья"
-
-    # game/status.rpy:8881
-    old "Potions{#2}"
-    new "Зелья"
-
-    # game/status.rpy:8931
-    old "Items"
-    new "Вещи"
+    new "После первой миссии, мы выяснили, что окситоцин, секс, помогает подавить наноботов. С помощью захваченных и освобождённых агентов мы сможем освободить Беверли-Хиллз.\n\nНам понадобятся деньги и информация для выполнения будущих миссий, поэтому я должен отправить свою шпионку на работу под прикрытием для собора информации в различных бандах города.{/color} \n\n{color=#A3A3A3}-Наведите порядок в баре и убедите свою шпионку работать там.{/color}\n\n-???"
 
     # game/status.rpy:722
     old "Backup"
     new "Подмога"
-# TODO: Translation updated at 2022-01-08 18:12
-
-translate russia strings:
 
     # game/status.rpy:97
     old "[picQuest1Text]"
-    new "-Сфотографируйте любую из ваших шпионок в униформе бара."
+    new "[picQuest1Text]"
 
     # game/status.rpy:100
     old "[picQuest2Text]"
-    new "-Сфотографируйте любую из ваших шпионок в нижнем белье."
+    new "[picQuest2Text]"
 
     # game/status.rpy:103
     old "[picQuest3Text]"
-    new "-Сфотографируйте девушку топлесс, но сделайте это сексуально."
+    new "[picQuest3Text]"
 
     # game/status.rpy:106
     old "[picQuest4Text]"
-    new "-Сфотографируйте девушку голой, но сделайте это сексуально."
+    new "[picQuest4Text]"
 
     # game/status.rpy:109
     old "[picQuest5Text]"
-    new "Сфотографируйте девушку в полный рост, полностью голой."
+    new "[picQuest5Text]"
 
     # game/status.rpy:112
     old "[picQuest6Text]"
-    new "-Сфотографируйте, как одна из ваших шпионок использует дилдо."
+    new "[picQuest6Text]"
 
     # game/status.rpy:115
     old "[picQuest7Text]"
-    new "-Сфотографируйте одну из ваших шпионок во время прелюдий."
+    new "[picQuest7Text]"
+
+    # game/status.rpy:3465
+    old "Dildo"
+    new "Дилдо"

@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/worldmap.rpy", line 2884: expected menuitem
-    _("{color=#EFD66D}'A few snips away of a haircut'{/color}") if True:
-    ^
+File "game/tl/russia/status.rpy", line 35123: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        new "Талия готова сотрудничать, но боится, что Дрифт Панки придут за ней. Мы просто должны вытащить её и сделать это правдоподобным.\n\n-Спланируйте миссию в Панк-Вэбе и захватите Талию Хардвайр.
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Sat Jan  8 21:08:05 2022
+Sun Jan  9 13:55:19 2022

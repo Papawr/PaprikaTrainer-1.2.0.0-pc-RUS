@@ -912,7 +912,7 @@ translate russia strings:
 
     # game/base.rpy:389
     old "{color=#EFD66D}'Let's have sex already'{/color}"
-    new "{color=#EFD66D}'Давай уже поеб*мся'{/color}"
+    new "{color=#EFD66D}'Давай ибаца!'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'A taste of what's to come'{/color}"
@@ -928,7 +928,7 @@ translate russia strings:
 
     # game/base.rpy:410
     old "{color=#EFD66D}'Retaken the Taken'{/color}"
-    new "{color=#EFD66D}'Захватить'{/color}"
+    new "{color=#EFD66D}'Наше по праву'{/color}"
 
     # game/base.rpy:389
     old "{color=#EFD66D}'What about blowjobs?'{/color}"

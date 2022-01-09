@@ -394,7 +394,7 @@ translate russia cheatMenu_179c76e5:
 translate russia cheatMenu_d984a0d4:
 
     # "1000 intel added."
-    "Добавлено 1000 интеллекта."
+    "Добавлено 1000 инфо."
 
 # game/creditcards.rpy:3557
 translate russia cheatMenu_170e8e51:
@@ -458,7 +458,7 @@ translate russia strings:
 
     # game/creditcards.rpy:3547
     old "1000 intel"
-    new "1000 интеллекта"
+    new "1000 Инфо."
 
     # game/creditcards.rpy:3547
     old "100 notoriety"

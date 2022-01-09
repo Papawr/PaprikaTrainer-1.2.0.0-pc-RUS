@@ -7788,11 +7788,11 @@ translate russia strings:
 
     # game/worldmap.rpy:1393
     old "{color=#EFD66D}'Clover the nerd'{/color}"
-    new "{color=#EFD66D}'Ботаничка Кловер'{/color}"
+    new "{color=#EFD66D}'Гик Кловер'{/color}"
 
     # game/worldmap.rpy:1399
     old "{color=#EFD66D}'Nourishing Beats...'{/color}"
-    new "{color=#EFD66D}'Питательный ритм...'{/color}"
+    new "{color=#EFD66D}'Жёсткий бит...'{/color}"
 
     # game/worldmap.rpy:1411
     old "{color=#EFD66D}'God is a DJ'{/color}"
@@ -7820,7 +7820,7 @@ translate russia strings:
 
     # game/worldmap.rpy:1877
     old "{color=#EFD66D}'Build-A-Bar'{/color}"
-    new "{color=#EFD66D}'Построй бар'{/color}"
+    new "{color=#EFD66D}'Строили, строили и наконец построили'{/color}"
 
     # game/worldmap.rpy:1897
     old "Decrypting Process: [hackProgress]%%"

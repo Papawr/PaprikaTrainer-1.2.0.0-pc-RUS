@@ -5959,7 +5959,7 @@ label task13:
         call greenOutfitSet from _call_greenOutfitSet_7
         call yellowOutfitSet from _call_yellowOutfitSet_4
         call redOutfitSet from _call_redOutfitSet_6
-        $ task13Name = "Let's have sex already!"
+        $ task13Name = _("Let's have sex already!")
         jump base
 
     if task13Stage == 1:
@@ -8782,7 +8782,7 @@ label task25:
         hide screen glassScreen with d2
         hide screen gadgetMenu
         $ glassMissActive = False
-        $ bagItemsName = "Potions{#1}"
+        $ bagItemsName = "Potions"
         $ blueMagicBlock = True
         show screen equipmentMenu
         $ renpy.pause(hard='True')
@@ -8878,7 +8878,7 @@ label task25:
         pause 0.4
         kand "Agreed. Let's get this over with..."
         $ randomBossHP = 3
-        $ bagItemsName = "Potions{#2}"
+        $ bagItemsName = "Potions"
         $ backupSamActive = True
         $ backupCloverActive = True
         $ backupAlexActive = True

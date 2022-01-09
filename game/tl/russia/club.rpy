@@ -786,11 +786,11 @@ translate russia strings:
 
     # game/club.rpy:393
     old "{color=#EFD66D}Build-A-Bar{/color}"
-    new "{color=#EFD66D}Построить бар{/color}"
+    new "{color=#EFD66D}Строили, строили и наконец построили{/color}"
 
     # game/club.rpy:393
     old "{color=#EFD66D}Short on tits{/color}"
-    new "{color=#EFD66D}Short on tits{/color}"
+    new "{color=#EFD66D}Нехватка сисек{/color}"
 
     # game/club.rpy:393
     old "Clean the bar"

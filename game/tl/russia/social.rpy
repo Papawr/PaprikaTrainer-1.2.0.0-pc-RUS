@@ -2068,7 +2068,7 @@ translate russia samSocial_d93cc90b:
 translate russia samSocial_74c10db7:
 
     # s "Once I stop being a goodie two shoes student, I'll have so much free time!"
-    s "Как только я перестану быть пинькой, у меня появится столько свободного времени!"
+    s "Как только я перестану быть паинькой, у меня появится столько свободного времени!"
 
 # game/social.rpy:683
 translate russia samSocial_0aa86630:
@@ -9836,7 +9836,7 @@ translate russia strings:
 
     # game/social.rpy:2043
     old "Visit Sebastian Sage"
-    new "Навестить Себасиана Сага."
+    new "Навестить Себасиана Сейджа."
 
     # game/social.rpy:2043
     old "Visit The Great Kandinsky"
