@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/russia/status.rpy", line 35123: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a " at the end of the first line.)
-        new "Талия готова сотрудничать, но боится, что Дрифт Панки придут за ней. Мы просто должны вытащить её и сделать это правдоподобным.\n\n-Спланируйте миссию в Панк-Вэбе и захватите Талию Хардвайр.
+File "game/tl/russia/characters.rpy", line 52: expected statement.
+    Санта, порицатель шлюх!
+         ^
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Sun Jan  9 13:55:19 2022
+Wed Dec 22 12:56:32 2021

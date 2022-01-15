@@ -52,7 +52,7 @@ translate russia missRandSecret2_1b7b4651:
 translate russia missionScreenFinish_27751c82:
 
     # y "I should plan a mission to Punk Web first to rescue Clover."
-    y "Сначала я должен спланировать миссию в Punk Web, чтобы спасти Кловер."
+    y "Сначала я должен спланировать миссию в Панк-Вэбе, чтобы спасти Кловер."
 
 # game/mission.rpy:2730
 translate russia missionScreenFinish_0c58ce72:
@@ -160,7 +160,7 @@ translate russia loadingLevel_211b2056:
 translate russia loadingLevel_77ea7a56:
 
     # y "Just throw the bondage gadget and watch the fireworks."
-    y "Просто бросьте Бандаж и смотрите на шоу."
+    y "Просто брось Бандаж и смотри на шоу."
 
 # game/mission.rpy:3351
 translate russia loadingLevel_49df6cfe_1:

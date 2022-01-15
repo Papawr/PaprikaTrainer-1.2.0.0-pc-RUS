@@ -5956,7 +5956,7 @@ translate russia halloweenEvent_e0ab1501:
 translate russia halloweenEvent_197472d2:
 
     # "Spirit" "Hey again. I was hoping to find you he-....{w}ARGHHH!!!!"
-    "Призрак" "Привет снова. Я надеялся найти тебя зд-.... {W} ААРРГГХХ!!!!"
+    "Призрак" "Привет снова. Я надеялся найти тебя зд-.... {w} ААРРГГХХ!!!!"
 
 # game/worldmap.rpy:4450
 translate russia halloweenEvent_9263fe0b:

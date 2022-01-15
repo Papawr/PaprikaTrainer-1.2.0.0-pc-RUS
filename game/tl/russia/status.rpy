@@ -25810,7 +25810,7 @@ translate russia task26_26689948:
 translate russia task26_aea012e4:
 
     # tim "A little help here GLADIS! I'm running out of nets!"
-    tim "Г.Л.Э.Д.И.С., мне не помешает помощь! У меня уже закагчиваются сети!"
+    tim "Г.Л.Э.Д.И.С., мне не помешает помощь! У меня уже заканчиваются сети!"
 
 # game/status.rpy:10064
 translate russia task26_5772b0d1:
@@ -25882,7 +25882,7 @@ translate russia task26_16018eea:
 translate russia task26_e35d6c03:
 
     # y "Clover! Hack into those turrets!"
-    y "Клевер! Взломай эти турели!"
+    y "Кловер! Взломай эти турели!"
 
 # game/status.rpy:10094
 translate russia task26_b6815dd6:
@@ -28348,7 +28348,7 @@ translate russia endgameMenu1_692be6fa:
 translate russia endgameMenu1_171b8535:
 
     # O5O "BUT WE DID SEE SOMEONE ELSE!{w} THE SILVER HAIRED GIRL IN THE RED DRESS!"
-    O5O "НО МЫ ВИДЕЛИ КОЕ-КОГО ЕЩЁ!{W} ДЕВУШКУ С СЕРЕБРЕННЫМИ ВОЛОСАМИ В КРАСНОМ ПЛАТЬЕ!"
+    O5O "НО МЫ ВИДЕЛИ КОЕ-КОГО ЕЩЁ!{w} ДЕВУШКУ С СЕРЕБРЕННЫМИ ВОЛОСАМИ В КРАСНОМ ПЛАТЬЕ!"
 
 # game/status.rpy:10823
 translate russia endgameMenu1_61252a1a:
@@ -29434,7 +29434,7 @@ translate russia endgameMenu1_98ddb6f7:
 translate russia endgameMenu1_13c61b06:
 
     # y "Well too bad. If you're going crazy for cocoa puffs again, you be damn sure I'm gonna put you in that suit again."
-    y "Очень жаль. Если ты снова сходишь с ума от какао, будь уверена, я снова одену тебя в этот костюм."
+    y "Очень жаль. Если ты снова слетишь с катушек, будь уверена, я снова одену тебя в этот костюм."
 
 # game/status.rpy:11189
 translate russia endgameMenu1_16cee8ab:
@@ -34088,7 +34088,7 @@ translate russia strings:
 
     # game/status.rpy:10395
     old "What am I saying?! Of course not!"
-    new "А я что говорю?! Конечно, нет!"
+    new "Да что я такое говорю?! Конечно же, нет!"
 
     # game/status.rpy:10460
     old "'Can you do it?'"
@@ -34116,7 +34116,7 @@ translate russia strings:
 
     # game/status.rpy:10833
     old "Let's go now"
-    new "Пойдём уже"
+    new "Пойдём сейчас"
 
     # game/status.rpy:10833
     old "Let's wait till tomorrow"
@@ -35208,27 +35208,27 @@ translate russia strings:
 
     # game/status.rpy:10411
     old "Game Over"
-    new "Игра окончена"
+    new "КОНЕЦ"
 
     # game/status.rpy:10791
     old "Soft your followers out to soften up the airport's defenses and bring Sam back home."
-    new ""
+    new "Отправьте своих последователей, чтобы ослабить оборону аэропорта и вернуть Сэм домой."
 
     # game/status.rpy:10939
     old "Rescue Clover by planning a mission to Drift Punk and using the Bondage gadget on her."
-    new ""
+    new "Спасите Кловер, спланировав миссию в Панк-Вэбе и использовав на ней \"Бондаж\"."
 
     # game/status.rpy:11127
     old "With Sam and Clover back on our side, it's time to free Alex. Plan a mission to WOOHP HQ to use the bondage gadget on her."
-    new ""
+    new "Вместе с Сэм и Кловер, пришло время освободить Алекс. Спланируйте миссию в штаб-квартиру WOOHP, чтобы использовать на ней гаджет для захвата."
 
     # game/status.rpy:11377
     old "Discuss your plan with the spies."
-    new ""
+    new "Обсудите ваш план со шпионками."
 
     # game/status.rpy:11527
     old "Lead the final assault on WOOHP HQ."
-    new ""
+    new "Возглавьте последний штурм штаба WOOHP."
 
     # game/status.rpy:12673
     old "Build-A-Bar"

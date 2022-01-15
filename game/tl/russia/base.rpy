@@ -112,13 +112,13 @@ translate russia assaultHQ_2b53edba:
 translate russia lift_4a5e7b67:
 
     # y "No shows are giving during the lockdown."
-    y "Во время (карантина/блокировки) нельзя проводить спектакли."
+    y "В данной ситуаций нельзя проводить шоу."
 
 # game/base.rpy:377
 translate russia lift_6064488e:
 
     # y "No shows are being given during the lockdown."
-    y "Во время (карантина/блокировки) нельзя проводить спектакли."
+    y "В данной ситуаций нельзя проводить шоу."
 
 # game/base.rpy:1146
 translate russia resetVarMis_589d0c7b:

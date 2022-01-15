@@ -6,9 +6,9 @@ image schoolBG2 = "mission/schoolDistant1.jpg"
 label splashscreen:
 scene black with dissolve
 pause 1
-show text "{size=+20}{color=#f10000}АХТУНГ!{/color}\n{/size} \n Игра ещё переводиться!!! \n Статус перевода: \"сырой - не редактированный\" \n Пресутсвуют многочисленные орфографические ошибки и непонятности. \n Советую дождаться полноценного перевода. \n За новостями удобно следить в моём телеграм канале: @papawrtranslate." with dissolve
+show text "{size=+20}{color=#f10000}АХТУНГ!{/color}\n\n{/size}\nЭто любительский перевод!!!\n\nИгра полностью проходима.\n\nВозможны некоторые орфографические или смысловые ошибки.\n\nЕсли найдёте какие-нибудь жёсткие ошибки в тексте или баги в игре, репортите их в мой телеграм канал: @papawrtranslate." with dissolve
 pause 10
-show text "Но если ты не терпеливый(ая) и у тебя стольные яйца, то приятной игры. ©Papawr"
+show text "Приятной игры. ©Papawr"
 pause 5
 scene black with dissolve
 pause 1

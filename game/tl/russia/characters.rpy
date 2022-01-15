@@ -48,7 +48,7 @@ translate russia strings:
 
     # game/characters.rpy:54
     old "{color=#e01a1a}S{color=#22b613}l{color=#e01a1a}u{color=#22b613}t {color=#e01a1a}S{color=#22b613}h{color=#e01a1a}a{color=#22b613}m{color=#e01a1a}i{color=#22b613}n{color=#e01a1a}g S{color=#22b613}a{color=#e01a1a}n{color=#22b613}t{color=#e01a1a}a{/color}"
-    new "{color=#e01a1a}S{color=#22b613}l{color=#e01a1a}u{color=#22b613}t {color=#e01a1a}S{color=#22b613}h{color=#e01a1a}a{color=#22b613}m{color=#e01a1a}i{color=#22b613}n{color=#e01a1a}g S{color=#22b613}a{color=#e01a1a}n{color=#22b613}t{color=#e01a1a}a{/color}"
+    new "{color=#e01a1a}С{color=#22b613}а{color=#e01a1a}н{color=#22b613}т{color=#e01a1a}а{color=#22b613}, {color=#e01a1a}п{color=#22b613}о{color=#e01a1a}р{color=#22b613}и{color=#e01a1a}ц{color=#22b613}а{color=#e01a1a}т{color=#22b613}е{color=#e01a1a}л{color=#22b613}ь {color=#e01a1a}ш{color=#22b613}л{color=#e01a1a}ю{color=#22b613}х{/color}"
 
     # game/characters.rpy:55
     old "Tim"
@@ -165,5 +165,4 @@ translate russia strings:
 
     # game/characters.rpy:21
     old "Новичок"
-    new ""
-
+    new "Новичок"

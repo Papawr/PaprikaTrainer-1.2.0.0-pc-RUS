@@ -10583,4 +10583,4 @@ translate russia strings:
 
     # game/jobReport.rpy:3801
     old "Despite the chaos, you manage to get some rest."
-    new ""
+    new "Несмотря на весь хаос, вам удаётся немного отдохнуть."

@@ -1,6 +1,6 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While processing text tag {/i} in u'\u0425\u043e\u0442\u0435\u043b\u043e\u0441\u044c \u0431\u044b.{w} \u042d\u0442\u043e \u0447\u0442\u043e-\u0442\u043e \u0432\u0440\u043e\u0434\u0435 \u043a\u0443\u043b\u0438\u043d\u0430\u0440\u043d\u043e\u0439 \u043a\u043d\u0438\u0433\u0438. \u0421\u0442\u0430\u0440\u0438\u043a \u0441 \u043f\u0442\u0438\u0446\u0435\u0439 \u043f\u0440\u0438\u043d\u0451\u0441 \u0435\u0451. \u0421\u043a\u0430\u0437\u0430\u043b, \u0447\u0442\u043e \u043e\u043d\u0430 \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0430 \u0434\u043b\u044f "\u0438\u0441\u0442\u0438\u043d\u043d\u043e\u0433\u043e \u043c\u0430\u0441\u0442\u0435\u0440\u0430 \u043c\u043e\u043b\u043e\u0447\u043d\u044b\u0445 \u043a\u043e\u043a\u0442\u0435\u0439\u043b\u0435\u0439".\'{/i}'.:
+While processing text tag {w} in u'\u041d\u041e \u041c\u042b \u0412\u0418\u0414\u0415\u041b\u0418 \u041a\u041e\u0415-\u041a\u041e\u0413\u041e \u0415\u0429\u0401!{w} \u0414\u0415\u0412\u0423\u0428\u041a\u0423 \u0421 \u0421\u0415\u0420\u0415\u0411\u0420\u0415\u041d\u041d\u042b\u041c\u0418 \u0412\u041e\u041b\u041e\u0421\u0410\u041c\u0418 \u0412 \u041a\u0420\u0410\u0421\u041d\u041e\u041c \u041f\u041b\u0410\u0422\u042c\u0415!'.:
   File "game/missionScreens.rpy", line 947, in script call
     call spyHitBackup from _call_spyHitBackup_1
   File "game/missionScreens.rpy", line 4000, in script call
@@ -45,9 +45,73 @@ While processing text tag {/i} in u'\u0425\u043e\u0442\u0435\u043b\u043e\u0441\u
     call useVIB2 from _call_useVIB2
   File "game/missionScreens.rpy", line 2777, in script call
     call spyHitBackup from _call_spyHitBackup_8
-  File "game/tl/russia/status.rpy", line 32827, in script
-    kim "Хотелось бы.{w} Это что-то вроде кулинарной книги. Старик с птицей принёс её. Сказал, что она предназначена для \"истинного мастера молочных коктейлей\".'{/i}"
-Exception: u'/i' closes a text tag that isn't open.
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 2777, in script call
+    call spyHitBackup from _call_spyHitBackup_8
+  File "game/missionScreens.rpy", line 2777, in script call
+    call spyHitBackup from _call_spyHitBackup_8
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 1843, in script call
+    call spyHitBackup from _call_spyHitBackup_12
+  File "game/missionScreens.rpy", line 1843, in script call
+    call spyHitBackup from _call_spyHitBackup_12
+  File "game/mission.rpy", line 4442, in script call
+    call allKnockedOut from _call_allKnockedOut_3
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 1621, in script call
+    call spyHitBackup from _call_spyHitBackup_7
+  File "game/missionScreens.rpy", line 1057, in script call
+    call spyHitBackup from _call_spyHitBackup_2
+  File "game/mission.rpy", line 4264, in script call
+    call allKnockedOut from _call_allKnockedOut_1
+  File "game/missionScreens.rpy", line 1843, in script call
+    call spyHitBackup from _call_spyHitBackup_12
+  File "game/missionScreens.rpy", line 1057, in script call
+    call spyHitBackup from _call_spyHitBackup_2
+  File "game/missionScreens.rpy", line 1168, in script call
+    call spyHitBackup from _call_spyHitBackup_3
+  File "game/mission.rpy", line 4264, in script call
+    call allKnockedOut from _call_allKnockedOut_1
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 947, in script call
+    call spyHitBackup from _call_spyHitBackup_1
+  File "game/mission.rpy", line 4176, in script call
+    call allKnockedOut from _call_allKnockedOut
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 1168, in script call
+    call spyHitBackup from _call_spyHitBackup_3
+  File "game/missionScreens.rpy", line 2659, in script call
+    call spyHitBackup from _call_spyHitBackup_19
+  File "game/mission.rpy", line 4176, in script call
+    call allKnockedOut from _call_allKnockedOut
+  File "game/tl/russia/status.rpy", line 28351, in script
+    O5O "НО МЫ ВИДЕЛИ КОЕ-КОГО ЕЩЁ!{w} ДЕВУШКУ С СЕРЕБРЕННЫМИ ВОЛОСАМИ В КРАСНОМ ПЛАТЬЕ!"
+Exception: Unknown text tag u'W'
 
 -- Full Traceback ------------------------------------------------------------
 
@@ -96,8 +160,72 @@ Full traceback:
     call useVIB2 from _call_useVIB2
   File "game/missionScreens.rpy", line 2777, in script call
     call spyHitBackup from _call_spyHitBackup_8
-  File "game/tl/russia/status.rpy", line 32827, in script
-    kim "Хотелось бы.{w} Это что-то вроде кулинарной книги. Старик с птицей принёс её. Сказал, что она предназначена для \"истинного мастера молочных коктейлей\".'{/i}"
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 2777, in script call
+    call spyHitBackup from _call_spyHitBackup_8
+  File "game/missionScreens.rpy", line 2777, in script call
+    call spyHitBackup from _call_spyHitBackup_8
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 1843, in script call
+    call spyHitBackup from _call_spyHitBackup_12
+  File "game/missionScreens.rpy", line 1843, in script call
+    call spyHitBackup from _call_spyHitBackup_12
+  File "game/mission.rpy", line 4442, in script call
+    call allKnockedOut from _call_allKnockedOut_3
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 1621, in script call
+    call spyHitBackup from _call_spyHitBackup_7
+  File "game/missionScreens.rpy", line 1057, in script call
+    call spyHitBackup from _call_spyHitBackup_2
+  File "game/mission.rpy", line 4264, in script call
+    call allKnockedOut from _call_allKnockedOut_1
+  File "game/missionScreens.rpy", line 1843, in script call
+    call spyHitBackup from _call_spyHitBackup_12
+  File "game/missionScreens.rpy", line 1057, in script call
+    call spyHitBackup from _call_spyHitBackup_2
+  File "game/missionScreens.rpy", line 1168, in script call
+    call spyHitBackup from _call_spyHitBackup_3
+  File "game/mission.rpy", line 4264, in script call
+    call allKnockedOut from _call_allKnockedOut_1
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 947, in script call
+    call spyHitBackup from _call_spyHitBackup_1
+  File "game/mission.rpy", line 4176, in script call
+    call allKnockedOut from _call_allKnockedOut
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/mission.rpy", line 3683, in script call
+    call loadingLevel from _call_loadingLevel
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 4000, in script call
+    call useVIB2 from _call_useVIB2
+  File "game/missionScreens.rpy", line 1168, in script call
+    call spyHitBackup from _call_spyHitBackup_3
+  File "game/missionScreens.rpy", line 2659, in script call
+    call spyHitBackup from _call_spyHitBackup_19
+  File "game/mission.rpy", line 4176, in script call
+    call allKnockedOut from _call_allKnockedOut
+  File "game/tl/russia/status.rpy", line 28351, in script
+    O5O "НО МЫ ВИДЕЛИ КОЕ-КОГО ЕЩЁ!{w} ДЕВУШКУ С СЕРЕБРЕННЫМИ ВОЛОСАМИ В КРАСНОМ ПЛАТЬЕ!"
   File "renpy/ast.py", line 721, in execute
     renpy.exports.say(who, what, *args, **kwargs)
   File "renpy/exports.py", line 1419, in say
@@ -150,11 +278,11 @@ Full traceback:
     virtual_layout = Layout(self, width, height, renders, drawable_res=False, size_only=True)
   File "renpy/text/text.py", line 610, in __init__
     self.paragraphs = self.segment(text.tokens, style, renders, text)
-  File "renpy/text/text.py", line 1039, in segment
-    raise Exception("%r closes a text tag that isn't open." % text)
-Exception: u'/i' closes a text tag that isn't open.
+  File "renpy/text/text.py", line 1259, in segment
+    raise Exception("Unknown text tag %r" % text)
+Exception: Unknown text tag u'W'
 
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
 Paprika Trainer 1.2.0.0
-Sat Jan  8 20:20:57 2022
+Sat Jan 15 11:39:27 2022

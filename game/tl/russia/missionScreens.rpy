@@ -598,7 +598,7 @@ translate russia bossInteract_ef22d31c_2:
 translate russia bossInteract_52e11262:
 
     # tim "A little help here..."
-    tim "Вот немного помощи..."
+    tim "Может кто поможет..."
 
 # game/missionScreens.rpy:3371
 translate russia interInteract_85101b22:
@@ -610,7 +610,7 @@ translate russia interInteract_85101b22:
 translate russia interInteract_8003e9e4:
 
     # "Hacking Worm activated."
-    "Хакерский червь активирован."
+    "Улучшение активировано."
 
 # game/missionScreens.rpy:3413
 translate russia interInteract_07a0a12f:
@@ -634,13 +634,13 @@ translate russia interInteract_49415664:
 translate russia interInteract_8003e9e4_1:
 
     # "Hacking Worm activated."
-    "Хакерский червь активирован."
+    "Улучшение активировано."
 
 # game/missionScreens.rpy:3485
 translate russia interInteract_7e622bba:
 
     # "Hack succesful. Laser disabled."
-    "Взлом удался. Лазер отключен."
+    "Взлом удался. Лазер отключён."
 
 # game/missionScreens.rpy:3494
 translate russia interInteract_a048079c_1:
@@ -784,7 +784,7 @@ translate russia interInteract_49415664_3:
 translate russia interInteract_8003e9e4_2:
 
     # "Hacking Worm activated."
-    "Хакерский червь активирован."
+    "Улучшение активировано."
 
 # game/missionScreens.rpy:3816
 translate russia interInteract_504100fa:
