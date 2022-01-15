@@ -230,5 +230,5 @@ define config.layers = [ 'master', 'transient', 'decor', 'screens', 'minigame', 
 
 init -1:
     python hide:
-        config.developer = True
+        config.developer = False
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
